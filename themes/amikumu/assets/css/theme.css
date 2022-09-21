@@ -316,8 +316,7 @@ div#download.banner-home.docutils.container {
 
 div#bs-navbar {
 	margin-right: 25px;
-		float: right;
-	width: 500px;
+	float: right;
 	margin-left: auto;
 }
 
@@ -331,14 +330,34 @@ div#bs-navbar {
 .navbar-container {
 	width: 100%;
 }
+nav#menu div div.dropdown {
+width: 150px;
+float: left;
+} 
 
 nav#menu div div.dropdown.show div.dropdown-menu.show {
 float: right;	
-margin-right: 100px;	
+margin-right: 100px;
+position: absolute;
+top: 100%;
+left: 0;
+z-index: 1000;
+min-width: 10rem;
+padding: .5rem 0;
+margin: .125rem 0 0;
+font-size: 1rem;
+color: #212529;
+text-align: left;
+list-style: none;
+background-color: #fff;
+background-clip: padding-box;
+border: 1px solid rgba(0,0,0,.15);
+border-radius: .25rem;
 }
 
 nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 	float: left;
 	clear: none;
-	padding: 2px;
+	padding: .5em;
+
 }

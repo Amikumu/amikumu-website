@@ -19,15 +19,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/authors/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/authors/amikumu/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/bootstrap-demo/</loc>
@@ -35,7 +35,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/2012/</loc>
@@ -55,15 +55,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/authors/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/authors/amikumu/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/bootstrap-demo/</loc>
@@ -71,27 +71,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/blog/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/python/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/charts/</loc>
@@ -111,11 +111,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/galleries/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/galleries/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/handbook/</loc>
@@ -135,29 +135,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/2012/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/2022/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/ca/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/quickref/</loc>
@@ -169,7 +173,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/social_buttons/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/theming/</loc>
@@ -177,7 +181,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -186,32 +190,37 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/ca/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/categories/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/blog/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/python/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/charts/</loc>
@@ -223,7 +232,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/about-nikola/</loc>
@@ -231,15 +240,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/bootstrap-demo/</loc>
@@ -247,27 +256,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/charts/</loc>
@@ -287,11 +296,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/handbook/</loc>
@@ -311,29 +320,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/cs/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/quickref/</loc>
@@ -345,7 +358,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/theming/</loc>
@@ -353,7 +366,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -362,12 +375,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/cs/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/de/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/about-nikola/</loc>
@@ -375,15 +393,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/bootstrap-demo/</loc>
@@ -391,27 +409,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/charts/</loc>
@@ -431,11 +449,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/handbook/</loc>
@@ -455,29 +473,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/de/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/quickref/</loc>
@@ -489,7 +511,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/theming/</loc>
@@ -497,7 +519,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -506,8 +528,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/de/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/dr-nikolas-vendetta/</loc>
@@ -515,7 +542,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/about-nikola/</loc>
@@ -523,15 +550,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/bootstrap-demo/</loc>
@@ -539,27 +566,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/charts/</loc>
@@ -579,11 +606,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/handbook/</loc>
@@ -603,29 +630,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/eo/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/quickref/</loc>
@@ -637,7 +668,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/theming/</loc>
@@ -645,7 +676,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -654,12 +685,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/eo/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/es/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/about-nikola/</loc>
@@ -667,15 +703,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/bootstrap-demo/</loc>
@@ -683,27 +719,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/charts/</loc>
@@ -723,11 +759,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/handbook/</loc>
@@ -747,29 +783,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/es/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/quickref/</loc>
@@ -781,7 +821,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/theming/</loc>
@@ -789,7 +829,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -798,8 +838,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/es/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/extending/</loc>
@@ -807,7 +852,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/about-nikola/</loc>
@@ -815,15 +860,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/bootstrap-demo/</loc>
@@ -831,27 +876,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/charts/</loc>
@@ -871,11 +916,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/handbook/</loc>
@@ -895,29 +940,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/fr/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/quickref/</loc>
@@ -929,7 +978,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/theming/</loc>
@@ -937,7 +986,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -946,16 +995,21 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/fr/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/galleries/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/galleries/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/handbook/</loc>
@@ -963,7 +1017,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/2012/</loc>
@@ -983,15 +1037,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/authors/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/authors/amikumu/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/bootstrap-demo/</loc>
@@ -999,27 +1053,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/blog/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/python/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/charts/</loc>
@@ -1039,11 +1093,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/galleries/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/galleries/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/handbook/</loc>
@@ -1063,29 +1117,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/2012/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/2022/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/id/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/quickref/</loc>
@@ -1097,7 +1155,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/social_buttons/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/theming/</loc>
@@ -1105,7 +1163,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1114,8 +1172,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/id/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/internals/</loc>
@@ -1123,7 +1186,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/about-nikola/</loc>
@@ -1131,15 +1194,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/bootstrap-demo/</loc>
@@ -1147,27 +1210,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/charts/</loc>
@@ -1187,11 +1250,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/handbook/</loc>
@@ -1211,29 +1274,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/ja/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/quickref/</loc>
@@ -1245,7 +1312,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/social_buttons/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/theming/</loc>
@@ -1253,7 +1320,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1262,90 +1329,99 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/ja/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/ka/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/authors/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/authors/amikumu/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/blog/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/demo/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/nikola/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/categories/python/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/galleries/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/galleries/demo/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/2012/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/2022/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
+  <loc>https://amikumu.com/ka/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://amikumu.com/ka/social_buttons/</loc>
-  <lastmod>2022-09-21T17:27:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1354,8 +1430,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/ka/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/ka/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/listings-demo/</loc>
@@ -1363,15 +1444,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/listings/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/listings/hello.py.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/about-nikola/</loc>
@@ -1379,15 +1460,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/bootstrap-demo/</loc>
@@ -1395,27 +1476,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/charts/</loc>
@@ -1435,11 +1516,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/handbook/</loc>
@@ -1459,29 +1540,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/lt/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/quickref/</loc>
@@ -1493,7 +1578,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/theming/</loc>
@@ -1501,7 +1586,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1510,12 +1595,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/lt/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/nl/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/about-nikola/</loc>
@@ -1527,40 +1617,40 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/authors/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/authors/amikumu/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/</loc>
-  <lastmod>2022-09-21T13:39:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/2012/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/2022/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/berichten/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
@@ -1569,27 +1659,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/blog/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/python/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/charts/</loc>
@@ -1609,11 +1699,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/galleries/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/galleries/demo/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/handbook/</loc>
@@ -1632,6 +1722,10 @@
   <lastmod>2022-09-21T12:49:00Z</lastmod>
  </url>
  <url>
+  <loc>https://amikumu.com/nl/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://amikumu.com/nl/quickref/</loc>
   <lastmod>2022-09-21T12:49:00Z</lastmod>
  </url>
@@ -1641,7 +1735,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/social_buttons/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/theming/</loc>
@@ -1649,7 +1743,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1658,90 +1752,99 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/nl/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/oc/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/authors/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/authors/amikumu/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/blog/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/demo/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/nikola/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/python/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/galleries/</loc>
-  <lastmod>2022-09-21T17:06:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/galleries/demo/</loc>
-  <lastmod>2022-09-21T17:06:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/2012/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/2022/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
+  <loc>https://amikumu.com/oc/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://amikumu.com/oc/social_buttons/</loc>
-  <lastmod>2022-09-21T17:07:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1750,8 +1853,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/oc/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/oc/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/path-handlers/</loc>
@@ -1759,7 +1867,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/about-nikola/</loc>
@@ -1767,15 +1875,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/bootstrap-demo/</loc>
@@ -1783,27 +1891,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/charts/</loc>
@@ -1823,11 +1931,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/handbook/</loc>
@@ -1847,29 +1955,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/pl/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/quickref/</loc>
@@ -1881,7 +1993,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/social_buttons/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/theming/</loc>
@@ -1889,7 +2001,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -1898,36 +2010,45 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/pl/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/posts/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/2012/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/2022/</loc>
-  <lastmod>2022-09-21T12:50:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/about-nikola/</loc>
@@ -1935,15 +2056,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/bootstrap-demo/</loc>
@@ -1951,27 +2072,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/charts/</loc>
@@ -1991,11 +2112,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/handbook/</loc>
@@ -2015,29 +2136,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/pt/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/quickref/</loc>
@@ -2049,7 +2174,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/theming/</loc>
@@ -2057,7 +2182,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -2066,8 +2191,13 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/pt/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
  <url>
   <loc>https://amikumu.com/quickref/</loc>
@@ -2079,7 +2209,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/about-nikola/</loc>
@@ -2087,15 +2217,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/bootstrap-demo/</loc>
@@ -2103,27 +2233,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/charts/</loc>
@@ -2143,11 +2273,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/handbook/</loc>
@@ -2167,29 +2297,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/ru/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/quickref/</loc>
@@ -2201,7 +2335,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/social_buttons/</loc>
-  <lastmod>2022-09-21T13:33:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/theming/</loc>
@@ -2209,7 +2343,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -2218,12 +2352,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/ru/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/sk/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/about-nikola/</loc>
@@ -2231,15 +2370,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/bootstrap-demo/</loc>
@@ -2247,27 +2386,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/charts/</loc>
@@ -2287,11 +2426,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/handbook/</loc>
@@ -2311,29 +2450,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/sk/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/quickref/</loc>
@@ -2345,7 +2488,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/theming/</loc>
@@ -2353,7 +2496,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -2362,12 +2505,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/sk/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/social_buttons/</loc>
-  <lastmod>2022-09-21T12:49:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/theming/</loc>
@@ -2375,7 +2523,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/about-nikola/</loc>
@@ -2383,15 +2531,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/bootstrap-demo/</loc>
@@ -2399,27 +2547,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/charts/</loc>
@@ -2439,11 +2587,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/handbook/</loc>
@@ -2463,29 +2611,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/tr/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/quickref/</loc>
@@ -2497,7 +2649,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/theming/</loc>
@@ -2505,7 +2657,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -2514,12 +2666,17 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
  </url>
  <url>
+  <loc>https://amikumu.com/tr/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
+ </url>
+ <url>
   <loc>https://amikumu.com/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/translations/home_page_title-copy/</loc>
@@ -2527,11 +2684,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/about-nikola/</loc>
@@ -2539,15 +2700,15 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/authors/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/authors/amikumu/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/authors/roberto-alsina/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/bootstrap-demo/</loc>
@@ -2555,27 +2716,27 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/blog/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/cat_nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/categories/python/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/charts/</loc>
@@ -2595,11 +2756,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/galleries/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/galleries/demo/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/handbook/</loc>
@@ -2619,29 +2780,33 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/2012/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/2022/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/archive.html</loc>
-  <lastmod>2022-09-21T17:45:00Z</lastmod>
+  <lastmod>2022-09-21T22:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/welcome-to-nikola/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/zh/press/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/quickref/</loc>
@@ -2653,7 +2818,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/social_buttons/</loc>
-  <lastmod>2022-09-21T13:32:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh/theming/</loc>
@@ -2661,7 +2826,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/translations/home_page_description/</loc>
-  <lastmod>2022-09-21T20:22:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_description/" />
  </url>
  <url>
@@ -2670,7 +2835,12 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh/translations/home_page_title/</loc>
-  <lastmod>2022-09-21T20:20:00Z</lastmod>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/home_page_title/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/zh/translations/presslist/</loc>
+  <lastmod>2022-09-21T22:12:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/translations/presslist/" />
  </url>
 </urlset>

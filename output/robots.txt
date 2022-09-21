@@ -1,0 +1,4 @@
+Sitemap: https://amikumu.com/sitemapindex.xml
+
+User-Agent: *
+Host: amikumu.com

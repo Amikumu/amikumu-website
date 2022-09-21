@@ -101,7 +101,6 @@ DEFAULT_LANG = "en"
 # the path will be used as a prefix for the generated pages location
 TRANSLATIONS = {
     DEFAULT_LANG: "",
-    "ja": "./ja",
     "id": "./id",
      "ca": "./ca",
      "de": "./de",
@@ -109,9 +108,10 @@ TRANSLATIONS = {
      "eo": "./eo",
      "fr": "./fr",
      "zh_cn": "./zh",
-          "ru": "./ru",
-   # "ka": "./ka", #georgian
-    "nl": "./nl",
+    "ru": "./ru",
+        "ja": "./ja",
+   "ka": "./ka", #georgian
+   "nl": "./nl",
     "oc": "./oc",
     "pl": "./pl",
     "pt": "./pt",
@@ -162,21 +162,31 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/archive.html", "Archive"),
-        ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
+    ("/download/", "Download"),
+        ("/for-organizations/", "For Organizations"),
+        ("https://amikumu.redbubble.com/", "Shop"),
+        ("/posts/", "Blog"),
+#        ("/categories/", "Tags"),
+#        ("/rss.xml", "RSS feed"),
+        
     ),
 
     "id": (
-        ("/id/archive.html", "Arsip"),
+        ("/id/posts/", "Arsip"),
         ("/id/categories/", "Tag"),
         ("/id/rss.xml", "Sindikasi RSS"),
     ),
 
-    "nl": (
-        ("/nl/archive.html", "Archief"),
-        ("/nl/categories/", "Tags"),
-        ("/nl/rss.xml", "RSS-feed"),
+    "ca": (
+        ("/ca/archive.html", "Arxiu"),
+        ("/ca/categories/", "Etiquetes"),
+        ("/ca/rss.xml", "Canal RSS"),
+    ),
+
+    "de": (
+        ("/de/archive.html", "Archiv"),
+        ("/de/categories/", "Tags"),
+        ("/de/rss.xml", "RSS-Feed"),
     ),
 
     "es": (
@@ -196,6 +206,66 @@ NAVIGATION_LINKS = {
         ("/fr/categories/", "Étiquettes"),
         ("/fr/rss.xml", "Flux RSS"),
     ),
+
+    "zh_tw": (
+        ("/zh_tw/archive.html", "彙整"),
+        ("/zh_tw/categories/", "標籤"),
+        ("/zh_tw/rss.xml", "RSS 訂閱"),
+    ),
+
+    "ru": (
+        ("/ru/archive.html", "Архив"),
+        ("/ru/categories/", "Тэги"),
+        ("/ru/rss.xml", "RSS лента"),
+    ),
+
+    "ja": (
+        ("/ja/archive.html", "過去記事一覧"),
+        ("/ja/categories/", "タグ"),
+        ("/ja/rss.xml", "RSSフィード"),
+    ),
+
+    "nl": (
+        ("/nl/berichten/", "Archief"),
+        ("/nl/categories/", "Tags"),
+        ("/nl/rss.xml", "RSS-feed"),
+    ),
+
+    "oc": (
+        ("/oc/archive.html", "Archius"),
+        ("/oc/categories/", "Etiquetas"),
+        ("/oc/rss.xml", "Flux RSS"),
+    ),
+
+    "pt": (
+        ("/pt/archive.html", "Arquivo"),
+        ("/pt/categories/", "Etiqueta"),
+        ("/pt/rss.xml", "Feed RSS"),
+    ),
+
+    "sk": (
+        ("/sk/archive.html", "Archív"),
+        ("/sk/categories/", "Štítky"),
+        ("/sk/rss.xml", "RSS kanál"),
+    ),
+
+    "tr": (
+        ("/tr/archive.html", "Arşiv"),
+        ("/tr/categories/", "Etiketler"),
+        ("/tr/rss.xml", "RSS kaynağı"),
+    ),
+
+    "lt": (
+        ("/lt/archive.html", "Archyvas"),
+        ("/lt/categories/", "Žymės"),
+        ("/lt/rss.xml", "RSS srautas"),
+    ),
+
+    "cs": (
+        ("/cs/archive.html", "Archiv"),
+        ("/cs/categories/", "Štítky"),
+        ("/cs/rss.xml", "RSS zdroj"),
+    ),
 }
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
@@ -211,7 +281,7 @@ THEME = "amikumu"
 # A theme color. In default themes, it might be displayed by some browsers as
 # the browser UI color (eg. Chrome on Android). Other themes might also use it
 # as an accent color (the default ones don’t). Must be a HEX value.
-THEME_COLOR = '#5670d4'
+THEME_COLOR = '#3294f3'
 
 # Theme configuration. Fully theme-dependent. (translatable)
 # Samples for bootblog4 (enabled) and bootstrap4 (commented) follow.
@@ -235,7 +305,8 @@ THEME_CONFIG = {
         # Strip HTML from featured post text.
         'featured_strip_html': False,
         # Contents of the sidebar, If empty, the sidebar is not displayed.
-        'sidebar': ''
+        'sidebar': '',
+        'navbar_light': True
     }
 }
 # Config for bootstrap4:
@@ -286,16 +357,16 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", "posts", "post.tmpl"),
+    ("posts/*.rst", { DEFAULT_LANG: "posts", "nl": "berichten"}, "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
 )
 PAGES = (
-    ("pages/*.rst", "pages", "page.tmpl"),
-    ("pages/*.md", "pages", "page.tmpl"),
-    ("pages/*.txt", "pages", "page.tmpl"),
-    ("pages/*.html", "pages", "page.tmpl"),
+    ("pages/*.rst", "", "page.tmpl"),
+    ("pages/*.md", "", "page.tmpl"),
+    ("pages/*.txt", "", "page.tmpl"),
+    ("pages/*.html", "", "page.tmpl"),
 )
 
 
@@ -313,12 +384,12 @@ TIMEZONE = "Europe/Berlin"
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
 # Note that this does not affect DATE_FORMAT.
-# FORCE_ISO8601 = False
+FORCE_ISO8601 = False
 
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time-1/date-time
 # You can also use 'full', 'long', 'medium', or 'short'
-# DATE_FORMAT = 'yyyy-MM-dd HH:mm'
+DATE_FORMAT = 'yyyy-MM-dd HH:mm'
 
 # Date format used to display post dates, if local dates are used. (translatable)
 # Used by Luxon: https://moment.github.io/luxon/docs/manual/formatting
@@ -334,11 +405,11 @@ TIMEZONE = "Europe/Berlin"
 # 2 = using a string like “2 days ago” (JS, using Luxon)
 #
 # Your theme must support it, Bootstrap already does.
-# DATE_FANCINESS = 0
+DATE_FANCINESS = 0
 
 # Customize the locale/region used for a language.
 # For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
-# LOCALES = {}
+LOCALES = {'oc': 'en_GB'}
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.
@@ -399,11 +470,11 @@ COMPILERS = {
 # Use date-based path when creating posts?
 # Can be enabled on a per-post basis with `nikola new_post -d`.
 # The setting is ignored when creating pages.
-# NEW_POST_DATE_PATH = False
+NEW_POST_DATE_PATH = True
 
 # What format to use when creating posts with date paths?
 # Default is '%Y/%m/%d', other possibilities include '%Y' or '%Y/%m'.
-# NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
+NEW_POST_DATE_PATH_FORMAT = '%Y/%m/%d'
 
 # If this is set to True, the DEFAULT_LANG version will be displayed for
 # untranslated posts.
@@ -414,7 +485,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = ''
+LOGO_URL = '/images/logo.png'
 
 # When linking posts to social media, Nikola provides Open Graph metadata
 # which is used to show a nice preview. This includes an image preview
@@ -422,13 +493,13 @@ COMPILERS = {
 # This option lets you use an image to be used if the post doesn't have it.
 # The default is None, valid values are URLs or output paths like
 # "/images/foo.jpg"
-# DEFAULT_PREVIEW_IMAGE = None
+DEFAULT_PREVIEW_IMAGE = "/images/disvastigbildeto.png"
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
 # Note: if your logo is a SVG image, and you set SHOW_BLOG_TITLE = False,
 # you should explicitly set a height for #logo in CSS.
-# SHOW_BLOG_TITLE = True
+SHOW_BLOG_TITLE = False
 
 # Paths for different autogenerated bits. These are combined with the
 # translation paths.
@@ -450,7 +521,7 @@ COMPILERS = {
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# TAG_PAGES_ARE_INDEXES = False
+TAG_PAGES_ARE_INDEXES = True
 
 # Set descriptions for tag pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -525,7 +596,7 @@ CATEGORY_OUTPUT_FLAT_HIERARCHY = False
 
 # If CATEGORY_PAGES_ARE_INDEXES is set to True, each category's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# CATEGORY_PAGES_ARE_INDEXES = False
+CATEGORY_PAGES_ARE_INDEXES = True
 
 # Set descriptions for category pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -606,7 +677,7 @@ HIDDEN_CATEGORIES = []
 
 # If AUTHOR_PAGES_ARE_INDEXES is set to True, each author's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-# AUTHOR_PAGES_ARE_INDEXES = False
+AUTHOR_PAGES_ARE_INDEXES = True
 
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
@@ -630,7 +701,7 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-# INDEX_PATH = ""
+INDEX_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
 
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
@@ -655,13 +726,13 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
 # (translatable)
-# ARCHIVE_PATH = ""
+ARCHIVE_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
 # ARCHIVE_FILENAME = "archive.html"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
 # list of links.
-# ARCHIVES_ARE_INDEXES = False
+ARCHIVES_ARE_INDEXES = True
 
 # URLs to other posts/pages can take 3 forms:
 # rel_path: a relative URL to the current page/post (default)
@@ -984,10 +1055,12 @@ IMAGE_FOLDERS = {'images': 'images'}
 # FAVICONS contains (name, file, size) tuples.
 # Used to create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
-# FAVICONS = (
-#     ("icon", "/favicon.ico", "16x16"),
-#     ("icon", "/icon_128x128.png", "128x128"),
-# )
+FAVICONS = (
+    ("icon", "/favicon.ico", "16x16"),
+    ("apple-touch-icon", "/apple-touch-icon.png", "180x180"),
+    ("icon", "/favicon-32x32.png", "32x32"),
+    ("icon", "/favicon-16x16.png", "16x16"),
+)
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
@@ -1219,7 +1292,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # """
 
 # Show link to source for the posts?
-# SHOW_SOURCELINK = True
+SHOW_SOURCELINK = False
 # Copy the source files for your pages?
 # Setting it to False implies SHOW_SOURCELINK = False
 # COPY_SOURCES = True
@@ -1302,7 +1375,7 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Bootstrap is served from BootstrapCDN (provided by MaxCDN)
 # Set this to False if you want to host your site without requiring access to
 # external resources.
-# USE_CDN = False
+USE_CDN = False
 
 # Check for USE_CDN compatibility.
 # If you are using custom themes, have configured the CSS properly and are
@@ -1384,18 +1457,18 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Uncomment and modify to following lines to match your accounts.
 # Images displayed come from the `previewimage` meta tag.
 # You can specify the card type by using the `card` parameter in TWITTER_CARD.
-# TWITTER_CARD = {
-#     # 'use_twitter_cards': True,  # enable Twitter Cards
-#     # 'card': 'summary',          # Card type, you can also use 'summary_large_image',
-#                                   # see https://dev.twitter.com/cards/types
-#     # 'site': '@website',         # twitter nick for the website
-#     # 'creator': '@username',     # Username for the content creator / author.
-# }
+TWITTER_CARD = {
+	'use_twitter_cards': True,  # enable Twitter Cards
+	'card': 'summary',          # Card type, you can also use 'summary_large_image',
+                                  # see https://dev.twitter.com/cards/types
+    'site': '@amikumu',         # twitter nick for the website
+    'creator': '@Amikumu',     # Username for the content creator / author.
+}
 
 # Bundle JS and CSS into single files to make site loading faster in a HTTP/1.1
 # environment but is not recommended for HTTP/2.0 when caching is used.
 # Defaults to True.
-# USE_BUNDLES = True
+USE_BUNDLES = False
 
 # Plugins you don't want to use. Be careful :-)
 # DISABLED_PLUGINS = ["render_galleries"]

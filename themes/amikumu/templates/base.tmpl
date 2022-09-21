@@ -27,7 +27,7 @@ bg-light
 bg-dark
 %endif
 ">
-    <div class="container"><!-- This keeps the margins nice -->
+    <div class="container navbar-container"><!-- This keeps the margins nice -->
         <a class="navbar-brand" href="${_link("root", None, lang)}">
         %if logo_url:
             <img src="${logo_url}" alt="${blog_title|h}" id="logo" class="d-inline-block align-top">
@@ -37,31 +37,29 @@ bg-dark
             <span id="blog-title">${blog_title|h}</span>
         % endif
         </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
 
-        <div class="collapse navbar-collapse" id="bs-navbar">
-            <ul class="navbar-nav mr-auto">
+
+        <div id="bs-navbar">
+        <nav id="menu">
+            <div >
                 ${base.html_navigation_links_entries(navigation_links)}
                 ${template_hooks['menu']()}
-            </ul>
-            %if search_form:
-                ${search_form}
-            %endif
 
-            <ul class="navbar-nav navbar-right">
                 ${base.html_navigation_links_entries(navigation_alt_links)}
                 <%block name="belowtitle">
                 %if len(translations) > 1:
-                    <li>${base.html_translations()}</li>
+                    ${base.html_translations()}
                 %endif
                 </%block>
                 % if show_sourcelink:
                     <%block name="sourcelink"></%block>
                 %endif
                 ${template_hooks['menu_alt']()}
-            </ul>
+            </div>
+                        %if search_form:
+                ${search_form}
+            %endif
+            </nav>
         </div><!-- /.navbar-collapse -->
     </div><!-- /.container -->
 </nav>

@@ -51,6 +51,8 @@
 %endif
 %if post.previewimage:
     <meta property="og:image" content="${url_replacer(permalink, post.previewimage, lang, 'absolute')}">
+    % else:
+        <meta property="og:image" content="{{ url_replacer(permalink, default_preview_image, lang, 'absolute') }}">
 %endif
 <meta property="og:type" content="article">
 ### Will only work with Pintrest and breaks everywhere else who expect a [Facebook] URI.

@@ -3,11 +3,19 @@
 " lang="fr">
 <head>
 <meta charset="utf-8">
-<meta name="description" content="Étiquettes">
+<meta name="description" content="Étiquettes et catégories">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Étiquettes | Amikumu</title>
-<link href="../../assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta name="theme-color" content="#5670d4">
+<title>Étiquettes et catégories | Amikumu</title>
+<link href="https://fonts.googleapis.com/css?family=Noto+Sans" rel="stylesheet">
+<link rel="manifest" href="../../site.webmanifest">
+<link rel="mask-icon" href="../../safari-pinned-tab.svg" color="#3294f3">
+<meta name="msapplication-TileColor" content="#ffffff">
+<link href="../../assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/baguetteBox.min.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/rst.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/code.css" rel="stylesheet" type="text/css">
+<link href="../../assets/css/theme.css" rel="stylesheet" type="text/css">
+<meta name="theme-color" content="#3294f3">
 <meta name="generator" content="Nikola (getnikola.com)">
 <link rel="alternate" type="application/rss+xml" title="RSS (fr)" hreflang="fr" href="../rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (ca)" hreflang="ca" href="../../ca/rss.xml">
@@ -18,6 +26,7 @@
 <link rel="alternate" type="application/rss+xml" title="RSS (es)" hreflang="es" href="../../es/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (id)" hreflang="id" href="../../id/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (ja)" hreflang="ja" href="../../ja/rss.xml">
+<link rel="alternate" type="application/rss+xml" title="RSS (ka)" hreflang="ka" href="../../ka/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (lt)" hreflang="lt" href="../../lt/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (nl)" hreflang="nl" href="../../nl/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (oc)" hreflang="oc" href="../../oc/rss.xml">
@@ -28,6 +37,10 @@
 <link rel="alternate" type="application/rss+xml" title="RSS (tr)" hreflang="tr" href="../../tr/rss.xml">
 <link rel="alternate" type="application/rss+xml" title="RSS (zh_cn)" hreflang="zh_cn" href="../../zh/rss.xml">
 <link rel="canonical" href="https://amikumu.com/fr/categories/">
+<link rel="icon" href="../../favicon.ico" sizes="16x16">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="../../favicon-32x32.png" sizes="32x32">
+<link rel="icon" href="../../favicon-16x16.png" sizes="16x16">
 <!--[if lt IE 9]><script src="../../assets/js/html5.js"></script><![endif]-->
 </head>
 <body>
@@ -36,72 +49,125 @@
 <!-- Menubar -->
 
 <nav class="navbar navbar-expand-md static-top mb-4
-navbar-dark
-bg-dark
-"><div class="container">
+navbar-light
+bg-light
+"><div class="container navbar-container">
 <!-- This keeps the margins nice -->
         <a class="navbar-brand" href="../">
+            <img src="../../images/logo.png" alt="Amikumu" id="logo" class="d-inline-block align-top"></a>
 
-            <span id="blog-title">Amikumu</span>
-        </a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
 
-        <div class="collapse navbar-collapse" id="bs-navbar">
-            <ul class="navbar-nav mr-auto">
-<li class="nav-item">
-<a href="../archive.html" class="nav-link">Archives</a>
-                </li>
-<li class="nav-item active">
+        <div id="bs-navbar">
+        <nav id="menu"><div>
+                
+                <div class="nav-item"><a href="../archive.html" class="nav-link">Archives</a></div>
+                <div class="nav-item active">
 <a href="." class="nav-link">Étiquettes <span class="sr-only">(actif)</span></a>
-                </li>
-<li class="nav-item">
-<a href="../rss.xml" class="nav-link">Flux RSS</a>
+                <div class="nav-item"><a href="../rss.xml" class="nav-link">Flux RSS</a></div>
 
                 
-            </li>
-</ul>
-<ul class="navbar-nav navbar-right">
-<li>
-            </li>
-<li class="nav-item"><a href="../../ca/" rel="alternate" hreflang="ca" class="nav-link">Català</a></li>
-            <li class="nav-item"><a href="../../cs/" rel="alternate" hreflang="cs" class="nav-link">Čeština</a></li>
-            <li class="nav-item"><a href="../../de/" rel="alternate" hreflang="de" class="nav-link">Deutsch</a></li>
-            <li class="nav-item"><a href="../../" rel="alternate" hreflang="en" class="nav-link">English</a></li>
-            <li class="nav-item"><a href="../../eo/" rel="alternate" hreflang="eo" class="nav-link">Esperanto</a></li>
-            <li class="nav-item"><a href="../../es/" rel="alternate" hreflang="es" class="nav-link">Español</a></li>
-            <li class="nav-item"><a href="../../id/" rel="alternate" hreflang="id" class="nav-link">Bahasa Indonesia</a></li>
-            <li class="nav-item"><a href="../../ja/" rel="alternate" hreflang="ja" class="nav-link">日本語</a></li>
-            <li class="nav-item"><a href="../../lt/" rel="alternate" hreflang="lt" class="nav-link">Lietuvių</a></li>
-            <li class="nav-item"><a href="../../nl/" rel="alternate" hreflang="nl" class="nav-link">Nederlands</a></li>
-            <li class="nav-item"><a href="../../oc/" rel="alternate" hreflang="oc" class="nav-link">Occitan</a></li>
-            <li class="nav-item"><a href="../../pl/" rel="alternate" hreflang="pl" class="nav-link">Polski</a></li>
-            <li class="nav-item"><a href="../../pt/" rel="alternate" hreflang="pt" class="nav-link">Português</a></li>
-            <li class="nav-item"><a href="../../ru/" rel="alternate" hreflang="ru" class="nav-link">Русский</a></li>
-            <li class="nav-item"><a href="../../sk/" rel="alternate" hreflang="sk" class="nav-link">Slovenčina</a></li>
-            <li class="nav-item"><a href="../../tr/" rel="alternate" hreflang="tr" class="nav-link">Türkçe</a></li>
-            <li class="nav-item"><a href="../../zh/" rel="alternate" hreflang="zh_cn" class="nav-link">简体中文</a></li>
+
+                
 
                 
                     
-                
-            </ul>
+    <div class="dropdown">
+  <button class="btn btn-primary dropdown-toggle langref" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+fr  </button>
+  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+
+           <a class="dropdown-item" href="../../ca/categories/" rel="alternate" hreflang="ca">Català</a>
+
+
+           <a class="dropdown-item" href="../../cs/categories/" rel="alternate" hreflang="cs">Čeština</a>
+
+
+           <a class="dropdown-item" href="../../de/categories/" rel="alternate" hreflang="de">Deutsch</a>
+
+         <a class="dropdown-item" href="../../categories/" rel="alternate" hreflang="en">English</a>
+
+
+           <a class="dropdown-item" href="../../eo/categories/" rel="alternate" hreflang="eo">Esperanto</a>
+
+
+           <a class="dropdown-item" href="../../es/categories/" rel="alternate" hreflang="es">Español</a>
+
+
+
+
+           <a class="dropdown-item" href="../../id/categories/" rel="alternate" hreflang="id">Bahasa Indonesia</a>
+
+
+           <a class="dropdown-item" href="../../ja/categories/" rel="alternate" hreflang="ja">日本語</a>
+
+
+           <a class="dropdown-item" href="../../ka/categories/" rel="alternate" hreflang="ka">한국어</a>
+
+
+           <a class="dropdown-item" href="../../lt/categories/" rel="alternate" hreflang="lt">Lietuvių</a>
+
+
+           <a class="dropdown-item" href="../../nl/categories/" rel="alternate" hreflang="nl">Nederlands</a>
+
+
+           <a class="dropdown-item" href="../../oc/categories/" rel="alternate" hreflang="oc">Occitan</a>
+
+
+           <a class="dropdown-item" href="../../pl/categories/" rel="alternate" hreflang="pl">Polski</a>
+
+
+           <a class="dropdown-item" href="../../pt/categories/" rel="alternate" hreflang="pt">Português</a>
+
+
+           <a class="dropdown-item" href="../../ru/categories/" rel="alternate" hreflang="ru">Русский</a>
+
+
+           <a class="dropdown-item" href="../../sk/categories/" rel="alternate" hreflang="sk">Slovenčina</a>
+
+
+           <a class="dropdown-item" href="../../tr/categories/" rel="alternate" hreflang="tr">Türkçe</a>
+
+
+           <a class="dropdown-item" href="../../zh_cn/categories/" rel="alternate" hreflang="zh_cn">简体中文</a>
+
+  </div>
 </div>
+
+
+                
+                
+            </div>
+            
+        </div>
 <!-- /.navbar-collapse -->
-    </div>
+    </nav>
+</div>
 <!-- /.container -->
-</nav><!-- End of Menubar --><div class="container" id="content" role="main">
+
+
+<!-- End of Menubar -->
+
+<div class="container" id="content" role="main">
     <div class="body-content">
         <!--Body content-->
         
         
         
-<h1>Étiquettes</h1>
-
-        <!--End of body content-->
-
-        <footer id="footer">
+<h1>Étiquettes et catégories</h1>
+        <h2>Catégories</h2>
+            <ul class="list-inline">
+<li class="list-inline-item">
+<a class="reference badge badge-secondary" href="cat_nikola/">nikola</a>
+            </li>
+            </ul>
+<h2>Étiquettes</h2>
+    <ul class="list-inline">
+<li class="list-inline-item"><a class="reference badge badge-secondary" href="blog/">blog</a></li>
+            <li class="list-inline-item"><a class="reference badge badge-secondary" href="demo/">demo</a></li>
+            <li class="list-inline-item"><a class="reference badge badge-secondary" href="nikola/">nikola</a></li>
+            <li class="list-inline-item"><a class="reference badge badge-secondary" href="python/">python</a></li>
+    </ul>
+<!--End of body content--><footer id="footer">
             Contents © 2022         <a href="mailto:help@amikumu.com">Amikumu</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         
             
             
@@ -110,10 +176,11 @@ bg-dark
 </div>
 
 
-        <script src="../../assets/js/all-nocdn.js"></script><script>
+            <script src="../../assets/js/jquery.min.js"></script><script src="../../assets/js/popper.min.js"></script><script src="../../assets/js/bootstrap.min.js"></script><script src="../../assets/js/baguetteBox.min.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});
     </script>
+</div></nav>
 </body>
 </html>

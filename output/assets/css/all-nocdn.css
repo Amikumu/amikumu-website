@@ -890,3 +890,7 @@ html[dir="rtl"] body {
     min-height: 25px;
 }
 
+button#dropdownMenuButton.btn.btn-secondary.dropdown-toggle.langref {
+	text-transform: uppercase !important;
+	font-weight: bold;
+}

@@ -1,3 +1,11 @@
+/* @override 
+	http://127.0.0.1:8000/assets/css/theme.css */
+
+body {
+	
+    font-family: noto sans,noto sans cjk jp,sans-serif;
+
+}
 img {
     max-width: 100%;
 }
@@ -234,4 +242,103 @@ html[dir="rtl"] body {
 /* Set a minimum logo height to ensure .svg are displayed if there is no brand text (#3493) */
 #logo {
     min-height: 25px;
+}
+
+button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
+	text-transform: uppercase !important;
+	font-weight: bold;
+}
+div#content.container  {
+clear: both;}
+
+a.nav-link {
+	color: #3294f3 !important;
+}
+
+div#download.banner-home.docutils.container {
+	background-image: url(/images/banner_main.png);
+	width: 100%;
+    height: auto;
+    float: left;
+    background-size: cover;
+    padding-top: 150px;
+    background-color: rgba(50,146,241,.6);
+    padding-bottom: 80px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.container{max-width:100%; margin-left: 0px; margin-right: 0px; padding: 0px;
+}
+
+div#download.banner-home.docutils.container blockquote p.h1-home {
+color: #fff;
+    text-align: center;
+    text-shadow: 0 0 10px rgb(0 0 0 / 40%);
+font-size: 60px;
+    line-height: 1.4em;
+    font-weight: 700;
+}
+
+div#download.banner-home.docutils.container blockquote p.play-store-buttons {
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+div#download.banner-home.docutils.container blockquote p.play-store-buttons a.reference.external.image-reference img {
+	padding: 5px;
+	height: 70px;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+img#logo.d-inline-block.align-top {
+	height: 70%;
+	width: 70%;
+}
+
+
+.shadow-text {
+    text-shadow: 0 0 10px rgb(0 0 0 / 50%);
+}
+.center-text {
+    text-align: center;
+}
+
+div#download.banner-home.docutils.container {
+	color: #ffffff;
+}
+
+.navbar {
+	margin-bottom: -20px !important;
+	padding: 15px;
+}
+
+div#bs-navbar {
+	margin-right: 25px;
+		float: right;
+	width: 500px;
+	margin-left: auto;
+}
+
+.nav-item {
+	float: left !important;
+}
+#menu {
+	width: 100%;
+}
+
+.navbar-container {
+	width: 100%;
+}
+
+nav#menu div div.dropdown.show div.dropdown-menu.show {
+float: right;	
+margin-right: 100px;	
+}
+
+nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
+	float: left;
+	clear: none;
+	padding: 2px;
 }

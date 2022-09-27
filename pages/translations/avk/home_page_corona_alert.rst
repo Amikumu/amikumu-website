@@ -1,0 +1,1 @@
+Due to COVID-19, we recommend using Amikumu to meet language partners outdoors instead of attending group language events. This way you can stay social and safe! As the infection rate is different worldwide, please respect local guidelines when meeting others. Practice your languages and stay safe with Amikumu!

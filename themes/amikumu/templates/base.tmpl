@@ -37,20 +37,20 @@ bg-dark
             <span id="blog-title">${blog_title|h}</span>
         % endif
         </a>
+  <!--button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
+             <span class="navbar-toggler-icon"></span>
+         </button>
 
+         <div class="collapse navbar-collapse" id="bs-navbar"-->
+         <div id="bs-navbar">
 
-        <div id="bs-navbar">
         <nav id="menu">
             <div >
                 ${base.html_navigation_links_entries(navigation_links)}
                 ${template_hooks['menu']()}
 
                 ${base.html_navigation_links_entries(navigation_alt_links)}
-                <%block name="belowtitle">
-                %if len(translations) > 1:
-                    ${base.html_translations()}
-                %endif
-                </%block>
+               
                 % if show_sourcelink:
                     <%block name="sourcelink"></%block>
                 %endif
@@ -61,6 +61,11 @@ bg-dark
             %endif
             </nav>
         </div><!-- /.navbar-collapse -->
+         <%block name="belowtitle">
+                %if len(translations) > 1:
+                    ${base.html_translations()}
+                %endif
+                </%block>
     </div><!-- /.container -->
 </nav>
 

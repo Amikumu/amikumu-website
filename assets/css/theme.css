@@ -312,6 +312,8 @@ height: 160px;
 	margin-right: 0px;
 	padding: 0px;
 }
+
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type,
 article.post-homepage.storypage section h2 {
 	color: #fff;
 	text-align: center;
@@ -449,7 +451,7 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		padding-top: 0px;
 	}
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3 {
+	article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 32px;
 	}
 }
@@ -475,7 +477,7 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		padding-top: 150px;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 32px;
 	}
 }
@@ -501,7 +503,7 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		padding-top: 150px;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -525,7 +527,7 @@ float: right !important;
 		padding-top: 150px;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -551,7 +553,7 @@ float: right !important;
 		font-size: larger;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 60px;
 	}
 }
@@ -578,7 +580,7 @@ float: right !important;
 		font-size: larger;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
+article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
 		font-size: 70px;
 	}
 }

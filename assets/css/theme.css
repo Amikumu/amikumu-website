@@ -313,7 +313,7 @@ height: 160px;
 	padding: 0px;
 }
 
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type,
+article.post-homepage.storypage div.homepage-title p:first-of-type,
 article.post-homepage.storypage section h2 {
 	color: #fff;
 	text-align: center;
@@ -451,7 +451,7 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		padding-top: 0px;
 	}
 	
-	article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+	article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
 }
@@ -477,7 +477,7 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		padding-top: 150px;
 	}
 	
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
 }
@@ -503,7 +503,7 @@ article.post-homepage.storypage div.e-content.entry-content div.homepage-title.d
 		padding-top: 150px;
 	}
 	
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -527,7 +527,7 @@ float: right !important;
 		padding-top: 150px;
 	}
 	
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -553,7 +553,7 @@ float: right !important;
 		font-size: larger;
 	}
 	
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 60px;
 	}
 }
@@ -580,7 +580,7 @@ float: right !important;
 		font-size: larger;
 	}
 	
-article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container p:first-of-type{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 70px;
 	}
 }

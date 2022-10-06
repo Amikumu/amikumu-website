@@ -1,4 +1,4 @@
-Sitemap: https://amikumu.com/sitemapindex.xml
+Sitemap: https://nova.amikumu.com/sitemapindex.xml
 
 User-Agent: *
-Host: amikumu.com
+Host: nova.amikumu.com

@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amikumu (Posts about nikola)</title><link>https://amikumu.com/</link><description></description><atom:link href="https://amikumu.com/categories/cat_nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:help@amikumu.com"&gt;Amikumu&lt;/a&gt; </copyright><lastBuildDate>Wed, 05 Oct 2022 14:18:15 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://amikumu.com/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Amikumu (Posts about nikola)</title><link>https://nova.amikumu.com/</link><description></description><atom:link href="https://nova.amikumu.com/categories/cat_nikola.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2022 &lt;a href="mailto:help@amikumu.com"&gt;Amikumu&lt;/a&gt; </copyright><lastBuildDate>Thu, 06 Oct 2022 13:12:10 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Welcome to Nikola</title><link>https://nova.amikumu.com/posts/welcome-to-nikola/</link><dc:creator>Roberto Alsina</dc:creator><description>&lt;figure&gt;
 &lt;a class="reference external image-reference" href="https://farm1.staticflickr.com/138/352972944_4f9d568680_z.jpg?zz=1"&gt;&lt;img alt="Nikola Tesla Corner by nicwest, on Flickr" class="thumbnail" src="https://farm1.staticflickr.com/138/352972944_4f9d568680.jpg"&gt;&lt;/a&gt;
 &lt;/figure&gt;
 &lt;p&gt;If you can see this in a web browser, it means you managed to install Nikola,
 and build a site using it. Congratulations!&lt;/p&gt;
 &lt;p&gt;Next steps:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;:doc:`Read the manual &amp;lt;handbook&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#system-message-1"&gt;&lt;span class="problematic" id="problematic-1"&gt;:doc:`Read the manual &amp;lt;handbook&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-1"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 11); &lt;em&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#problematic-1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 11); &lt;em&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#problematic-1"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;"handbook" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://getnikola.com"&gt;Visit the Nikola website to learn more&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://amikumu.com/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#system-message-2"&gt;&lt;span class="problematic" id="problematic-2"&gt;:doc:`See a demo listing &amp;lt;listings-demo&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a class="reference external" href="https://nova.amikumu.com/galleries/demo/"&gt;See a demo photo gallery&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#system-message-2"&gt;&lt;span class="problematic" id="problematic-2"&gt;:doc:`See a demo listing &amp;lt;listings-demo&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-2"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 14); &lt;em&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#problematic-2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 14); &lt;em&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#problematic-2"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;"listings-demo" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#system-message-3"&gt;&lt;span class="problematic" id="problematic-3"&gt;:doc:`See a demo of a longer text &amp;lt;dr-nikolas-vendetta&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#system-message-3"&gt;&lt;span class="problematic" id="problematic-3"&gt;:doc:`See a demo of a longer text &amp;lt;dr-nikolas-vendetta&amp;gt;`&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;aside class="system-message" id="system-message-3"&gt;
-&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 15); &lt;em&gt;&lt;a href="https://amikumu.com/posts/welcome-to-nikola/#problematic-3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p class="system-message-title"&gt;System Message: ERROR/3 (&lt;span class="docutils literal"&gt;&amp;lt;string&amp;gt;&lt;/span&gt;, line 15); &lt;em&gt;&lt;a href="https://nova.amikumu.com/posts/welcome-to-nikola/#problematic-3"&gt;backlink&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;"dr-nikolas-vendetta" slug doesn't exist.&lt;/p&gt;
 &lt;/aside&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://amikumu.com/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;Send feedback to &lt;a class="reference external" href="mailto:info@getnikola.com"&gt;info@getnikola.com&lt;/a&gt;!&lt;/p&gt;</description><category>blog</category><category>demo</category><category>nikola</category><category>python</category><guid>https://nova.amikumu.com/posts/welcome-to-nikola/</guid><pubDate>Sat, 31 Mar 2012 02:00:00 GMT</pubDate></item></channel></rss>

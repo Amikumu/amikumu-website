@@ -22,17 +22,17 @@
 	.. raw:: html
 	
 		<div class="blue-bar"></div>
-			<div id="carouselApp" class="carousel carousel-dark slide" data-bs-ride="carousel" data-bs-touch="true">
+			<div id="carouselApp" class="carousel carousel-dark slide swiper-container " data-bs-ride="carousel" data-bs-touch="true">
 		  <div class="carousel-indicators">
 		    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active btn btn-light" aria-current="true" aria-label="Slide 1"></button>
 		    <button type="button" class="btn btn-light" data-bs-target="#carouselApp" data-bs-slide-to="1" aria-label="Slide 2"></button>
 		    <button type="button"  class="btn btn-light" data-bs-target="#carouselApp" data-bs-slide-to="2" aria-label="Slide 3"></button>	
 		  </div>
-		  <div class="carousel-inner">
-		    <div class="carousel-item active" data-bs-interval="3000">
-		      <img src="/images/slides/profile.png" class="d-block bigscreen" height="400px" width="208px" alt="...">
-		      <div class="carousel-caption">
-		        <div class="swiper-slide-title">
+		  <div class="carousel-inner swiper-wrapper screen">
+		    <div class="carousel-item active swiper-slide swiper-slide-1" data-bs-interval="3000">
+	    <div class="bigscreen" style="background-image: url(/images/slides/profile.png);"></div>
+		<div class="smallscreen" style="background-image: url(/images/slides/edit.png);"></div>
+		        <div class="title">
 		        
 	.. include:: translations_parts/home_page_slide1_title.rst
 	
@@ -40,19 +40,18 @@
 	.. raw:: html
 	
 		</div>
-		<div class="swiper-slide">
+		<div class="text">
 	
 	.. include:: translations_parts/home_page_slide1_description.rst
 	
 	.. raw:: html
 	
 		    </div>
-		  </div>
 		</div>
-		<div class="carousel-item" data-bs-interval="3000">
-		  <img src="/images/slides/choose.png" class="d-block" height="400px" width="208px" alt="...">
-		        <div class="carousel-caption d-none d-md-block">
-		        <div class="swiper-slide-title">
+		<div class="carousel-item swiper-slide swiper-slide-2" data-bs-interval="3000">
+		<div class="smallscreen" style="background-image: url(/images/slides/choose.png);"></div>
+		<div class="bigscreen" style="background-image: url(/images/slides/nearby.png);"></div>
+		        <div class="title">
 		   
 	.. include:: translations_parts/home_page_slide2_title.rst
 	
@@ -60,7 +59,8 @@
 	.. raw:: html
 		
 		</div>
-				<div class="swiper-slide">
+
+				<div class="text">
 
 		
 	.. include:: translations_parts/home_page_slide2_description.rst
@@ -68,21 +68,19 @@
 	
 	.. raw:: html  
 	
-		    </div>
 		</div>
 		</div>
-		<div class="carousel-item" data-bs-interval="3000">
-		  <img src="/images/slides/chat.png" class="d-block" height="400px" width="208px" alt="...">
-		        <div class="carousel-caption d-none d-md-block">
-		        <div class="swiper-slide-title">
-		  
+		<div class="carousel-item swiper-slide swiper-slide-3" data-bs-interval="3000">
+		<div class="bigscreen" style="background-image:url(/images/slides/chat.png);"></div>
+		        <div class="title">
+		
 	.. include:: translations_parts/home_page_slide3_title.rst
 	
 	
 	.. raw:: html
-		
+
 		</div>
-				<div class="swiper-slide">
+				<div class="text">
 		
 	.. include:: translations_parts/home_page_slide3_description.rst
 	
@@ -90,7 +88,6 @@
 	.. raw:: html  
 	
 		      </div>
-		  </div>
 		</div>
 		</div>
 		<button class="carousel-control-prev" type="button" data-bs-target="#carouselApp" data-bs-slide="prev">

@@ -15,15 +15,15 @@ languages.each do |language|
     translations.each do |key, value|
       # puts "result[#{key}] = #{value}"
       if (language == "en")
-        filename = "pages/translations/#{key}.rst"
+        filename = "translations_parts/#{key}.rst"
       else
-        if !Dir.exist?("pages/translations/#{language}/")
-          Dir.mkdir("pages/translations/#{language}/")
+        if !Dir.exist?("translations_parts/#{language}/")
+          Dir.mkdir("translations_parts/#{language}/")
         end
         if (language == "zh_cn")
-          filename = "pages/translations/#{language}/#{key}.rst"
+          filename = "translations_parts/#{language}/#{key}.rst"
         else
-          filename = "pages/translations/#{language}/#{key}.rst"
+          filename = "translations_parts/#{language}/#{key}.rst"
         end
       end
       File.open(filename, "w") { |f| f.write "#{value}\n" }

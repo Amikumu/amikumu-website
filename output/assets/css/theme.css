@@ -254,8 +254,33 @@ div#content.container {
 a.nav-link {
 	color: #3294f3 !important;
 }
+div#carouselApp {
+	clear: both;
+	margin-left: 300px;
+	margin-right: 300px;
+}
 
-section#practice-languages-nearby {
+div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
+{
+	clear: both;
+	padding: 25px;
+	margin-left: 30px;
+	margin-right: 30px;
+}
+
+.swiper-slide {
+font-weight: 700;
+font-size: 16px;
+color: #174580;
+text-align: left;
+margin-left: 150px;
+}
+
+div.tutorial {
+	clear: both;
+}
+
+div.homepage-title.docutils.container {
 	background-image: url(/images/banner_main.png);
 	background-size: cover;
 	width: 100%;
@@ -271,14 +296,23 @@ section#practice-languages-nearby {
 	padding-left: 20px;
 }
 
+.tutorial .blue-bar {
+clear: both;
+background-color: #3292f1;
+position: absolute;
+}
+.tutorial .blue-bar, .swiper-slide .title {
+width: 100%;
+height: 160px;
+}
+
 .container {
 	max-width: 100%;
 	margin-left: 0px;
 	margin-right: 0px;
 	padding: 0px;
 }
-
-section#practice-languages-nearby h2 {
+article.post-homepage.storypage section h2 {
 	color: #fff;
 	text-align: center;
 	text-shadow: 0 0 10px rgb(0 0 0 / 40%);
@@ -286,13 +320,13 @@ section#practice-languages-nearby h2 {
 	font-weight: 700;
 }
 
-section#practice-languages-nearby p.play-store-buttons {
+article.post-homepage.storypage p.play-store-buttons {
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
 }
 
-section#practice-languages-nearbye p.play-store-buttons a.reference.external.image-reference img {
+article.post-homepage.storypage p.play-store-buttons a.reference.external.image-reference img {
 	padding: 5px;
 	height: 70px;
 	margin-left: 20px;
@@ -312,7 +346,7 @@ img#logo.d-inline-block.align-top {
 	text-align: center;
 }
 
-section#practice-languages-nearby {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 	color: #ffffff;
 }
 
@@ -335,8 +369,19 @@ div#bs-navbar {
 }
 
 #menu {
-	width: 100%;
+	float: right !important;
+	text-align: right !;
+	align-content: right !important;
+	margin-right: 50px;
 }
+button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
+	float: right !important;
+	text-align: right;
+	align-content: right !important;
+	margin-right: 50px;
+
+}
+
 
 .navbar-container {
 	width: 100%;
@@ -347,7 +392,8 @@ nav#menu div div.dropdown {
 	float: right;
 	right: 20px;
 }
-
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 nav#menu div div.dropdown.show div.dropdown-menu.show {
 	float: right;
 	margin-right: 100px;
@@ -370,6 +416,7 @@ nav#menu div div.dropdown.show div.dropdown-menu.show {
 	left: -270px;
 }
 
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
 nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 	float: left;
 	clear: none;
@@ -378,108 +425,124 @@ nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 }
 
 @media (min-width:276px) {
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
 	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		width: 50%;
 	}
 	
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 300px;
-		left: -120px;
+		left: 10px;
+				float: left !important;
+
 	}
 	
 	div#bs-navbar {
 		float: right;
 	}
 	
-	section#practice-languages-nearby {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main-672x372.png);
 		background-size: cover;
 		padding-bottom: 0px;
 		padding-top: 0px;
 	}
 	
-	section#practice-languages-nearby h2 {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3 {
 		font-size: 32px;
 	}
 }
 
 
 
-@media (min-width:576px) {
+@media (min-width:376px) {
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
 	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
-		width: 30%;
+		width: 50%;
 	}
 	
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
-		width: 500px;
-		left: -400px;
+		width: 300px;
+		left: 0px;
+		float: left !important;
 	}
 	
-	section#practice-languages-nearby {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
 	
-	section#practice-languages-nearby h2 {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
 		font-size: 32px;
 	}
 }
 
 
 @media (min-width:576px) {
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show  a.dropdown-item,
 	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		width: 30%;
 	}
 	
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 500px;
-		left: -400px;
+		left: 0px;
+				float: left !important;
+
 	}
 	
-	section#practice-languages-nearby {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
 	
-	section#practice-languages-nearby h2 {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
 		font-size: 40px;
 	}
 }
 	
 @media (min-width:768px) {
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
 	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		width: 30%;
 	}
-	
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 500px;
-		left: -300px;
+left: -430px;
+float: right !important;
+
 	}
 	
-	section#practice-languages-nearby {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
 	
-	section#practice-languages-nearby h2 {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
 		font-size: 40px;
 	}
 }
 	
 @media (min-width:992px) {
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
 	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		width: 30%;
 	}
-	
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 500px;
-		left: -400px;
+left: -430px;
+float: right !important;
 	}
 	
-	section#practice-languages-nearby {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
@@ -488,22 +551,24 @@ nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		font-size: larger;
 	}
 	
-	section#practice-languages-nearby h2 {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
 		font-size: 60px;
 	}
 }
 	
 @media (min-width:1200px) {
-	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
+nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		width: 30%;
 	}
-	
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,	
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 500px;
-		left: -400px;
-	}
+left: -430px;
+float: right !important;
+}
 	
-	section#practice-languages-nearby {
+	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		background-size: cover;
 		padding-bottom: 80px;
@@ -513,7 +578,7 @@ nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		font-size: larger;
 	}
 	
-	section#practice-languages-nearby h2 {
+div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container div.e-content.entry-content div.homepage-title.docutils.container h3{
 		font-size: 70px;
 	}
 }
@@ -570,11 +635,40 @@ nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
         display:none
     }
 }
-div#carouselExampleIndicators.carousel.carousel-dark.slide div.carousel-indicators button {
-width: 100px;
+div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button {
+width: 20px;
 height: 5px;
+margin-left: 2px;
+margin-right: 2px;
+border:1px solid #0062cc;
+
 }
 
-div#carouselExampleIndicators.carousel.carousel-dark.slide div.carousel-indicators button.active {
-	background-color: pink;
+.visually-hidden {
+	
+color: transparent;
 }
+
+div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button.active {
+	width: 20px;
+height: 5px;
+background: #0062cc !important;
+border:1px solid #0062cc;
+}
+
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-prev-icon,
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-next-icon {
+	color: #0062cc !important;
+;
+	
+}
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev,
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-next {
+	background: transparent !important;
+	border: 0px;
+		color: #0062cc !important;
+}
+
+.carousel-control-prev-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3e%3c/svg%3e")}
+
+.carousel-control-next-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e")}

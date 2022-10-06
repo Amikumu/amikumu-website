@@ -38,10 +38,11 @@ bg-dark
         % endif
         </a>
   <!--button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-             <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"></span>
          </button>
 
          <div class="collapse navbar-collapse" id="bs-navbar"-->
+
          <div id="bs-navbar">
 
         <nav id="menu">
@@ -61,11 +62,13 @@ bg-dark
             %endif
             </nav>
         </div><!-- /.navbar-collapse -->
-         <%block name="belowtitle">
+                  <%block name="belowtitle">
                 %if len(translations) > 1:
                     ${base.html_translations()}
                 %endif
                 </%block>
+                
+                
     </div><!-- /.container -->
 </nav>
 

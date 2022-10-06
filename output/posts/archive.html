@@ -73,10 +73,11 @@ bg-light
         <a class="navbar-brand" href="../">
             <img src="../images/logo.png" alt="Amikumu" id="logo" class="d-inline-block align-top"></a>
   <!--button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false" aria-label="Toggle navigation">
-             <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"></span>
          </button>
 
          <div class="collapse navbar-collapse" id="bs-navbar"-->
+
          <div id="bs-navbar">
 
         <nav id="menu"><div>
@@ -96,10 +97,10 @@ bg-light
             </nav>
 </div>
 <!-- /.navbar-collapse -->
-         
+                  
                     
     <div class="dropdown dropdown-nav">
-  <button class="btn btn-primary dropdown-toggle langref" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+  <button class="btn btn-primary dropdown-toggle langref" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
 en  </button>
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 <a href="../ca/posts/archive.html" rel="alternate" class="dropdown-item" hreflang="ca">Català</a>
@@ -143,6 +144,8 @@ en  </button>
 </div>
 
 
+                
+                
                 
     </div>
 <!-- /.container -->
@@ -229,7 +232,10 @@ en  </button>
 </div>
 
 
-            <script src="../assets/js/jquery.min.js"></script><script src="../assets/js/popper.min.js"></script><script src="../assets/js/bootstrap.min.js"></script><script src="../assets/js/baguetteBox.min.js"></script><script>
+        <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3" crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.min.js" integrity="sha384-IDwe1+LCz02ROU9k972gdyvl+AESN10+x7tBKgc9I5HFtuNz0wWnPclzo6p9vxnk" crossorigin="anonymous"></script><script src="../assets/js/jquery.min.js"></script><!-- 
+            <script src="/assets/js/popper.min.js"></script>
+            <script src="/assets/js/bootstrap.min.js"></script>
+ --><script src="../assets/js/baguetteBox.min.js"></script><script>
     baguetteBox.run('div#content', {
         ignoreClass: 'islink',
         captions: function(element){var i=element.getElementsByTagName('img')[0];return i===undefined?'':i.alt;}});

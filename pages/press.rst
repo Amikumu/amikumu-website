@@ -4,7 +4,7 @@
 .. tags: 
 .. category: 
 .. link: 
-.. description: 
+.. description: Welcome to the Amikumu press page. Here you can find countless links to articles about Amikumu in different languages.
 .. type: text
 
-.. include:: pages/translations/presslist.rst
+.. include:: translations_parts/presslist.rst

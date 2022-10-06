@@ -7,19 +7,19 @@
 .. hidetitle: true
 .. type: homepage
 
+.. container:: homepage-title
 
-.. include:: translations_parts/nl/home_page_title.rst
+	.. include:: translations_parts/nl/home_page_title.rst
 
-
-.. include:: pages_parts/home_page_download_buttons.rst
+	.. include:: pages_parts/home_page_download_buttons.rst
  
- 
-.. class:: center-text shadow-text                                                                
+	.. class:: center-text shadow-text                                                                
 	
-	.. include:: translations_parts/nl/home_page_description.rst
+		.. include:: translations_parts/nl/home_page_description.rst
 
 .. raw:: html
 
+			<div class="blue-bar"></div>
 		<div id="carouselApp" class="carousel carousel-dark slide" data-bs-ride="true">
 	  <div class="carousel-indicators">
 	    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active btn btn-light" aria-current="true" aria-label="Slide 1"></button>

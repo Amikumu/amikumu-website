@@ -29,4 +29,141 @@
     "home_page_slide3_description": "Message others nearby who speak your language.\n\nSend pictures, voice messages and map coordinates.\n\nQuickly organize meetups and make friends for life.",
     "home_page_slide3_title": "Chat and meetup!",
     "home_page_title": "Practice languages nearby\n========================================="
+	{
+	  "content": {
+	    "post_title": "For Organizations",
+	    "post_content": {
+	      "ol": {
+	        "li": [
+	          "Name for the advertisement",
+	          "High quality picture for the advertisement",
+	          "Description for the advertisement (300 characters max)",
+	          "Email address",
+	          "Phone number",
+	          "Website",
+	          "Address (only relevant for advertisements that have a physical address)",
+	          "Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address"
+	        ]
+	      }
+	    },
+	    "post_meta": {
+	      "additional_month": {
+	        "@id": "10378",
+	        "#text": "for each additional month (must be paid in advance)"
+	      },
+	      "advertise_teaser": {
+	        "@id": "10395",
+	        "#text": "A location based advertisement that only the 100 people closest nearby see."
+	      },
+	      "advertise_text": {
+	        "@id": "10412",
+	        "#text": "Amikumu is a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally. Our users are primarily polyglots and speakers of minority languages."
+	      },
+	      "advertise_with_us": {
+	        "@id": "10429",
+	        "#text": "Advertise with Amikumu"
+	      },
+	      "advertisement": {
+	        "@id": "10462",
+	        "#text": "Advertisement"
+	      },
+	      "average_number_of_languages_spoken": {
+	        "@id": "10479",
+	        "#text": "Average number of languages spoken"
+	      },
+	      "badge_contact_us_part1": {
+	        "@id": "10496",
+	        "#text": "Please email us at"
+	      },
+	      "badge_contact_us_part2": {
+	        "@id": "10513",
+	        "#text": "for more info."
+	      },
+	      "commercial": {
+	        "@id": "10530",
+	        "#text": "Commercial"
+	      },
+	      "complete_analysis_part1": {
+	        "@id": "10547",
+	        "#text": "For a complete analysis of our language stats please see our"
+	      },
+	      "complete_analysis_part2": {
+	        "@id": "10564",
+	        "#text": "statistics page"
+	      },
+	      "cost": {
+	        "@id": "10581",
+	        "#text": "Cost"
+	      },
+	      "dau_daily_active_users": {
+	        "@id": "10598",
+	        "#text": "DAU (Daily Active Users)"
+	      },
+	      "how_to_purchase": {
+	        "@id": "10615",
+	        "#text": "How to purchase"
+	      },
+	      "in_app_collectible_badges": {
+	        "@id": "10632",
+	        "#text": "In-App collectible Badges"
+	      },
+	      "in_app_collectible_badges_text": {
+	        "@id": "10649",
+	        "#text": "An in-app collectible badge that appears on the user's profile page. Perfect for advertising large-scale meetups, language festivals or seminars and for providing an additional award for participation in events."
+	      },
+	      "mau_montly_active_users": {
+	        "@id": "10666",
+	        "#text": "MAU (Monthly Active Users)"
+	      },
+	      "metadata_desc": {
+	        "@id": "10853",
+	        "#text": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!"
+	      },
+	      "metadata_title": {
+	        "@id": "10887",
+	        "#text": "Amikumu - Find language partners nearby"
+	      },
+	      "non_profit": {
+	        "@id": "10683",
+	        "#text": "Non-profit"
+	      },
+	      "number_of_countries_represented": {
+	        "@id": "10700",
+	        "#text": "Number of countries represented"
+	      },
+	      "number_of_languages_spoken": {
+	        "@id": "10717",
+	        "#text": "Number of languages spoken"
+	      },
+	      "prices_assume": {
+	        "@id": "10734",
+	        "#text": "The above prices assume that your advertisement is targeting only one language. For each additional language, there is an extra 4€ a month fee. There are no additional setup fees."
+	      },
+	      "purchase_email_text_part1": {
+	        "@id": "10751",
+	        "#text": "Please email us at"
+	      },
+	      "purchase_email_text_part2": {
+	        "@id": "10768",
+	        "#text": "with the above details for each language advertisement."
+	      },
+	      "purchase_info": {
+	        "@id": "10785",
+	        "#text": "All advertisement purchases must be conducted in English or Esperanto."
+	      },
+	      "setup_fee": {
+	        "@id": "10802",
+	        "#text": "setup fee (includes first month)"
+	      },
+	      "total_users": {
+	        "@id": "10819",
+	        "#text": "Total Users"
+	      },
+	      "your_badge": {
+	        "@id": "10836",
+	        "#text": "Your Badge!"
+	      }
+	    }
+	  }
+	}
 }

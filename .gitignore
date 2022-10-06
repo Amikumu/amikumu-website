@@ -4,3 +4,5 @@ __pycache__
 cache
 */.DS_Store
 *.DS_Store
+.doit.db
+output

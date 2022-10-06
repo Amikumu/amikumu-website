@@ -3,6 +3,10 @@
 
 body {
 	font-family: noto sans,noto sans cjk jp,sans-serif;
+	color: #fff;
+font-family: noto sans,noto sans cjk jp,sans-serif;
+font-size: 18px;
+line-height: 24px;
 }
 
 img {
@@ -268,13 +272,6 @@ div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
 	margin-right: 30px;
 }
 
-.swiper-slide {
-font-weight: 700;
-font-size: 16px;
-color: #174580;
-text-align: left;
-margin-left: 150px;
-}
 
 div.tutorial {
 	clear: both;
@@ -311,6 +308,15 @@ height: 160px;
 	margin-left: 0px;
 	margin-right: 0px;
 	padding: 0px;
+}
+
+div.tutorial.container {
+	max-width: 100%;
+    width: 100%;
+    margin: 0 auto;
+    border: none;
+    height: auto;
+    position:relative
 }
 
 article.post-homepage.storypage div.homepage-title p:first-of-type,
@@ -585,6 +591,70 @@ article.post-homepage.storypage div.homepage-title p:first-of-type{
 	}
 }
 
+
+div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button {
+width: 20px;
+height: 5px;
+margin-left: 2px;
+margin-right: 2px;
+border:1px solid #0062cc;
+
+}
+
+.visually-hidden {
+	
+color: transparent;
+}
+
+div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button.active {
+	width: 20px;
+height: 5px;
+background: #0062cc !important;
+border:1px solid #0062cc;
+}
+
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-prev-icon,
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-next-icon {
+	color: #0062cc !important;
+;
+	
+}
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev,
+div#carouselApp.carousel.carousel-dark.slide button.carousel-control-next {
+	background: transparent !important;
+	border: 0px;
+		color: #0062cc !important;
+}
+
+.carousel-control-prev-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3e%3c/svg%3e")}
+
+.carousel-control-next-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e")}
+
+
+.swiper-slide {
+font-weight: 700;
+font-size: 16px;
+color: #174580;
+text-align: left;
+margin-left: 0px;
+}
+.swiper-container {
+    height:100%;
+	width: 908px;
+}
+
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+
+    align-items: center;
+    padding-top: 20px;
+    min-height: 420px;
+    margin-bottom:20px
+}
+
+
+
 .screen .bigscreen {
     height: 400px;
     width: 208px;
@@ -637,40 +707,248 @@ article.post-homepage.storypage div.homepage-title p:first-of-type{
         display:none
     }
 }
-div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button {
-width: 20px;
-height: 5px;
-margin-left: 2px;
-margin-right: 2px;
-border:1px solid #0062cc;
 
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide {
+        min-height:350px !important
+    }
 }
 
-.visually-hidden {
-	
-color: transparent;
+@media only screen and (max-width: 768px) {
+    .swiper-slide {
+        min-height:275px !important
+    }
 }
 
-div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button.active {
-	width: 20px;
-height: 5px;
-background: #0062cc !important;
-border:1px solid #0062cc;
+@media only screen and (max-width: 499px) {
+    .swiper-slide {
+        min-height:300px !important
+    }
 }
 
-div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-prev-icon,
-div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev span.carousel-control-next-icon {
-	color: #0062cc !important;
-;
-	
-}
-div#carouselApp.carousel.carousel-dark.slide button.carousel-control-prev,
-div#carouselApp.carousel.carousel-dark.slide button.carousel-control-next {
-	background: transparent !important;
-	border: 0px;
-		color: #0062cc !important;
+.swiper-slide-1 .bigscreen {
+    left:60px
 }
 
-.carousel-control-prev-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3e%3c/svg%3e")}
+@media only screen and (max-width: 768px) {
+    .swiper-slide-1 .bigscreen {
+        left:40px
+    }
+}
 
-.carousel-control-next-icon{background-image:url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%230062cc' viewBox='0 0 8 8'%3e%3cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3e%3c/svg%3e")}
+.swiper-slide-1 .smallscreen {
+    left:215px
+}
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide-1 .smallscreen {
+        left:190px
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide-1 .smallscreen {
+        left:145px
+    }
+}
+
+.swiper-slide-2 .bigscreen {
+    left:180px
+}
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide-2 .bigscreen {
+        left:165px
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide-2 .bigscreen {
+        left:125px
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    .swiper-slide-2 .bigscreen {
+        left:40px
+    }
+}
+
+.swiper-slide-2 .smallscreen {
+    left:60px
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide-2 .smallscreen {
+        left:40px
+    }
+}
+
+.swiper-slide-3 .bigscreen {
+    left:60px
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide-3 .bigscreen {
+        left:40px
+    }
+}
+
+.swiper-slide-3 .title, .swiper-slide-3 .text {
+    left:345px
+}
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide-3 .title, .swiper-slide-3 .text {
+        left:300px
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide-3 .title, .swiper-slide-3 .text {
+        left:225px
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .swiper-slide-3 .title, .swiper-slide-3 .text {
+        left:40px
+    }
+}
+
+.swiper-container .bigscreen {
+    position: absolute;
+    bottom:0
+}
+
+@media only screen and (max-width: 420px) {
+    .swiper-container .bigscreen {
+        opacity: .4;
+        bottom: -50px;
+        right: 10px;
+        left:inherit !important
+    }
+}
+
+.swiper-container .smallscreen {
+    position: absolute;
+    bottom:0
+}
+
+.swiper-slide .title {
+    left: 425px;
+    position: absolute;
+    top: 0;
+    font-weight: 700;
+    font-size: 24px;
+    text-align: left;
+    max-width: 475px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-align: center;
+    align-items: center;
+    line-height:34px;
+	color: #fff;
+}
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide .title {
+        max-width: 320px;
+        font-size: 22px;
+        left: 380px;
+        line-height:32px
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide .title {
+        max-width: 320px;
+        left:280px
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    .swiper-slide .title {
+        max-width: 200px;
+        font-size: 18px;
+        line-height:28px
+    }
+}
+
+@media only screen and (max-width: 520px) {
+    .swiper-slide .title {
+        max-width:170px
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    .swiper-slide .title {
+        left: 180px;
+        max-width: 192px;
+        font-size: 14px;
+        line-height:24px
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .swiper-slide .title {
+        left:40px
+    }
+}
+
+.swiper-slide .text {
+left: 425px;
+position: absolute;
+top: 200px;
+font-weight: 700;
+font-size: 16px;
+color: #174580;
+text-align: left;
+max-width: 400px;
+}
+
+@media only screen and (max-width: 979px) {
+    .swiper-slide .text {
+        max-width: 320px;
+        font-size: 14px;
+        left:380px
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    .swiper-slide .text {
+        left: 280px;
+        top:140px
+    }
+}
+
+@media only screen and (max-width: 630px) {
+    .swiper-slide .text {
+        max-width: 250px;
+        font-size:14px
+    }
+}
+
+@media only screen and (max-width: 499px) {
+    .swiper-slide .text {
+        left: 180px;
+        max-width:222px
+    }
+}
+
+@media only screen and (max-width: 420px) {
+    .swiper-slide .text {
+        left: 40px;
+        top:125px
+    }
+}
+
+.swiper-slide .text p {
+    margin-bottom:10px
+}
+
+.tutorial .blue-bar, .swiper-slide .title {
+    width: 100%;
+    height:160px
+}

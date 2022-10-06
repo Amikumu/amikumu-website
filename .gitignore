@@ -1,4 +1,3 @@
-*.DS_Store
 /nikola
 __pycache__
 cache
@@ -6,3 +5,5 @@ cache
 *.DS_Store
 .doit.db
 output
+*.doit.db
+*/.doit.db

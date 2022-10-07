@@ -84,6 +84,58 @@
   }
 ,
 "page_ambassador":
+{
+    "post_title": "Permik",
+    "post_content": {
+      "h2": [
+        "Tokcoba permik tir ?",
+        "Va tokcoba permik askir ?",
+        "Va tokcoba permik seotad ?"
+      ],
+      "ul": {
+        "li": [
+          {
+            "a": [
+              {
+                "@href": "https://youtu.be/6g3QtBtBB_U",
+                "#text": "Amikumu: The App Yiddish Speakers have been Waiting for!"
+              },
+              {
+                "@href": "https://youtu.be/57W73If51NE",
+                "#text": "Auslan: What is Amikumu?"
+              },
+              {
+                "@href": "http://amikumu.com/press/",
+                "#text": "press releasese"
+              }
+            ],
+            "#text": "Finta icde ilkafi bli is Youtube debakaf elpat zo sanegad ! Tulon, vay disukel va  (Moshe Sherizen) ik  (Kiah Morante), vanmiae arcoba ‼ Va kotrafu bu tarizanu gu ."
+          },
+          "Sin va givavuropagluyaxa fintad ko Facebook debakafa lospa is koe intafa liota. Dace mana pinafa sanegafa bristura en ropomar !",
+          "Va truk walzilid ise va Amikumu pulvid bal lizukafa avafa kabelcara. Dere batcoba gu exonera is laumasira va lizukafa doda en pomar.",
+          {
+            "a": {
+              "@href": "https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4",
+              "#text": "va talpeyot remsuted"
+            },
+            "#text": "Va Internet gortafo xo is  kal intafa lizukafa ava. Va vanpira va tanoy lojontikon remsuten talpeyot ke tamava mukotav ise va winafa pomara olegav ta kiewaskira va batcoba."
+          },
+          "Gu cin va zolonapafa stara tiskad. Jiligav da kota ava isu araya tid amidafa. Jugemev ise olegav da va cin pirdac gu ronkura koe winafa doda."
+        ]
+      },
+      "a": {
+        "@href": "mailto:info@amikumu.com",
+        "#text": "info@amikumu.com"
+      },
+      "#text": "Taneon, va jontik greway icde rinafa dulapera va permaf talpey.\n\nNelkon, permik tir tel pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lanlizef kaatoesik, i cinaf lozolonaf mafelasik isu kireptaf bristusik !\n\nBatcoba va coba sinon rotaskina benaykar. Va yon ask gan permik ta dokobara ta abduaskira va Amikumu ko tamava al vexalav.\n\n\nVa abiccoba pu rin rotiskav grewason icde rinafa zolonapafa pomara. Neken, yon gunt krulded nope tira permik. Pu permik va yon tanaf talpeyoton rodotan prosil tiskav, vanmiae ara coba. Vay va golera pu cin me vurdel ta seotara va loa giva vey ."
+    },
+    "post_meta": {
+      "metadata_desc": "Permik ke Amikumu tir tel va cin pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lizukaf kaatoesik, i cinaf logijaf mafelasik isu kireptaf bristusik !",
+      "metadata_title": {
+        "#text": "Va permaf talpey ke Amikumu pakel djay ‼"
+      }
+    }
+  }
 ,
 "page_faq":
 {

@@ -1,92 +1,40 @@
 {
 "page_about-us":
 {
-  "content": {
     "post_title": "Hakkımızda",
     "post_content": null,
     "post_meta": {
-      "add_description": {
-        "@id": "320",
-        "#text": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır."
-      },
-      "add_title": {
-        "@id": "318",
-        "#text": "Çok dilli bir ekip tarafından geliştirilmiştir"
-      },
-      "city": {
-        "@id": "6473",
-        "#text": "Şehir"
-      },
-      "languages": {
-        "@id": "6477",
-        "#text": "Diller"
-      },
-      "metadata_desc": {
-        "@id": "6834",
-        "#text": "Amikumu ekiibi diller konusunda ustalaşmak için çok sayıda saatini vermiş, dünyanın her yerinden polyglot (çok dilli) kişilerden meydana gelmektedir."
-      },
-      "metadata_title": {
-        "@id": "6839",
-        "#text": "Amikumu ekibi ile tanışın"
-      },
-      "our_team": {
-        "@id": "6469",
-        "#text": "Ekibimiz"
-      },
-      "team_members_0_city": {
-        "@id": "328",
-        "#text": "Sidney, Avustralya"
-      },
+      "add_description": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.",
+      "add_title": "Çok dilli bir ekip tarafından geliştirilmiştir",
+      "city": "Şehir",
+      "languages": "Diller",
+      "metadata_desc": "Amikumu ekiibi diller konusunda ustalaşmak için çok sayıda saatini vermiş, dünyanın her yerinden polyglot (çok dilli) kişilerden meydana gelmektedir.",
+      "metadata_title": "Amikumu ekibi ile tanışın",
+      "our_team": "Ekibimiz",
+      "team_members_0_city": "Sidney, Avustralya",
       "team_members_0_description": {
-        "@id": "326",
         "br": [
           null,
           null
         ],
         "#text": "Evildea takma adı ile de bilinen Richard Delamore Youtube'da bir Avustralyalı Esperanto şahsiyeti ve Esperanto film endüstrisinde önemli bir karakterdir. Amikumu'nun ortak kurucusu olmadan önce, Richard, Espranto-TV'yi kurmuş, Avustralya Esperanto Derneği (AEA) nın yönetim kurulunda, Dil Festivali Derneğinde (LFA) ve Yeni Güney Galler Esperanto Federasyonunda (EFNSW) 'da çalışmıştır,. İlave olarak, altı sene Avustralya ordusunda sinyal operatörü olarak hizmet etmiş ve çok sayıda uluslararası şirketlerde sistem yöneticisi olarak çalışmıştır.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
       },
-      "team_members_0_job_title": {
-        "@id": "324",
-        "#text": "Baş yönetici"
-      },
-      "team_members_0_languages": {
-        "@id": "330",
-        "#text": "İngilizce, Esperanto, Mandarin"
-      },
-      "team_members_0_name": {
-        "@id": "374",
-        "#text": "Richard Delamore"
-      },
-      "team_members_1_city": {
-        "@id": "338",
-        "#text": "Berlin, Almanya (ABD'den)"
-      },
+      "team_members_0_job_title": "Baş yönetici",
+      "team_members_0_languages": "İngilizce, Esperanto, Mandarin",
+      "team_members_0_name": "Richard Delamore",
+      "team_members_1_city": "Berlin, Almanya (ABD'den)",
       "team_members_1_description": {
-        "@id": "336",
         "br": [
           null,
           null
         ],
         "#text": "Chuck Smith bir çok Esperanto ve Polyglot projesinin yanında, Polyglot Buluşma'larının yardımcı organizatörü, Duolingo Esperanto kursunda katkıda bulunan kişi, ve Esperanto wikipedia'sının kurucusudur. 2008 yılında Apple App Store uygulaması lanse edildiğinden beri iOS uygulamaları geliştirmektedir. 2002 yılında Brezilya seyahatinde aklına yakındaki Esperanto dilini konuşan kişileri bulmakta yardımcı olacak bir GPS uygulaması fikri gelmiş, ancak bu hayalini gerçekleştirmek için teknolojinin gelişmesini 15 yıl kadar beklemek zorunda kalmıştır. Şimdilerde insanların her yerde birbirleri ile iletişime geçebilmelerini sağlayacak bu şekilde dünyayı daha iyi bir yer yapacak zorlu meseleleri çözebilmek için için sabırsızlık duymaktadır.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
       },
-      "team_members_1_job_title": {
-        "@id": "334",
-        "#text": "Chief Technical Officer and Mobile Developer"
-      },
-      "team_members_1_languages": {
-        "@id": "340",
-        "#text": "İngilizce, Esperanto, Almanca, İspanyolca, Fransızca, Hollandaca, Lehçe ve ABD işaret dili"
-      },
-      "team_members_1_name": {
-        "@id": "376",
-        "#text": "Chuck Smith"
-      },
-      "team_members_2_city": {
-        "@id": "587",
-        "#text": "Amsterdam, The Netherlands"
-      },
+      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
+      "team_members_1_languages": "İngilizce, Esperanto, Almanca, İspanyolca, Fransızca, Hollandaca, Lehçe ve ABD işaret dili",
+      "team_members_1_name": "Chuck Smith",
+      "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "@id": "585",
         "br": [
           null,
           null,
@@ -94,97 +42,49 @@
         ],
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
       },
-      "team_members_2_job_title": {
-        "@id": "583",
-        "#text": "Volunteer: Mobile Developer / Customer Support"
-      },
-      "team_members_2_languages": {
-        "@id": "589",
-        "#text": "Dutch, English, Esperanto, baby-German"
-      },
-      "team_members_2_name": {
-        "@id": "579",
-        "#text": "Tanja Orme"
-      },
-      "team_members_3_city": {
-        "@id": "599",
-        "#text": "Berlin, Almanya"
-      },
+      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
+      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
+      "team_members_2_name": "Tanja Orme",
+      "team_members_3_city": "Berlin, Almanya",
       "team_members_3_description": {
-        "@id": "597",
         "br": [
           null,
           null
         ],
         "#text": "Judith Meyer, hesaplama dilbilimcisidir ve zamanının çoğunu dillerle uğraşan web uygulamaları geliştirmek için harcamaktadır, örneğin, LearnYu projesi. Ayrıca o bir poliglot, Polyglot Gathering'in eş-organizatörü ve birçok dil kitapları ve dil kurslarının yazarı. Esperanto'yu 14 yaşındayken öğrendi ve birçok dili öğrenmek için bir sıçrama tahtası olarak kullandı.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
       },
-      "team_members_3_job_title": {
-        "@id": "595",
-        "#text": "Arka uç geliştirici"
-      },
-      "team_members_3_languages": {
-        "@id": "601",
-        "#text": "Almanca, İngilizce, Esperanto, Latince, Fransızca, İtalyanca, Modern Yunanca, Mandarince, Flemenkçe, İspanyolca, Endonezyaca, İbranice, Svahilice"
-      },
-      "team_members_3_name": {
-        "@id": "591",
-        "#text": "Judith Meyer"
-      },
-      "team_members_4_city": {
-        "@id": "611",
-        "#text": "Philadelphia, ABD"
-      },
+      "team_members_3_job_title": "Arka uç geliştirici",
+      "team_members_3_languages": "Almanca, İngilizce, Esperanto, Latince, Fransızca, İtalyanca, Modern Yunanca, Mandarince, Flemenkçe, İspanyolca, Endonezyaca, İbranice, Svahilice",
+      "team_members_3_name": "Judith Meyer",
+      "team_members_4_city": "Philadelphia, ABD",
       "team_members_4_description": {
-        "@id": "609",
         "br": [
           null,
           null
         ],
         "#text": "Jesse Alter, Bilgisayar Bilimleri ve Sosyal Hizmet alanlarında lisans derecesine sahip bir Linux sistem yöneticisi. Jesse, yıllar içerisinde pediatrik bir sosyal hizmet görevlisi olarak çalışırken birden fazla web sitesi ve hizmet sunucusu bakımı yaptı. Daha sonra kariyerini, bilgisayar sistemlerini geliştirme ve sürdürme konusundaki uzun ömürlü ilgisini takip etmek üzere değiştirdi. Amikumu haricinde, Jesse'nin ilgi alanı dahilinde retrocomputing, bilgi gizliliği ve veri analizi konuları yer almaktadır.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Bana göre bu bir süper güç.\">"
       },
-      "team_members_4_job_title": {
-        "@id": "607",
-        "#text": "Sistem Yöneticisi"
-      },
-      "team_members_4_languages": {
-        "@id": "613",
-        "#text": "İngilizce, Esperanto"
-      },
-      "team_members_4_name": {
-        "@id": "603",
-        "#text": "Jesse Alter"
-      },
-      "team_members_5_city": {
-        "@id": "703",
-        "#text": "Ekaterinburg, Rusya"
-      },
+      "team_members_4_job_title": "Sistem Yöneticisi",
+      "team_members_4_languages": "İngilizce, Esperanto",
+      "team_members_4_name": "Jesse Alter",
+      "team_members_5_city": "Ekaterinburg, Rusya",
       "team_members_5_description": {
-        "@id": "701",
         "br": [
           null,
           null
         ],
         "#text": "Elena Khusanova mimarlık teorisinde diploma alan başarılı bir grafik tasarımcısıdır. Mezun olduktan sonra Esperanto'yu öğrendi ve o zamandan beri birden fazla organizasyon ve etkinlik için çalıştı. Eleştirileri, Slovakya E@I ve diğer projeler arasında 101. Dünya Esperanto Kongresi için gönüllü hizmetini içermektedir. Sonunda kendi kurduğu bir projeyi tamamladı: \"Werewolves\" oyunu için kartlar.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
       },
-      "team_members_5_job_title": {
-        "@id": "699",
-        "#text": "Grafik tasarımcı"
-      },
-      "team_members_5_languages": {
-        "@id": "705",
-        "#text": "İngilizce, Rusça, Esperanto, Slovakça, İsveççe, Toki Pona"
-      },
+      "team_members_5_job_title": "Grafik tasarımcı",
+      "team_members_5_languages": "İngilizce, Rusça, Esperanto, Slovakça, İsveççe, Toki Pona",
       "team_members_5_name": {
-        "@id": "695",
         "#text": "Elena Khusanova"
       }
     }
   }
-}
 ,
 "page_ambassador":
 {
-  "content": {
     "post_title": "Büyükelçi",
     "post_content": {
       "h2": [
@@ -224,21 +124,15 @@
       "#text": "Öncelikle, Büyükelçi programına gösterdiğiniz ilgiden dolayı çok teşekkür ederiz.\n\nEsasen, bir büyükelçi, Amikumu'yu yerel topluluk içinde tanıtmaya yardım eden biridir. Onlar yeryüzündeki temsilcilerimiz! En büyük hayranlarımız ve en büyük destekçilerimiz.\n\nOnların taahhüt edebileceklerine bağlı. Amikumu dünyaya tanıtmak için elçilerin bizimle nasıl çalıştıklarını listeledik.\n\n\nPaha biçilmez yardımınız için sağlayabileceğimiz az şey var. Ancak, Büyükelçi olanlar için bir kaç ikramiyemiz var. Diğer şeylerin yanı sıra, büyükelçilerimize benzersiz uygulama içi tahsil edilebilir rozetler sunuyoruz. info@amikumu.com adresinde daha fazla bilgi için bize ulaşmaktan çekinmeyin ."
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6853",
-        "#text": "Amikumu elçisi Amikumu'Yu kendi topluluğunda tanıtmaya yardımcı olan kişidir. Onlar bizim temsilcilerimizdir. En büyük hayranlarımız ve en büyük temsilcilerimiz."
-      },
+      "metadata_desc": "Amikumu elçisi Amikumu'Yu kendi topluluğunda tanıtmaya yardımcı olan kişidir. Onlar bizim temsilcilerimizdir. En büyük hayranlarımız ve en büyük temsilcilerimiz.",
       "metadata_title": {
-        "@id": "6863",
         "#text": "Amikumu elçisi programına katılın!"
       }
     }
   }
-}
 ,
 "page_faq":
 {
-  "content": {
     "post_title": "Yardım / SSS",
     "post_content": {
       "h2": [
@@ -339,21 +233,15 @@
       "#text": "Amikumu, herhangi bir dili konuşmak için yakınlardaki insanlar bulmanıza yardımcı olan bir uygulamadır. Örneğin, tatil yaparken, Amikumu'yu İspanyol, Fransız veya kasabadaki diğer dil konuşmacılarıyla buluşmak için kullanın.\n\n\n\n\nEvet.\n\nAmikumu, Android (OS 4.0.3) ve iOS 9.1 (iPhone 4S, iPad 2+) için kullanılabilir.\n\n\nGizliliğiniz ve güvenliğiniz bizim için çok önemlidir, bu nedenle Amikumu kesin yerleri saklamaz veya göstermez.\n\nYapamazsın, ancak Amikumu'nun bir kullanıcı engelleme özelliği vardır. Bir kullanıcıyı engellediğinizde, sizi ne görebilir ne de size ulaşabilir.\n\n\nAmikumu'yu açık kaynaklı yapmak için bizler de can atıyoruz. Ne yazık ki, açık kaynak şu anda kuruluşumuza uygun değildir. Bununla birlikte, açık kaynağın bizim için uygun olduğuna karar verdiğimizde açmak için fırsatlar arıyoruz.\n\nEvet, Amikumu'yu çevirmeye yardımcı olabilirsin.\n\nAmikumu, Esperanto'da \"arkadaşça birşey yap\" demek.\n\nBiz görüşlerinizi hoş karşılarız katılın ya da bizi takip edin ,vebilgilendirilmek için.\n\nDaha fazla soru için, info@amikumu.com\nbize tıkla>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6872",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
       "metadata_title": {
-        "@id": "6877",
         "#text": "Yardım / SSS"
       }
     }
   }
-}
 ,
 "page_for-organizations":
 {
-  "content": {
     "post_title": "Kurumlar için",
     "post_content": {
       "ol": {
@@ -371,235 +259,76 @@
       "#text": ">"
     },
     "post_meta": {
-      "additional_month": {
-        "@id": "10378",
-        "#text": "her ilave ay için (önceden ödeme yapılmış olmalı)"
-      },
-      "advertise_teaser": {
-        "@id": "10395",
-        "#text": "Civardaki en yakın 100 kişinin göreceği yer temelli bir reklam."
-      },
-      "advertise_text": {
-        "@id": "10412",
-        "#text": "Amikumu tüm dünya dilleri kullanıcıları, konuşmacıları, ve kaydolmuş kişilerin iletişimde bulunabilecekleri ve yerel olarak ilgili bilgi paylaşabilecekleri bir sosyal ağ platformudur. Kullanıcılarımız genelde çok dilli kişiler (polyglot) ve azınlık dillerini konuşanlardır."
-      },
-      "advertise_with_us": {
-        "@id": "10429",
-        "#text": "Amikumu ile reklam yapın"
-      },
-      "advertisement": {
-        "@id": "10462",
-        "#text": "Reklam"
-      },
-      "average_number_of_languages_spoken": {
-        "@id": "10479",
-        "#text": "Ortalama konuşulan dil sayısı"
-      },
-      "badge_contact_us_part1": {
-        "@id": "10496",
-        "#text": "Lütfen bize e-posta gönderin"
-      },
-      "badge_contact_us_part2": {
-        "@id": "10513",
-        "#text": "daha fazla bilgi için."
-      },
-      "commercial": {
-        "@id": "10530",
-        "#text": "Ticari"
-      },
-      "complete_analysis_part1": {
-        "@id": "10547",
-        "#text": "Diliniz istatistiklerinin tam bir analizi için lütfen buraya bakınız"
-      },
-      "complete_analysis_part2": {
-        "@id": "10564",
-        "#text": "istatistik sayfası"
-      },
-      "cost": {
-        "@id": "10581",
-        "#text": "Maliyet"
-      },
-      "dau_daily_active_users": {
-        "@id": "10598",
-        "#text": "DAU (günlük etkin kullanıcı)"
-      },
-      "how_to_purchase": {
-        "@id": "10615",
-        "#text": "Nasıl satın alınabileceği için"
-      },
-      "in_app_collectible_badges": {
-        "@id": "10632",
-        "#text": "In-App (uygulama içi) biriktirilebilir Rozetler"
-      },
-      "in_app_collectible_badges_text": {
-        "@id": "10649",
-        "#text": "Kullanıcının profilinde görüntülenen bir In-App (uygulama içi) biriktirilebilir Rozet. Büyük çaplı buluşmalar, dil festivalleri veya seminerleri ve eventleri için ilave bir katılımcı ödülü sağlayan mükemmel bir reklam aracıdırlar."
-      },
-      "mau_montly_active_users": {
-        "@id": "10666",
-        "#text": "MAU (aylık aktif kullanıcı)"
-      },
-      "metadata_desc": {
-        "@id": "10853",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
-      "metadata_title": {
-        "@id": "10887",
-        "#text": "Amikumu - Yakınınızdaki dil ortaklarını bulun"
-      },
-      "non_profit": {
-        "@id": "10683",
-        "#text": "Kar amacı gütmeyen"
-      },
-      "number_of_countries_represented": {
-        "@id": "10700",
-        "#text": "Temsil edilen ülke sayısı"
-      },
-      "number_of_languages_spoken": {
-        "@id": "10717",
-        "#text": "Konuşulan dil sayısı"
-      },
-      "prices_assume": {
-        "@id": "10734",
-        "#text": "Yukarıdaki fiyatlar reklamınızın tek bir dili hedeflediğini var saymaktadır. Her ilave dil için aylık 4€ ilave bir ücret vardır. İlave kurulum fiyatı yoktur."
-      },
-      "purchase_email_text_part1": {
-        "@id": "10751",
-        "#text": "Lütfen bize e-posta gönderin"
-      },
-      "purchase_email_text_part2": {
-        "@id": "10768",
-        "#text": "her bir dil reklamı için yukarıdaki fiyatlar ile."
-      },
-      "purchase_info": {
-        "@id": "10785",
-        "#text": "Tür reklam satın alımları İngilizce veya Esperanto dilinde yapılmalıdır."
-      },
-      "setup_fee": {
-        "@id": "10802",
-        "#text": "kurulum ücreti (ilk ayı kapsar)"
-      },
-      "total_users": {
-        "@id": "10819",
-        "#text": "Toplam Kullanıcı sayısı"
-      },
+      "additional_month": "her ilave ay için (önceden ödeme yapılmış olmalı)",
+      "advertise_teaser": "Civardaki en yakın 100 kişinin göreceği yer temelli bir reklam.",
+      "advertise_text": "Amikumu tüm dünya dilleri kullanıcıları, konuşmacıları, ve kaydolmuş kişilerin iletişimde bulunabilecekleri ve yerel olarak ilgili bilgi paylaşabilecekleri bir sosyal ağ platformudur. Kullanıcılarımız genelde çok dilli kişiler (polyglot) ve azınlık dillerini konuşanlardır.",
+      "advertise_with_us": "Amikumu ile reklam yapın",
+      "advertisement": "Reklam",
+      "average_number_of_languages_spoken": "Ortalama konuşulan dil sayısı",
+      "badge_contact_us_part1": "Lütfen bize e-posta gönderin",
+      "badge_contact_us_part2": "daha fazla bilgi için.",
+      "commercial": "Ticari",
+      "complete_analysis_part1": "Diliniz istatistiklerinin tam bir analizi için lütfen buraya bakınız",
+      "complete_analysis_part2": "istatistik sayfası",
+      "cost": "Maliyet",
+      "dau_daily_active_users": "DAU (günlük etkin kullanıcı)",
+      "how_to_purchase": "Nasıl satın alınabileceği için",
+      "in_app_collectible_badges": "In-App (uygulama içi) biriktirilebilir Rozetler",
+      "in_app_collectible_badges_text": "Kullanıcının profilinde görüntülenen bir In-App (uygulama içi) biriktirilebilir Rozet. Büyük çaplı buluşmalar, dil festivalleri veya seminerleri ve eventleri için ilave bir katılımcı ödülü sağlayan mükemmel bir reklam aracıdırlar.",
+      "mau_montly_active_users": "MAU (aylık aktif kullanıcı)",
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
+      "metadata_title": "Amikumu - Yakınınızdaki dil ortaklarını bulun",
+      "non_profit": "Kar amacı gütmeyen",
+      "number_of_countries_represented": "Temsil edilen ülke sayısı",
+      "number_of_languages_spoken": "Konuşulan dil sayısı",
+      "prices_assume": "Yukarıdaki fiyatlar reklamınızın tek bir dili hedeflediğini var saymaktadır. Her ilave dil için aylık 4€ ilave bir ücret vardır. İlave kurulum fiyatı yoktur.",
+      "purchase_email_text_part1": "Lütfen bize e-posta gönderin",
+      "purchase_email_text_part2": "her bir dil reklamı için yukarıdaki fiyatlar ile.",
+      "purchase_info": "Tür reklam satın alımları İngilizce veya Esperanto dilinde yapılmalıdır.",
+      "setup_fee": "kurulum ücreti (ilk ayı kapsar)",
+      "total_users": "Toplam Kullanıcı sayısı",
       "your_badge": {
-        "@id": "10836",
         "#text": "Rozetini!"
       }
     }
   }
-}
 ,
 "page_home-page":
 {
-  "content": {
     "post_title": "Ana sayfa",
     "post_content": null,
     "post_meta": {
-      "add_title": {
-        "@id": "43",
-        "#text": "Etrafta dil pratiği yapın"
-      },
-      "claim": {
-        "@id": "5350",
-        "#text": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır."
-      },
-      "language_name_in_own_script": {
-        "@id": "6607",
-        "#text": "Türkçe"
-      },
-      "massive_thanks": {
-        "@id": "6268",
-        "#text": "Başlangıç kampanyamızdaki büyük finansman hedeflerimizin aşılmasını sağlayan ve Amikumu'nun gerçekleşmesini sağlayan 429 destekçimizin tümüne teşekkürler"
-      },
-      "metadata_desc": {
-        "@id": "6820",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
-      "metadata_title": {
-        "@id": "6815",
-        "#text": "Amikumu - Yakınınızdaki dil ortaklarını bulun"
-      },
-      "official_sponsor": {
-        "@id": "2621",
-        "#text": "Resmi Sponsor"
-      },
-      "sponsors": {
-        "@id": "2624",
-        "#text": "Sponsorlar"
-      },
-      "testimonials_block_0_add_name": {
-        "@id": "79",
-        "#text": "Benny Lewis, 3 ay içinde akıcı konuşmaya başladı"
-      },
-      "testimonials_block_0_add_sortcontent": {
-        "@id": "77",
-        "#text": "Bir sonra hangi şehirde uyanacağımı hiç bir zaman bilemiyorum, buna rağmen tüm dillerimin pratiğini yapmak istiyorum. Bu uygulama sayesinde bir tuşa basarak herhangi biri dili pratik edebiliyorum!"
-      },
-      "testimonials_block_1_add_name": {
-        "@id": "83",
-        "#text": "Judith Meyer, Çokdilli Toplantı kurucusu"
-      },
-      "testimonials_block_1_add_sortcontent": {
-        "@id": "81",
-        "#text": "Amikumu'nun dil öğrenme toplumu için inanılmaz faydalı bir uygulama olduğuna inanıyorum!"
-      },
-      "testimonials_block_2_add_name": {
-        "@id": "87",
-        "#text": "Profesör Ghil'ad Zuckermann, D.Phil."
-      },
-      "testimonials_block_2_add_sortcontent": {
-        "@id": "85",
-        "#text": "Uyguama yok olma tehlikesi altında olan dilleri pratik etmek ve bunları (mesela uyuyan güzel Barngarla dili gibi) tekrar canlandırmak isteyenlerin iletişimini güçlendirmektedir."
-      },
-      "testimonials_block_3_add_name": {
-        "@id": "91",
-        "#text": "Langfest inovasyon ödülü 2017 (Montreal)"
-      },
-      "testimonials_block_3_add_sortcontent": {
-        "@id": "89",
-        "#text": "Amikumu ve konuştuğumuz diller üzerinden onun bizi birleştirme isteğinden esinleniyoruz - veya konuşmaya daha fazla istekli oluyoruz!"
-      },
-      "testimonials_block_4_add_name": {
-        "@id": "3411",
-        "#text": "Galler hükümeti haftanın Uygulaması"
-      },
-      "testimonials_block_4_add_sortcontent": {
-        "@id": "3408",
-        "#text": "Amikumu dil öğrenimine yepyeni bir boyut kazandırmakta ve insanların dili pratik etmek için birbirleri ile iletişim şekillerini değiştirmektedir."
-      },
-      "tutorial_blocks_0_text": {
-        "@id": "495",
-        "#text": "Konuştuğunuz her dil için bir bio ekleyin ve isimlendirin! \n\nHangi dilleri bildiğinizi ve ne kadar iyi konuştuğunuzu belirtin.>"
-      },
-      "tutorial_blocks_0_title": {
-        "@id": "493",
-        "#text": "Profilleri araştırıp keşfedin ve kendinizi ifade edin"
-      },
-      "tutorial_blocks_1_text": {
-        "@id": "499",
-        "#text": "Bir dil seçin. Yakınlarda o dili konuşan insanlar bulun."
-      },
-      "tutorial_blocks_1_title": {
-        "@id": "497",
-        "#text": "Yakınlarda dil öğrenen ortakları her zaman, her yerde bulun"
-      },
-      "tutorial_blocks_2_text": {
-        "@id": "503",
-        "#text": "Yakınınızdaki dilinizi konuşan diğer kişilere mesaj gönderin. Resimler, sesli mesajlar ve harita koordinatlarını gönderin. Buluşmaları hızla organize edin ve hayat boyu arkadaş edinin."
-      },
+      "add_title": "Etrafta dil pratiği yapın",
+      "claim": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.",
+      "language_name_in_own_script": "Türkçe",
+      "massive_thanks": "Başlangıç kampanyamızdaki büyük finansman hedeflerimizin aşılmasını sağlayan ve Amikumu'nun gerçekleşmesini sağlayan 429 destekçimizin tümüne teşekkürler",
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
+      "metadata_title": "Amikumu - Yakınınızdaki dil ortaklarını bulun",
+      "official_sponsor": "Resmi Sponsor",
+      "sponsors": "Sponsorlar",
+      "testimonials_block_0_add_name": "Benny Lewis, 3 ay içinde akıcı konuşmaya başladı",
+      "testimonials_block_0_add_sortcontent": "Bir sonra hangi şehirde uyanacağımı hiç bir zaman bilemiyorum, buna rağmen tüm dillerimin pratiğini yapmak istiyorum. Bu uygulama sayesinde bir tuşa basarak herhangi biri dili pratik edebiliyorum!",
+      "testimonials_block_1_add_name": "Judith Meyer, Çokdilli Toplantı kurucusu",
+      "testimonials_block_1_add_sortcontent": "Amikumu'nun dil öğrenme toplumu için inanılmaz faydalı bir uygulama olduğuna inanıyorum!",
+      "testimonials_block_2_add_name": "Profesör Ghil'ad Zuckermann, D.Phil.",
+      "testimonials_block_2_add_sortcontent": "Uyguama yok olma tehlikesi altında olan dilleri pratik etmek ve bunları (mesela uyuyan güzel Barngarla dili gibi) tekrar canlandırmak isteyenlerin iletişimini güçlendirmektedir.",
+      "testimonials_block_3_add_name": "Langfest inovasyon ödülü 2017 (Montreal)",
+      "testimonials_block_3_add_sortcontent": "Amikumu ve konuştuğumuz diller üzerinden onun bizi birleştirme isteğinden esinleniyoruz - veya konuşmaya daha fazla istekli oluyoruz!",
+      "testimonials_block_4_add_name": "Galler hükümeti haftanın Uygulaması",
+      "testimonials_block_4_add_sortcontent": "Amikumu dil öğrenimine yepyeni bir boyut kazandırmakta ve insanların dili pratik etmek için birbirleri ile iletişim şekillerini değiştirmektedir.",
+      "tutorial_blocks_0_text": "Konuştuğunuz her dil için bir bio ekleyin ve isimlendirin! \n\nHangi dilleri bildiğinizi ve ne kadar iyi konuştuğunuzu belirtin.>",
+      "tutorial_blocks_0_title": "Profilleri araştırıp keşfedin ve kendinizi ifade edin",
+      "tutorial_blocks_1_text": "Bir dil seçin. Yakınlarda o dili konuşan insanlar bulun.",
+      "tutorial_blocks_1_title": "Yakınlarda dil öğrenen ortakları her zaman, her yerde bulun",
+      "tutorial_blocks_2_text": "Yakınınızdaki dilinizi konuşan diğer kişilere mesaj gönderin. Resimler, sesli mesajlar ve harita koordinatlarını gönderin. Buluşmaları hızla organize edin ve hayat boyu arkadaş edinin.",
       "tutorial_blocks_2_title": {
-        "@id": "501",
         "#text": "Sohbet edin ve buluşun!"
       }
     }
   }
-}
 ,
 "page_press":
 {
-  "content": {
     "post_title": "Basın",
     "post_content": {
       "h3": [
@@ -878,21 +607,15 @@
       "#text": "2018-04-21:  (Sbcltr)\n\n2018-03-18:  (Kalkulinda)\n\n2018-01-11:  (Free Language)\n\n2017-12-07:  (The Guardian)\n\n2017-12-04:  (Fluent Language)\n\n2017-08-03:  (Yury Jakymec)\n\n2017-07-28:  (Teach Yourself)\n\n2017-07-25:  (The Global Times)\n\n2017-06-12:  (CBC Radio One)\n\n2016-11-03:  (Transparent Language)\n\n2016-11-03:  (Yozzi)\n\n2016-10-24:  (Polyglot Nerd)\n\n2016-10-18:  (Steve Kaufmann)\n\n2017-10-22: \n\n2017-04-26:  (Espereto)\n\n2017-08-04:  (IB3)\n\n2017-08-23:  (徐杰)\n\n2017-02-08:  (Chuvash.org)\n\n2017-02-08: \n\n2017-11-07:  (Welsh Government)\n\n2017-05-28:  (Sprachheld)\n\n2016-12-31:  (Svisa Espero)\n\n2018-01-08:  (El Mundo)\n\n2017-10-24:  (Polyglot Nerd)\n\n2018-03-24:  (Libera Folio)\n\n2018-03-18:  (Kalkulinda)\n\n2017-10-27:  (Libera Folio)\n\n2017-07-25:  (Teo kaj Libroj)\n\n2017-06-13:  (Libera Folio)\n\n2017-04-26:  (La Balta Ondo)\n\n2017-04-23:  (Libera Folio)\n\n2017-04-13:  (Libera Folio)\n\n2017-03-27: \n\n2017-03-19: \n\n2017-03-09:  (La Balta Ondo)\n\n2016-11-22:  (La Balta Ondo)\n\n2016-11-16:  (UEA)\n\n2016-11-15: Mention in the  (El Popola Ĉinio)\n\n2016-11-02:  (Jake H)\n\n2016-10-26:  (Emilio Cid)\n\n2016-10-23:  (Esperanto VBlogo)\n\n2016-10-19:  (Esperanto VBlogo)\n\n2016-10-18:  (Libera Folio)\n\n2016-10-18:  (Pola RetRadio)\n\n2016-10-18:  (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10:  (Movada Vidpunkto)\n\n2017-03-30:  (Toulangues)\n\n2017-03-27: \n\n2016-1-01:  (Espéranto France)\n\n2017-08-30:  (Whistling in the Wind)\n\n2018-03-11:  (Jurnalo)\n\n2017-11-02:  (Manageritalia)\n\n2018-03-20:  (エスペラントの今)\n\n2017-10-27:  (에스페란티스토를 위한)\n\n2017-01-31:  (Horizon.taal)\n\n2016-10-31:  (Vincent Oostelbos)\n\n2018-006-04: \n\n2017-11-03:  (Marko Esperanto)\n\n2017-10-24:  (Polyglot Nerd)\n\n2017-08-17:  (Yiddish Daily Forward)\n\n2016-11-02:  (Reb Yid)\n\n2017-01-24:  (YorubaMums Blog)>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6891",
-        "#text": "Amikumu basın sayfasına hoşgeldiniz. Burada Amikumu hakkında sayısız makalelere bağlantılar bulabilirsiniz."
-      },
+      "metadata_desc": "Amikumu basın sayfasına hoşgeldiniz. Burada Amikumu hakkında sayısız makalelere bağlantılar bulabilirsiniz.",
       "metadata_title": {
-        "@id": "6901",
         "#text": "Haberlerde Amikumu!"
       }
     }
   }
-}
 ,
 "page_privacy-terms":
 {
-  "content": {
     "post_title": "Gizlilik ve şartlar",
     "post_content": {
       "h1": [
@@ -1185,57 +908,39 @@
       "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website  (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.\n\n**Personal information:** The type of information we collect may include:\n\n**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.\n\nWe collect and use the information for purposes including:\n\n\nWe may disclose personal information to:\n\nWhere we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.\n\n**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below.\n\nWe are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.\n\nWe may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see  or any other URL Google may use from time to time.\n\nOur Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.\n\nThis Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com\n\nThese Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**).\n\n\n\nThese Terms supplement and incorporate:\n\nIf any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:\n\nAny use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms.\n\n\n\n\n\n\n\n\n\n\n**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6910",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
       "metadata_title": {
-        "@id": "6920",
         "#text": "Amikumu gizlilik ve koşullar"
       }
     }
   }
-}
 ,
 "page_shop":
 {
-  "content": {
     "post_title": "Dükkan",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6929",
-        "#text": "Amikumu'nun online dükkanını ziyaret edin ve harika t-shirt'lerden birini alarak yerel topluluğunuzda Amikumu'nun tanıtımına katkıda bulunun."
-      },
+      "metadata_desc": "Amikumu'nun online dükkanını ziyaret edin ve harika t-shirt'lerden birini alarak yerel topluluğunuzda Amikumu'nun tanıtımına katkıda bulunun.",
       "metadata_title": {
-        "@id": "6939",
         "#text": "Amikumu online dükkan"
       }
     }
   }
-}
 ,
 "page_statistics":
 {
-  "content": {
     "post_title": "Istatistikleri",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6948",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
       "metadata_title": {
-        "@id": "6958",
         "#text": "Amikumu istatistikleri"
       }
     }
   }
-}
 ,
 "page_support-us":
 {
-  "content": {
     "post_title": "Bizi destekle",
     "post_content": {
       "ol": [
@@ -1359,16 +1064,10 @@
       "#text": "Amikumu desteklemeye gösterdiğiniz ilgi için teşekkür ederiz. Desteğinizi göstermek ve topluluğumuzun büyümesine yardımcı olmak için 8 kolay yol var.\n\nHer ay, planlarımız ve başarılarımız hakkında sahne arkasında olmayan bilgiler içeren bir bülten yayınlıyoruz. Kendiniz gibi topluluk üyelerimizin katkılarını da kabul ediyoruz. Bu bizim sizinle doğrudan konuşmamızın yolu. .\n\nEn popüler web sitelerinde sosyal medya varlığımız var.\n\n\nSosyal medyada veya e-postayla uygulamalarımızı arkadaşlarınızla paylaşın! Amikumu hakkında daha fazla insan duyarsa, bizim için hep o kadar yararlı olur. Resmi web sitemize bir bağlantı paylaşın ile birlikte neden bu kadar çok zevk alıyorsun.\n\nAmacımız dünyanın en çok çevrilen uygulaması olmaktır! Bu kolay değil, bu yüzden yardımınıza ihtiyacımız var! Varolan bir çeviriye katkıda bulunmak veya yeni bir çeviri başlatmak için lütfen kayıt olun  (tercih ettiğimiz çeviri hizmeti) ve çevirmek istediğiniz dili seçin. Minimum gerekli değildir, tüm uygulamayı veya yalnızca tek bir kelimeyi çevirebilirsiniz - nasıl isterseniz.\n\nAltın üyeliği, sanal teleportasyon ve ek gizlilik ayarları gibi ek özellikler sağlar. Ancak, aynı zamanda desteğini göstermek ve bize değerli fonlar sağlamak için harika bir yoldur! Gold Üyeliğini uygulama içinden satın alabilirsiniz (yakında!).\n\nBir t-shirt, Amikumu'nun farkındalığını artırmak için basit ama güçlü bir yöntemdir. Buradan bakın .\n\n dağıtabileceğiniz el ilanları hazırladık. Ayrıca kullanımınız için birçok dile tercüme edilmiştir. Yaptığınız özel broşürlere ihtiyacınız varsa, lütfen bizimle iletişim kurun \n\nSon ama en son değil, Amikumu'yla insanlarla tanışın ve hikayelerinizi paylaşın! Başarılı buluşmaların hikayelerini topluluğumuzla paylaşmayı severiz. Hikayelerinizi ve fotoğraflarınızı bize e-posta ile gönderin \n\nSon olarak, ilerlememize herhangi bir şekilde yardımcı olabilecek kişilere şimdiden çok teşekkür ederiz. Herhangi bir fikir veya öneriniz varsa, bizimle bizimle iletişime geçmekten çekinmeyin .>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6967",
-        "#text": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!"
-      },
+      "metadata_desc": "Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!",
       "metadata_title": {
-        "@id": "6977",
         "#text": "Amikumu'ya bugün destek verin!"
       }
     }
   }
-}
-,
 }

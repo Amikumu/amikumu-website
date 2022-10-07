@@ -1,92 +1,40 @@
 {
 "page_about-us":
 {
-  "content": {
     "post_title": "Über uns",
     "post_content": null,
     "post_meta": {
-      "add_description": {
-        "@id": "320",
-        "#text": "Die Mission von Amikumu ist es, ein Netzwerk zu schaffen und aufrecht zu erhalten, das Sprechern, Gebärdenden und Benutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und relevante Informationen örtlich auszutauschen - alles ungeachtet der sozialen, politischen und wirtschaftlichen Stellung jeder Sprache."
-      },
-      "add_title": {
-        "@id": "318",
-        "#text": "Entwickelt von einem Team von Mehrsprachigen"
-      },
-      "city": {
-        "@id": "6473",
-        "#text": "Stadt"
-      },
-      "languages": {
-        "@id": "6477",
-        "#text": "Sprachen"
-      },
-      "metadata_desc": {
-        "@id": "6834",
-        "#text": "Das Team von Amikumu besteht aus Mehrsprachigen aus der ganzen Welt, die hunderte Stunden damit verbracht haben, Sprachen zu meistern."
-      },
-      "metadata_title": {
-        "@id": "6839",
-        "#text": "Lerne das Amikumu-Team kennen"
-      },
-      "our_team": {
-        "@id": "6469",
-        "#text": "Unser Team"
-      },
-      "team_members_0_city": {
-        "@id": "328",
-        "#text": "Sydney, Australien"
-      },
+      "add_description": "Die Mission von Amikumu ist es, ein Netzwerk zu schaffen und aufrecht zu erhalten, das Sprechern, Gebärdenden und Benutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und relevante Informationen örtlich auszutauschen - alles ungeachtet der sozialen, politischen und wirtschaftlichen Stellung jeder Sprache.",
+      "add_title": "Entwickelt von einem Team von Mehrsprachigen",
+      "city": "Stadt",
+      "languages": "Sprachen",
+      "metadata_desc": "Das Team von Amikumu besteht aus Mehrsprachigen aus der ganzen Welt, die hunderte Stunden damit verbracht haben, Sprachen zu meistern.",
+      "metadata_title": "Lerne das Amikumu-Team kennen",
+      "our_team": "Unser Team",
+      "team_members_0_city": "Sydney, Australien",
       "team_members_0_description": {
-        "@id": "326",
         "br": [
           null,
           null
         ],
         "#text": "Richard Delamore, bekannt unter seinem Onlinenamen Evildea, ist eine australische Esperanto-Youtube-Persönlichkeit und führend in der Esperanto-Filmindustrie. Vor der Mitgründung Amikumus hat Richard Esperanto-TV gegründet und war als Vorstandsmitglied für die australischen Esperanto-Assoziation (AEA), die Sprachfestival-Assoziation (LFA) und die Esperanto-Föderation von New South Wales (EFNSW) tätig. Zusätzlich hat er sechs Jahre lang in der australischen Armee als Signalbediener gedient und für mehrere internationale Firmen als Systemadministrator gearbeitet.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
       },
-      "team_members_0_job_title": {
-        "@id": "324",
-        "#text": "Geschäftsführer"
-      },
-      "team_members_0_languages": {
-        "@id": "330",
-        "#text": "Englisch, Esperanto, Mandarin"
-      },
-      "team_members_0_name": {
-        "@id": "374",
-        "#text": "Richard Delamore"
-      },
-      "team_members_1_city": {
-        "@id": "338",
-        "#text": "Berlin, Deutschland (aus den USA)"
-      },
+      "team_members_0_job_title": "Geschäftsführer",
+      "team_members_0_languages": "Englisch, Esperanto, Mandarin",
+      "team_members_0_name": "Richard Delamore",
+      "team_members_1_city": "Berlin, Deutschland (aus den USA)",
       "team_members_1_description": {
-        "@id": "336",
         "br": [
           null,
           null
         ],
         "#text": "Chuck Smith ist der Co-Organisator des Polyglot Gatherings, Beitragender zum Duolingo-Esperantokurs und Gründer der Esperanto-Wikipedia neben anderen Esperanto- und Polyglott-Projekten. Er entwickelt Apps für iOS seit dem Start des Apple App Stores im Jahre 2008. Ihm kam die Idee für ein GPS-Gerät zum Finden anderer Esperantosprechern während einer Reise durch Brasilien 2002, musste jedoch 15 Jahre warten, bis die Technologie so weit war, seinen Traum Wirklichkeit werden zu lassen. Nun freut er sich auf die zukünftigen Herausforderungen Menschen miteinander zu verbinden und die Welt einen besseren Ort zu machen.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
       },
-      "team_members_1_job_title": {
-        "@id": "334",
-        "#text": "Chief Technical Officer and Mobile Developer"
-      },
-      "team_members_1_languages": {
-        "@id": "340",
-        "#text": "Englisch, Esperanto, Deutsch, Spanisch, Französisch, Niederländisch, Polnisch, ASL"
-      },
-      "team_members_1_name": {
-        "@id": "376",
-        "#text": "Chuck Smith"
-      },
-      "team_members_2_city": {
-        "@id": "587",
-        "#text": "Amsterdam, The Netherlands"
-      },
+      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
+      "team_members_1_languages": "Englisch, Esperanto, Deutsch, Spanisch, Französisch, Niederländisch, Polnisch, ASL",
+      "team_members_1_name": "Chuck Smith",
+      "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "@id": "585",
         "br": [
           null,
           null,
@@ -94,97 +42,49 @@
         ],
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
       },
-      "team_members_2_job_title": {
-        "@id": "583",
-        "#text": "Volunteer: Mobile Developer / Customer Support"
-      },
-      "team_members_2_languages": {
-        "@id": "589",
-        "#text": "Dutch, English, Esperanto, baby-German"
-      },
-      "team_members_2_name": {
-        "@id": "579",
-        "#text": "Tanja Orme"
-      },
-      "team_members_3_city": {
-        "@id": "599",
-        "#text": "Berlin, Deutschland"
-      },
+      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
+      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
+      "team_members_2_name": "Tanja Orme",
+      "team_members_3_city": "Berlin, Deutschland",
       "team_members_3_description": {
-        "@id": "597",
         "br": [
           null,
           null
         ],
         "#text": "Judith Meyer ist eine Computerlinguistin, die ihre meiste Zeit damit verbringt, Webanwendungen wie zu entwickeln, die wie LearnYu etwas mit Sprache zu tun haben. Sie ist eine Polyglottin, Mitorganisatorin des Polyglot Gatherings und Autorin vieler Sprachlehrbücher und Sprachkurse. Im Alter von 14 Jahren lernte sie Esperanto, was für sie Sprungbrett für viele weitere Sprachen war.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
       },
-      "team_members_3_job_title": {
-        "@id": "595",
-        "#text": "Backend Developer"
-      },
-      "team_members_3_languages": {
-        "@id": "601",
-        "#text": "Deutsch, Englisch, Esperanto, Latein, Französisch, Italienisch, Griechisch, Mandarin, Niederländisch, Spanisch, Indonesisch, Hebräisch, Kiswahili"
-      },
-      "team_members_3_name": {
-        "@id": "591",
-        "#text": "Judith Meyer"
-      },
-      "team_members_4_city": {
-        "@id": "611",
-        "#text": "Philadelphia, USA"
-      },
+      "team_members_3_job_title": "Backend Developer",
+      "team_members_3_languages": "Deutsch, Englisch, Esperanto, Latein, Französisch, Italienisch, Griechisch, Mandarin, Niederländisch, Spanisch, Indonesisch, Hebräisch, Kiswahili",
+      "team_members_3_name": "Judith Meyer",
+      "team_members_4_city": "Philadelphia, USA",
       "team_members_4_description": {
-        "@id": "609",
         "br": [
           null,
           null
         ],
         "#text": "Jesse Alter ist ein Systemadministrator für Linux mit einem Abschluss in Informatik und Sozialarbeit. Im Laufe der Jahre hat Jesse für mehrere Webseiten und Dienstleistungen die Server instand gehalten, während er als pädiatrischer Sozialarbeiter tätig war. Später hat er seine Karriere gewechselt, um seinem lebenslangen Interesse am Entwickeln und Instandhalten von Computersystemen nachzugehen. Neben Amikumu interessiert Jesse sich u. a. für Retrocomputer, Datenschutz und Datenanalyse.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Für mich ist das eine Art Superpower.“>"
       },
-      "team_members_4_job_title": {
-        "@id": "607",
-        "#text": "Systemadministrator"
-      },
-      "team_members_4_languages": {
-        "@id": "613",
-        "#text": "Englisch, Esperanto"
-      },
-      "team_members_4_name": {
-        "@id": "603",
-        "#text": "Jesse Alter"
-      },
-      "team_members_5_city": {
-        "@id": "703",
-        "#text": "Jekaterinburg, Russland"
-      },
+      "team_members_4_job_title": "Systemadministrator",
+      "team_members_4_languages": "Englisch, Esperanto",
+      "team_members_4_name": "Jesse Alter",
+      "team_members_5_city": "Jekaterinburg, Russland",
       "team_members_5_description": {
-        "@id": "701",
         "br": [
           null,
           null
         ],
         "#text": "Elena Khusanova ist eine versierte Grafikerin mit einem Diplom in theoretischer Architektur. Nach ihrem Abschluss lernte sie Esperanto und hat seit dem für verschiedene Organisationen und Veranstaltungen gearbeitet. Zu den Highlights gehören neben anderen Projekten ihr Freiwilligendienst für E@I in der Slowakei und der 101. Esperanto-Weltkongress. Vor kurzem schloss sie ein eigenes Projekt ab: Karten für das Spiel \"Werewolves\".\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
       },
-      "team_members_5_job_title": {
-        "@id": "699",
-        "#text": "Grafikdesigner"
-      },
-      "team_members_5_languages": {
-        "@id": "705",
-        "#text": "Englisch, Russisch, Esperanto, Slowakisch, Schwedisch, Toki Pona"
-      },
+      "team_members_5_job_title": "Grafikdesigner",
+      "team_members_5_languages": "Englisch, Russisch, Esperanto, Slowakisch, Schwedisch, Toki Pona",
       "team_members_5_name": {
-        "@id": "695",
         "#text": "Elena Khusanova"
       }
     }
   }
-}
 ,
 "page_ambassador":
 {
-  "content": {
     "post_title": "Botschafter",
     "post_content": {
       "h2": [
@@ -230,21 +130,15 @@
       "#text": "Erst einmal einen Riesendank für dein Interesse an unserem Botschafterprogramm.\n\nIm Grunde ist ein Amikumu-Botschafter jemand der hilft, Amikumu in seiner lokalen Gemeinschaft voranzubringen. Sie sind Repräsentanten vor Ort! Unsere größten Fans und Unterstützer.\n\nDas kommt ganz darauf an, was sie geben können. Wir haben einige Möglichkeiten aufgelistet, wie Botschafter uns helfen, Amikumu rund um den Globus voranzubringen:\n\n\nEs gibt nicht viel, was wir für deine wertvolle Hilfe bieten können. Aber, Botschafter zu sein bringt gewisse Vorteile mit sich. Wir bieten Botschaftern unter anderem Abzeichen, die in der App gesammelt werden können. Zögere nicht uns für mehr Informationen zu kontaktieren unter ."
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6853",
-        "#text": "Ein Amikumu-Botschafter ist jemand der hilft, Amikumu in seiner lokalen Gemeinschaft voranzubringen. Sie sind Repräsentanten vor Ort! Unsere größten Fans und Unterstützer."
-      },
+      "metadata_desc": "Ein Amikumu-Botschafter ist jemand der hilft, Amikumu in seiner lokalen Gemeinschaft voranzubringen. Sie sind Repräsentanten vor Ort! Unsere größten Fans und Unterstützer.",
       "metadata_title": {
-        "@id": "6863",
         "#text": "Tritt dem Amikumu-Botschafterprogramm bei!"
       }
     }
   }
-}
 ,
 "page_faq":
 {
-  "content": {
     "post_title": "Hilfe / FAQ",
     "post_content": {
       "h2": [
@@ -345,21 +239,15 @@
       "#text": "Amikumu ist eine App, die dir hilft, Menschen in der Umgebung zu finden, um mit ihnen eine bestimmte Sprache zu sprechen. Z. B. kannst du Amikumu im Urlaub benutzen um Spanischsprechende, Französischsprechende oder Sprecher irgendeiner anderen Sprache zu treffen.\n\n\n\n\nJa.\n\nAmikumu für Android (OS 4.0.3) und iOS 9.1 (iPhone 4S, iPad 2+) erhältlich.\n\n\nDeine Privatsphäre und Sicherheit sind uns sehr wichtig, deshalb zeigt und speichert Amikumu keine exakten Positionen.\n\nKannst du nicht, aber Amikumu hat eine Blockierfunktion. Wenn du einen Nutzer blockierst, können sie dich nicht mehr sehen oder kontaktieren.\n\n\nWir bei Amikumu sind Open Source-freundlich. Leider passt Open Source derzeit nicht zu unserer Organisation. Allerdings suchen wir nach Möglichkeiten, Kode zu veröffentlichen, wenn wir das Gefühl haben, dass es das richtige für uns ist.\n\nJa, du kannst helfen, Amikumu hier .\n\nAmikumu ist Esperanto und bedeutet „etwas mit Freunden machen“.\n\nWir begrüßen dein Feedback, darum abonniere  oder folge uns auf ,  und  um auf dem Laufenden zu bleiben.\n\nFür weitere Fragen kannst du uns gerne kontaktieren unter >"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6872",
-        "#text": "Finde und kontaktiere Sprachpartnern sofort in deiner Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
+      "metadata_desc": "Finde und kontaktiere Sprachpartnern sofort in deiner Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
       "metadata_title": {
-        "@id": "6877",
         "#text": "Hilfe / FAQ"
       }
     }
   }
-}
 ,
 "page_for-organizations":
 {
-  "content": {
     "post_title": "Für Organisationen",
     "post_content": {
       "ol": {
@@ -377,235 +265,76 @@
       "#text": ">"
     },
     "post_meta": {
-      "additional_month": {
-        "@id": "10378",
-        "#text": "für jeden weiteren Monat (muss im Voraus bezahlt werden)"
-      },
-      "advertise_teaser": {
-        "@id": "10395",
-        "#text": "Eine standortbasierte Werbung, die nur den 100 nächsten Leuten in der Umgebung angezeigt wird."
-      },
-      "advertise_text": {
-        "@id": "10412",
-        "#text": "Amikumu ist ein soziales Netzwerk, das Sprechern, Gebärdern und Nutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und lokal relevante Informationen auszutauschen. Unsere Nutzer sind größtenteils Polyglotte und Sprecher von Minderheitensprachen."
-      },
-      "advertise_with_us": {
-        "@id": "10429",
-        "#text": "Werben Sie mit Amikumu"
-      },
-      "advertisement": {
-        "@id": "10462",
-        "#text": "Werbung"
-      },
-      "average_number_of_languages_spoken": {
-        "@id": "10479",
-        "#text": "Durchschnittliche Anzahl gesprochener Sprachen"
-      },
-      "badge_contact_us_part1": {
-        "@id": "10496",
-        "#text": "Bitte mailen Sie uns unter"
-      },
-      "badge_contact_us_part2": {
-        "@id": "10513",
-        "#text": "für weitere Informationen."
-      },
-      "commercial": {
-        "@id": "10530",
-        "#text": "Kommerziell"
-      },
-      "complete_analysis_part1": {
-        "@id": "10547",
-        "#text": "Für eine vollständige Analyse unserer Sprachstatistiken, besuchen Sie unsere"
-      },
-      "complete_analysis_part2": {
-        "@id": "10564",
-        "#text": "Seite „Statistiken“"
-      },
-      "cost": {
-        "@id": "10581",
-        "#text": "Kosten"
-      },
-      "dau_daily_active_users": {
-        "@id": "10598",
-        "#text": "DAU (tägliche aktive Nutzer)"
-      },
-      "how_to_purchase": {
-        "@id": "10615",
-        "#text": "Erwerb"
-      },
-      "in_app_collectible_badges": {
-        "@id": "10632",
-        "#text": "In der App sammelbare Abzeichen"
-      },
-      "in_app_collectible_badges_text": {
-        "@id": "10649",
-        "#text": "In der App sammelbares Abzeichen, das auf der Profilseite der Nutzer erscheint. Perfekt, um für groß angelegte Treffen, Sprachfestivals oder Seminare zu werben und einen zusätzlichen Anreiz für die Teilnahme zu schaffen."
-      },
-      "mau_montly_active_users": {
-        "@id": "10666",
-        "#text": "MAU (monatlich aktive Nutzer)"
-      },
-      "metadata_desc": {
-        "@id": "10853",
-        "#text": "Finden und kontaktieren Sie Sprachpartnern sofort in Ihrer Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
-      "metadata_title": {
-        "@id": "10887",
-        "#text": "Amikumu - Finde Sprachpartner in der Umgebung"
-      },
-      "non_profit": {
-        "@id": "10683",
-        "#text": "Gemeinnützig"
-      },
-      "number_of_countries_represented": {
-        "@id": "10700",
-        "#text": "Anzahl vertretener Länder"
-      },
-      "number_of_languages_spoken": {
-        "@id": "10717",
-        "#text": "Anzahl gesprochener Sprachen"
-      },
-      "prices_assume": {
-        "@id": "10734",
-        "#text": "Bei den oben genannten Preisen wird davon ausgegangen, dass sie in nur einer Sprache werben. Für jede weitere Sprache fällt eine Extragebühr von 4€ pro Monat an. Zusätzliche Einrichtegebühren gibt es nicht."
-      },
-      "purchase_email_text_part1": {
-        "@id": "10751",
-        "#text": "Bitte mailen Sie uns unter"
-      },
-      "purchase_email_text_part2": {
-        "@id": "10768",
-        "#text": "mit den oben genannten Details für jede Sprachwerbung."
-      },
-      "purchase_info": {
-        "@id": "10785",
-        "#text": "Alle Werbungskäufe müssten in englischer Sprache oder Esperanto erfolgen."
-      },
-      "setup_fee": {
-        "@id": "10802",
-        "#text": "Einrichtegebühr (inkl. erster Monat)"
-      },
-      "total_users": {
-        "@id": "10819",
-        "#text": "Nutzer insgesamt"
-      },
+      "additional_month": "für jeden weiteren Monat (muss im Voraus bezahlt werden)",
+      "advertise_teaser": "Eine standortbasierte Werbung, die nur den 100 nächsten Leuten in der Umgebung angezeigt wird.",
+      "advertise_text": "Amikumu ist ein soziales Netzwerk, das Sprechern, Gebärdern und Nutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und lokal relevante Informationen auszutauschen. Unsere Nutzer sind größtenteils Polyglotte und Sprecher von Minderheitensprachen.",
+      "advertise_with_us": "Werben Sie mit Amikumu",
+      "advertisement": "Werbung",
+      "average_number_of_languages_spoken": "Durchschnittliche Anzahl gesprochener Sprachen",
+      "badge_contact_us_part1": "Bitte mailen Sie uns unter",
+      "badge_contact_us_part2": "für weitere Informationen.",
+      "commercial": "Kommerziell",
+      "complete_analysis_part1": "Für eine vollständige Analyse unserer Sprachstatistiken, besuchen Sie unsere",
+      "complete_analysis_part2": "Seite „Statistiken“",
+      "cost": "Kosten",
+      "dau_daily_active_users": "DAU (tägliche aktive Nutzer)",
+      "how_to_purchase": "Erwerb",
+      "in_app_collectible_badges": "In der App sammelbare Abzeichen",
+      "in_app_collectible_badges_text": "In der App sammelbares Abzeichen, das auf der Profilseite der Nutzer erscheint. Perfekt, um für groß angelegte Treffen, Sprachfestivals oder Seminare zu werben und einen zusätzlichen Anreiz für die Teilnahme zu schaffen.",
+      "mau_montly_active_users": "MAU (monatlich aktive Nutzer)",
+      "metadata_desc": "Finden und kontaktieren Sie Sprachpartnern sofort in Ihrer Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
+      "metadata_title": "Amikumu - Finde Sprachpartner in der Umgebung",
+      "non_profit": "Gemeinnützig",
+      "number_of_countries_represented": "Anzahl vertretener Länder",
+      "number_of_languages_spoken": "Anzahl gesprochener Sprachen",
+      "prices_assume": "Bei den oben genannten Preisen wird davon ausgegangen, dass sie in nur einer Sprache werben. Für jede weitere Sprache fällt eine Extragebühr von 4€ pro Monat an. Zusätzliche Einrichtegebühren gibt es nicht.",
+      "purchase_email_text_part1": "Bitte mailen Sie uns unter",
+      "purchase_email_text_part2": "mit den oben genannten Details für jede Sprachwerbung.",
+      "purchase_info": "Alle Werbungskäufe müssten in englischer Sprache oder Esperanto erfolgen.",
+      "setup_fee": "Einrichtegebühr (inkl. erster Monat)",
+      "total_users": "Nutzer insgesamt",
       "your_badge": {
-        "@id": "10836",
         "#text": "Ihr Abzeichen!"
       }
     }
   }
-}
 ,
 "page_home-page":
 {
-  "content": {
     "post_title": "Startseite",
     "post_content": null,
     "post_meta": {
-      "add_title": {
-        "@id": "43",
-        "#text": "Übe Sprachen in der Umgebung"
-      },
-      "claim": {
-        "@id": "5350",
-        "#text": "Die Mission von Amikumu ist es, ein Netzwerk zu schaffen und aufrecht zu erhalten, das Sprechern, Gebärdenden und Benutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und relevante Informationen örtlich auszutauschen - alles ungeachtet der sozialen, politischen und wirtschaftlichen Stellung jeder Sprache."
-      },
-      "language_name_in_own_script": {
-        "@id": "6607",
-        "#text": "Deutsch"
-      },
-      "massive_thanks": {
-        "@id": "6268",
-        "#text": "Einen Riesendank an all unsere 429 Unterstützer auf Kicksaterter, die unsere Finanzierungsziele übertrumpft haben und Amikumu Wirklichkeit werden ließen"
-      },
-      "metadata_desc": {
-        "@id": "6820",
-        "#text": "Finde und kontaktiere sofort Sprachpartnern in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
-      "metadata_title": {
-        "@id": "6815",
-        "#text": "Amikumu - Finde Sprachpartner in der Umgebung"
-      },
-      "official_sponsor": {
-        "@id": "2621",
-        "#text": "Der offizielle Sponsor"
-      },
-      "sponsors": {
-        "@id": "2624",
-        "#text": "Sponsoren"
-      },
-      "testimonials_block_0_add_name": {
-        "@id": "79",
-        "#text": "Benny Lewis, Fluent in 3 Months"
-      },
-      "testimonials_block_0_add_sortcontent": {
-        "@id": "77",
-        "#text": "Ich weiß nie, in welcher Stadt ich als nächstes aufwache, und doch möchte ich mich in all meinen Sprachen verbessern. Mit dieser App bin ich in der Lage alle Sprachen zu trainieren, die ich möchte - mit nur einem Knopfdruck!"
-      },
-      "testimonials_block_1_add_name": {
-        "@id": "83",
-        "#text": "Judith Meyer, Polyglot Gathering"
-      },
-      "testimonials_block_1_add_sortcontent": {
-        "@id": "81",
-        "#text": "Ich glaube, Amikumu kann eine der nützlichsten Apps in der Sprachlerngemeinschaft werden!"
-      },
-      "testimonials_block_2_add_name": {
-        "@id": "87",
-        "#text": "Professor Ghil'ad Zuckermann, D.Phil."
-      },
-      "testimonials_block_2_add_sortcontent": {
-        "@id": "85",
-        "#text": "Diese App hat das Potenzial die Kommunikation von Sprechern vom Aussterben bedrohter Sprachen und Erweckern schlafender Schönheiten, wie der Barngarla-Sprache der Aborigines, zu verbessern."
-      },
-      "testimonials_block_3_add_name": {
-        "@id": "91",
-        "#text": "Langfest Innovationspreis 2017 (Montreal)"
-      },
-      "testimonials_block_3_add_sortcontent": {
-        "@id": "89",
-        "#text": "Wir sind von Amikumu und deren Ambition, uns Sprecher in den Sprachen, die wir sprechen (oder sprechen wollen), zu vereinigen, überzeugt!"
-      },
-      "testimonials_block_4_add_name": {
-        "@id": "3411",
-        "#text": "Walisische Regierung: App der Woche"
-      },
-      "testimonials_block_4_add_sortcontent": {
-        "@id": "3408",
-        "#text": "Amikumu schafft eine neue Dimension in Sachen Sprachenlernen and verändert die Weise, wie sich Menschen verbinden und Sprachen üben."
-      },
-      "tutorial_blocks_0_text": {
-        "@id": "495",
-        "#text": "Füge für jede Sprache einen eigenen Benutzernamen und Steckbrief hinzu!\n\nGib an, welche Sprachen du sprichst und wie gut du sie beherrschst.>"
-      },
-      "tutorial_blocks_0_title": {
-        "@id": "493",
-        "#text": "Entdecke Profile und äußere dich"
-      },
-      "tutorial_blocks_1_text": {
-        "@id": "499",
-        "#text": "Wähle eine Sprache.\n\nFinde Leute in der Nähe, die auch diese Sprache sprechen.>"
-      },
-      "tutorial_blocks_1_title": {
-        "@id": "497",
-        "#text": "Finde Sprachpartner in deiner Umgebung - jederzeit, überall"
-      },
-      "tutorial_blocks_2_text": {
-        "@id": "503",
-        "#text": "Sende anderen in der Umgebung, die auch deine Sprache sprechen, eine Nachricht.\n\nVersende Bilder, Sprachnachrichten und Standorte.\n\nOrganisiere Treffen im Nu und lerne Freunde fürs Leben kennen.>"
-      },
+      "add_title": "Übe Sprachen in der Umgebung",
+      "claim": "Die Mission von Amikumu ist es, ein Netzwerk zu schaffen und aufrecht zu erhalten, das Sprechern, Gebärdenden und Benutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und relevante Informationen örtlich auszutauschen - alles ungeachtet der sozialen, politischen und wirtschaftlichen Stellung jeder Sprache.",
+      "language_name_in_own_script": "Deutsch",
+      "massive_thanks": "Einen Riesendank an all unsere 429 Unterstützer auf Kicksaterter, die unsere Finanzierungsziele übertrumpft haben und Amikumu Wirklichkeit werden ließen",
+      "metadata_desc": "Finde und kontaktiere sofort Sprachpartnern in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
+      "metadata_title": "Amikumu - Finde Sprachpartner in der Umgebung",
+      "official_sponsor": "Der offizielle Sponsor",
+      "sponsors": "Sponsoren",
+      "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
+      "testimonials_block_0_add_sortcontent": "Ich weiß nie, in welcher Stadt ich als nächstes aufwache, und doch möchte ich mich in all meinen Sprachen verbessern. Mit dieser App bin ich in der Lage alle Sprachen zu trainieren, die ich möchte - mit nur einem Knopfdruck!",
+      "testimonials_block_1_add_name": "Judith Meyer, Polyglot Gathering",
+      "testimonials_block_1_add_sortcontent": "Ich glaube, Amikumu kann eine der nützlichsten Apps in der Sprachlerngemeinschaft werden!",
+      "testimonials_block_2_add_name": "Professor Ghil'ad Zuckermann, D.Phil.",
+      "testimonials_block_2_add_sortcontent": "Diese App hat das Potenzial die Kommunikation von Sprechern vom Aussterben bedrohter Sprachen und Erweckern schlafender Schönheiten, wie der Barngarla-Sprache der Aborigines, zu verbessern.",
+      "testimonials_block_3_add_name": "Langfest Innovationspreis 2017 (Montreal)",
+      "testimonials_block_3_add_sortcontent": "Wir sind von Amikumu und deren Ambition, uns Sprecher in den Sprachen, die wir sprechen (oder sprechen wollen), zu vereinigen, überzeugt!",
+      "testimonials_block_4_add_name": "Walisische Regierung: App der Woche",
+      "testimonials_block_4_add_sortcontent": "Amikumu schafft eine neue Dimension in Sachen Sprachenlernen and verändert die Weise, wie sich Menschen verbinden und Sprachen üben.",
+      "tutorial_blocks_0_text": "Füge für jede Sprache einen eigenen Benutzernamen und Steckbrief hinzu!\n\nGib an, welche Sprachen du sprichst und wie gut du sie beherrschst.>",
+      "tutorial_blocks_0_title": "Entdecke Profile und äußere dich",
+      "tutorial_blocks_1_text": "Wähle eine Sprache.\n\nFinde Leute in der Nähe, die auch diese Sprache sprechen.>",
+      "tutorial_blocks_1_title": "Finde Sprachpartner in deiner Umgebung - jederzeit, überall",
+      "tutorial_blocks_2_text": "Sende anderen in der Umgebung, die auch deine Sprache sprechen, eine Nachricht.\n\nVersende Bilder, Sprachnachrichten und Standorte.\n\nOrganisiere Treffen im Nu und lerne Freunde fürs Leben kennen.>",
       "tutorial_blocks_2_title": {
-        "@id": "501",
         "#text": "Unterhaltet und verabredet euch!"
       }
     }
   }
-}
 ,
 "page_press":
 {
-  "content": {
     "post_title": "Presse",
     "post_content": {
       "h3": [
@@ -884,21 +613,15 @@
       "#text": "2018-04-21:  (Sbcltr)\n\n2018-03-18:  (Kalkulinda)\n\n2018-01-11:  (Free Language)\n\n2017-12-07:  (The Guardian)\n\n2017-12-04:  (Fluent Language)\n\n2017-08-03:  (Yury Jakymec)\n\n2017-07-28:  (Teach Yourself)\n\n2017-07-25:  (The Global Times)\n\n2017-06-12:  (CBC Radio One)\n\n2016-11-03:  (Transparent Language)\n\n2016-11-03:  (Yozzi)\n\n2016-10-24:  (Polyglot Nerd)\n\n2016-10-18:  (Steve Kaufmann)\n\n2017-10-22: \n\n2017-04-26:  (Espereto)\n\n2017-08-04:  (IB3)\n\n2017-08-23:  (徐杰)\n\n2017-02-08:  (Chuvash.org)\n\n2017-02-08: \n\n2017-11-07:  (Welsh Government)\n\n2017-05-28:  (Sprachheld)\n\n2016-12-31:  (Svisa Espero)\n\n2018-01-08:  (El Mundo)\n\n2017-10-24:  (Polyglot Nerd)\n\n2018-03-24:  (Libera Folio)\n\n2018-03-18:  (Kalkulinda)\n\n2017-10-27:  (Libera Folio)\n\n2017-07-25:  (Teo kaj Libroj)\n\n2017-06-13:  (Libera Folio)\n\n2017-04-26:  (La Balta Ondo)\n\n2017-04-23:  (Libera Folio)\n\n2017-04-13:  (Libera Folio)\n\n2017-03-27: \n\n2017-03-19: \n\n2017-03-09:  (La Balta Ondo)\n\n2016-11-22:  (La Balta Ondo)\n\n2016-11-16:  (UEA)\n\n2016-11-15: Mention in the  (El Popola Ĉinio)\n\n2016-11-02:  (Jake H)\n\n2016-10-26:  (Emilio Cid)\n\n2016-10-23:  (Esperanto VBlogo)\n\n2016-10-19:  (Esperanto VBlogo)\n\n2016-10-18:  (Libera Folio)\n\n2016-10-18:  (Pola RetRadio)\n\n2016-10-18:  (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10:  (Movada Vidpunkto)\n\n2017-03-30:  (Toulangues)\n\n2017-03-27: \n\n2016-1-01:  (Espéranto France)\n\n2017-08-30:  (Whistling in the Wind)\n\n2018-03-11:  (Jurnalo)\n\n2017-11-02:  (Manageritalia)\n\n2018-03-20:  (エスペラントの今)\n\n2017-10-27:  (에스페란티스토를 위한)\n\n2017-01-31:  (Horizon.taal)\n\n2016-10-31:  (Vincent Oostelbos)\n\n2018-006-04: \n\n2017-11-03:  (Marko Esperanto)\n\n2017-10-24:  (Polyglot Nerd)\n\n2017-08-17:  (Yiddish Daily Forward)\n\n2016-11-02:  (Reb Yid)\n\n2017-01-24:  (YorubaMums Blog)>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6891",
-        "#text": "Willkommen auf der Amikumu Presseseite. Hier kannst du unzählige Links zu Artikeln über Amikumu in verschiedenen Sprachen finden."
-      },
+      "metadata_desc": "Willkommen auf der Amikumu Presseseite. Hier kannst du unzählige Links zu Artikeln über Amikumu in verschiedenen Sprachen finden.",
       "metadata_title": {
-        "@id": "6901",
         "#text": "Amikumu in den Nachrichten!"
       }
     }
   }
-}
 ,
 "page_privacy-terms":
 {
-  "content": {
     "post_title": "Privatsphäre und Nutzungsbedingungen",
     "post_content": {
       "h1": [
@@ -1191,57 +914,39 @@
       "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website  (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.\n\n**Personal information:** The type of information we collect may include:\n\n**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.\n\nWe collect and use the information for purposes including:\n\n\nWe may disclose personal information to:\n\nWhere we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.\n\n**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below.\n\nWe are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.\n\nWe may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see  or any other URL Google may use from time to time.\n\nOur Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.\n\nThis Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com\n\nThese Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**).\n\n\n\nThese Terms supplement and incorporate:\n\nIf any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:\n\nAny use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms.\n\n\n\n\n\n\n\n\n\n\n**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6910",
-        "#text": "Finde und kontaktiere Sprachpartnern sofort in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
+      "metadata_desc": "Finde und kontaktiere Sprachpartnern sofort in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
       "metadata_title": {
-        "@id": "6920",
         "#text": "Privatsphäre und Nutzungsbedingungen von Amikumu"
       }
     }
   }
-}
 ,
 "page_shop":
 {
-  "content": {
     "post_title": "Shop",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6929",
-        "#text": "Besuche den Amikumu-Onlineshop und hole dir eines unserer tollen T-Shirts um Amikumu in deiner örtlichen Gemeinde bekannt zu machen."
-      },
+      "metadata_desc": "Besuche den Amikumu-Onlineshop und hole dir eines unserer tollen T-Shirts um Amikumu in deiner örtlichen Gemeinde bekannt zu machen.",
       "metadata_title": {
-        "@id": "6939",
         "#text": "Amikumu Onlineshop"
       }
     }
   }
-}
 ,
 "page_statistics":
 {
-  "content": {
     "post_title": "Statistiken",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6948",
-        "#text": "Finde und kontaktiere sofort Sprachpartnern in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
+      "metadata_desc": "Finde und kontaktiere sofort Sprachpartnern in deiner Nähe. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
       "metadata_title": {
-        "@id": "6958",
         "#text": "Amikumu-Statistiken"
       }
     }
   }
-}
 ,
 "page_support-us":
 {
-  "content": {
     "post_title": "Unterstütze uns",
     "post_content": {
       "ol": [
@@ -1365,16 +1070,10 @@
       "#text": "Vielen Dank für dein Interesse, Amikumu zu unterstützen.\n\nHier sind acht einfache Wege, auf denen du uns unterstützen kannst und unsere Gemeinschaft zum Wachsen verhilfst:\n\nJeden Monat veröffentlichen wir einen Newsletter mit Insiderinformationen über unsere Pläne und Erfolge. Auch Beiträge von Community-Mitgliedern wie dir nehmen wir an. Dies ist unsere Art, mit euch direkt in Kontakt zu treten. .\n\nWir haben eine Social-Media-Präsenz auf den beliebtesten Plattformen:\n\n\nTeile unsere App mit Freunden in den sozialen Medien oder per E-Mail!\n\nJe mehr Leute von Amikumu hören, desto nützlicher wird die App für alle. Teile den Link zu unserer offiziellen Webseite   zusammen mit dem Grund, warum es dir so gefällt.\n\nUnser Ziel ist es, die meistübersetzte App der Welt zu werden! Dies ist nicht leicht, darum brauchen wir deine Hilfe!\n\nUm bei einer bestehenden Übersetzung mitzuhelfen oder eine neue anzufangen, melde dich hier an  (unser bevorzugter Übersetzungsdienst) und wähle die Sprache aus, zu der du beitragen möchtest. Es gibt keine Mindestanforderung: Du kannst die ganze App übersetzen oder auch nur ein einziges Wort – du entscheidest.\n\nEine goldene Mitgliedschaft erschließt zusätzliche Funktionen wie die virtuelle Teleportation und erweiterte Privatsphäreeinstellungen. Zusätzlich ist es ein geeignete Möglichkeit deiner Unterstützung Ausdruck zu verleihen und uns finanziell zu fördern! Du kannst die goldene Mitgliedschaft innerhalb der App erwerben (kommt bald!).\n\nEin T-Shirt ist ein einfaches und doch effektives Mittel, Amikumu Bekanntheit zu verschaffen. Durchstöber unseren  .\n\n die du in deiner Schule, Universität und im Sprachclub verteilen kannst. Sie wurden für deinen Gebrauch in eine Vielzahl Sprachen übersetzt. Solltest du speziell angepasste Flyer brauchen, kontaktiere uns unter \n\nLast but not least, triff dich mit Leuten über Amikumu und teilt eure Geschichten. Wir lieben es, Geschichten von erfolgreichen Treffen mit unserer Community zu teilen. Sende deine Geschichten und Bilder an \n\nZum Schluss einen Riesendank im Voraus für alles, was du für uns tust.\n\nFalls du noch weitere Ideen und Anregungen hast, zögere nicht und kontaktiere uns unter.>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6967",
-        "#text": "Finde und kontaktiere Sprachpartnern sofort in deiner Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!"
-      },
+      "metadata_desc": "Finde und kontaktiere Sprachpartnern sofort in deiner Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!",
       "metadata_title": {
-        "@id": "6977",
         "#text": "Unterstütze Amikumu noch heute!"
       }
     }
   }
-}
-,
 }

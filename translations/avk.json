@@ -1,92 +1,40 @@
 {
 "page_about-us":
 {
-  "content": {
     "post_title": "Icde cin",
     "post_content": null,
     "post_meta": {
-      "add_description": {
-        "@id": "320",
-        "#text": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava."
-      },
-      "add_title": {
-        "@id": "318",
-        "#text": "Vonena gan soli dem yonavusik"
-      },
-      "city": {
-        "@id": "6473",
-        "#text": "Widava"
-      },
-      "languages": {
-        "@id": "6477",
-        "#text": "Ava"
-      },
-      "metadata_desc": {
-        "@id": "6834",
-        "#text": "Soli ke Amikumu tir dem yonavusik bas kota tamava dan va dat bartiv ta felilera va ava ziliyad."
-      },
-      "metadata_title": {
-        "@id": "6839",
-        "#text": "Va soli ke Amikumu rungrupel vay ‼"
-      },
-      "our_team": {
-        "@id": "6469",
-        "#text": "Cinafi Soli"
-      },
-      "team_members_0_city": {
-        "@id": "328",
-        "#text": "Sydney, Australia"
-      },
+      "add_description": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
+      "add_title": "Vonena gan soli dem yonavusik",
+      "city": "Widava",
+      "languages": "Ava",
+      "metadata_desc": "Soli ke Amikumu tir dem yonavusik bas kota tamava dan va dat bartiv ta felilera va ava ziliyad.",
+      "metadata_title": "Va soli ke Amikumu rungrupel vay ‼",
+      "our_team": "Cinafi Soli",
+      "team_members_0_city": "Sydney, Australia",
       "team_members_0_description": {
-        "@id": "326",
         "br": [
           null,
           null
         ],
         "#text": "Richard Delamore ayik, dan zo yoltar Evildea koe Internet, tir australiaf mamewavaxusik dene Youtube ise tir korobik koe esperantoavafa raba va elpat. Vomi zabdura va Amikumu, Richard va esperantoavafi sumewisiki reduyur ise dere tiyir olkoy ke okilikeem ke Australia patectafo boxo mu Esperanto (AEA) is olkoy ke Boxo ke Avafa Kapava (LFA) is olkoy ke Esperantoavafa Galda ke New South Wales (EFNSW). Ison, wetce olyakaf sopusik, va australiafa ervolia remi tevda zanivayar ise kobayar mu jontika walvedeyafa zolosta wetce vusikof ristusik.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
       },
-      "team_members_0_job_title": {
-        "@id": "324",
-        "#text": "Jadif Gadesik"
-      },
-      "team_members_0_languages": {
-        "@id": "330",
-        "#text": "Englava is Esperanto is Jongguava"
-      },
-      "team_members_0_name": {
-        "@id": "374",
-        "#text": "Richard Delamore"
-      },
-      "team_members_1_city": {
-        "@id": "338",
-        "#text": "Berlin, Germana (bas Amerikatanarasokeem)"
-      },
+      "team_members_0_job_title": "Jadif Gadesik",
+      "team_members_0_languages": "Englava is Esperanto is Jongguava",
+      "team_members_0_name": "Richard Delamore",
+      "team_members_1_city": "Berlin, Germana (bas Amerikatanarasokeem)",
       "team_members_1_description": {
-        "@id": "336",
         "br": [
           null,
           null
         ],
         "#text": "Chuck Smith tir dogrustasik va Polyglot Gathering is webesik va Esperanto avaf prujneks dene Duolingo is zabdusik va Vikipedio (Esperanto avafa Wikipedia), vanmiae ara jontika erava icde ava. In va yon talpeyot tori iOS mali tulaviawera ke App Store ke Apple bak 2008 al voner. Rieteyer icde rukomasiko ta trasira va pokef esperantoavusik bal intafa koyara koo Brasila bak 2002 voxe gokeyer remi 15-da ta da ckaneopa umon di towar ta da va bat klokeks di tugeltrar. Re in tir gadiaf ta budura va pomara va kotlizuf ayik ta da va sint uzerad ise batinde va tamava lasutulokiewar.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
       },
-      "team_members_1_job_title": {
-        "@id": "334",
-        "#text": "Chief Technical Officer and Mobile Developer"
-      },
-      "team_members_1_languages": {
-        "@id": "340",
-        "#text": "Englava is Esperanto is Germanava is Espanava is Francava is Nederlandava is Polskava is amerikatanarasokeemafa zatcava"
-      },
-      "team_members_1_name": {
-        "@id": "376",
-        "#text": "Chuck Smith"
-      },
-      "team_members_2_city": {
-        "@id": "587",
-        "#text": "Amsterdam, The Netherlands"
-      },
+      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
+      "team_members_1_languages": "Englava is Esperanto is Germanava is Espanava is Francava is Nederlandava is Polskava is amerikatanarasokeemafa zatcava",
+      "team_members_1_name": "Chuck Smith",
+      "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "@id": "585",
         "br": [
           null,
           null,
@@ -94,99 +42,51 @@
         ],
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
       },
-      "team_members_2_job_title": {
-        "@id": "583",
-        "#text": "Volunteer: Mobile Developer / Customer Support"
-      },
-      "team_members_2_languages": {
-        "@id": "589",
-        "#text": "Dutch, English, Esperanto, baby-German"
-      },
-      "team_members_2_name": {
-        "@id": "579",
-        "#text": "Tanja Orme"
-      },
-      "team_members_3_city": {
-        "@id": "599",
-        "#text": "Berlin, Germana"
-      },
+      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
+      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
+      "team_members_2_name": "Tanja Orme",
+      "team_members_3_city": "Berlin, Germana",
       "team_members_3_description": {
-        "@id": "597",
         "br": [
           null,
           null
         ],
         "#text": "Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
       },
-      "team_members_3_job_title": {
-        "@id": "595",
-        "#text": "Talpeyasik va okilavusiko"
-      },
-      "team_members_3_languages": {
-        "@id": "601",
-        "#text": "Germanava is Englava is Esperanto is Latinus is Francava is Italiava is bomafa Ellasava is Jongguava is Nederlandava is Espanava is Indonesiava is Yisraelava is Swaxiliava"
-      },
-      "team_members_3_name": {
-        "@id": "591",
-        "#text": "Judith Meyer"
-      },
-      "team_members_4_city": {
-        "@id": "611",
-        "#text": "Philadelphia, Amerikatanarasokeem"
-      },
+      "team_members_3_job_title": "Talpeyasik va okilavusiko",
+      "team_members_3_languages": "Germanava is Englava is Esperanto is Latinus is Francava is Italiava is bomafa Ellasava is Jongguava is Nederlandava is Espanava is Indonesiava is Yisraelava is Swaxiliava",
+      "team_members_3_name": "Judith Meyer",
+      "team_members_4_city": "Philadelphia, Amerikatanarasokeem",
       "team_members_4_description": {
-        "@id": "609",
         "br": [
           null,
           null
         ],
         "#text": "Jesse Alter tir ristusik va Linux bolk is dobkiraf gu givavuropa isu eyafa kobara. Remi yona tanda, Jesse va okilavusiko ristuyur tori jontiko Internet gortafo xo isu zaniga ugale va eyafa swavopikeba tori rumeik exavayar. Va klepa kaikion betaveyer ta suzdara va intafa dulapena kubla icde vegedura isu ristura va vusikof bolk. Vaxe Amikumu, inaf dulap, va savsafa givavuropa is va nendara va orig is va origdrunara ruldad.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Sedme jin, batcoba zultafi roti. »>"
       },
-      "team_members_4_job_title": {
-        "@id": "607",
-        "#text": "Ristusik va bolk"
-      },
-      "team_members_4_languages": {
-        "@id": "613",
-        "#text": "Englava is Esperanto"
-      },
-      "team_members_4_name": {
-        "@id": "603",
-        "#text": "Jesse Alter"
-      },
-      "team_members_5_city": {
-        "@id": "703",
-        "#text": "Ekaterinburg, Rossia"
-      },
+      "team_members_4_job_title": "Ristusik va bolk",
+      "team_members_4_languages": "Englava is Esperanto",
+      "team_members_4_name": "Jesse Alter",
+      "team_members_5_city": "Ekaterinburg, Rossia",
       "team_members_5_description": {
-        "@id": "701",
         "br": [
           null,
           null
         ],
         "#text": "Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
       },
-      "team_members_5_job_title": {
-        "@id": "699",
-        "#text": "Varnokasik"
-      },
-      "team_members_5_languages": {
-        "@id": "705",
-        "#text": "Englava is Rossiava is Esperanto is Slovenskava is Sverigava is Toki Pona"
-      },
+      "team_members_5_job_title": "Varnokasik",
+      "team_members_5_languages": "Englava is Rossiava is Esperanto is Slovenskava is Sverigava is Toki Pona",
       "team_members_5_name": {
-        "@id": "695",
         "#text": "Elena Husanova"
       }
     }
   }
-}
 ,
 "page_ambassador":
 ,
 "page_faq":
 {
-  "content": {
     "post_title": "Pomara / Bibeeem",
     "post_content": {
       "h2": [
@@ -287,21 +187,15 @@
       "#text": "Amikumu tir talpeyot pomas va rin icde trasira is icde golera pu pokef avafamik.\nTulon, viele tilderugalon koyat, pune va Amikumu rofavet ta kevlanira va francavusik ik espanavusik ik pokef usik va beta ava.\n\n\n\n\nGue.\n\nAmikumu flir kan Android (OS 4.0.3) isu iOS 9.1 (iPhone 4S, iPad 2+).\n\n\nRinafe yasege isu muse tid tolke zolonafe sedme cin, numen Amikumu va elimaf liz me nedir.\n\nVa batcoba me koton rotarutel. Neke, ede zo funel, pune drikon rotelekal vey liota ke funesik. Viele va kontel elekal, bam in va rin mea di rowir meie pu rin di rogoler.\n\n\nDene Amikumu, Open Source teza zo albar. Goxe, Open Source teza, va minaf viley me katir. Neken, kotviele va rofenkura va beksa aneyav viele berde.\n\nEn, ropomal da va Amikumu remsutet kal .\n\nAmikumu sosugdalar : « nucul djay » koe Esperanto.\n\nVa rinafa koaykaxa tudrumbav numen vay yotel va   Oke vay va cin suzdal koe  ik ik  ta da zo gival ‼\n\nTori loa giva, vay pu cin golel vey >"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6872",
-        "#text": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !"
-      },
+      "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
       "metadata_title": {
-        "@id": "6877",
         "#text": "Pomara / Bibeeem"
       }
     }
   }
-}
 ,
 "page_for-organizations":
 {
-  "content": {
     "post_title": "Mu viley",
     "post_content": {
       "ol": {
@@ -319,235 +213,76 @@
       "#text": ">"
     },
     "post_meta": {
-      "additional_month": {
-        "@id": "10378",
-        "#text": "mu kot isaf aksat (gonabdidodena)"
-      },
-      "advertise_teaser": {
-        "@id": "10395",
-        "#text": "Plataera al zo galter koe aptaf liz rowin gan anton tel 100 lopokef korik."
-      },
-      "advertise_text": {
-        "@id": "10412",
-        "#text": "Amikumu tir eyaf gort dafus va golesiko pu usik va beta ava tamavafa ise va aptolafa giva lizukon rodafur. Cinaf favesik nelkon tid yonavusik is usik va yona riafa ava."
-      },
-      "advertise_with_us": {
-        "@id": "10429",
-        "#text": "Kan Amikumu platael vay ‼"
-      },
-      "advertisement": {
-        "@id": "10462",
-        "#text": "Plataera"
-      },
-      "average_number_of_languages_spoken": {
-        "@id": "10479",
-        "#text": "Mialukafa ota ke una ava"
-      },
-      "badge_contact_us_part1": {
-        "@id": "10496",
-        "#text": "Vay va cin staksal kan"
-      },
-      "badge_contact_us_part2": {
-        "@id": "10513",
-        "#text": "ta da va loa giva."
-      },
-      "commercial": {
-        "@id": "10530",
-        "#text": "Kazafa"
-      },
-      "complete_analysis_part1": {
-        "@id": "10547",
-        "#text": "Ta kotafa drunara va cinafa avafa enkopa, vay wil va"
-      },
-      "complete_analysis_part2": {
-        "@id": "10564",
-        "#text": "bu dem enkopa ‼"
-      },
-      "cost": {
-        "@id": "10581",
-        "#text": "Droka"
-      },
-      "dau_daily_active_users": {
-        "@id": "10598",
-        "#text": "VTF (Vielef Tegiraf Favesik)"
-      },
-      "how_to_purchase": {
-        "@id": "10615",
-        "#text": "Inde rolustel"
-      },
-      "in_app_collectible_badges": {
-        "@id": "10632",
-        "#text": "Erbilok rodatan koe talpeyot"
-      },
-      "in_app_collectible_badges_text": {
-        "@id": "10649",
-        "#text": "Ewava rodotana koe talpeyot tulaviawesa ko liotafu bu ke favesik. Batcoba kotunafa ta abduaskira va gijafa kakevera is va avafa kapava is ta dafura va isafa gablexa pu bifapakesik."
-      },
-      "mau_montly_active_users": {
-        "@id": "10666",
-        "#text": "KTF- (Kotaksataf Tegiraf Favesik)"
-      },
-      "metadata_desc": {
-        "@id": "10853",
-        "#text": "Vay trasil ise pu lizukaf milavusik vere golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !"
-      },
-      "metadata_title": {
-        "@id": "10887",
-        "#text": "Amikumu - Trasira va pokef avusik"
-      },
-      "non_profit": {
-        "@id": "10683",
-        "#text": "Meimpavanta"
-      },
-      "number_of_countries_represented": {
-        "@id": "10700",
-        "#text": "Ota dem kaatoena patecta"
-      },
-      "number_of_languages_spoken": {
-        "@id": "10717",
-        "#text": "Ota dem una ava"
-      },
-      "prices_assume": {
-        "@id": "10734",
-        "#text": "Moefo dro zo bazer gu nelkot da rinafa plataera, anton va 1 ava jalar. Pu kota isafa ava, loplekuon gododel vas 4 € fuxe aksat. Isaf doraf oyak me tigir."
-      },
-      "purchase_email_text_part1": {
-        "@id": "10751",
-        "#text": "Vay va cin staksal vey"
-      },
-      "purchase_email_text_part2": {
-        "@id": "10768",
-        "#text": "do moefa pinta tori kota avafa plataera."
-      },
-      "purchase_info": {
-        "@id": "10785",
-        "#text": "Kota lustera va kazafa plataera zo goskur kan Englava ok Esperanto ava."
-      },
-      "setup_fee": {
-        "@id": "10802",
-        "#text": "oyak ta inkera (don taneaf aksat)"
-      },
-      "total_users": {
-        "@id": "10819",
-        "#text": "Kotaf favesikeem"
-      },
+      "additional_month": "mu kot isaf aksat (gonabdidodena)",
+      "advertise_teaser": "Plataera al zo galter koe aptaf liz rowin gan anton tel 100 lopokef korik.",
+      "advertise_text": "Amikumu tir eyaf gort dafus va golesiko pu usik va beta ava tamavafa ise va aptolafa giva lizukon rodafur. Cinaf favesik nelkon tid yonavusik is usik va yona riafa ava.",
+      "advertise_with_us": "Kan Amikumu platael vay ‼",
+      "advertisement": "Plataera",
+      "average_number_of_languages_spoken": "Mialukafa ota ke una ava",
+      "badge_contact_us_part1": "Vay va cin staksal kan",
+      "badge_contact_us_part2": "ta da va loa giva.",
+      "commercial": "Kazafa",
+      "complete_analysis_part1": "Ta kotafa drunara va cinafa avafa enkopa, vay wil va",
+      "complete_analysis_part2": "bu dem enkopa ‼",
+      "cost": "Droka",
+      "dau_daily_active_users": "VTF (Vielef Tegiraf Favesik)",
+      "how_to_purchase": "Inde rolustel",
+      "in_app_collectible_badges": "Erbilok rodatan koe talpeyot",
+      "in_app_collectible_badges_text": "Ewava rodotana koe talpeyot tulaviawesa ko liotafu bu ke favesik. Batcoba kotunafa ta abduaskira va gijafa kakevera is va avafa kapava is ta dafura va isafa gablexa pu bifapakesik.",
+      "mau_montly_active_users": "KTF- (Kotaksataf Tegiraf Favesik)",
+      "metadata_desc": "Vay trasil ise pu lizukaf milavusik vere golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
+      "metadata_title": "Amikumu - Trasira va pokef avusik",
+      "non_profit": "Meimpavanta",
+      "number_of_countries_represented": "Ota dem kaatoena patecta",
+      "number_of_languages_spoken": "Ota dem una ava",
+      "prices_assume": "Moefo dro zo bazer gu nelkot da rinafa plataera, anton va 1 ava jalar. Pu kota isafa ava, loplekuon gododel vas 4 € fuxe aksat. Isaf doraf oyak me tigir.",
+      "purchase_email_text_part1": "Vay va cin staksal vey",
+      "purchase_email_text_part2": "do moefa pinta tori kota avafa plataera.",
+      "purchase_info": "Kota lustera va kazafa plataera zo goskur kan Englava ok Esperanto ava.",
+      "setup_fee": "oyak ta inkera (don taneaf aksat)",
+      "total_users": "Kotaf favesikeem",
       "your_badge": {
-        "@id": "10836",
         "#text": "Rinafa ewava !"
       }
     }
   }
-}
 ,
 "page_home-page":
 {
-  "content": {
     "post_title": "Emudexo",
     "post_content": null,
     "post_meta": {
-      "add_title": {
-        "@id": "43",
-        "#text": "Va ava ul pokeon vay ‼"
-      },
-      "claim": {
-        "@id": "5350",
-        "#text": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava."
-      },
-      "language_name_in_own_script": {
-        "@id": "6607",
-        "#text": "Kotava"
-      },
-      "massive_thanks": {
-        "@id": "6268",
-        "#text": "Va gijapaf greway pu kot 429 bristusik ke Kickstarter is nostayas va cinaf enid is tugeltrayas va Amikumu"
-      },
-      "metadata_desc": {
-        "@id": "6820",
-        "#text": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !"
-      },
-      "metadata_title": {
-        "@id": "6815",
-        "#text": "Amikumu - Trasira va pokef avusik"
-      },
-      "official_sponsor": {
-        "@id": "2621",
-        "#text": "Winugaf fukorlasik"
-      },
-      "sponsors": {
-        "@id": "2624",
-        "#text": "Fukorlasik"
-      },
-      "testimonials_block_0_add_name": {
-        "@id": "79",
-        "#text": "Benny Lewis, Rustonaf bad 3 aksat"
-      },
-      "testimonials_block_0_add_sortcontent": {
-        "@id": "77",
-        "#text": "Meviele grupé koe toka widava direvielon divmodeté voxe va int gu kota jinafa ava djufunté. Kan bat talpeyot, va jin rofunté koe beta ava jinon djumuna vey vulera!"
-      },
-      "testimonials_block_1_add_name": {
-        "@id": "83",
-        "#text": "Judith Meyer, zabdusik va Polyglot Gathering"
-      },
-      "testimonials_block_1_add_sortcontent": {
-        "@id": "81",
-        "#text": "Trakú da Amikumu talpeyot tir tolke favlapaf tori doda dem avaravesik !"
-      },
-      "testimonials_block_2_add_name": {
-        "@id": "87",
-        "#text": "Ghil'ad Zuckermann esik, D.Phil."
-      },
-      "testimonials_block_2_add_sortcontent": {
-        "@id": "85",
-        "#text": "Talpeyot va golera wal usik va keuninafa ava is va kenibesa listaca bro Barngarla anlizukafa ava rodetukiewar."
-      },
-      "testimonials_block_3_add_name": {
-        "@id": "91",
-        "#text": "Langfest Innovation Award 2017 (Montreal)"
-      },
-      "testimonials_block_3_add_sortcontent": {
-        "@id": "89",
-        "#text": "Zo rietesipit gan Amikumu is gan inafa bitonuca ta remgluyara va tamava kan ava minon djumuna !"
-      },
-      "testimonials_block_4_add_name": {
-        "@id": "3411",
-        "#text": "Saftatalpeyot ke bowere va Kimrua"
-      },
-      "testimonials_block_4_add_sortcontent": {
-        "@id": "3408",
-        "#text": "Amikumu va koton warzaf tust loplekur gu avaravera ise va paskalerinda is va funterinda gu ava betar."
-      },
-      "tutorial_blocks_0_text": {
-        "@id": "495",
-        "#text": "Va tanizva is yolt tori kota ava rinon felilena loplekul djay ‼\n\nVa ava rinon felilena is va intafa vwa tori sina bazel vay ‼>"
-      },
-      "tutorial_blocks_0_title": {
-        "@id": "493",
-        "#text": "Vay va yona pata vestal ise muxal vay ‼"
-      },
-      "tutorial_blocks_1_text": {
-        "@id": "499",
-        "#text": "Va ava naral vay ‼\n\nVa avalbasik pokeon trasil vay ‼>"
-      },
-      "tutorial_blocks_1_title": {
-        "@id": "497",
-        "#text": "Va milavusik pokeon trasil kotviele, kotlize"
-      },
-      "tutorial_blocks_2_text": {
-        "@id": "503",
-        "#text": "Va pokef arik djumus va rinafa ava staksal vay ‼\n\nVa ewava is mamkoverteks is tawavopafa maneka staksel vay ‼\n\nVay kalion va kevlanira grustal ise va kotablif nik trasil vay ‼>"
-      },
+      "add_title": "Va ava ul pokeon vay ‼",
+      "claim": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
+      "language_name_in_own_script": "Kotava",
+      "massive_thanks": "Va gijapaf greway pu kot 429 bristusik ke Kickstarter is nostayas va cinaf enid is tugeltrayas va Amikumu",
+      "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
+      "metadata_title": "Amikumu - Trasira va pokef avusik",
+      "official_sponsor": "Winugaf fukorlasik",
+      "sponsors": "Fukorlasik",
+      "testimonials_block_0_add_name": "Benny Lewis, Rustonaf bad 3 aksat",
+      "testimonials_block_0_add_sortcontent": "Meviele grupé koe toka widava direvielon divmodeté voxe va int gu kota jinafa ava djufunté. Kan bat talpeyot, va jin rofunté koe beta ava jinon djumuna vey vulera!",
+      "testimonials_block_1_add_name": "Judith Meyer, zabdusik va Polyglot Gathering",
+      "testimonials_block_1_add_sortcontent": "Trakú da Amikumu talpeyot tir tolke favlapaf tori doda dem avaravesik !",
+      "testimonials_block_2_add_name": "Ghil'ad Zuckermann esik, D.Phil.",
+      "testimonials_block_2_add_sortcontent": "Talpeyot va golera wal usik va keuninafa ava is va kenibesa listaca bro Barngarla anlizukafa ava rodetukiewar.",
+      "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
+      "testimonials_block_3_add_sortcontent": "Zo rietesipit gan Amikumu is gan inafa bitonuca ta remgluyara va tamava kan ava minon djumuna !",
+      "testimonials_block_4_add_name": "Saftatalpeyot ke bowere va Kimrua",
+      "testimonials_block_4_add_sortcontent": "Amikumu va koton warzaf tust loplekur gu avaravera ise va paskalerinda is va funterinda gu ava betar.",
+      "tutorial_blocks_0_text": "Va tanizva is yolt tori kota ava rinon felilena loplekul djay ‼\n\nVa ava rinon felilena is va intafa vwa tori sina bazel vay ‼>",
+      "tutorial_blocks_0_title": "Vay va yona pata vestal ise muxal vay ‼",
+      "tutorial_blocks_1_text": "Va ava naral vay ‼\n\nVa avalbasik pokeon trasil vay ‼>",
+      "tutorial_blocks_1_title": "Va milavusik pokeon trasil kotviele, kotlize",
+      "tutorial_blocks_2_text": "Va pokef arik djumus va rinafa ava staksal vay ‼\n\nVa ewava is mamkoverteks is tawavopafa maneka staksel vay ‼\n\nVay kalion va kevlanira grustal ise va kotablif nik trasil vay ‼>",
       "tutorial_blocks_2_title": {
-        "@id": "501",
         "#text": "Prilal ise kevlanil djay ‼"
       }
     }
   }
-}
 ,
 "page_press":
 {
-  "content": {
     "post_title": "Lidayeem",
     "post_content": {
       "h3": [
@@ -826,21 +561,15 @@
       "#text": "2018-04-21:  (Sbcltr)\n\n2018-03-18:  (Kalkulinda)\n\n2018-01-11:  (Free Language)\n\n2017-12-07:  (The Guardian)\n\n2017-12-04:  (Fluent Language)\n\n2017-08-03:  (Yury Jakymec)\n\n2017-07-28:  (Teach Yourself)\n\n2017-07-25:  (The Global Times)\n\n2017-06-12:  (CBC Radio One)\n\n2016-11-03:  (Transparent Language)\n\n2016-11-03:  (Yozzi)\n\n2016-10-24:  (Polyglot Nerd)\n\n2016-10-18:  (Steve Kaufmann)\n\n2017-10-22: \n\n2017-04-26:  (Espereto)\n\n2017-08-04:  (IB3)\n\n2017-08-23:  (徐杰)\n\n2017-02-08:  (Chuvash.org)\n\n2017-02-08: \n\n2017-11-07:  (Welsh Government)\n\n2017-05-28:  (Sprachheld)\n\n2016-12-31:  (Svisa Espero)\n\n2018-01-08:  (El Mundo)\n\n2017-10-24:  (Polyglot Nerd)\n\n2018-03-24:  (Libera Folio)\n\n2018-03-18:  (Kalkulinda)\n\n2017-10-27:  (Libera Folio)\n\n2017-07-25:  (Teo kaj Libroj)\n\n2017-06-13:  (Libera Folio)\n\n2017-04-26:  (La Balta Ondo)\n\n2017-04-23:  (Libera Folio)\n\n2017-04-13:  (Libera Folio)\n\n2017-03-27: \n\n2017-03-19: \n\n2017-03-09:  (La Balta Ondo)\n\n2016-11-22:  (La Balta Ondo)\n\n2016-11-16:  (UEA)\n\n2016-11-15: Mention in the  (El Popola Ĉinio)\n\n2016-11-02:  (Jake H)\n\n2016-10-26:  (Emilio Cid)\n\n2016-10-23:  (Esperanto VBlogo)\n\n2016-10-19:  (Esperanto VBlogo)\n\n2016-10-18:  (Libera Folio)\n\n2016-10-18:  (Pola RetRadio)\n\n2016-10-18:  (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10:  (Movada Vidpunkto)\n\n2017-03-30:  (Toulangues)\n\n2017-03-27: \n\n2016-1-01:  (Espéranto France)\n\n2017-08-30:  (Whistling in the Wind)\n\n2018-03-11:  (Jurnalo)\n\n2017-11-02:  (Manageritalia)\n\n2018-03-20:  (エスペラントの今)\n\n2017-10-27:  (에스페란티스토를 위한)\n\n2017-01-31:  (Horizon.taal)\n\n2016-10-31:  (Vincent Oostelbos)\n\n2018-006-04: \n\n2017-11-03:  (Marko Esperanto)\n\n2017-10-24:  (Polyglot Nerd)\n\n2017-08-17:  (Yiddish Daily Forward)\n\n2016-11-02:  (Reb Yid)\n\n2017-01-24:  (YorubaMums Blog)>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6891",
-        "#text": "Til drumbaf ko lidayeem ke Amikumu. Batlize va jontika givavuropagluyaxa va teliz icde Amikumu koe gedrafa ava rotrasil."
-      },
+      "metadata_desc": "Til drumbaf ko lidayeem ke Amikumu. Batlize va jontika givavuropagluyaxa va teliz icde Amikumu koe gedrafa ava rotrasil.",
       "metadata_title": {
-        "@id": "6901",
         "#text": "Amikumu koe lidayeem !"
       }
     }
   }
-}
 ,
 "page_privacy-terms":
 {
-  "content": {
     "post_title": "Yasegucafa gaderopa is kreda ke favera",
     "post_content": {
       "h1": [
@@ -1133,57 +862,39 @@
       "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website  (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.\n\n**Personal information:** The type of information we collect may include:\n\n**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.\n\nWe collect and use the information for purposes including:\n\n\nWe may disclose personal information to:\n\nWhere we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.\n\n**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below.\n\nWe are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.\n\nWe may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see  or any other URL Google may use from time to time.\n\nOur Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.\n\nThis Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com\n\nThese Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**).\n\n\n\nThese Terms supplement and incorporate:\n\nIf any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:\n\nAny use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms.\n\n\n\n\n\n\n\n\n\n\n**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6910",
-        "#text": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !"
-      },
+      "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
       "metadata_title": {
-        "@id": "6920",
         "#text": "Yasegucafa gaderopa is kreda ke favera ke Amikumu"
       }
     }
   }
-}
 ,
 "page_shop":
 {
-  "content": {
     "post_title": "Dolta",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6929",
-        "#text": "Vay va Internet gortafa dolta ke Amikumu woral aze va tanoya ribiegafa banyusta lustel ta pomara va abduaskira va Amikumu koe rinafa lizukafa doda."
-      },
+      "metadata_desc": "Vay va Internet gortafa dolta ke Amikumu woral aze va tanoya ribiegafa banyusta lustel ta pomara va abduaskira va Amikumu koe rinafa lizukafa doda.",
       "metadata_title": {
-        "@id": "6939",
         "#text": "Internet gortafa dolta ke Amikumu"
       }
     }
   }
-}
 ,
 "page_statistics":
 {
-  "content": {
     "post_title": "Enkopa",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6948",
-        "#text": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !"
-      },
+      "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
       "metadata_title": {
-        "@id": "6958",
         "#text": "Enkopa ke Amikumu"
       }
     }
   }
-}
 ,
 "page_support-us":
 {
-  "content": {
     "post_title": "Va cin bristul vay ‼",
     "post_content": {
       "ol": [
@@ -1307,16 +1018,10 @@
       "#text": "Grewav icde djubristura va Amikumu.\n\nBatse 8 drikaf ask ta nedira va bristura is ta pomara va laumara ke minafa doda.\n\nVa liday dem vildeks va erupa is dem cinaf azed is dem cinafa kiewatca kotaksaton sanegav. Dere va webera gan olkoy ke minafa doda, tulon gan rin, nalev. Batcoba tir cinaf ask ta rontifa prilara va rin. .\n\nVa bu koe telyon lovartaf eyaf debak digiv.\n\n\nVa tel talpeyot pu rinaf nik walzilil kan eyafo golesiko ik kan Internet gortafe piute djay ‼\n\nEde loloon ayik va Amikumu jiligad, pune Amikumu lolofavlafu tori kottan. Va givavuropagluyaxa va winugaf debak walzilil vay ‼ Vay askil pebuson dume va in maneke albal ‼\n\nMukotav da talpeyot tir tel loremsuten ke tamava ! Batcoba me drikafa; batdume va pomara olegav !\n\nTa webera va ixam kruldes remsuteks ik tozura va warzaf tan, vay yotel va  (cinafa lodalbana zana ta remsutera) aze va ava kal dana djugaremsutel naral vay ‼ Vugafa klaa me tigir banlize; va kotaf talpeyot ok anton tanoy ravlem roremsutel – to rin goral.\n\nMoavafa olkoyuca pu rin namyer va loplekufi fli, tulon vigornafa betavera va liz is yon loplekuf dor ke yaseguca. Voxe, dere tir askany ta nedira va bristura is ta da va tciamafa fukorlara, pu cin tiskal ! Va Moavafa olkoyuca rolustel kou talpeyot (fure enafa).\n\nDiskira va banyusta do erbilok ke Amikumu tir kiewapaf ask ta da sane va talpeyot gruper. Vay vestal va .\n\n koe rinafa bema iku kotla iku lizukaf avaf rijay. Dere sin ixam zo remsuted kal jontika ara ava ta rinafa favera. Ede va tuilkan truk olegal, pune pu cin golel vey \n\nAdim, djak batcoba zolonaf uum djakarse, kan Amikumu kevlanic djay aze va bagala pu cin kareizul vay ‼ En djukaraskiv da doda va kiewatcakirafa kevlanira gruper. Vay va reiz is afigasuteks staksel pu \n\nAdim, grewapav icde beta pomara va cin gan rin.\n\nEde va rieta ik tiaveks dil, pune djay me vurdel da pu cin golel vey.>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6967",
-        "#text": "Va avalbasik trasil aze pu sin davon golel pokeon vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !"
-      },
+      "metadata_desc": "Va avalbasik trasil aze pu sin davon golel pokeon vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
       "metadata_title": {
-        "@id": "6977",
         "#text": "Va Amikumu revielon bristul djay ‼"
       }
     }
   }
-}
-,
 }

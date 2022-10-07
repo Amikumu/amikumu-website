@@ -1,92 +1,40 @@
 {
 "page_about-us":
 {
-  "content": {
     "post_title": "Pri ni",
     "post_content": null,
     "post_meta": {
-      "add_description": {
-        "@id": "320",
-        "#text": "La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo."
-      },
-      "add_title": {
-        "@id": "318",
-        "#text": "Evoluigite de teamo de poliglotoj"
-      },
-      "city": {
-        "@id": "6473",
-        "#text": "Urbo"
-      },
-      "languages": {
-        "@id": "6477",
-        "#text": "Lingvoj"
-      },
-      "metadata_desc": {
-        "@id": "6834",
-        "#text": "La teamo de Amikumu konsistas de poliglotoj el la tuta mondo, kiuj dediĉas nekalkuleblajn horojn al la regado de lingvoj."
-      },
-      "metadata_title": {
-        "@id": "6839",
-        "#text": "Konatiĝu kun la teamo de Amikumu"
-      },
-      "our_team": {
-        "@id": "6469",
-        "#text": "Nia Teamo"
-      },
-      "team_members_0_city": {
-        "@id": "328",
-        "#text": "Sidnejo, Aŭstralio"
-      },
+      "add_description": "La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo.",
+      "add_title": "Evoluigite de teamo de poliglotoj",
+      "city": "Urbo",
+      "languages": "Lingvoj",
+      "metadata_desc": "La teamo de Amikumu konsistas de poliglotoj el la tuta mondo, kiuj dediĉas nekalkuleblajn horojn al la regado de lingvoj.",
+      "metadata_title": "Konatiĝu kun la teamo de Amikumu",
+      "our_team": "Nia Teamo",
+      "team_members_0_city": "Sidnejo, Aŭstralio",
       "team_members_0_description": {
-        "@id": "326",
         "br": [
           null,
           null
         ],
         "#text": "Richard Delamore, kiu uzas la kaŝnomon Evildea, estas aŭstralia Esperanto-Jutubisto kaj gravulo en la Esperanto-filmindustrio. Antaŭ la fondo de Amikumu, Richard kreis Esperanto-TV-on kaj li estis ankaŭ estrarano de la Aŭstralia Esperanto-Asocio (AEA), la Lingva Festivala Asocio (LFA) kaj la Esperanto-Federacio de Novsudkimrio (EFNSW). Krome, li servis ses jarojn en la aŭstralia armeo kiel radio-operatoro kaj laboris por multaj internaciaj firmaoj kiel komputila administranto.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
       },
-      "team_members_0_job_title": {
-        "@id": "324",
-        "#text": "Ĉefa Afergvida Oficisto"
-      },
-      "team_members_0_languages": {
-        "@id": "330",
-        "#text": "Angla, Esperanto kaj mandarena"
-      },
-      "team_members_0_name": {
-        "@id": "374",
-        "#text": "Richard Delamore"
-      },
-      "team_members_1_city": {
-        "@id": "338",
-        "#text": "Berlino, Germanio (el Usono)"
-      },
+      "team_members_0_job_title": "Ĉefa Afergvida Oficisto",
+      "team_members_0_languages": "Angla, Esperanto kaj mandarena",
+      "team_members_0_name": "Richard Delamore",
+      "team_members_1_city": "Berlino, Germanio (el Usono)",
       "team_members_1_description": {
-        "@id": "336",
         "br": [
           null,
           null
         ],
         "#text": "Chuck Smith estas kunorganizanto de la Polyglot Gathering, kontribuanto de la Kurso de Esperanto ĉe Duolingo kaj fondinto de la Esperanta Vikipedio, inter multaj aliaj projektoj pri lingvoj. Li programadis iOS-apojn ekde la lanĉo de la Apla ap-vendejo en 2008. Li havis ideon por GPS-ilo por trovi proksimajn samideanojn vojaĝante tra Brazilo en 2002, sed devis atendi 15 jarojn por ke teknologio evoluiĝu tiom kiom necesas por realigi ĉi tiun revon. Nun li antaŭĝojas alfronti la defiojn por helpi, ke homoj ĉie konektiĝu kaj tiel plibonigi la mondon.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
       },
-      "team_members_1_job_title": {
-        "@id": "334",
-        "#text": "Chief Technical Officer and Mobile Developer"
-      },
-      "team_members_1_languages": {
-        "@id": "340",
-        "#text": "Angla, Esperanto, germana, hispana, franca, nederlanda kaj usona signolingvo"
-      },
-      "team_members_1_name": {
-        "@id": "376",
-        "#text": "Chuck Smith"
-      },
-      "team_members_2_city": {
-        "@id": "587",
-        "#text": "Amsterdam, The Netherlands"
-      },
+      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
+      "team_members_1_languages": "Angla, Esperanto, germana, hispana, franca, nederlanda kaj usona signolingvo",
+      "team_members_1_name": "Chuck Smith",
+      "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "@id": "585",
         "br": [
           null,
           null,
@@ -94,97 +42,49 @@
         ],
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
       },
-      "team_members_2_job_title": {
-        "@id": "583",
-        "#text": "Volunteer: Mobile Developer / Customer Support"
-      },
-      "team_members_2_languages": {
-        "@id": "589",
-        "#text": "Dutch, English, Esperanto, baby-German"
-      },
-      "team_members_2_name": {
-        "@id": "579",
-        "#text": "Tanja Orme"
-      },
-      "team_members_3_city": {
-        "@id": "599",
-        "#text": "Berlino, Germanio"
-      },
+      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
+      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
+      "team_members_2_name": "Tanja Orme",
+      "team_members_3_city": "Berlino, Germanio",
       "team_members_3_description": {
-        "@id": "597",
         "br": [
           null,
           null
         ],
         "#text": "Judith Meyer estas fakulino de komputita lingvistiko, kiu pasigas la plejparton de sia tempo programante retajn aplikaĵojn traktantaj lingvojn, ekzemple ŝian projekton LearnYu. Ankaŭ ŝi estas poligloto, kunorganizanto de la Polyglot Gathering kaj aŭtoro de multaj prilingvaj libroj kaj lingvaj kursoj. Ŝi eklernis Esperanton kiam ŝi estas 14-jaraĝa por uzi ĝin kiel saltotabulon al lernado de aliaj lingvoj.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
       },
-      "team_members_3_job_title": {
-        "@id": "595",
-        "#text": "Servilprogramisto"
-      },
-      "team_members_3_languages": {
-        "@id": "601",
-        "#text": "germana, angla, Esperanto, latina, franca, itala, moderna greka, mandarena, nederlanda, hispana, indonezia, hebrea, svahila"
-      },
-      "team_members_3_name": {
-        "@id": "591",
-        "#text": "Judith Meyer"
-      },
-      "team_members_4_city": {
-        "@id": "611",
-        "#text": "Filadelfio, Usono"
-      },
+      "team_members_3_job_title": "Servilprogramisto",
+      "team_members_3_languages": "germana, angla, Esperanto, latina, franca, itala, moderna greka, mandarena, nederlanda, hispana, indonezia, hebrea, svahila",
+      "team_members_3_name": "Judith Meyer",
+      "team_members_4_city": "Filadelfio, Usono",
       "team_members_4_description": {
-        "@id": "609",
         "br": [
           null,
           null
         ],
         "#text": "Jesse Alter estas sistemadministranto pri Linukso kun diplomoj pri Komputiko kaj Sociala Laboro. Dum jaroj, Jesse administris servilojn por multaj retejoj kaj servoj dum li laboris kiel pediatria sociala laboristo. Li poste ŝanĝis sian karieron por sekvi sian tutvivan intereson pri la konstruado kaj la administrado de komputilaj sistemoj. Krom Amikumu, liaj interesoj inkluzivas prakomputikon, datumprotektadon, kaj analizon de datumoj.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Por mi, tio estas superpovo.”>"
       },
-      "team_members_4_job_title": {
-        "@id": "607",
-        "#text": "Sistemadministranto"
-      },
-      "team_members_4_languages": {
-        "@id": "613",
-        "#text": "angla, Esperanto"
-      },
-      "team_members_4_name": {
-        "@id": "603",
-        "#text": "Jesse Alter"
-      },
-      "team_members_5_city": {
-        "@id": "703",
-        "#text": "Jekaterinburgo, Rusio"
-      },
+      "team_members_4_job_title": "Sistemadministranto",
+      "team_members_4_languages": "angla, Esperanto",
+      "team_members_4_name": "Jesse Alter",
+      "team_members_5_city": "Jekaterinburgo, Rusio",
       "team_members_5_description": {
-        "@id": "701",
         "br": [
           null,
           null
         ],
         "#text": "Elena Ĥusanova estas sukcesa grafikisto kun diplomo pri arkitektura teorio. Diplomiĝinte, ŝi ekstudis Esperanton kaj eklaboris en multaj organizoj kaj eventoj. Elstaraj laboroj inkluzivas – inter la aliaj – ŝian volontuladon por E@I en Slovakio kaj por la 101-a Universala Esperanto-Kongreso inter aliaj. Lastatempe, ŝi kompletigis sian propran projekton: kartojn por la ludo “Homlupoj”.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
       },
-      "team_members_5_job_title": {
-        "@id": "699",
-        "#text": "Grafikisto"
-      },
-      "team_members_5_languages": {
-        "@id": "705",
-        "#text": "angla, rusa, Esperanto, slovaka, sveda, Tokipono"
-      },
+      "team_members_5_job_title": "Grafikisto",
+      "team_members_5_languages": "angla, rusa, Esperanto, slovaka, sveda, Tokipono",
       "team_members_5_name": {
-        "@id": "695",
         "#text": "Elena Ĥusanova"
       }
     }
   }
-}
 ,
 "page_ambassador":
 {
-  "content": {
     "post_title": "Ambasadoro",
     "post_content": {
       "h2": [
@@ -230,21 +130,15 @@
       "#text": "Unue, multajn dankojn pro via intereso en la ambasadora programo.\n\nEsence, ambasadoro estas tiu, kiu helpas nin reklami Amikumu en sia propra komunumo. Ili estas niaj surlokaj reprezentantoj! Niaj plej grandaj fanoj kaj viglaj subtenantoj.\n\nDependas de tio, kion ili povas fari. Ni listigis kelkajn manierojn, kiel niaj ambasadoroj kunlaboras kun ni por reklami Amikumu ĉirkaŭ la mondo.\n\n\nNi povas provizi vin per malmulto por via gravega helpo. Tamen, estas kelkaj avantaĝoj por esti ambasadoro. Ni provizas ambasadorojn per unikaj en-ape kolekteblaj ŝildoj inter aliaj aferoj. Ne hezitu kontakti nin por pli da informo ĉe ."
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6853",
-        "#text": "Ambasadoro de Amikumu estas tiu, kiu helpas nin reklami Amikumu en sia propra komunumo. Ili estas niaj surlokaj reprezentantoj! Niaj plej grandaj fanoj kaj viglaj subtenantoj."
-      },
+      "metadata_desc": "Ambasadoro de Amikumu estas tiu, kiu helpas nin reklami Amikumu en sia propra komunumo. Ili estas niaj surlokaj reprezentantoj! Niaj plej grandaj fanoj kaj viglaj subtenantoj.",
       "metadata_title": {
-        "@id": "6863",
         "#text": "Partoprenu en la ambasadora programo de Amikumu!"
       }
     }
   }
-}
 ,
 "page_faq":
 {
-  "content": {
     "post_title": "Helpo / FAQ",
     "post_content": {
       "h2": [
@@ -345,21 +239,15 @@
       "#text": "Amikumu estas apo, kiu helpos vin trovi kaj kontakti proksimajn lingvemulojn.\nEkzemple, kiam oni ferias, oni povas uzi Amikumu por renkontiĝi kun parolantoj de la franca, hispana aŭ iu ajn lingvo apude.\n\n\n\n\nJes.\n\nAmikumu funkcias per Android (OS 4.0.3) kaj iOS 9.1 (iPhone 4S, iPad 2+).\n\n\nViaj privateco kaj sekureco estas tre gravaj al ni, do Amikumu ne montras precizajn poziciojn.\n\nVi ne povas tute eviti tion. Tamen, se oni ĝenas vin vi povas facile bloki tiun per ties profila interfaco. Kiam vi blokas iun, tiu ne plu povas vidi aŭ kontakti vin.\n\n\nKvankam ni ŝatas malfermitkodon, bedaŭrinde, malfermitkodo ne taŭgas por nia organizo. Tamen, ni ĉiam estas serĉanta eblojn malfermigi nian kodon kiam la situacio tion permesas.\n\nJes, vi povas helpi traduki Amikumu al .\n\nAmikumu signifas umi kun amikoj en Esperanto.\n\nNi bonvenigas viajn pritaksojn, do aniĝu al , aŭ sekvi nin ĉe ,  kaj  por esti informita.\n\nPor pli da informo, kontaktu nin ĉe >"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6872",
-        "#text": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!"
-      },
+      "metadata_desc": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!",
       "metadata_title": {
-        "@id": "6877",
         "#text": "Helpo / FAQ"
       }
     }
   }
-}
 ,
 "page_for-organizations":
 {
-  "content": {
     "post_title": "Por organizaĵoj",
     "post_content": {
       "ol": {
@@ -377,235 +265,76 @@
       "#text": ">"
     },
     "post_meta": {
-      "additional_month": {
-        "@id": "10378",
-        "#text": "por ĉiu plua monato (vi devas antaŭpagi ĉiujn monatojn)"
-      },
-      "advertise_teaser": {
-        "@id": "10395",
-        "#text": "Reklamo bazita sur specifa loko, kiun nur la 100 plej proksimaj homoj povas vidi."
-      },
-      "advertise_text": {
-        "@id": "10412",
-        "#text": "Amikumu estas socia retejo, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke. Niaj uzantoj estas precipe poliglotoj kaj parolantoj de minoritataj lingvoj."
-      },
-      "advertise_with_us": {
-        "@id": "10429",
-        "#text": "Reklamu per Amikumu"
-      },
-      "advertisement": {
-        "@id": "10462",
-        "#text": "Reklamo"
-      },
-      "average_number_of_languages_spoken": {
-        "@id": "10479",
-        "#text": "Averaĝa nombro de lingvoj parolataj"
-      },
-      "badge_contact_us_part1": {
-        "@id": "10496",
-        "#text": "Bonvolu retpoŝti nin ĉe"
-      },
-      "badge_contact_us_part2": {
-        "@id": "10513",
-        "#text": "por pli da informo."
-      },
-      "commercial": {
-        "@id": "10530",
-        "#text": "Komercaj firmaoj"
-      },
-      "complete_analysis_part1": {
-        "@id": "10547",
-        "#text": "Por plena analizo de niaj lingvaj statistikoj bonvolu vidi"
-      },
-      "complete_analysis_part2": {
-        "@id": "10564",
-        "#text": "nian statistikan paĝon"
-      },
-      "cost": {
-        "@id": "10581",
-        "#text": "Kosto"
-      },
-      "dau_daily_active_users": {
-        "@id": "10598",
-        "#text": "TAU (Tage Aktivaj Uzantoj)"
-      },
-      "how_to_purchase": {
-        "@id": "10615",
-        "#text": "Kiel aĉeti"
-      },
-      "in_app_collectible_badges": {
-        "@id": "10632",
-        "#text": "En-ape kolekteblaj Ŝildoj"
-      },
-      "in_app_collectible_badges_text": {
-        "@id": "10649",
-        "#text": "En-apa kolektebla ŝildo, kiu aperas en la profila paĝo de la uzanto. Perfekte por reklamado de grandskalaj renkontiĝoj, lingvaj festivaloj aŭ seminarioj kaj por provizi aldonan premion por partoprenantoj en eventoj."
-      },
-      "mau_montly_active_users": {
-        "@id": "10666",
-        "#text": "MAU (Monate Aktivaj Uzantoj)"
-      },
-      "metadata_desc": {
-        "@id": "10853",
-        "#text": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!"
-      },
-      "metadata_title": {
-        "@id": "10887",
-        "#text": "Amikumu - Trovi lingvemulojn apude"
-      },
-      "non_profit": {
-        "@id": "10683",
-        "#text": "Neprofita"
-      },
-      "number_of_countries_represented": {
-        "@id": "10700",
-        "#text": "Sumo de landoj reprezentataj"
-      },
-      "number_of_languages_spoken": {
-        "@id": "10717",
-        "#text": "Sumo de lingvoj parolataj"
-      },
-      "prices_assume": {
-        "@id": "10734",
-        "#text": "La supraj prezoj supozas, ke via reklamado celas nur unu lingvon. Por ĉiu aldona lingvo vi devas pagi po 4€ monate. Ne ekzistas aldonaj agordaj kotizoj."
-      },
-      "purchase_email_text_part1": {
-        "@id": "10751",
-        "#text": "Bonvolu retpoŝti nin ĉe"
-      },
-      "purchase_email_text_part2": {
-        "@id": "10768",
-        "#text": "kun la supraj detaloj por ĉiu lingva reklamo."
-      },
-      "purchase_info": {
-        "@id": "10785",
-        "#text": "Ĉiujn reklamojn vi devas aĉeti per la angla aŭ Esperanto."
-      },
-      "setup_fee": {
-        "@id": "10802",
-        "#text": "agordaj kotizoj (inkluzivas la unuan monaton)"
-      },
-      "total_users": {
-        "@id": "10819",
-        "#text": "Totalaj Uzantoj"
-      },
+      "additional_month": "por ĉiu plua monato (vi devas antaŭpagi ĉiujn monatojn)",
+      "advertise_teaser": "Reklamo bazita sur specifa loko, kiun nur la 100 plej proksimaj homoj povas vidi.",
+      "advertise_text": "Amikumu estas socia retejo, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke. Niaj uzantoj estas precipe poliglotoj kaj parolantoj de minoritataj lingvoj.",
+      "advertise_with_us": "Reklamu per Amikumu",
+      "advertisement": "Reklamo",
+      "average_number_of_languages_spoken": "Averaĝa nombro de lingvoj parolataj",
+      "badge_contact_us_part1": "Bonvolu retpoŝti nin ĉe",
+      "badge_contact_us_part2": "por pli da informo.",
+      "commercial": "Komercaj firmaoj",
+      "complete_analysis_part1": "Por plena analizo de niaj lingvaj statistikoj bonvolu vidi",
+      "complete_analysis_part2": "nian statistikan paĝon",
+      "cost": "Kosto",
+      "dau_daily_active_users": "TAU (Tage Aktivaj Uzantoj)",
+      "how_to_purchase": "Kiel aĉeti",
+      "in_app_collectible_badges": "En-ape kolekteblaj Ŝildoj",
+      "in_app_collectible_badges_text": "En-apa kolektebla ŝildo, kiu aperas en la profila paĝo de la uzanto. Perfekte por reklamado de grandskalaj renkontiĝoj, lingvaj festivaloj aŭ seminarioj kaj por provizi aldonan premion por partoprenantoj en eventoj.",
+      "mau_montly_active_users": "MAU (Monate Aktivaj Uzantoj)",
+      "metadata_desc": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!",
+      "metadata_title": "Amikumu - Trovi lingvemulojn apude",
+      "non_profit": "Neprofita",
+      "number_of_countries_represented": "Sumo de landoj reprezentataj",
+      "number_of_languages_spoken": "Sumo de lingvoj parolataj",
+      "prices_assume": "La supraj prezoj supozas, ke via reklamado celas nur unu lingvon. Por ĉiu aldona lingvo vi devas pagi po 4€ monate. Ne ekzistas aldonaj agordaj kotizoj.",
+      "purchase_email_text_part1": "Bonvolu retpoŝti nin ĉe",
+      "purchase_email_text_part2": "kun la supraj detaloj por ĉiu lingva reklamo.",
+      "purchase_info": "Ĉiujn reklamojn vi devas aĉeti per la angla aŭ Esperanto.",
+      "setup_fee": "agordaj kotizoj (inkluzivas la unuan monaton)",
+      "total_users": "Totalaj Uzantoj",
       "your_badge": {
-        "@id": "10836",
         "#text": "Via ŝildo!"
       }
     }
   }
-}
 ,
 "page_home-page":
 {
-  "content": {
     "post_title": "Hejmo",
     "post_content": null,
     "post_meta": {
-      "add_title": {
-        "@id": "43",
-        "#text": "Lingve konektiĝu apude"
-      },
-      "claim": {
-        "@id": "5350",
-        "#text": "La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo."
-      },
-      "language_name_in_own_script": {
-        "@id": "6607",
-        "#text": "Esperanto"
-      },
-      "massive_thanks": {
-        "@id": "6268",
-        "#text": "Grandegan dankon al ĉiuj niaj 429 subtenantoj de Kickstarter, kiuj superigis niajn celojn kaj efektivigis Amikumu"
-      },
-      "metadata_desc": {
-        "@id": "6820",
-        "#text": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!"
-      },
-      "metadata_title": {
-        "@id": "6815",
-        "#text": "Trovi lingvemulojn apude."
-      },
-      "official_sponsor": {
-        "@id": "2621",
-        "#text": "La oficiala sponsoro"
-      },
-      "sponsors": {
-        "@id": "2624",
-        "#text": "Sponsoroj"
-      },
-      "testimonials_block_0_add_name": {
-        "@id": "79",
-        "#text": "Benny Lewis, Fluent in 3 Months"
-      },
-      "testimonials_block_0_add_sortcontent": {
-        "@id": "77",
-        "#text": "Mi neniam scias en kiu urbo mi venontfoje vekiĝos, kaj mi tamen volas ekzerci min per ĉiuj miaj lingvoj. Per ĉi tiu apo, mi povos ekzerci min per ajna lingvo, kiun mi volas per butonpremo!"
-      },
-      "testimonials_block_1_add_name": {
-        "@id": "83",
-        "#text": "Judith Meyer, Fondinto de la Polyglot Gathering"
-      },
-      "testimonials_block_1_add_sortcontent": {
-        "@id": "81",
-        "#text": "Mi opinias, ke Amikumu estas treege utila apo por la komunumo de lingvolernemuloj!"
-      },
-      "testimonials_block_2_add_name": {
-        "@id": "87",
-        "#text": "Profesoro Ghil'ad Zuckermann, D.Phil."
-      },
-      "testimonials_block_2_add_sortcontent": {
-        "@id": "85",
-        "#text": "La apo havas potencialon plibonigi komunikadon inter parolantoj de endanĝerigitaj lingvoj kaj revivigistoj de dormantaj belaĵoj kiel la barngarla indiĝena lingvo."
-      },
-      "testimonials_block_3_add_name": {
-        "@id": "91",
-        "#text": "Langfest Innovation Award 2017 (Montrealo)"
-      },
-      "testimonials_block_3_add_sortcontent": {
-        "@id": "89",
-        "#text": "Ni estas inspirita de Amikumu kaj ilia ambicio por unuigi la mondon per la lingvoj, kiujn ni parolas - aŭ volas paroli!"
-      },
-      "testimonials_block_4_add_name": {
-        "@id": "3411",
-        "#text": "Kimra registaro: Apo de la Semajno"
-      },
-      "testimonials_block_4_add_sortcontent": {
-        "@id": "3408",
-        "#text": "Amikumu aldonas tute novan dimension al lingvolernado kaj ŝanĝas kiel oni konektiĝas kaj ekzercas siajn lingvojn."
-      },
-      "tutorial_blocks_0_text": {
-        "@id": "495",
-        "#text": "Aldonu biografion kaj nomon por ĉiu lingvo, kiun vi regas!\n\nIndiku kiujn lingvojn vi regas kaj kiel bone vi parolas ilin.>"
-      },
-      "tutorial_blocks_0_title": {
-        "@id": "493",
-        "#text": "Esploru profilojn kaj esprimu vin"
-      },
-      "tutorial_blocks_1_text": {
-        "@id": "499",
-        "#text": "Elektu lingvon.\n\nTrovu lingvemulojn apude.>"
-      },
-      "tutorial_blocks_1_title": {
-        "@id": "497",
-        "#text": "Trovu lingvemulojn apude ĉiam, ĉie"
-      },
-      "tutorial_blocks_2_text": {
-        "@id": "503",
-        "#text": "Mesaĝu aliajn apude, kiuj volas paroli vian lingvon.\n\nSendu bildojn, sonregistraĵojn kaj maplokojn.\n\nRapide organizu kunvenojn kaj trovu dumvivajn amikojn.>"
-      },
+      "add_title": "Lingve konektiĝu apude",
+      "claim": "La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo.",
+      "language_name_in_own_script": "Esperanto",
+      "massive_thanks": "Grandegan dankon al ĉiuj niaj 429 subtenantoj de Kickstarter, kiuj superigis niajn celojn kaj efektivigis Amikumu",
+      "metadata_desc": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!",
+      "metadata_title": "Trovi lingvemulojn apude.",
+      "official_sponsor": "La oficiala sponsoro",
+      "sponsors": "Sponsoroj",
+      "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
+      "testimonials_block_0_add_sortcontent": "Mi neniam scias en kiu urbo mi venontfoje vekiĝos, kaj mi tamen volas ekzerci min per ĉiuj miaj lingvoj. Per ĉi tiu apo, mi povos ekzerci min per ajna lingvo, kiun mi volas per butonpremo!",
+      "testimonials_block_1_add_name": "Judith Meyer, Fondinto de la Polyglot Gathering",
+      "testimonials_block_1_add_sortcontent": "Mi opinias, ke Amikumu estas treege utila apo por la komunumo de lingvolernemuloj!",
+      "testimonials_block_2_add_name": "Profesoro Ghil'ad Zuckermann, D.Phil.",
+      "testimonials_block_2_add_sortcontent": "La apo havas potencialon plibonigi komunikadon inter parolantoj de endanĝerigitaj lingvoj kaj revivigistoj de dormantaj belaĵoj kiel la barngarla indiĝena lingvo.",
+      "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montrealo)",
+      "testimonials_block_3_add_sortcontent": "Ni estas inspirita de Amikumu kaj ilia ambicio por unuigi la mondon per la lingvoj, kiujn ni parolas - aŭ volas paroli!",
+      "testimonials_block_4_add_name": "Kimra registaro: Apo de la Semajno",
+      "testimonials_block_4_add_sortcontent": "Amikumu aldonas tute novan dimension al lingvolernado kaj ŝanĝas kiel oni konektiĝas kaj ekzercas siajn lingvojn.",
+      "tutorial_blocks_0_text": "Aldonu biografion kaj nomon por ĉiu lingvo, kiun vi regas!\n\nIndiku kiujn lingvojn vi regas kaj kiel bone vi parolas ilin.>",
+      "tutorial_blocks_0_title": "Esploru profilojn kaj esprimu vin",
+      "tutorial_blocks_1_text": "Elektu lingvon.\n\nTrovu lingvemulojn apude.>",
+      "tutorial_blocks_1_title": "Trovu lingvemulojn apude ĉiam, ĉie",
+      "tutorial_blocks_2_text": "Mesaĝu aliajn apude, kiuj volas paroli vian lingvon.\n\nSendu bildojn, sonregistraĵojn kaj maplokojn.\n\nRapide organizu kunvenojn kaj trovu dumvivajn amikojn.>",
       "tutorial_blocks_2_title": {
-        "@id": "501",
         "#text": "Babilu kaj kunvenu!"
       }
     }
   }
-}
 ,
 "page_press":
 {
-  "content": {
     "post_title": "Gazetaro",
     "post_content": {
       "h3": [
@@ -884,59 +613,41 @@
       "#text": "2018-04-21:  (Sbcltr)\n\n2018-03-18:  (Kalkulinda)\n\n2018-01-11:  (Free Language)\n\n2017-12-07:  (The Guardian)\n\n2017-12-04:  (Fluent Language)\n\n2017-08-03:  (Yury Jakymec)\n\n2017-07-28:  (Teach Yourself)\n\n2017-07-25:  (The Global Times)\n\n2017-06-12:  (CBC Radio One)\n\n2016-11-03:  (Transparent Language)\n\n2016-11-03:  (Yozzi)\n\n2016-10-24:  (Polyglot Nerd)\n\n2016-10-18:  (Steve Kaufmann)\n\n2017-10-22: \n\n2017-04-26:  (Espereto)\n\n2017-08-04:  (IB3)\n\n2017-08-23:  (徐杰)\n\n2017-02-08:  (Chuvash.org)\n\n2017-02-08: \n\n2017-11-07:  (Welsh Government)\n\n2017-05-28:  (Sprachheld)\n\n2016-12-31:  (Svisa Espero)\n\n2018-01-08:  (El Mundo)\n\n2017-10-24:  (Polyglot Nerd)\n\n2018-03-24:  (Libera Folio)\n\n2018-03-18:  (Kalkulinda)\n\n2017-10-27:  (Libera Folio)\n\n2017-07-25:  (Teo kaj Libroj)\n\n2017-06-13:  (Libera Folio)\n\n2017-04-26:  (La Balta Ondo)\n\n2017-04-23:  (Libera Folio)\n\n2017-04-13:  (Libera Folio)\n\n2017-03-27: \n\n2017-03-19: \n\n2017-03-09:  (La Balta Ondo)\n\n2016-11-22:  (La Balta Ondo)\n\n2016-11-16:  (UEA)\n\n2016-11-15: Mention in the  (El Popola Ĉinio)\n\n2016-11-02:  (Jake H)\n\n2016-10-26:  (Emilio Cid)\n\n2016-10-23:  (Esperanto VBlogo)\n\n2016-10-19:  (Esperanto VBlogo)\n\n2016-10-18:  (Libera Folio)\n\n2016-10-18:  (Pola RetRadio)\n\n2016-10-18:  (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10:  (Movada Vidpunkto)\n\n2017-03-30:  (Toulangues)\n\n2017-03-27: \n\n2016-1-01:  (Espéranto France)\n\n2017-08-30:  (Whistling in the Wind)\n\n2018-03-11:  (Jurnalo)\n\n2017-11-02:  (Manageritalia)\n\n2018-03-20:  (エスペラントの今)\n\n2017-10-27:  (에스페란티스토를 위한)\n\n2017-01-31:  (Horizon.taal)\n\n2016-10-31:  (Vincent Oostelbos)\n\n2018-006-04: \n\n2017-11-03:  (Marko Esperanto)\n\n2017-10-24:  (Polyglot Nerd)\n\n2017-08-17:  (Yiddish Daily Forward)\n\n2016-11-02:  (Reb Yid)\n\n2017-01-24:  (YorubaMums Blog)>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6891",
-        "#text": "Bonvenon al la gazetaro de Amikumu. Ĉi tie vi povas trovi multajn ligilojn de artikoloj pri Amikumu en diversaj lingvoj."
-      },
+      "metadata_desc": "Bonvenon al la gazetaro de Amikumu. Ĉi tie vi povas trovi multajn ligilojn de artikoloj pri Amikumu en diversaj lingvoj.",
       "metadata_title": {
-        "@id": "6901",
         "#text": "Amikumu en la gazetaro!"
       }
     }
   }
-}
 ,
 "page_privacy-terms":
 ,
 "page_shop":
 {
-  "content": {
     "post_title": "Retbutiko",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6929",
-        "#text": "Vizitu la retbutikon de Amikumu kaj aĉetu unu el niaj mirindaj T-ĉemizoj por helpi pli sciigi la publikon pri ni."
-      },
+      "metadata_desc": "Vizitu la retbutikon de Amikumu kaj aĉetu unu el niaj mirindaj T-ĉemizoj por helpi pli sciigi la publikon pri ni.",
       "metadata_title": {
-        "@id": "6939",
         "#text": "Retbutiko de Amikumu"
       }
     }
   }
-}
 ,
 "page_statistics":
 {
-  "content": {
     "post_title": "Statistikoj",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6948",
-        "#text": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!"
-      },
+      "metadata_desc": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!",
       "metadata_title": {
-        "@id": "6958",
         "#text": "Statistikoj de Amikumu"
       }
     }
   }
-}
 ,
 "page_support-us":
 {
-  "content": {
     "post_title": "Subtenu nin",
     "post_content": {
       "ol": [
@@ -1060,16 +771,10 @@
       "#text": "Dankon pro via intereso subteni Amikumu.\n\nJen 8 facilaj manieroj por montri vian subtenon kaj helpi kreskigi nian komunumon.\n\nĈiun monaton ni publikigas novaĵleteron kun enrigardoj de niaj planoj kaj sukcesoj malantaŭ la kulisoj. Ankaŭ ni akceptas kontribuaĵojn de membroj el nia komunumo, ekzemple de vi mem. Jen kiel ni parolas rekte kun vi. .\n\nNi havas paĝojn ĉe la plej popularaj sociaj retejoj.\n\n\nHavigu al viaj amikoj nian apon per sociaj komunikiloj aŭ retpoŝto!\n\nJu pli da homoj konscias pri Amikumu, des pli utila Amikumu fariĝas por ni ĉiuj. Diskonigu ligilon al nia oficiala retejo  kune kun noto pri kial vi ŝatas nin tiom multe.\n\nNi celas fariĝi la plej tradukita apo en la mondo! Tio ne estas facila, tial ni bezonas vian helpon!\n\nPor kontribui al jama traduko aŭ komenci novan, bonvolu aniĝi al  (nia preferata traduk-servo) kaj elekti la lingvon, kiun vi volas traduki. Ne ekzistas minimuma aĝo, vi povas traduki la tutan apon aŭ nur unu vorton-vi decidu.\n\nOra membreco provizas vin per aldonaj funkcioj, ekzemple per virtuala teleportado kaj kromaj agordoj de privateco. Tamen, ankaŭ ĝi estas bona maniero montri vian subtenon kaj provizi nin per valora financado! Baldaŭ vi povas aĉeti Oran Membrecon de en la apo.\n\nPorti t-ĉemizon kun emblemo de Amikumu estas bonega maniero pli sciigi la publikon pri ni. Esploru nian .\n\n en via lernejo, universitato kaj loka lingva klubo. Ankaŭ ili estas jam tradukitaj en multajn aliajn lingvojn por via uzado. Se vi bezonas tajloritajn flugfoliojn, bonvolu kontrakti nin ĉe \n\nLaste kaj grave, renkontiĝu per Amikumu kaj rakontu al ni viajn spertojn! Ni amas diskonigi sukcesajn renkontiĝojn al nia komunumo. Retpoŝtu viajn rakontojn kaj fotojn al \n\nFine, multajn dankojn pro ĉia helpo, kiun vi povas doni.\n\nSe vi havas ideojn aŭ sugestojn, ne hezitu kontakti nin ĉe .>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6967",
-        "#text": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!"
-      },
+      "metadata_desc": "Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!",
       "metadata_title": {
-        "@id": "6977",
         "#text": "Subtenu Amikumu!"
       }
     }
   }
-}
-,
 }

@@ -1,92 +1,40 @@
 {
 "page_about-us":
 {
-  "content": {
     "post_title": "ჩვენ შესახებ",
     "post_content": null,
     "post_meta": {
-      "add_description": {
-        "@id": "320",
-        "#text": "Amikumu-ს მისიაა შექმნას და განავრცოს სოციალური ქსელი, რომელიც მსოფლიოს ყველა ენის მოსაუბრეებსა თუ მომხმარებლებს მიაწვდის ერთმანეთთან საკომუნიკაციო და ლოკალურ დონეზე ინფორმაციის გასაცვლელ პლატფორმას, დამოუკიდებლად თითოეული ენის სოციალური, პოლიტიკური თუ ეკონომიკური სტატუსისა."
-      },
-      "add_title": {
-        "@id": "318",
-        "#text": "შექმნილია პოლიგლოტთა გუნდის მიერ"
-      },
-      "city": {
-        "@id": "6473",
-        "#text": "ქალაქი"
-      },
-      "languages": {
-        "@id": "6477",
-        "#text": "ენები"
-      },
-      "metadata_desc": {
-        "@id": "6834",
-        "#text": "Amikumu-ს გუნდი შედგება პოლიგლოტებისგან მთელი მსოფლიოდან, რომელთაც ენების შესწავლას უამრავი საათი დაუთმეს."
-      },
-      "metadata_title": {
-        "@id": "6839",
-        "#text": "გაიცანით Amikumu-ს გუნდი"
-      },
-      "our_team": {
-        "@id": "6469",
-        "#text": "ჩვენი გუნდი"
-      },
-      "team_members_0_city": {
-        "@id": "328",
-        "#text": "სიდნეი, ავსტრალია"
-      },
+      "add_description": "Amikumu-ს მისიაა შექმნას და განავრცოს სოციალური ქსელი, რომელიც მსოფლიოს ყველა ენის მოსაუბრეებსა თუ მომხმარებლებს მიაწვდის ერთმანეთთან საკომუნიკაციო და ლოკალურ დონეზე ინფორმაციის გასაცვლელ პლატფორმას, დამოუკიდებლად თითოეული ენის სოციალური, პოლიტიკური თუ ეკონომიკური სტატუსისა.",
+      "add_title": "შექმნილია პოლიგლოტთა გუნდის მიერ",
+      "city": "ქალაქი",
+      "languages": "ენები",
+      "metadata_desc": "Amikumu-ს გუნდი შედგება პოლიგლოტებისგან მთელი მსოფლიოდან, რომელთაც ენების შესწავლას უამრავი საათი დაუთმეს.",
+      "metadata_title": "გაიცანით Amikumu-ს გუნდი",
+      "our_team": "ჩვენი გუნდი",
+      "team_members_0_city": "სიდნეი, ავსტრალია",
       "team_members_0_description": {
-        "@id": "326",
         "br": [
           null,
           null
         ],
         "#text": "რიჩარდ დელამორი, ცნობილი თავისი ინტერნეტფსევდონიმით - Evildea, არის ავსტრალიელი ესპერანტისტი იუთუბერი და ესპერანტოს კინოინდუსტრიაში წამყვანი ფიგურა. Amikumu-ს თანადამფუძნებლობამდე რიჩარდმა ესპერანტოს ტელევიზია დააფუძნა და აქტიურობდა ავსტრალიის ესპერანტოს ასოციაციის (AEA) დირექტორთა საბჭოში, ენების ფესტივალის ასოციაციასა (LFA) და ახალი სამხრეთ უელსის ესპერანტოს ფედერაციაში (EFNSW). გარდა ამისა, იგი ექვსი წელი მსახურობდა ავსტრალიის შეიარაღებულ ძალებში სიგნალის ოპერატორად და ასევე უმუშავია არაერთ საერთაშორისო ბიზნესპროექტში სისტემის ადმინისტრატორად.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
       },
-      "team_members_0_job_title": {
-        "@id": "324",
-        "#text": "მთავარი აღმასრულებელი ოფიცერი (CEO)"
-      },
-      "team_members_0_languages": {
-        "@id": "330",
-        "#text": "ინგლისური, ესპერანტო, მანდარინი"
-      },
-      "team_members_0_name": {
-        "@id": "374",
-        "#text": "რიჩარდ დელამორი"
-      },
-      "team_members_1_city": {
-        "@id": "338",
-        "#text": "ბერლინი, გერმანია (აშშ-დან)"
-      },
+      "team_members_0_job_title": "მთავარი აღმასრულებელი ოფიცერი (CEO)",
+      "team_members_0_languages": "ინგლისური, ესპერანტო, მანდარინი",
+      "team_members_0_name": "რიჩარდ დელამორი",
+      "team_members_1_city": "ბერლინი, გერმანია (აშშ-დან)",
       "team_members_1_description": {
-        "@id": "336",
         "br": [
           null,
           null
         ],
         "#text": "ჩაკ სმიტი არის Polyglot Gathering-ის თანაორგანიზატორი, Duolingo-ზე ესპერნატოს კურსის კონტრიბუტორი და ესპერანტოს ვიკიპედიის დამფუძნებელი, ესპერანტოსა და ენებთან დაკავშირებულ სხვადასხვა პროექტთა შორის. იგი 2008 წელს Apple-ის App Store-ის გაშვებიდან მუშაობს iOS აპლიკაციებზე. 2002 წელს ბრაზილიაში მოგზაურობისას სწორედ მას დაებადა GPS-ის საშუალებით ესპერანტოზე მოსაუბრეთა პოვნის იდეა, მაგრამ პრაქტიკაში მის განსახორციელებლად15 წლით დაცდა მოუხდა რათა ტექნოლოგია შესაბამისად დახვეწილიყო. ახლა კი იგი ახალ გამოწვევებს მოუთმენლად ელის, რათა ხალხს ერთანეთთან დაკავშირებაში დაეხმაროს და მსოფლიოს გაუმჯობესებაში თავისი წვლილი შეიტანოს.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
       },
-      "team_members_1_job_title": {
-        "@id": "334",
-        "#text": "Chief Technical Officer and Mobile Developer"
-      },
-      "team_members_1_languages": {
-        "@id": "340",
-        "#text": "ინგლისური, ესპერანტო, გერმანული, ესპანური, ფრანგული, ჰოლანდიური, პოლონური, ASL (ამერიკული ჟესტების ენა)"
-      },
-      "team_members_1_name": {
-        "@id": "376",
-        "#text": "ჩაკ სმიტი"
-      },
-      "team_members_2_city": {
-        "@id": "587",
-        "#text": "Amsterdam, The Netherlands"
-      },
+      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
+      "team_members_1_languages": "ინგლისური, ესპერანტო, გერმანული, ესპანური, ფრანგული, ჰოლანდიური, პოლონური, ASL (ამერიკული ჟესტების ენა)",
+      "team_members_1_name": "ჩაკ სმიტი",
+      "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "@id": "585",
         "br": [
           null,
           null,
@@ -94,97 +42,49 @@
         ],
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
       },
-      "team_members_2_job_title": {
-        "@id": "583",
-        "#text": "Volunteer: Mobile Developer / Customer Support"
-      },
-      "team_members_2_languages": {
-        "@id": "589",
-        "#text": "Dutch, English, Esperanto, baby-German"
-      },
-      "team_members_2_name": {
-        "@id": "579",
-        "#text": "Tanja Orme"
-      },
-      "team_members_3_city": {
-        "@id": "599",
-        "#text": "ბერლინი, გერმანია"
-      },
+      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
+      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
+      "team_members_2_name": "Tanja Orme",
+      "team_members_3_city": "ბერლინი, გერმანია",
       "team_members_3_description": {
-        "@id": "597",
         "br": [
           null,
           null
         ],
         "#text": "იუდით მაიერი კომპიუტერული ლინგვისტია, რომელიც მეტწილად ენებთან დაკავშირებულ ისეთ ვებაპლიკაციათა შექმნაზე მუშაობს, როგორიცაა მისი პროექტი LearnYu. იგი პოლიგლოტიცაა, Polyglot Gathering-ის თანაორგანიზატორი და ენების შესახებ არაერთი წიგნისა და კურსის ავტორი. მან ესპერანტო 14 წლის ასაკში შეისწავლა შემდგომ სხვა ენების უფრო იოლად დაუფლების მიზნით.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
       },
-      "team_members_3_job_title": {
-        "@id": "595",
-        "#text": "ფონის ავტორი"
-      },
-      "team_members_3_languages": {
-        "@id": "601",
-        "#text": "გერმანული, ინგლისური, ესპერანტო, ლათინური, ფრანგული, იტალიური, თანამედროვე ბერძნული, მანდარინი, ჰოლანდიური, ესპანური, ინდონეზიური, ებრაული, სუაჰილი"
-      },
-      "team_members_3_name": {
-        "@id": "591",
-        "#text": "იუდით მაიერი"
-      },
-      "team_members_4_city": {
-        "@id": "611",
-        "#text": "ფილადელფია, აშშ"
-      },
+      "team_members_3_job_title": "ფონის ავტორი",
+      "team_members_3_languages": "გერმანული, ინგლისური, ესპერანტო, ლათინური, ფრანგული, იტალიური, თანამედროვე ბერძნული, მანდარინი, ჰოლანდიური, ესპანური, ინდონეზიური, ებრაული, სუაჰილი",
+      "team_members_3_name": "იუდით მაიერი",
+      "team_members_4_city": "ფილადელფია, აშშ",
       "team_members_4_description": {
-        "@id": "609",
         "br": [
           null,
           null
         ],
         "#text": "ჯესი ალტერი ლინუქსის სისტემის ადმინისტრატორია კომპიუტერულ მეცნიერებებსა და სოციალურ მუშაობაში აკადემიური ხარისხით. წლების მანძილზე, პედიატრულ სოცმუშაკად მუშაობის პარალელურად, ჯესი არაერთ ვებგვერდსა და სერვისის სერვერს მართავდა. შემდეგ მან კარიერა შეიცვალა თავისი ხანგრძლივი ცხოვრებისეული ინტერესის - კომპიუტერულ სისტემათა შექმნა-მართვის გასაგრძელებლად. Amikumu-ს გარდა ჯესის ინტერესის სფეროებია რეტროკომპიუტირება, ინფორმაციული კონფიდენციალობა და მონაცემთა ანალიზი.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. ჩემთვის ეს სუპერძალაა.“>"
       },
-      "team_members_4_job_title": {
-        "@id": "607",
-        "#text": "სისტემის ადმინისტრატორი"
-      },
-      "team_members_4_languages": {
-        "@id": "613",
-        "#text": "ინგლისური, ესპერანტო"
-      },
-      "team_members_4_name": {
-        "@id": "603",
-        "#text": "ჯესი ალტერი"
-      },
-      "team_members_5_city": {
-        "@id": "703",
-        "#text": "ეკატერინბურგი, რუსეთი"
-      },
+      "team_members_4_job_title": "სისტემის ადმინისტრატორი",
+      "team_members_4_languages": "ინგლისური, ესპერანტო",
+      "team_members_4_name": "ჯესი ალტერი",
+      "team_members_5_city": "ეკატერინბურგი, რუსეთი",
       "team_members_5_description": {
-        "@id": "701",
         "br": [
           null,
           null
         ],
         "#text": "ელენა ხუსანოვა გამოცდილი გრაფიკდიზაინერია შესაბამისი დიპლომით არქიტექტურის თეორიაში. ესპერანტო სწავლის დასრულებისას ისწავლა და მას შემდეგ უმუშავია არაერთ ორგანიზაციაში და ღონისძიებაზე. სხვა პროექტთა შორის გამორჩეულია მისი მოხალისეობა E@I-ში სლოვაკეთში და ესპერანტოს 101-ე მსოფლიო კონგრესში საორგანიზაციო ჩართულობა. ახლახან მან თავისი პირადი პროექტი დაასრულა: ბარათები თამაშისათვის „მაქციები“.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
       },
-      "team_members_5_job_title": {
-        "@id": "699",
-        "#text": "გრაფიკული დიზაინერი"
-      },
-      "team_members_5_languages": {
-        "@id": "705",
-        "#text": "ინგლისური, რუსული, ესპერანტო, სლოვაკური, შვედური, ტოკი პონა"
-      },
+      "team_members_5_job_title": "გრაფიკული დიზაინერი",
+      "team_members_5_languages": "ინგლისური, რუსული, ესპერანტო, სლოვაკური, შვედური, ტოკი პონა",
       "team_members_5_name": {
-        "@id": "695",
         "#text": "ელენა ხუსანოვა"
       }
     }
   }
-}
 ,
 "page_ambassador":
 {
-  "content": {
     "post_title": "ელჩი",
     "post_content": {
       "h2": [
@@ -230,21 +130,15 @@
       "#text": "უპირველეს ყოვლისა, უღრმესი მადლობა ელჩების პროგრამით დაინტერესებისათვის!\n\nიდეაში, ელჩია ის, ვინც Amikumu-ს პოპულარიზებაში გვეხმარება თავის ადგილობრივ საზოგადოებაში. ისინი ადგილზე ჩვენი წარმომადგენლები არიან! ჩვენი უდიდესი მხარდამჭერები და უმნიშვნელოვანესი დამხმარენი.\n\nგააჩნია თავად რა შეუძლიათ. ჩვენ სია ჩამოვწერეთ იმისა, თუ რა გზებით ეწევიან ჩვენი ელჩები მსოფლიოს მასშტაბით Amikumu-ს პოპულარიზებას.\n\n\nთქვენი უძვირფასესი მხარდაჭერისათვის ჩვენ ცოტა რამის გაკეთება შეგვიძლია. თუმცა, არსებობს რამდენიმე წამახალისებელი რამ ელჩად ყოფნისა. ელჩებს სხვა რამეებთან ერთად აპლიკაციის უნიკალური დაგროვებითი ბეჯები ურიგდებათ. დამატებითი ინფორმაციისათვის გთხოვთ დაგვიკავშირდეთ ელფოსტაზე ."
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6853",
-        "#text": "Amikumu-ს ელჩია ის, ვინც Amikumu-ს პოპულარიზებაში გვეხმარება თავის ადგილობრივ საზოგადოებაში. ისინი ადგილზე ჩვენი წარმომადგენლები არიან! ჩვენი უდიდესი მხარდამჭერები და უმნიშვნელოვანესი დამხმარენი."
-      },
+      "metadata_desc": "Amikumu-ს ელჩია ის, ვინც Amikumu-ს პოპულარიზებაში გვეხმარება თავის ადგილობრივ საზოგადოებაში. ისინი ადგილზე ჩვენი წარმომადგენლები არიან! ჩვენი უდიდესი მხარდამჭერები და უმნიშვნელოვანესი დამხმარენი.",
       "metadata_title": {
-        "@id": "6863",
         "#text": "შეუერთდით Amikumu-ს ელჩების პროგრამას!"
       }
     }
   }
-}
 ,
 "page_faq":
 {
-  "content": {
     "post_title": "დახმარება / ხშირად დასმული კითხვები",
     "post_content": {
       "h2": [
@@ -345,21 +239,15 @@
       "#text": "Amikumu - ესაა აპლიკაცია, რომელიც გეხმარებათ ნებისმიერ ენაზე სასაუბროდ ახლომახლო ხალხის პოვნაში. მაგალითად, დასასვენებლად ყოფნისას, გამოიყენეთ Amikumu ადგილზე ესპანურად, ფრაგულად ან სხვა ნებისმიერ ენაზე მოსაუბრეთა აღმოსაჩენად და გასაცნობად.\n\n\n\n\nდიახ.\n\nAmikumu თავსებადია Android-ისა (OS 4.0.3) და iOS 9.1-სათვის (iPhone 4S, iPad 2+).\n\n\nჩვენთვის თქვენი კონფიდენციალობა და უსაფრთხოება მნიშვნელოვანია, ამიტომ Amikumu არ ინახავს და არ აჩვენებს ზუსტ ადგილმდებარეობებს.\n\nეს შეუძლებელია, მაგრამ Amikumu-ს გააჩნია მომხმარებელთა დაბლოკვის ფუნქცია. როდესაც რომელიმე მომხმარებელს დაბლოკავთ, ის ვეღარ შეძლებს სისტემაში ვერც თქვენს დანახვასა და ვერც თქენთან დაკავშირებას.\n\n\nჩვენ Amikumu-ში ყოველნაირად მივესალმებით ღია პროგრამულ კოდს. მაგრამ სამწუხაროდ ამჟამად ღია კოდი შეუსაბამოა ჩვენი ორგანიზაციისათვის. თუმცა ველით შესაძლებლობას, როდესაც ღია კოდის შეთავაზება შეგვეძლება.\n\nდიახ, შეგიძლიათ Amikumu თარგმნოთ.\n\nAmikumu ესპერანტოზე ნიშნავს „იმეგობრეთ!“\n\nჩვენ მივესალმებით თქვენს შეფასებებს, ასე რომ - ჩაეწერეთ , ან გამოგვიწერეთ შემდეგ სოცქსელებში:   და  რათა იყოთ ინფორმირებული.\n\nდამატებითი შეკითხვების შემთხვევაში დაგვიკავშირდით შემდეგ ელფოსტაზე:>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6872",
-        "#text": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!"
-      },
+      "metadata_desc": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!",
       "metadata_title": {
-        "@id": "6877",
         "#text": "დახმარება / ხშირად დასმული კითხვები"
       }
     }
   }
-}
 ,
 "page_for-organizations":
 {
-  "content": {
     "post_title": "ორგანიზაციებისთვის",
     "post_content": {
       "ol": {
@@ -377,235 +265,76 @@
       "#text": ">"
     },
     "post_meta": {
-      "additional_month": {
-        "@id": "10378",
-        "#text": "ყოველი დამატებითი თვისათვის (უნდა გადაიხადოთ წინასწარ)"
-      },
-      "advertise_teaser": {
-        "@id": "10395",
-        "#text": "მდებარეობაზე დაფუძნებული რეკლამა, რომელსაც მხოლოდ გარშემომყოფი 100 ადამიანი ნახავს."
-      },
-      "advertise_text": {
-        "@id": "10412",
-        "#text": "Amikumu არის სოციალური ქსელი, რომელიც მსოფლიოს ენებზე მოსაუბრეებს სთავაზობს ურთიერთკომუნიკაციისა და სასარგებლო ინფორმაციის გაცვლის პლატფორმას. ჩვენი მომხმარებლები მეტწილად პოლიგლოტები და უმცირესობათა ენებზე მოსაუბრენი არიან."
-      },
-      "advertise_with_us": {
-        "@id": "10429",
-        "#text": "გააკეთე რეკლამა Amikumu-სთან ერთად"
-      },
-      "advertisement": {
-        "@id": "10462",
-        "#text": "რეკლამა"
-      },
-      "average_number_of_languages_spoken": {
-        "@id": "10479",
-        "#text": "ენათა საშუალო რაოდენობა"
-      },
-      "badge_contact_us_part1": {
-        "@id": "10496",
-        "#text": "გთხოვთ მოგვწეროთ ელფოსტაზე"
-      },
-      "badge_contact_us_part2": {
-        "@id": "10513",
-        "#text": "მეტი ინფორმაციისათვის."
-      },
-      "commercial": {
-        "@id": "10530",
-        "#text": "რეკლამა"
-      },
-      "complete_analysis_part1": {
-        "@id": "10547",
-        "#text": "ჩვენი ენების სტატისტიკის სრული ანალიზისათვის, გთხოვთ ნახოთ ჩვენი"
-      },
-      "complete_analysis_part2": {
-        "@id": "10564",
-        "#text": "სტატისტიკის გვერდი"
-      },
-      "cost": {
-        "@id": "10581",
-        "#text": "საფასური"
-      },
-      "dau_daily_active_users": {
-        "@id": "10598",
-        "#text": "DAU (ყოველდღიურიად აქტიური მომხმარებლები)"
-      },
-      "how_to_purchase": {
-        "@id": "10615",
-        "#text": "როგორ ვიყიდოთ"
-      },
-      "in_app_collectible_badges": {
-        "@id": "10632",
-        "#text": "სააპლიკაციო დასაგროვებელი ბეჯები"
-      },
-      "in_app_collectible_badges_text": {
-        "@id": "10649",
-        "#text": "სააპლიკაციო დასაგროვებელი ბეჯი, რომელიც მომხმარებლის გვერდზე ჩნდება. სრულყოფილია ფართომასშტაბიანი შეკრებების, ენის ფესტივალებისა თუ სემინარების რეკლამირებისთვის, ასევე ღონისძიებებში მონაწილეობისათვის დამატებითი ჯილდოს მოწოდებისათვის."
-      },
-      "mau_montly_active_users": {
-        "@id": "10666",
-        "#text": "MAU (ყოველთვიური აქტიური მომხმარებლები)"
-      },
-      "metadata_desc": {
-        "@id": "10853",
-        "#text": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!"
-      },
-      "metadata_title": {
-        "@id": "10887",
-        "#text": "Amikumu - იპოვნეთ ენის პარტნიორები ახლომახლო"
-      },
-      "non_profit": {
-        "@id": "10683",
-        "#text": "არასამეწარმეო"
-      },
-      "number_of_countries_represented": {
-        "@id": "10700",
-        "#text": "წარმოდგენილი ქვეყნების რაოდენობა"
-      },
-      "number_of_languages_spoken": {
-        "@id": "10717",
-        "#text": "ენათა რაოდენობა"
-      },
-      "prices_assume": {
-        "@id": "10734",
-        "#text": "ზემოთა ფასების მიხედვით თქვენი რეკლამა მხოლოდ ერთ ენაზეა გამიზნული. დამატებით ყოველი ენისათვის ყოველთვიურად გადასახდელია 4€. ინსტალაციისათვის დამატებითი გადასახადი არ არსებობს."
-      },
-      "purchase_email_text_part1": {
-        "@id": "10751",
-        "#text": "გთხოვთ მოგვწეროთ ელფოსტაზე"
-      },
-      "purchase_email_text_part2": {
-        "@id": "10768",
-        "#text": "ზემოთ მოცემული დეტალებით თითოეული ენის რეკლამირებისათვის."
-      },
-      "purchase_info": {
-        "@id": "10785",
-        "#text": "ყველა სარეკლამო შეკვეთა უნდა განხორციელდეს ინგლისურად ან ესპერანტოზე."
-      },
-      "setup_fee": {
-        "@id": "10802",
-        "#text": "საინსტალაციო საფასური (პირველი თვის ჩათვლით)"
-      },
-      "total_users": {
-        "@id": "10819",
-        "#text": "ყველა მომხმარებელი"
-      },
+      "additional_month": "ყოველი დამატებითი თვისათვის (უნდა გადაიხადოთ წინასწარ)",
+      "advertise_teaser": "მდებარეობაზე დაფუძნებული რეკლამა, რომელსაც მხოლოდ გარშემომყოფი 100 ადამიანი ნახავს.",
+      "advertise_text": "Amikumu არის სოციალური ქსელი, რომელიც მსოფლიოს ენებზე მოსაუბრეებს სთავაზობს ურთიერთკომუნიკაციისა და სასარგებლო ინფორმაციის გაცვლის პლატფორმას. ჩვენი მომხმარებლები მეტწილად პოლიგლოტები და უმცირესობათა ენებზე მოსაუბრენი არიან.",
+      "advertise_with_us": "გააკეთე რეკლამა Amikumu-სთან ერთად",
+      "advertisement": "რეკლამა",
+      "average_number_of_languages_spoken": "ენათა საშუალო რაოდენობა",
+      "badge_contact_us_part1": "გთხოვთ მოგვწეროთ ელფოსტაზე",
+      "badge_contact_us_part2": "მეტი ინფორმაციისათვის.",
+      "commercial": "რეკლამა",
+      "complete_analysis_part1": "ჩვენი ენების სტატისტიკის სრული ანალიზისათვის, გთხოვთ ნახოთ ჩვენი",
+      "complete_analysis_part2": "სტატისტიკის გვერდი",
+      "cost": "საფასური",
+      "dau_daily_active_users": "DAU (ყოველდღიურიად აქტიური მომხმარებლები)",
+      "how_to_purchase": "როგორ ვიყიდოთ",
+      "in_app_collectible_badges": "სააპლიკაციო დასაგროვებელი ბეჯები",
+      "in_app_collectible_badges_text": "სააპლიკაციო დასაგროვებელი ბეჯი, რომელიც მომხმარებლის გვერდზე ჩნდება. სრულყოფილია ფართომასშტაბიანი შეკრებების, ენის ფესტივალებისა თუ სემინარების რეკლამირებისთვის, ასევე ღონისძიებებში მონაწილეობისათვის დამატებითი ჯილდოს მოწოდებისათვის.",
+      "mau_montly_active_users": "MAU (ყოველთვიური აქტიური მომხმარებლები)",
+      "metadata_desc": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!",
+      "metadata_title": "Amikumu - იპოვნეთ ენის პარტნიორები ახლომახლო",
+      "non_profit": "არასამეწარმეო",
+      "number_of_countries_represented": "წარმოდგენილი ქვეყნების რაოდენობა",
+      "number_of_languages_spoken": "ენათა რაოდენობა",
+      "prices_assume": "ზემოთა ფასების მიხედვით თქვენი რეკლამა მხოლოდ ერთ ენაზეა გამიზნული. დამატებით ყოველი ენისათვის ყოველთვიურად გადასახდელია 4€. ინსტალაციისათვის დამატებითი გადასახადი არ არსებობს.",
+      "purchase_email_text_part1": "გთხოვთ მოგვწეროთ ელფოსტაზე",
+      "purchase_email_text_part2": "ზემოთ მოცემული დეტალებით თითოეული ენის რეკლამირებისათვის.",
+      "purchase_info": "ყველა სარეკლამო შეკვეთა უნდა განხორციელდეს ინგლისურად ან ესპერანტოზე.",
+      "setup_fee": "საინსტალაციო საფასური (პირველი თვის ჩათვლით)",
+      "total_users": "ყველა მომხმარებელი",
       "your_badge": {
-        "@id": "10836",
         "#text": "შენი ბეჯი!"
       }
     }
   }
-}
 ,
 "page_home-page":
 {
-  "content": {
     "post_title": "სახლი",
     "post_content": null,
     "post_meta": {
-      "add_title": {
-        "@id": "43",
-        "#text": "ივარჯიშეთ ენებში ახლომახლო"
-      },
-      "claim": {
-        "@id": "5350",
-        "#text": "Amikumu-ს მისიაა შექმნას და განავრცოს სოციალური ქსელი, რომელიც მსოფლიოს ყველა ენის მოსაუბრეებსა თუ მომხმარებლებს მიაწვდის ერთმანეთთან საკომუნიკაციო და ლოკალურ დონეზე ინფორმაციის გასაცვლელ პლატფორმას, დამოუკიდებლად თითოეული ენის სოციალური, პოლიტიკური თუ ეკონომიკური სტატუსისა."
-      },
-      "language_name_in_own_script": {
-        "@id": "6607",
-        "#text": "ქართული"
-      },
-      "massive_thanks": {
-        "@id": "6268",
-        "#text": "უღრმესი მადლობა ჩვენს 429-ვე მხარდამჭერს Kickstarter-ზე, რომელთაც ჩვენს სადამფუძნებლო გეგმებს გადააჭარბეს და Amikumu რეალობად აქციეს!"
-      },
-      "metadata_desc": {
-        "@id": "6820",
-        "#text": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!"
-      },
-      "metadata_title": {
-        "@id": "6815",
-        "#text": "Amikumu - იპოვნეთ ენის პარტნიორები ახლომახლო"
-      },
-      "official_sponsor": {
-        "@id": "2621",
-        "#text": "ოფიციალური სპონსორი"
-      },
-      "sponsors": {
-        "@id": "2624",
-        "#text": "სპონსორები"
-      },
-      "testimonials_block_0_add_name": {
-        "@id": "79",
-        "#text": "ბენი ლიუისი, Fluent in 3 Months"
-      },
-      "testimonials_block_0_add_sortcontent": {
-        "@id": "77",
-        "#text": "წინასწარ არასდროს ვიცი ხოლმე ხვალ რომელ ქალაქში შეიძლება გავიღვიძო და მაშინაც კი მჭირდება ჩემი ენების გავარჯიშება. ამ აპლიკაციით ნებისმიერი სასურველი ენის გავარჯიშება შემიძლია ღილაკზე უბრალოდ თითის დაჭერით!"
-      },
-      "testimonials_block_1_add_name": {
-        "@id": "83",
-        "#text": "იუდით მაიერი, Polyglot Gathering-ის დამფუძნებელი"
-      },
-      "testimonials_block_1_add_sortcontent": {
-        "@id": "81",
-        "#text": "მე მჯერა, რომ Amikumu ენების შემსწავლელი საზოგადოებისათვის წარმოუდგენლად საჭირო აპლიკაციაა!"
-      },
-      "testimonials_block_2_add_name": {
-        "@id": "87",
-        "#text": "პროფესორი გილად ცუკერმანი, ფილოსოფიის დოქტ."
-      },
-      "testimonials_block_2_add_sortcontent": {
-        "@id": "85",
-        "#text": "აპლიკაციას მნიშვნელოვანწილად შეუძლია კომუნიკაციის გაუმჯობესება გაქრობის საფრთხის წინაშე მყოფ ამა თუ იმ ენაზე მოსაუბრეთა და ისეთ მეოცნებე მძინარე მზეთუნახავთა რევიტალიზაციით დაკავებულთა შორის, როგორიცაა მაგალითად ბარნგარლა (ავსტრალიის ერთ-ერთი აბორიგენული ენა)."
-      },
-      "testimonials_block_3_add_name": {
-        "@id": "91",
-        "#text": "Langfest Innovation Award 2017 (მონრეალი)"
-      },
-      "testimonials_block_3_add_sortcontent": {
-        "@id": "89",
-        "#text": "ჩვენ შთაგონებული ვართ Amikumu-თი და მისი ამბიციით გაგვაერთიანოს იმ ენების მეშვეობით, რომლებზეც ვსაუბრობთ - ან მათ შესასწავლად მივისწრაფით!"
-      },
-      "testimonials_block_4_add_name": {
-        "@id": "3411",
-        "#text": "უელსის მთავრობის „კვირის აპლიკაცია“"
-      },
-      "testimonials_block_4_add_sortcontent": {
-        "@id": "3408",
-        "#text": "Amikumu-ს სრულიად ახალი განზომილება შემოაქვს ენების შემსწავლელთა საზოგადოებაში და სავსებით გარდაქმნის ენათა ვარჯიშისა და მათი მეშვეობით ხალხთა ურთიერთკომუნიკაციის ტრადიციულ მეთოდებს."
-      },
-      "tutorial_blocks_0_text": {
-        "@id": "495",
-        "#text": "დაამატეთ ბიოგრაფია და სახელი ცალ-ცალკე ყოველი ენისთვის, რომელსაც ფლობთ!\n\nმიუთითეთ რომელი ენები იცით და რამდენად კარგად საუბრობთ მათზე.>"
-      },
-      "tutorial_blocks_0_title": {
-        "@id": "493",
-        "#text": "დაათვალიერეთ პროფილები და გამოთქვით თქვენი აზრი"
-      },
-      "tutorial_blocks_1_text": {
-        "@id": "499",
-        "#text": "აირჩიეთ ენა.\n\nმოძებნეთ ახლომახლო ხალხი, ვინც ამ ენაზე საუბრობს.>"
-      },
-      "tutorial_blocks_1_title": {
-        "@id": "497",
-        "#text": "მოძებნეთ ენის შემსწავლელი პარტნიორები თქვენს ირგვლივ - ნებისმიერ დროს, ნებისმიერ ადგილას"
-      },
-      "tutorial_blocks_2_text": {
-        "@id": "503",
-        "#text": "მისწერეთ ახლომახლო სხვებს, ვინც თქვენთვის სასურველი ენა იცის.\n\nგაუგზავნეთ სურათები, ხმოვანი შეტყობინებები და რუკის კოორდინატები.\n\nსწრაფად დაგეგმეთ შეხვედრები და დაუმეგობრდით სამუდამოდ.>"
-      },
+      "add_title": "ივარჯიშეთ ენებში ახლომახლო",
+      "claim": "Amikumu-ს მისიაა შექმნას და განავრცოს სოციალური ქსელი, რომელიც მსოფლიოს ყველა ენის მოსაუბრეებსა თუ მომხმარებლებს მიაწვდის ერთმანეთთან საკომუნიკაციო და ლოკალურ დონეზე ინფორმაციის გასაცვლელ პლატფორმას, დამოუკიდებლად თითოეული ენის სოციალური, პოლიტიკური თუ ეკონომიკური სტატუსისა.",
+      "language_name_in_own_script": "ქართული",
+      "massive_thanks": "უღრმესი მადლობა ჩვენს 429-ვე მხარდამჭერს Kickstarter-ზე, რომელთაც ჩვენს სადამფუძნებლო გეგმებს გადააჭარბეს და Amikumu რეალობად აქციეს!",
+      "metadata_desc": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!",
+      "metadata_title": "Amikumu - იპოვნეთ ენის პარტნიორები ახლომახლო",
+      "official_sponsor": "ოფიციალური სპონსორი",
+      "sponsors": "სპონსორები",
+      "testimonials_block_0_add_name": "ბენი ლიუისი, Fluent in 3 Months",
+      "testimonials_block_0_add_sortcontent": "წინასწარ არასდროს ვიცი ხოლმე ხვალ რომელ ქალაქში შეიძლება გავიღვიძო და მაშინაც კი მჭირდება ჩემი ენების გავარჯიშება. ამ აპლიკაციით ნებისმიერი სასურველი ენის გავარჯიშება შემიძლია ღილაკზე უბრალოდ თითის დაჭერით!",
+      "testimonials_block_1_add_name": "იუდით მაიერი, Polyglot Gathering-ის დამფუძნებელი",
+      "testimonials_block_1_add_sortcontent": "მე მჯერა, რომ Amikumu ენების შემსწავლელი საზოგადოებისათვის წარმოუდგენლად საჭირო აპლიკაციაა!",
+      "testimonials_block_2_add_name": "პროფესორი გილად ცუკერმანი, ფილოსოფიის დოქტ.",
+      "testimonials_block_2_add_sortcontent": "აპლიკაციას მნიშვნელოვანწილად შეუძლია კომუნიკაციის გაუმჯობესება გაქრობის საფრთხის წინაშე მყოფ ამა თუ იმ ენაზე მოსაუბრეთა და ისეთ მეოცნებე მძინარე მზეთუნახავთა რევიტალიზაციით დაკავებულთა შორის, როგორიცაა მაგალითად ბარნგარლა (ავსტრალიის ერთ-ერთი აბორიგენული ენა).",
+      "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (მონრეალი)",
+      "testimonials_block_3_add_sortcontent": "ჩვენ შთაგონებული ვართ Amikumu-თი და მისი ამბიციით გაგვაერთიანოს იმ ენების მეშვეობით, რომლებზეც ვსაუბრობთ - ან მათ შესასწავლად მივისწრაფით!",
+      "testimonials_block_4_add_name": "უელსის მთავრობის „კვირის აპლიკაცია“",
+      "testimonials_block_4_add_sortcontent": "Amikumu-ს სრულიად ახალი განზომილება შემოაქვს ენების შემსწავლელთა საზოგადოებაში და სავსებით გარდაქმნის ენათა ვარჯიშისა და მათი მეშვეობით ხალხთა ურთიერთკომუნიკაციის ტრადიციულ მეთოდებს.",
+      "tutorial_blocks_0_text": "დაამატეთ ბიოგრაფია და სახელი ცალ-ცალკე ყოველი ენისთვის, რომელსაც ფლობთ!\n\nმიუთითეთ რომელი ენები იცით და რამდენად კარგად საუბრობთ მათზე.>",
+      "tutorial_blocks_0_title": "დაათვალიერეთ პროფილები და გამოთქვით თქვენი აზრი",
+      "tutorial_blocks_1_text": "აირჩიეთ ენა.\n\nმოძებნეთ ახლომახლო ხალხი, ვინც ამ ენაზე საუბრობს.>",
+      "tutorial_blocks_1_title": "მოძებნეთ ენის შემსწავლელი პარტნიორები თქვენს ირგვლივ - ნებისმიერ დროს, ნებისმიერ ადგილას",
+      "tutorial_blocks_2_text": "მისწერეთ ახლომახლო სხვებს, ვინც თქვენთვის სასურველი ენა იცის.\n\nგაუგზავნეთ სურათები, ხმოვანი შეტყობინებები და რუკის კოორდინატები.\n\nსწრაფად დაგეგმეთ შეხვედრები და დაუმეგობრდით სამუდამოდ.>",
       "tutorial_blocks_2_title": {
-        "@id": "501",
         "#text": "ისაუბრეთ და გაიცანით ერთმანეთი!"
       }
     }
   }
-}
 ,
 "page_press":
 {
-  "content": {
     "post_title": "მედია",
     "post_content": {
       "h3": [
@@ -884,21 +613,15 @@
       "#text": "2018-04-21:  (Sbcltr)\n\n2018-03-18:  (Kalkulinda)\n\n2018-01-11:  (Free Language)\n\n2017-12-07:  (The Guardian)\n\n2017-12-04:  (Fluent Language)\n\n2017-08-03:  (Yury Jakymec)\n\n2017-07-28:  (Teach Yourself)\n\n2017-07-25:  (The Global Times)\n\n2017-06-12:  (CBC Radio One)\n\n2016-11-03:  (Transparent Language)\n\n2016-11-03:  (Yozzi)\n\n2016-10-24:  (Polyglot Nerd)\n\n2016-10-18:  (Steve Kaufmann)\n\n2017-10-22: \n\n2017-04-26:  (Espereto)\n\n2017-08-04:  (IB3)\n\n2017-08-23:  (徐杰)\n\n2017-02-08:  (Chuvash.org)\n\n2017-02-08: \n\n2017-11-07:  (Welsh Government)\n\n2017-05-28:  (Sprachheld)\n\n2016-12-31:  (Svisa Espero)\n\n2018-01-08:  (El Mundo)\n\n2017-10-24:  (Polyglot Nerd)\n\n2018-03-24:  (Libera Folio)\n\n2018-03-18:  (Kalkulinda)\n\n2017-10-27:  (Libera Folio)\n\n2017-07-25:  (Teo kaj Libroj)\n\n2017-06-13:  (Libera Folio)\n\n2017-04-26:  (La Balta Ondo)\n\n2017-04-23:  (Libera Folio)\n\n2017-04-13:  (Libera Folio)\n\n2017-03-27: \n\n2017-03-19: \n\n2017-03-09:  (La Balta Ondo)\n\n2016-11-22:  (La Balta Ondo)\n\n2016-11-16:  (UEA)\n\n2016-11-15: Mention in the  (El Popola Ĉinio)\n\n2016-11-02:  (Jake H)\n\n2016-10-26:  (Emilio Cid)\n\n2016-10-23:  (Esperanto VBlogo)\n\n2016-10-19:  (Esperanto VBlogo)\n\n2016-10-18:  (Libera Folio)\n\n2016-10-18:  (Pola RetRadio)\n\n2016-10-18:  (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10:  (Movada Vidpunkto)\n\n2017-03-30:  (Toulangues)\n\n2017-03-27: \n\n2016-1-01:  (Espéranto France)\n\n2017-08-30:  (Whistling in the Wind)\n\n2018-03-11:  (Jurnalo)\n\n2017-11-02:  (Manageritalia)\n\n2018-03-20:  (エスペラントの今)\n\n2017-10-27:  (에스페란티스토를 위한)\n\n2017-01-31:  (Horizon.taal)\n\n2016-10-31:  (Vincent Oostelbos)\n\n2018-006-04: \n\n2017-11-03:  (Marko Esperanto)\n\n2017-10-24:  (Polyglot Nerd)\n\n2017-08-17:  (Yiddish Daily Forward)\n\n2016-11-02:  (Reb Yid)\n\n2017-01-24:  (YorubaMums Blog)>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6891",
-        "#text": "მოგესალმებთ Amikumu-ს მედიაგვერდზე. აქ Amikumu-ს შესახებ სტატიებზე უამრავ ბმულს ნახავთ სხვადასხვა ენაზე."
-      },
+      "metadata_desc": "მოგესალმებთ Amikumu-ს მედიაგვერდზე. აქ Amikumu-ს შესახებ სტატიებზე უამრავ ბმულს ნახავთ სხვადასხვა ენაზე.",
       "metadata_title": {
-        "@id": "6901",
         "#text": "Amikumu ნიუსებში!"
       }
     }
   }
-}
 ,
 "page_privacy-terms":
 {
-  "content": {
     "post_title": "კონფიდენციალობა & პირობები",
     "post_content": {
       "h1": [
@@ -1191,57 +914,39 @@
       "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website  (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.\n\n**Personal information:** The type of information we collect may include:\n\n**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.\n\nWe collect and use the information for purposes including:\n\n\nWe may disclose personal information to:\n\nWhere we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.\n\n**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below.\n\nWe are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.\n\nWe may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see  or any other URL Google may use from time to time.\n\nOur Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.\n\nThis Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com\n\nThese Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**).\n\n\n\nThese Terms supplement and incorporate:\n\nIf any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUse by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:\n\nAny use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms.\n\n\n\n\n\n\n\n\n\n\n**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6910",
-        "#text": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!"
-      },
+      "metadata_desc": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!",
       "metadata_title": {
-        "@id": "6920",
         "#text": "Amikumu-ს კონფიდენციალობა & პირობები"
       }
     }
   }
-}
 ,
 "page_shop":
 {
-  "content": {
     "post_title": "მაღაზია",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6929",
-        "#text": "ეწვიეთ Amikumu-ს ინტერნეტმაღაზიას და შეიძინეთ ჩვენი უმაგრესი მაისური თქვენს ადგილობრივ საზოგადოებაში Amikumu-ს პოპულარიზაციისათვის."
-      },
+      "metadata_desc": "ეწვიეთ Amikumu-ს ინტერნეტმაღაზიას და შეიძინეთ ჩვენი უმაგრესი მაისური თქვენს ადგილობრივ საზოგადოებაში Amikumu-ს პოპულარიზაციისათვის.",
       "metadata_title": {
-        "@id": "6939",
         "#text": "Amikumu-ს ინტერნეტმაღაზია"
       }
     }
   }
-}
 ,
 "page_statistics":
 {
-  "content": {
     "post_title": "სტატისტიკა",
     "post_content": "No translation needed.",
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6948",
-        "#text": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოა!"
-      },
+      "metadata_desc": "აღმოაჩინეთ და ეკონტაქტეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოა!",
       "metadata_title": {
-        "@id": "6958",
         "#text": "Amikumu-ს სტატისტიკა"
       }
     }
   }
-}
 ,
 "page_support-us":
 {
-  "content": {
     "post_title": "დაგვეხმარეთ",
     "post_content": {
       "ol": [
@@ -1365,16 +1070,10 @@
       "#text": "გმადლობთ Amikumu-ს დახმარებაში დაინტერესებისათვის!\n\nიხილეთ ჩვენი მხარდაჭერისა და გუნდის გაფართოების 8 მარტივი გზა.\n\nჩვენ ყოველთვიურად ვაქვეყნებთ საინფორმაციო ბიულეტენს ჩვენი გეგმებისა და წარმატებების შესახებ შესაბამისი კულისებსმიღმა პერიპეტიებით. წვლილს ველით ჩვენი საზოგადოების წევრებისგანაც, თქვენი ჩათვლით. ეს ჩვენი თქვენთან საკომუნიკაციო პირდაპირი გზაა. .\n\nჩვენ წარმოდგენილი ვართ სოციალურ მედიაშიც ყველაზე პოპულარულ ვებგვერდებზე.\n\n\nგაუზიარეთ ჩვენი აპლიკაცია თქვენს მეგობრებს სოციალური მედიისა ან ელფოსტის საშუალებით!\n\nრაც უფრო მეტი გაიგებს Amikumu-ს შესახებ, მით უფრო სასარგებლო გახდება იგი ყველა ჩვენგანისათვის. გააზიარეთ ჩვენი ოფიციალური ვებგვერდის ბმული და მიაწერეთ თუ რატომ მოგწონთ იგი ასე ძალიან.\n\nჩვენი მიზანია გავხდეთ ყველაზე მეტ ენაზე თარგმნილი აპლიკაცია მსოფლიოში! ეს მარტივი არაა, ამიტომაც თქვენი დახმარება გვჭირდება!\n\nიმისათვის, რომ წვლილი შეიტანოთ არსებულ თარგმანში ან სრულიად ახალი დაიწყოთ, გთხოვთ დარეგისტრირდეთ აქ:  (ჩვენი ფავორიტი მთარგმნელობითი სისტემა) და აირჩიოთ ენა, რომელზეც გსურთ აპლიკაციის თარგმნა. აუცილებელ მინიმუმზე შეზღუდვა არ არსებობს, შეგიძლიათ გადათარგმნოთ როგორც მთლიანი აპლიკაცია, ასევე მხოლოდ რამდენიმე სიტყვა - ეს თქვენზეა დამოკიდებული.\n\nოქროს წევრობა გთავაზობთ დამატებით ტექნიკურ მახასიათებლებს, მაგ. ვირტუალური ტელეპორტაცია და კონფიდენციალობის დამატებითი პარამეტრები. თუმცა იგი ასევე თქვენი მხარდაჭერის გამოხატვის შესანიშნავი გზაცაა და საჭირო ფინანსურ დახმარებას გაგვიწევს! ოქროს წევრობის შეძენა აპლიკაციაშივე შეგიძლიათ (მალე!).\n\nმაისური ერთობ მარტივი და ამასთანავე ძლიერი საშუალებაა Amikumu-ს პოპულარიზაციისა. მოინახულეთ ჩვენი .\n\n თქვენს სკოლაში, უნივერსიტეტსა და ადგილობრივ ენის კლუბში. ამასთანავე, ისინი არაერთ ენაზეა თარგმნილი თქვენივე სარგებლობისათვის. თუკი პირადი ფლაერების დამზადება გჭირდებათ, გთხოვთ მოგვწეროთ შემდეგ ელფოსტაზე: \n\nბოლო, მაგრამ არა უკანასკნელი: შეხვდით Amikumu-თი გაცნობილ ხალხს და გაუზიარეთ სხვებს თქვენი ისტორიები! ჩვენ მოხარული ვიქნებით წარმატებულ შეხვედრათა ამბების მოსმენით. გაგვიზიარეთ თქვენი თავგადასავლები და სურათები ელფოსტაზე \n\nდაბოლოს, წინასწარ უღრმესი მადლობა თქვენი ყოველგვარი დახმარებისთვის!\n\nიდეებისა და შემოთავაზებების შემთხვევაში, გთხოვთ დაგვიკავშირდეთ შემდეგ მისამართზე:.>"
     },
     "post_meta": {
-      "metadata_desc": {
-        "@id": "6967",
-        "#text": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!"
-      },
+      "metadata_desc": "აღმოაჩინეთ და მაშინვე მისწერეთ ადგილობრივ ენობრივ პარტნიორებს ახლომახლო. ესაა 7 000-ზე მეტი ენის მხარდაჭერის მქონე ერთადერთი აპლიკაცია კატალონიურის, ჩინურის, ჰოლანდიურის, ესპერანტოს, ირლანდიურის, იაპონურის, ოქციტანურის, პოლონურის, პორტუგალიურის, რუსულის, ტოკი პონასა და უელსურის ჩათვლით, და ყველა მათგანი უფასოდ!",
       "metadata_title": {
-        "@id": "6977",
         "#text": "დაეხმარეთ Amikumu-ს დღესვე!"
       }
     }
   }
-}
-,
 }

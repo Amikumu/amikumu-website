@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "Zespół",
-    "post_content": null,
     "post_meta": {
       "add_description": "Misją Amikumu jest stworzenie i podtrzymywanie sieci społecznej łączącej użytkowników wszystkich języków świata oraz platformy umożliwiającej komunikowanie się i przekazywanie informacji w każdym języku - niezależnie od jego popularności i prestiżu.",
       "add_title": "Stworzone przez zespół poliglotów",
@@ -12,74 +11,35 @@
       "metadata_title": "Poznaj zespół Amikumu",
       "our_team": "Nasz zespół",
       "team_members_0_city": "Sydney, Australia",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Richard Delamore (znany również jako Evildea) jest esperanckim Youtuberem i ważną osobą w esperanckiej branży filmowej. Przed utworzeniem Amikumu Richard założył Esperanto-TV i był zarządcą Australijskiego Związku Esperantystów (AEA), Stowarzyszenia Festiwali Językowych (LFA) oraz Związku Esperantystów w Nowej Walii Południowej (EFNSW). Poza tym służył przez sześć lat w australijskiej armii jako łącznościowiec i pracował dla wielu międzynarodowych firm jako administrator systemów informatycznych.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Richard Delamore (znany również jako Evildea) jest esperanckim Youtuberem i ważną osobą w esperanckiej branży filmowej. Przed utworzeniem Amikumu Richard założył Esperanto-TV i był zarządcą Australijskiego Związku Esperantystów (AEA), Stowarzyszenia Festiwali Językowych (LFA) oraz Związku Esperantystów w Nowej Walii Południowej (EFNSW). Poza tym służył przez sześć lat w australijskiej armii jako łącznościowiec i pracował dla wielu międzynarodowych firm jako administrator systemów informatycznych.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "Dyrektor generalny (CEO)",
       "team_members_0_languages": "angielski, esperanto, chiński (mandaryński)",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "Berlin, Niemcy (pochodzi z USA)",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuck Smith jest współorganizatorem Polyglot Gathering, twórcą kursu esperanta na Duolingo i Wikipedii w języku esperanto – to tylko niektóre z jego projektów. Programuje aplikacje na system iOS od momentu uruchomienia sklepu Apple w 2008. Podczas podróży do Brazylii w 2002 roku wpadł na pomysł stworzenia urządzenia do znajdowania Esperantystów, ale musiał poczekać, aż technologia rozwinie się na tyle, aby mógł zrealizować swoje marzenie. Teraz zmierzy się z wyzwaniem, aby pomóc ludziom się połączyć i w ten sposób zmienić świat na lepsze.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuck Smith jest współorganizatorem Polyglot Gathering, twórcą kursu esperanta na Duolingo i Wikipedii w języku esperanto – to tylko niektóre z jego projektów. Programuje aplikacje na system iOS od momentu uruchomienia sklepu Apple w 2008. Podczas podróży do Brazylii w 2002 roku wpadł na pomysł stworzenia urządzenia do znajdowania Esperantystów, ale musiał poczekać, aż technologia rozwinie się na tyle, aby mógł zrealizować swoje marzenie. Teraz zmierzy się z wyzwaniem, aby pomóc ludziom się połączyć i w ten sposób zmienić świat na lepsze.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "angielski, esperanto, niemiecki, hiszpański, francuski, niderlandzki, amerykański język migowy (ASL)",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "Berlin, Niemcy",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer zajmuje się językoznawstwem komputerowym. Spędza większość swojego czasu na programowaniu aplikacji internetowych związanych z językami, na przykład swojego projektu LearnYu. Jest także poliglotką, współorganizatorką Polyglot Gathering i autorką wielu książek i kursów językowych. Nauczyła się Esperanta w wieku 14 lat, aby używać go jako „bazy” do nauki innych języków.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer zajmuje się językoznawstwem komputerowym. Spędza większość swojego czasu na programowaniu aplikacji internetowych związanych z językami, na przykład swojego projektu LearnYu. Jest także poliglotką, współorganizatorką Polyglot Gathering i autorką wielu książek i kursów językowych. Nauczyła się Esperanta w wieku 14 lat, aby używać go jako „bazy” do nauki innych języków.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "Programista backendowy",
       "team_members_3_languages": "Niemiecki, angielski, Esperanto, łacina, francuski, włoski, grecki, chiński, niderlandzki, hiszpański, indonezyjski, hebrajski, suahili",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "Filadelfia, USA",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter jest administratorem systemu Linux z tytułem naukowym w informatyce i pracy socjalnej. Przez lata Jesse zarządzał serwerami wielu witryn i serwisów internetowych, równocześnie będąc pracownikiem socjalnym zajmującym się dziećmi. Później dokonał zmian w swojej karierze, w kierunku swoich zainteresowań – rozwijania i zarządzania systemami komputerowymi. Poza Amikumu Jesse interesuje się historią przetwarzania informacji oraz ochroną i analizą danych.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Dla mnie to jak supermoc.\">"
-      },
+      "team_members_4_description": "Jesse Alter jest administratorem systemu Linux z tytułem naukowym w informatyce i pracy socjalnej. Przez lata Jesse zarządzał serwerami wielu witryn i serwisów internetowych, równocześnie będąc pracownikiem socjalnym zajmującym się dziećmi. Później dokonał zmian w swojej karierze, w kierunku swoich zainteresowań – rozwijania i zarządzania systemami komputerowymi. Poza Amikumu Jesse interesuje się historią przetwarzania informacji oraz ochroną i analizą danych.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Dla mnie to jak supermoc.\">",
       "team_members_4_job_title": "Administrator systemu",
       "team_members_4_languages": "Angielski, Esperanto",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "Jekaterynburg, Rosja",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Khusanova jest doświadczonym grafikiem z dyplomem w teorii architektury. Po otrzymaniu dyplomu zaczęła naukę Esperanta i rozpoczęła współpracę z wieloma instytucjami i pomagała w organizacji licznych wydarzeń. Wśród jej największych zasług jest wolontariat dla E@l w Słowacji i sto pierwszego Światowego Kongresu Esperanto. Ostatnia ukończyła własny projekt – karty do gry \"Wilkołaki\".\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Khusanova jest doświadczonym grafikiem z dyplomem w teorii architektury. Po otrzymaniu dyplomu zaczęła naukę Esperanta i rozpoczęła współpracę z wieloma instytucjami i pomagała w organizacji licznych wydarzeń. Wśród jej największych zasług jest wolontariat dla E@l w Słowacji i sto pierwszego Światowego Kongresu Esperanto. Ostatnia ukończyła własny projekt – karty do gry \"Wilkołaki\".\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "Grafik",
       "team_members_5_languages": "rosyjski, angielski, esperanto, słowacki, szwedzki, Toki Pona",
-      "team_members_5_name": {
-        "#text": "Elena Chusanowa"
-      }
+      "team_members_5_name": "Elena Chusanowa"
     }
   }
 ,
@@ -302,7 +262,6 @@
 "page_home-page":
 {
     "post_title": "Strona główna",
-    "post_content": null,
     "post_meta": {
       "add_title": "Ćwicz języki z ludźmi w pobliżu",
       "claim": "Misją Amikumu jest stworzenie i podtrzymywanie sieci społecznej łączącej użytkowników wszystkich języków świata oraz platformy umożliwiającej komunikowanie się i przekazywanie informacji w każdym języku - niezależnie od jego popularności i prestiżu.",

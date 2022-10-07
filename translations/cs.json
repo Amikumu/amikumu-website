@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "O nás",
-    "post_content": null,
     "post_meta": {
       "add_description": "Posláním Amikumu je vytvořit a udržovat sociální síť, která poskytne platformu pro mluvčí, znakující a uživatele všech světových jazyků ke komunikaci a sdílení relevantních místních informací bez ohledu na sociální, politický a ekonomický statut každého jazyka.",
       "add_title": "Vyvinut týmem polyglotů",
@@ -12,74 +11,35 @@
       "metadata_title": "Seznamte se s týmem Amikumu",
       "our_team": "Náš tým",
       "team_members_0_city": "Sydney, Austrálie",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Richard Delamore, známý pod pseudonymem Evildea, je australský esperantský youtuber a vůdčí osobnost v esperantském filmovém průmyslu. Předtím, než spoluzaložil Amikumu, Richard založil Esperanto-TV a pracoval ve správní radě Australian Esperanto Association (AEA), the Language Festival Association (LFA) a the Esperanto Federation of New South Wales (EFNSW). Navíc působil šest let v australské armádě jako spojař a pracoval pro mnoho mezinárodních firem jako správce systému.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Richard Delamore, známý pod pseudonymem Evildea, je australský esperantský youtuber a vůdčí osobnost v esperantském filmovém průmyslu. Předtím, než spoluzaložil Amikumu, Richard založil Esperanto-TV a pracoval ve správní radě Australian Esperanto Association (AEA), the Language Festival Association (LFA) a the Esperanto Federation of New South Wales (EFNSW). Navíc působil šest let v australské armádě jako spojař a pracoval pro mnoho mezinárodních firem jako správce systému.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "Výkonný ředitel",
       "team_members_0_languages": "Angličtina, Esperanto, mandarínská čínština",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "Berlín, Německo (z USA)",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuch Smith je spolupořadatel Polyglot Gathering, přispěvatel do kurzu esperanta na Duolingu a dalších projektů o esperantu a týkající se polyglotů. Vyvíjí aplikace pro iOS od roku 2008, kdy byl spuštěn App Store. Měl nápad pro GPS zařízení, které by našlo kolegy esperanitsy, při jeho cestě přes Brazílii v roce 2002. To ale muselo počkat dalších 15 let než se vyvinuly náležité technologie, aby mohl zrealizovat tento sen. Teď ho těší výzvy, které mu pomáhají spojovat lidi, ať jsou kdekoliv a dělat tak svět lepším místem.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuch Smith je spolupořadatel Polyglot Gathering, přispěvatel do kurzu esperanta na Duolingu a dalších projektů o esperantu a týkající se polyglotů. Vyvíjí aplikace pro iOS od roku 2008, kdy byl spuštěn App Store. Měl nápad pro GPS zařízení, které by našlo kolegy esperanitsy, při jeho cestě přes Brazílii v roce 2002. To ale muselo počkat dalších 15 let než se vyvinuly náležité technologie, aby mohl zrealizovat tento sen. Teď ho těší výzvy, které mu pomáhají spojovat lidi, ať jsou kdekoliv a dělat tak svět lepším místem.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "Angličtina, Esperanto, němčina, španělština, francouzština, holandština, polština, ASL",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "Berlin, Německo",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer je počítačová lingvistka a tráví většinu svého času vývojem webových aplikací, které se zabývají jazyky, jako třeba její projekt LearnYu. Také je polyglotem, spoluorganizátorkou Polyglot Gathering (setkání polyglotů) a autorkou mnoha jazykových knih a jazykových kurzů. Ve 14 letech se naučila Esperanto jako odrazový můstek k učení se mnoha dalších jazyků.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer je počítačová lingvistka a tráví většinu svého času vývojem webových aplikací, které se zabývají jazyky, jako třeba její projekt LearnYu. Také je polyglotem, spoluorganizátorkou Polyglot Gathering (setkání polyglotů) a autorkou mnoha jazykových knih a jazykových kurzů. Ve 14 letech se naučila Esperanto jako odrazový můstek k učení se mnoha dalších jazyků.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "Vývojář backendu",
       "team_members_3_languages": "Němčina, angličtina, Esperanto, latina, francouzština, italština, moderní řečtina, mandarínská čínština, holandština, španělština, indonéština, hebrejština, svahilština",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "Philadelphia, USA",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter je správce systému Linux s tituly v informatice a sociálních vědách. V průběhu let, při práci sociálního pediatrického pracovníka, spravoval Jasse servery pro více webových stránek a služeb. Později změnil svou kariéru a následoval svůj celoživotní zájem o rozvíjení a údržbu počítačových systémů. Kromě Amikumu mezi Jasseho zájmy patří i retrocomputing, ochrana osobních údajů a analýza dat.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. To je pro mě superschopnost.\">"
-      },
+      "team_members_4_description": "Jesse Alter je správce systému Linux s tituly v informatice a sociálních vědách. V průběhu let, při práci sociálního pediatrického pracovníka, spravoval Jasse servery pro více webových stránek a služeb. Později změnil svou kariéru a následoval svůj celoživotní zájem o rozvíjení a údržbu počítačových systémů. Kromě Amikumu mezi Jasseho zájmy patří i retrocomputing, ochrana osobních údajů a analýza dat.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. To je pro mě superschopnost.\">",
       "team_members_4_job_title": "Správce systému",
       "team_members_4_languages": "Angličtina, Esperanto",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "Jekatěrinburg, Rusko",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Khusanova je dokonalá grafička s diplomem v teorii architektury. Po promoci se naučila Esperanto a od té doby pracovala pro několik organizací a akcí. Upozorněme mimo jiné na její dobrovolnické služby pro E@I na Slovensku a 101. Světový esperantský kongres. Nedávno dokončila vlastní projekt: karty do hry \"Werevolfs\".\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Khusanova je dokonalá grafička s diplomem v teorii architektury. Po promoci se naučila Esperanto a od té doby pracovala pro několik organizací a akcí. Upozorněme mimo jiné na její dobrovolnické služby pro E@I na Slovensku a 101. Světový esperantský kongres. Nedávno dokončila vlastní projekt: karty do hry \"Werevolfs\".\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "Grafický designér",
       "team_members_5_languages": "Angličtina, ruština, Esperanto, slovenština, švédština, Toki Pona",
-      "team_members_5_name": {
-        "#text": "Elena Khusanova"
-      }
+      "team_members_5_name": "Elena Khusanova"
     }
   }
 ,
@@ -302,7 +262,6 @@
 "page_home-page":
 {
     "post_title": "Domů",
-    "post_content": null,
     "post_meta": {
       "add_title": "Procvičujte jazyky v okolí",
       "claim": "Posláním Amikumu je vytvořit a udržovat sociální síť, která poskytne platformu pro mluvčí, znakující a uživatele všech světových jazyků ke komunikaci a sdílení relevantních místních informací bez ohledu na sociální, politický a ekonomický statut každého jazyka.",

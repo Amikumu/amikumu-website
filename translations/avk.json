@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "Icde cin",
-    "post_content": null,
     "post_meta": {
       "add_description": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
       "add_title": "Vonena gan soli dem yonavusik",
@@ -12,74 +11,35 @@
       "metadata_title": "Va soli ke Amikumu rungrupel vay ‼",
       "our_team": "Cinafi Soli",
       "team_members_0_city": "Sydney, Australia",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Richard Delamore ayik, dan zo yoltar Evildea koe Internet, tir australiaf mamewavaxusik dene Youtube ise tir korobik koe esperantoavafa raba va elpat. Vomi zabdura va Amikumu, Richard va esperantoavafi sumewisiki reduyur ise dere tiyir olkoy ke okilikeem ke Australia patectafo boxo mu Esperanto (AEA) is olkoy ke Boxo ke Avafa Kapava (LFA) is olkoy ke Esperantoavafa Galda ke New South Wales (EFNSW). Ison, wetce olyakaf sopusik, va australiafa ervolia remi tevda zanivayar ise kobayar mu jontika walvedeyafa zolosta wetce vusikof ristusik.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Richard Delamore ayik, dan zo yoltar Evildea koe Internet, tir australiaf mamewavaxusik dene Youtube ise tir korobik koe esperantoavafa raba va elpat. Vomi zabdura va Amikumu, Richard va esperantoavafi sumewisiki reduyur ise dere tiyir olkoy ke okilikeem ke Australia patectafo boxo mu Esperanto (AEA) is olkoy ke Boxo ke Avafa Kapava (LFA) is olkoy ke Esperantoavafa Galda ke New South Wales (EFNSW). Ison, wetce olyakaf sopusik, va australiafa ervolia remi tevda zanivayar ise kobayar mu jontika walvedeyafa zolosta wetce vusikof ristusik.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "Jadif Gadesik",
       "team_members_0_languages": "Englava is Esperanto is Jongguava",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "Berlin, Germana (bas Amerikatanarasokeem)",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuck Smith tir dogrustasik va Polyglot Gathering is webesik va Esperanto avaf prujneks dene Duolingo is zabdusik va Vikipedio (Esperanto avafa Wikipedia), vanmiae ara jontika erava icde ava. In va yon talpeyot tori iOS mali tulaviawera ke App Store ke Apple bak 2008 al voner. Rieteyer icde rukomasiko ta trasira va pokef esperantoavusik bal intafa koyara koo Brasila bak 2002 voxe gokeyer remi 15-da ta da ckaneopa umon di towar ta da va bat klokeks di tugeltrar. Re in tir gadiaf ta budura va pomara va kotlizuf ayik ta da va sint uzerad ise batinde va tamava lasutulokiewar.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuck Smith tir dogrustasik va Polyglot Gathering is webesik va Esperanto avaf prujneks dene Duolingo is zabdusik va Vikipedio (Esperanto avafa Wikipedia), vanmiae ara jontika erava icde ava. In va yon talpeyot tori iOS mali tulaviawera ke App Store ke Apple bak 2008 al voner. Rieteyer icde rukomasiko ta trasira va pokef esperantoavusik bal intafa koyara koo Brasila bak 2002 voxe gokeyer remi 15-da ta da ckaneopa umon di towar ta da va bat klokeks di tugeltrar. Re in tir gadiaf ta budura va pomara va kotlizuf ayik ta da va sint uzerad ise batinde va tamava lasutulokiewar.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "Englava is Esperanto is Germanava is Espanava is Francava is Nederlandava is Polskava is amerikatanarasokeemafa zatcava",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "Berlin, Germana",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "Talpeyasik va okilavusiko",
       "team_members_3_languages": "Germanava is Englava is Esperanto is Latinus is Francava is Italiava is bomafa Ellasava is Jongguava is Nederlandava is Espanava is Indonesiava is Yisraelava is Swaxiliava",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "Philadelphia, Amerikatanarasokeem",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter tir ristusik va Linux bolk is dobkiraf gu givavuropa isu eyafa kobara. Remi yona tanda, Jesse va okilavusiko ristuyur tori jontiko Internet gortafo xo isu zaniga ugale va eyafa swavopikeba tori rumeik exavayar. Va klepa kaikion betaveyer ta suzdara va intafa dulapena kubla icde vegedura isu ristura va vusikof bolk. Vaxe Amikumu, inaf dulap, va savsafa givavuropa is va nendara va orig is va origdrunara ruldad.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Sedme jin, batcoba zultafi roti. »>"
-      },
+      "team_members_4_description": "Jesse Alter tir ristusik va Linux bolk is dobkiraf gu givavuropa isu eyafa kobara. Remi yona tanda, Jesse va okilavusiko ristuyur tori jontiko Internet gortafo xo isu zaniga ugale va eyafa swavopikeba tori rumeik exavayar. Va klepa kaikion betaveyer ta suzdara va intafa dulapena kubla icde vegedura isu ristura va vusikof bolk. Vaxe Amikumu, inaf dulap, va savsafa givavuropa is va nendara va orig is va origdrunara ruldad.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Sedme jin, batcoba zultafi roti. »>",
       "team_members_4_job_title": "Ristusik va bolk",
       "team_members_4_languages": "Englava is Esperanto",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "Ekaterinburg, Rossia",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "Varnokasik",
       "team_members_5_languages": "Englava is Rossiava is Esperanto is Slovenskava is Sverigava is Toki Pona",
-      "team_members_5_name": {
-        "#text": "Elena Husanova"
-      }
+      "team_members_5_name": "Elena Husanova"
     }
   }
 ,
@@ -302,7 +262,6 @@
 "page_home-page":
 {
     "post_title": "Emudexo",
-    "post_content": null,
     "post_meta": {
       "add_title": "Va ava ul pokeon vay ‼",
       "claim": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",

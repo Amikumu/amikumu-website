@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "Apie mus",
-    "post_content": null,
     "post_meta": {
       "add_description": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
       "add_title": "Sukurta poliglotų komandos",
@@ -12,74 +11,35 @@
       "metadata_title": "Susipažinkite su Amikumu komanda",
       "our_team": "Mūsų komanda",
       "team_members_0_city": "Sidnėjus, Australija",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Richard Delamore, dar žinomas kaip Evildea, yra australų esperanto youtube veikėjas ir žinomas asmuo esperanto filmų industrijoje. Be Amikumu įkūrimo, Richard įkūrė Esperanto-TV, posėdžiavo Australų Esperanto Sąjungos (AEA), Kalbų Festivalio Asociacijos (LFA) ir Esperanto Federacijos Naujajame Pietų Velse (EFNSW) tarybose. Jis taip pat šešis metus tarnavo Australijos armijoje kaip signalų operatorius ir dirbo daugelyje tarptautinių įmonių sistemų administratoriumi.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Richard Delamore, dar žinomas kaip Evildea, yra australų esperanto youtube veikėjas ir žinomas asmuo esperanto filmų industrijoje. Be Amikumu įkūrimo, Richard įkūrė Esperanto-TV, posėdžiavo Australų Esperanto Sąjungos (AEA), Kalbų Festivalio Asociacijos (LFA) ir Esperanto Federacijos Naujajame Pietų Velse (EFNSW) tarybose. Jis taip pat šešis metus tarnavo Australijos armijoje kaip signalų operatorius ir dirbo daugelyje tarptautinių įmonių sistemų administratoriumi.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "Vyriausiasis vykdomasis vadovas",
       "team_members_0_languages": "Anglų, esperanto, mandarinų kalbos",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "Berlin, Germany (from the USA)",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuck Smith yra Poliglotų Sūsibūrimo bendraįkūrėjas, Duolingo Esperanto kurso bendradarbis ir esperantiškos Vikipedijos įkūrėjas, tarp įvairių kitų esperanto ir poliglotų projektų. Jis kūrė iOS programėles nuo pat Apple Store paleidimo 2008 metais. Jis turėjo idėją GPS įrenginiui, kuris padėtų rasti esperantininkus netoliese keliaujant Brazilijoje 2002 metais, tačiau jam prireikė 15 metų, kad galėtų įgyvendinti šią idėją. Dabar jis žvalgosi iššūkių, kad galėtų padėti žmonėms visur susisiekti ir padaryti pasaulį geresne vieta.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuck Smith yra Poliglotų Sūsibūrimo bendraįkūrėjas, Duolingo Esperanto kurso bendradarbis ir esperantiškos Vikipedijos įkūrėjas, tarp įvairių kitų esperanto ir poliglotų projektų. Jis kūrė iOS programėles nuo pat Apple Store paleidimo 2008 metais. Jis turėjo idėją GPS įrenginiui, kuris padėtų rasti esperantininkus netoliese keliaujant Brazilijoje 2002 metais, tačiau jam prireikė 15 metų, kad galėtų įgyvendinti šią idėją. Dabar jis žvalgosi iššūkių, kad galėtų padėti žmonėms visur susisiekti ir padaryti pasaulį geresne vieta.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "Anglų, esperanto, vokiečių, ispanų, prancūzų, olandų, lenkų, amerikiečių gestų kalbos",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "Berlin, Germany",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer yra kompiuterinė lingvistė, praleidžianti daug laiko kurdama programas, susijusias su kalbomis, pvz. jos projektas LearnYu. Ji taip pat yra poliglotė, Poliglotų Susitikimo bendraorganizatorė ir daugelio knygų bei kalbų kursų autorė. Ji išmoko Esperanto būdama 14 metų norint išmokti kitų kalbų lengviau.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer yra kompiuterinė lingvistė, praleidžianti daug laiko kurdama programas, susijusias su kalbomis, pvz. jos projektas LearnYu. Ji taip pat yra poliglotė, Poliglotų Susitikimo bendraorganizatorė ir daugelio knygų bei kalbų kursų autorė. Ji išmoko Esperanto būdama 14 metų norint išmokti kitų kalbų lengviau.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "Vidinės pusės vystytoja",
       "team_members_3_languages": "Vokiečių, anglų, esperanto, lotynų, prancūzų, italų, dab. graikų, mandarinų, olandų, ispanų, indoneziečių, hebrajų, suahelių kalbos",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "Philadelphia, USA",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter yra Linux sistemos administratorius su diplomais kompiuterių moksle ir socialiniame darbe. Over the years, Jesse has maintained servers for multiple websites and services while working as a pediatric social worker. Vėliau jis pakeitė savo karjerą ir pradėjo viso gyvenimo mokymąsi, koncentruojantis apie programų vystymą ir kompiuterinių sistemų palaikymą. Apart from Amikumu, Jesse’s interests include retrocomputing, information privacy, and data analysis.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Man tai yra supergalia.“>"
-      },
+      "team_members_4_description": "Jesse Alter yra Linux sistemos administratorius su diplomais kompiuterių moksle ir socialiniame darbe. Over the years, Jesse has maintained servers for multiple websites and services while working as a pediatric social worker. Vėliau jis pakeitė savo karjerą ir pradėjo viso gyvenimo mokymąsi, koncentruojantis apie programų vystymą ir kompiuterinių sistemų palaikymą. Apart from Amikumu, Jesse’s interests include retrocomputing, information privacy, and data analysis.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Man tai yra supergalia.“>",
       "team_members_4_job_title": "Sistemos administratorius",
       "team_members_4_languages": "Anglų, esperanto kalbos",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "Yekaterinburg, Russia",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Kušanova yra kvalifikuota grafikos dizainerė su architektūros teorijos diplomu. Po universiteto baigimo, ji išmoko Esperanto, ir nuo tada ji dirbo daugelyje organizacijų bei renginių. Svarbiausi darbai yra jos savanoriavimas E@I Slovakijoje ir 101-ojo Pasaulinio Esperanto Kongrese tarp daugelio kitų projektų. Neseniai ji pabaigė savo pačios projektą — kortas žaidimui „Vilkolakis“.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Kušanova yra kvalifikuota grafikos dizainerė su architektūros teorijos diplomu. Po universiteto baigimo, ji išmoko Esperanto, ir nuo tada ji dirbo daugelyje organizacijų bei renginių. Svarbiausi darbai yra jos savanoriavimas E@I Slovakijoje ir 101-ojo Pasaulinio Esperanto Kongrese tarp daugelio kitų projektų. Neseniai ji pabaigė savo pačios projektą — kortas žaidimui „Vilkolakis“.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "Grafikos dizainerė",
       "team_members_5_languages": "Anglų, rusų, esperanto, slovakų, švedų, toki pona kalbos",
-      "team_members_5_name": {
-        "#text": "Elena Khusanova"
-      }
+      "team_members_5_name": "Elena Khusanova"
     }
   }
 ,
@@ -302,7 +262,6 @@
 "page_home-page":
 {
     "post_title": "Namai",
-    "post_content": null,
     "post_meta": {
       "add_title": "Praktikuokite kalbas netoliese",
       "claim": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",

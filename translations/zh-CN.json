@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "关于我们",
-    "post_content": null,
     "post_meta": {
       "add_description": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
       "add_title": "由一个多语者团队开发",
@@ -12,74 +11,35 @@
       "metadata_title": "认识 Amikumu 团队",
       "our_team": "我们的团队",
       "team_members_0_city": "澳大利亚悉尼",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Richard Delamore，以网名Evildea闻名，是一位澳大利亚Youtube世界语播主，是世界语影片制作的领军人物。 在共同创办Amikumu之前，Richard创立了世界语TV，并在澳大利亚世界语协会（AEA）、语言节协会（LFA）和新南威尔士世界语联合会（EFNSW）的董事会任职。 此外, 他作为信号操作员在澳大利亚军队服役六年, 并作为系统管理员在多个国际企业工作。\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Richard Delamore，以网名Evildea闻名，是一位澳大利亚Youtube世界语播主，是世界语影片制作的领军人物。 在共同创办Amikumu之前，Richard创立了世界语TV，并在澳大利亚世界语协会（AEA）、语言节协会（LFA）和新南威尔士世界语联合会（EFNSW）的董事会任职。 此外, 他作为信号操作员在澳大利亚军队服役六年, 并作为系统管理员在多个国际企业工作。\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "首席执行官",
       "team_members_0_languages": "英语、世界语、汉语普通话",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "德国柏林（来自美国）",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuck Smith是多语者聚会的共同组织者、多邻国世界语课程贡献者、世界语维基百科创始人，还参与了其他世界语和多语言的项目。 自从苹果应用商店在2008年推出以来，他一直在开发iOS应用程序。 2002年他在巴西旅行时，就有了用GPS设备寻找世界语使用者的想法，不过还要等15年后技术条件成熟了，这个梦想才会实现。 现在，他期待着未来的挑战，帮助各地的人们连接起来，让世界变得更美好。\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuck Smith是多语者聚会的共同组织者、多邻国世界语课程贡献者、世界语维基百科创始人，还参与了其他世界语和多语言的项目。 自从苹果应用商店在2008年推出以来，他一直在开发iOS应用程序。 2002年他在巴西旅行时，就有了用GPS设备寻找世界语使用者的想法，不过还要等15年后技术条件成熟了，这个梦想才会实现。 现在，他期待着未来的挑战，帮助各地的人们连接起来，让世界变得更美好。\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "英语、世界语、德语、西班牙语、法语、荷兰语、波兰语、美国手语",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "德国柏林",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer是一位计算语言学家，大部分时间都在开发处理语言的Web应用程序，比如她的项目LearnYu。 她也是位多语者，是多语者聚会的共同组织者，还是不少语言书籍和语言课本的作者。 她在14岁时学习世界语，以此作为学习其他语言的跳板。\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer是一位计算语言学家，大部分时间都在开发处理语言的Web应用程序，比如她的项目LearnYu。 她也是位多语者，是多语者聚会的共同组织者，还是不少语言书籍和语言课本的作者。 她在14岁时学习世界语，以此作为学习其他语言的跳板。\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "后端开发",
       "team_members_3_languages": "德语、英语、世界语、拉丁语、法语、意大利语、现代希腊语、汉语普通话、荷兰语、西班牙语、 印尼语、希伯来语、斯瓦西里语",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "美国费城",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter是一位 Linux 系统管理员，拥有计算机科学和社会工作的学位。 多年来， Jesse在担任儿科社工的同时，还为多个网站和服务维护服务器。 后来他改变了职业，遵循他毕生的兴趣开发和维护计算机系统。 除了Amikumu之外，杰西的兴趣还包括古董计算机、信息隐私和数据分析。\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 对我来说，简直是超能力了。”>"
-      },
+      "team_members_4_description": "Jesse Alter是一位 Linux 系统管理员，拥有计算机科学和社会工作的学位。 多年来， Jesse在担任儿科社工的同时，还为多个网站和服务维护服务器。 后来他改变了职业，遵循他毕生的兴趣开发和维护计算机系统。 除了Amikumu之外，杰西的兴趣还包括古董计算机、信息隐私和数据分析。\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 对我来说，简直是超能力了。”>",
       "team_members_4_job_title": "系统管理员",
       "team_members_4_languages": "英语、世界语",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "俄罗斯叶卡捷琳堡",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Khusanova是一位优秀的平面设计师，拥有建筑学理论的文凭。 毕业后，她学会了世界语，并且曾为很多组织和活动工作过。 值得一提的包括在斯洛伐克教育机构E@I以及第101届国际世界语大会的志愿服务。 最近她刚完成了自己的项目：狼人游戏卡牌。\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Khusanova是一位优秀的平面设计师，拥有建筑学理论的文凭。 毕业后，她学会了世界语，并且曾为很多组织和活动工作过。 值得一提的包括在斯洛伐克教育机构E@I以及第101届国际世界语大会的志愿服务。 最近她刚完成了自己的项目：狼人游戏卡牌。\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "平面设计师",
       "team_members_5_languages": "英语、俄语、世界语、斯洛伐克语、瑞典语、道本语",
-      "team_members_5_name": {
-        "#text": "Elena Khusanova"
-      }
+      "team_members_5_name": "Elena Khusanova"
     }
   }
 ,
@@ -302,7 +262,6 @@
 "page_home-page":
 {
     "post_title": "主页",
-    "post_content": null,
     "post_meta": {
       "add_title": "就近练习语言",
       "claim": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",

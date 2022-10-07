@@ -2,7 +2,6 @@
 "page_about-us":
 {
     "post_title": "Hakkımızda",
-    "post_content": null,
     "post_meta": {
       "add_description": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.",
       "add_title": "Çok dilli bir ekip tarafından geliştirilmiştir",
@@ -12,74 +11,35 @@
       "metadata_title": "Amikumu ekibi ile tanışın",
       "our_team": "Ekibimiz",
       "team_members_0_city": "Sidney, Avustralya",
-      "team_members_0_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Evildea takma adı ile de bilinen Richard Delamore Youtube'da bir Avustralyalı Esperanto şahsiyeti ve Esperanto film endüstrisinde önemli bir karakterdir. Amikumu'nun ortak kurucusu olmadan önce, Richard, Espranto-TV'yi kurmuş, Avustralya Esperanto Derneği (AEA) nın yönetim kurulunda, Dil Festivali Derneğinde (LFA) ve Yeni Güney Galler Esperanto Federasyonunda (EFNSW) 'da çalışmıştır,. İlave olarak, altı sene Avustralya ordusunda sinyal operatörü olarak hizmet etmiş ve çok sayıda uluslararası şirketlerde sistem yöneticisi olarak çalışmıştır.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>"
-      },
+      "team_members_0_description": "Evildea takma adı ile de bilinen Richard Delamore Youtube'da bir Avustralyalı Esperanto şahsiyeti ve Esperanto film endüstrisinde önemli bir karakterdir. Amikumu'nun ortak kurucusu olmadan önce, Richard, Espranto-TV'yi kurmuş, Avustralya Esperanto Derneği (AEA) nın yönetim kurulunda, Dil Festivali Derneğinde (LFA) ve Yeni Güney Galler Esperanto Federasyonunda (EFNSW) 'da çalışmıştır,. İlave olarak, altı sene Avustralya ordusunda sinyal operatörü olarak hizmet etmiş ve çok sayıda uluslararası şirketlerde sistem yöneticisi olarak çalışmıştır.\n\n\n“Amikumu is an essential part of every language learner’s toolkit.”>",
       "team_members_0_job_title": "Baş yönetici",
       "team_members_0_languages": "İngilizce, Esperanto, Mandarin",
       "team_members_0_name": "Richard Delamore",
       "team_members_1_city": "Berlin, Almanya (ABD'den)",
-      "team_members_1_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Chuck Smith bir çok Esperanto ve Polyglot projesinin yanında, Polyglot Buluşma'larının yardımcı organizatörü, Duolingo Esperanto kursunda katkıda bulunan kişi, ve Esperanto wikipedia'sının kurucusudur. 2008 yılında Apple App Store uygulaması lanse edildiğinden beri iOS uygulamaları geliştirmektedir. 2002 yılında Brezilya seyahatinde aklına yakındaki Esperanto dilini konuşan kişileri bulmakta yardımcı olacak bir GPS uygulaması fikri gelmiş, ancak bu hayalini gerçekleştirmek için teknolojinin gelişmesini 15 yıl kadar beklemek zorunda kalmıştır. Şimdilerde insanların her yerde birbirleri ile iletişime geçebilmelerini sağlayacak bu şekilde dünyayı daha iyi bir yer yapacak zorlu meseleleri çözebilmek için için sabırsızlık duymaktadır.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>"
-      },
+      "team_members_1_description": "Chuck Smith bir çok Esperanto ve Polyglot projesinin yanında, Polyglot Buluşma'larının yardımcı organizatörü, Duolingo Esperanto kursunda katkıda bulunan kişi, ve Esperanto wikipedia'sının kurucusudur. 2008 yılında Apple App Store uygulaması lanse edildiğinden beri iOS uygulamaları geliştirmektedir. 2002 yılında Brezilya seyahatinde aklına yakındaki Esperanto dilini konuşan kişileri bulmakta yardımcı olacak bir GPS uygulaması fikri gelmiş, ancak bu hayalini gerçekleştirmek için teknolojinin gelişmesini 15 yıl kadar beklemek zorunda kalmıştır. Şimdilerde insanların her yerde birbirleri ile iletişime geçebilmelerini sağlayacak bu şekilde dünyayı daha iyi bir yer yapacak zorlu meseleleri çözebilmek için için sabırsızlık duymaktadır.\n\n\n\n“I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!”>",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "İngilizce, Esperanto, Almanca, İspanyolca, Fransızca, Hollandaca, Lehçe ve ABD işaret dili",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description": {
-        "br": [
-          null,
-          null,
-          null
-        ],
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">"
-      },
+      "team_members_2_description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.\n\n\n\n\"Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!\">",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
       "team_members_3_city": "Berlin, Almanya",
-      "team_members_3_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Judith Meyer, hesaplama dilbilimcisidir ve zamanının çoğunu dillerle uğraşan web uygulamaları geliştirmek için harcamaktadır, örneğin, LearnYu projesi. Ayrıca o bir poliglot, Polyglot Gathering'in eş-organizatörü ve birçok dil kitapları ve dil kurslarının yazarı. Esperanto'yu 14 yaşındayken öğrendi ve birçok dili öğrenmek için bir sıçrama tahtası olarak kullandı.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>"
-      },
+      "team_members_3_description": "Judith Meyer, hesaplama dilbilimcisidir ve zamanının çoğunu dillerle uğraşan web uygulamaları geliştirmek için harcamaktadır, örneğin, LearnYu projesi. Ayrıca o bir poliglot, Polyglot Gathering'in eş-organizatörü ve birçok dil kitapları ve dil kurslarının yazarı. Esperanto'yu 14 yaşındayken öğrendi ve birçok dili öğrenmek için bir sıçrama tahtası olarak kullandı.\n\n\n\n“Amikumu is a boon for polyglots like me – I'm always surprised\n by who speaks Greek, Hebrew or Indonesian around me.”>",
       "team_members_3_job_title": "Arka uç geliştirici",
       "team_members_3_languages": "Almanca, İngilizce, Esperanto, Latince, Fransızca, İtalyanca, Modern Yunanca, Mandarince, Flemenkçe, İspanyolca, Endonezyaca, İbranice, Svahilice",
       "team_members_3_name": "Judith Meyer",
       "team_members_4_city": "Philadelphia, ABD",
-      "team_members_4_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Jesse Alter, Bilgisayar Bilimleri ve Sosyal Hizmet alanlarında lisans derecesine sahip bir Linux sistem yöneticisi. Jesse, yıllar içerisinde pediatrik bir sosyal hizmet görevlisi olarak çalışırken birden fazla web sitesi ve hizmet sunucusu bakımı yaptı. Daha sonra kariyerini, bilgisayar sistemlerini geliştirme ve sürdürme konusundaki uzun ömürlü ilgisini takip etmek üzere değiştirdi. Amikumu haricinde, Jesse'nin ilgi alanı dahilinde retrocomputing, bilgi gizliliği ve veri analizi konuları yer almaktadır.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Bana göre bu bir süper güç.\">"
-      },
+      "team_members_4_description": "Jesse Alter, Bilgisayar Bilimleri ve Sosyal Hizmet alanlarında lisans derecesine sahip bir Linux sistem yöneticisi. Jesse, yıllar içerisinde pediatrik bir sosyal hizmet görevlisi olarak çalışırken birden fazla web sitesi ve hizmet sunucusu bakımı yaptı. Daha sonra kariyerini, bilgisayar sistemlerini geliştirme ve sürdürme konusundaki uzun ömürlü ilgisini takip etmek üzere değiştirdi. Amikumu haricinde, Jesse'nin ilgi alanı dahilinde retrocomputing, bilgi gizliliği ve veri analizi konuları yer almaktadır.\n\n\n\n“Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Bana göre bu bir süper güç.\">",
       "team_members_4_job_title": "Sistem Yöneticisi",
       "team_members_4_languages": "İngilizce, Esperanto",
       "team_members_4_name": "Jesse Alter",
       "team_members_5_city": "Ekaterinburg, Rusya",
-      "team_members_5_description": {
-        "br": [
-          null,
-          null
-        ],
-        "#text": "Elena Khusanova mimarlık teorisinde diploma alan başarılı bir grafik tasarımcısıdır. Mezun olduktan sonra Esperanto'yu öğrendi ve o zamandan beri birden fazla organizasyon ve etkinlik için çalıştı. Eleştirileri, Slovakya E@I ve diğer projeler arasında 101. Dünya Esperanto Kongresi için gönüllü hizmetini içermektedir. Sonunda kendi kurduğu bir projeyi tamamladı: \"Werewolves\" oyunu için kartlar.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>"
-      },
+      "team_members_5_description": "Elena Khusanova mimarlık teorisinde diploma alan başarılı bir grafik tasarımcısıdır. Mezun olduktan sonra Esperanto'yu öğrendi ve o zamandan beri birden fazla organizasyon ve etkinlik için çalıştı. Eleştirileri, Slovakya E@I ve diğer projeler arasında 101. Dünya Esperanto Kongresi için gönüllü hizmetini içermektedir. Sonunda kendi kurduğu bir projeyi tamamladı: \"Werewolves\" oyunu için kartlar.\n\n\n\n“The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.”>",
       "team_members_5_job_title": "Grafik tasarımcı",
       "team_members_5_languages": "İngilizce, Rusça, Esperanto, Slovakça, İsveççe, Toki Pona",
-      "team_members_5_name": {
-        "#text": "Elena Khusanova"
-      }
+      "team_members_5_name": "Elena Khusanova"
     }
   }
 ,
@@ -296,7 +256,6 @@
 "page_home-page":
 {
     "post_title": "Ana sayfa",
-    "post_content": null,
     "post_meta": {
       "add_title": "Etrafta dil pratiği yapın",
       "claim": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.",

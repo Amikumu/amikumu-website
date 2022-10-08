@@ -3,7 +3,6 @@
 {
   "content": {
     "post_title": "Su di noi",
-    "post_content": null,
     "post_meta": {
       "add_description": "La missione di Amikumu è creare e mantenere una rete sociale che offra a chi parla, a chi si iscrive e usa tutte le lingue del mondo, una piattaforma per comunicare e condividere informazioni pertinenti localmente, indipendentemente dallo stato sociale, politico o economico di ogni lingua.",
       "add_title": "Sviluppato da un team di poliglotti",
@@ -26,7 +25,6 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -203,7 +201,6 @@
 {
   "content": {
     "post_title": "Home",
-    "post_content": null,
     "post_meta": {
       "add_title": "Esercitati con le lingue attorno a te",
       "claim": "La missione di Amukumu è quella di creare e sostenere una rete sociale che offra a tutti coloro che parlano, segnano o utilizzano una o più lingue tra quelle esistenti, una piattaforma per comunicare e condividere informazioni significative a livello locale, a prescindere dallo status sociale, politico o economico di ciascun idioma.",

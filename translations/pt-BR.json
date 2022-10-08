@@ -2,8 +2,7 @@
   "page_about-us": {
     "content": {
       "post_title": "Sobre nós",
-      "post_content": null,
-      "post_meta": {
+        "post_meta": {
         "add_description": "A missão da Amikumu é criar e manter uma rede social que oferece aos falantes, usuários de línguas de sinais e de todas as línguas do mundo uma plataforma para se comunicar e compartilhar informações relevantes localmente, independentemente do status social, político ou económico de cada língua.",
         "add_title": "Desenvolvido por uma equipe de poliglotas",
         "city": "Cidade",
@@ -25,8 +24,7 @@
         "team_members_1_name": "Chuck Smith",
         "team_members_2_city": "Amsterdam, The Netherlands",
         "team_members_2_description": {
-          "br": null,
-          "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
+            "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
         },
         "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
         "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
@@ -194,8 +192,7 @@
   "page_home-page": {
     "content": {
       "post_title": "Início",
-      "post_content": null,
-      "post_meta": {
+        "post_meta": {
         "add_title": "Pratique línguas com pessoas ao seu redor",
         "claim": "A missão da Amikumu é criar e manter uma rede social que oferece aos falantes, usuários de línguas de sinais e de todas as línguas do mundo uma plataforma para se comunicar e compartilhar informações relevantes localmente, independentemente do status social, político ou econômico de cada língua.",
         "language_name_in_own_script": "Português",

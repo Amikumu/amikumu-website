@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nova.amikumu.com/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/" />
  </url>
  <url>
@@ -24,7 +24,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/authors/</loc>
@@ -69,6 +69,14 @@
  <url>
   <loc>https://nova.amikumu.com/ca/galleries/demo/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/posts/</loc>
@@ -130,7 +138,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/authors/</loc>
@@ -177,6 +185,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/cs/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/cs/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/cs/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -212,7 +228,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/authors/</loc>
@@ -259,6 +275,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/de/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/de/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/de/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -294,7 +318,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/authors/</loc>
@@ -341,6 +365,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/eo/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/eo/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/eo/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -376,7 +408,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/authors/</loc>
@@ -423,6 +455,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/es/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/es/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/es/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -458,7 +498,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/authors/</loc>
@@ -505,6 +545,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/fr/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/fr/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/fr/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -548,7 +596,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/id/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/id/authors/</loc>
@@ -595,6 +643,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/id/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/id/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/id/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -629,8 +685,16 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ja/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ja/authors/</loc>
@@ -677,6 +741,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ja/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ja/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ja/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -712,7 +784,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/authors/</loc>
@@ -759,6 +831,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ka/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ka/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ka/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -802,7 +882,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/authors/</loc>
@@ -849,6 +929,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/lt/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lt/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/lt/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -884,7 +972,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/authors/</loc>
@@ -957,6 +1045,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/nl/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nl/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/nl/press/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -966,7 +1062,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/authors/</loc>
@@ -1013,6 +1109,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/oc/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/oc/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/oc/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -1048,7 +1152,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/authors/</loc>
@@ -1093,6 +1197,14 @@
  <url>
   <loc>https://nova.amikumu.com/pl/galleries/demo/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/posts/</loc>
@@ -1158,7 +1270,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/authors/</loc>
@@ -1205,6 +1317,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/pt/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pt/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/pt/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -1240,7 +1360,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/authors/</loc>
@@ -1287,6 +1407,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ru/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ru/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ru/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -1322,7 +1450,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/authors/</loc>
@@ -1369,6 +1497,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/sk/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/sk/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/sk/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -1408,7 +1544,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/authors/</loc>
@@ -1455,6 +1591,14 @@
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/tr/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/tr/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/tr/posts/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
  </url>
@@ -1490,7 +1634,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/</loc>
-  <lastmod>2022-10-06T16:39:00Z</lastmod>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/authors/</loc>
@@ -1535,6 +1679,14 @@
  <url>
   <loc>https://nova.amikumu.com/zh/galleries/demo/</loc>
   <lastmod>2022-10-06T16:39:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh/indexnl_221008153842/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh/indexnl_221008153848/</loc>
+  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/posts/</loc>

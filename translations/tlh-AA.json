@@ -2,27 +2,27 @@
 "page_about-us":
 {
   "content": {
-    "post_title": "Quant a nosôtros",
+    "post_title": "De'maj",
     "post_content": null,
     "post_meta": {
-      "add_description": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
-      "add_title": "Dèvelopâ pèr un èquipa de poliglotos",
-      "city": "Vela",
-      "languages": "Lengoues",
-      "metadata_desc": "L’èquipa d’Amikumu est composâ de poliglotos tot entòrn du mondo qu’ant passâ ben de temps a ètudiar les lengües.",
-      "metadata_title": "Rencontra l’èquipa d’Amikumu",
-      "our_team": "No‘tr’ èquipa",
-      "team_members_0_city": "Sidnê, Ôstralia",
-      "team_members_0_description": "Richard Delamore, conyèssu sur lo malyajo coment Evildea, èspèrantisto ôstralien youtubòr et guido de l’endustria de films en èspèranto. Prior to co-founding Amikumu, Richard founded Esperanto-TV and served on the Board of Directors for the Australian Esperanto Association (AEA), the Language Festival Association (LFA) and the Esperanto Federation of New South Wales (EFNSW). Additionally, he’s served six years in the Australian army as a signals operator and worked for numerous international businesses as a systems administrator.",
+      "add_description": "jatlhwI'pu', ghopDu' lo'wI'pu' 'ej 'u' Hoch Holmey lo'wI'pu'vaD nIqHom wInobmeH Amikumu wIchenmoHta'. nIqHomvam lulo'chugh, QumlaH 'ej Daq SumDaq De' 'ut lubonlaH 'ej nughDaq Hoch Hol Dotlh luqImHa'laH.",
+      "add_title": "'oghta' Holmey law' jatlhwI'pu' wey",
+      "city": "veng",
+      "languages": "Holmey",
+      "metadata_desc": "Holmey law' jatlhwI'pu' yugh Amikumu wey. tera' Hoch 'ay'vo' boghpu' 'ej Holmey jatlhchu'meH repmey law'qu' lo'.",
+      "metadata_title": "Amikumu wey tIghom",
+      "our_team": "weymaj",
+      "team_members_0_city": "Sydney veng, 'aSralya'",
+      "team_members_0_description": "Richard Delamore — ghaHvaD Evildea ponglu' je. 'aSralya'ngan ghaH 'ej YouTube-Daq Esperanto Hol muchHommey law' chenmoHta'mo' noyqu'. Amikumu luchenmoHpa' ghaH latlhmey je, Esperanto-TV chenmoHta', 'aSralya' Esperanto Hol DIvI' (AEA) qolqoS ghaH, Hol lopno' DIvI'vaD (LFA) New South Wales Esperanto Hol DIvI'vaD (EFNSW) vum. qaStaHvIS jav DIS 'aSralya' QI'Daq QumpIn ghaH 'ej 'op Sep DIghbogh malja'mey law'vaD vumtaHvIS pat loHwI' ghaH.",
       "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
-      "team_members_0_job_title": "Chief Executive Officer",
-      "team_members_0_languages": "Anglès, espèranto, mandarin",
+      "team_members_0_job_title": "HoD",
+      "team_members_0_languages": "DIvI' Hol, Esperanto, jungwoq Hol motlh",
       "team_members_0_name": "Richard Delamore",
-      "team_members_1_city": "Berlin, Germany (from the USA)",
-      "team_members_1_description": "Chuck Smith is the co-organizer of the Polyglot Gathering, contributor of Duolingo’s Esperanto course and founder of the Esperanto Wikipedia, among other Esperanto and polyglot projects. He has been developing iOS apps since Apple’s App Store launched in 2008. He had the idea for a GPS device to find fellow Esperanto speakers while traveling through Brazil in 2002, but needed to wait 15 years for technology to catch up, so he could pursue this dream. Now he looks forward to meeting the challenges ahead to help people everywhere connect to make the world a better place.",
+      "team_members_1_city": "Berlin veng, DoyIchlan ('amerI'qa' SepjIjQa'vo' jaHta')",
+      "team_members_1_description": "Chuck Smith — Holmey law' jatlhwI'pu' qep'a' lunab ghaH latlhmey je, Duolingo-vaD Esperanto Hol paQDI'norgh chenmoHlu'meH QaH 'ej Esperanto Hol Wikipedia latlh Holmey law' jatlhwI'pu' jInmolmey chenmoHta'. tera' poH DIS 2008 App Store-Daj poSmoHDI' Apple, iOS nIqHommey 'oghchoH 'ej DaH 'oghtaH. DIS 2002 bIraSIwDaq lengtaHvIS Chuck, latlh Esperanto Hol jatlhwI'pu' SammeH SIbDoH lo'bogh jan'e' 'ogh neHchoH, 'ach 'ItlhchoHpa' cham qaS wa'maH vagh DIS. ghIq chabalDaj qaSmoH. DaH Dat nuvpu' rarchuqmoH 'ej qo'maj DublaHmo' Quch.",
       "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
-      "team_members_1_languages": "English, Esperanto, German, Spanish, French, Dutch, Polish, ASL",
+      "team_members_1_languages": "DIvI' Hol, Esperanto Hol, DoyIchlan Hol, 'eSpanya' Hol, vIraS Hol, ne'Derlan Hol, po'lISqa' Hol, 'amerI'qa' SepjIjQa' ghop Hol",
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
@@ -33,23 +33,23 @@
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
       "team_members_2_name": "Tanja Orme",
-      "team_members_3_city": "Berlin, Germany",
-      "team_members_3_description": "Judith Meyer is a computational linguist spending most of her time developing web applications that deal with languages, such as her project LearnYu. She is also a polyglot, co-organizer of the Polyglot Gathering and author of many language books and language courses. She learned Esperanto when she was 14 years old so as to use it as a springboard to learning many other languages.",
+      "team_members_3_city": "Berlin veng, DoyIchlan",
+      "team_members_3_description": "Judith Meyer — De'wI' Holtej ghaH 'ej 'InternetDaq Holmey ghojlu'meH boQbogh nIqHommey'e' 'oghtaH 'ej ghuntaH. LearnYu 'oH wa' jInmolDaj pong'e'. Holmey law' jatlhlaH je, Holmey law' jatlhwI'pu' qep'a' nab je 'ej Holmey bopbogh paqmey law''e' Hol paQDI'norghmey law' qonta'. qaStaHvIS DISDaj wa'maH loS, Esperanto Hol ghojchoHta', ghIq latlh Holmey law' ghojchoHmeH 'oH lo'.",
       "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.”",
-      "team_members_3_job_title": "Backend Developer",
-      "team_members_3_languages": "German, English, Esperanto, Latin, French, Italian, Modern Greek, Mandarin, Dutch, Spanish, Indonesian, Hebrew, Swahili",
+      "team_members_3_job_title": "'emDaq ghunwI'",
+      "team_members_3_languages": "DoyIchlan Hol, DIvI' Hol, Esperanto Hol, Latin Hol, vIraS Hol, 'Italya' Hol, 'elaDya' Hol vur, jungwoq Hol motlh, ne'Derlan Hol, 'eSpanya' Hol, Indonesia Hol, yISra'el Hol, qenya' Hol",
       "team_members_3_name": "Judith Meyer",
-      "team_members_4_city": "Philadelphia, USA",
-      "team_members_4_description": "Jesse Alter is a Linux system administrator with degrees in Computer Science and Social Work. Over the years, Jesse has maintained servers for multiple websites and services while working as a pediatric social worker. He later changed his career to follow his lifelong interest in developing and maintaining computer systems. Apart from Amikumu, Jesse’s interests include retrocomputing, information privacy, and data analysis.",
-      "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. To me, that’s a superpower.",
-      "team_members_4_job_title": "System Administrator",
-      "team_members_4_languages": "English, Esperanto",
+      "team_members_4_city": "Philadelphia veng, 'amerI'qa' SepjIjQa'",
+      "team_members_4_description": "Jesse Alter — De'wI' QeD nugh Qu' je HaDchu'ta'bogh Linux pat loHwI' ghaH. qaStaHvIS 'op DIS, 'Internet Daqmey law'vaD toy'wI' jan leHtaH Jesse 'ej ngugh puqpu' bopbogh Qu'mey ta'. ghIq qunDaj choHta' 'ej De'wI' patmey 'oghchoH 'ej leHchoH. rut De'wI' notlh 'lo Jesse pagh De' poj, 'ej ghahvaD Dajqu' De' naw' DIb.",
+      "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. jIHvaD HoS'a' 'oHba'.\"",
+      "team_members_4_job_title": "pat loHwI'",
+      "team_members_4_languages": "DIvI' Hol, Esperanto Hol",
       "team_members_4_name": "Jesse Alter",
-      "team_members_5_city": "Yekaterinburg, Russia",
-      "team_members_5_description": "Elena Khusanova is an accomplished graphic designer with a diploma in the theory of architecture. After graduation, she learned Esperanto and has since worked for multiple organizations and events. Highlights include her voluntary service for E@I in Slovakia and the 101st World Esperanto Congress among other projects. Recently she completed a project of her own: cards for the game “Werewolves”.",
+      "team_members_5_city": "Yekaterinburg veng, raSya'",
+      "team_members_5_description": "Elena Khusanova — mIllogh ghItlhwI', nger renwI' mojmeH HaDchu'ta'. HaDta'DI', Esperanto Hol ghojchoH, ghIq malja'mey law'vaD wanI'mey law'vaD je vum. SIlovenISqa'Daq E@I-vaD vumbogh SapwI''e' ghaH, tera' Esperanto Hol qep'a' 101-DIchDaq latlh jInmolmeyDaq vum. qun jInmolDaj rInta': \"tlhIghaq yoq\" QujvaD 'echletHommey ghItlhta'.",
       "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
-      "team_members_5_job_title": "Graphic Designer",
-      "team_members_5_languages": "English, Russian, Esperanto, Slovak, Swedish, Toki Pona",
+      "team_members_5_job_title": "mIllogh ghItlhwI'",
+      "team_members_5_languages": "raSya' Hol, Esperanto Hol, DIvI' Hol, SIlovenISqa' Hol, Suverya' Hol, Toki Pona",
       "team_members_5_name": "Elena Khusanova"
     }
   }
@@ -58,20 +58,20 @@
 "page_ambassador":
 {
   "content": {
-    "post_title": "Ambassador",
+    "post_title": "Duy'a'",
     "post_content": {
       "section": [
         {
-          "title": "What is an ambassador?",
+          "title": "nuq ghaH Duy'a''e'?",
           "#text": "Essentially, an ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters."
         },
         {
-          "title": "What does an Ambassador do?",
+          "title": "nuq ta' Duy'a'?",
           "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! [https://youtu.be/6g3QtBtBB_U]`_ (Moshe Sherizen) and `Auslan: What is Amikumu? [https://youtu.be/57W73If51NE]`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases [http://amikumu.com/press/]`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app [https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4]`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community.",
           "#text": "It depends on what they can commit. We've listed some of the ways our ambassadors are working with us to promote Amikumu around the world."
         },
         {
-          "title": "What do Ambassadors get?",
+          "title": "nuq Hev Duy'a'?",
           "#text": "There's little we can provide for your invaluable help. However, there are a few perks to being an ambassador. We provide ambassadors with unique in-app collectible badges among other things. Feel free to reach out to us for more info at `info@amikumu.com [mailto:info@amikumu.com]`_."
         }
       ],
@@ -106,7 +106,7 @@
             },
             {
               "title": "Is it free?",
-              "#text": "Uê."
+              "#text": "Yes."
             },
             {
               "title": "Which platforms does Amikumu support?",
@@ -115,7 +115,7 @@
           ]
         },
         {
-          "title": "Sècuritâ",
+          "title": "Security",
           "subsection": [
             {
               "title": "Can others always see exactly where I am?",
@@ -128,7 +128,7 @@
           ]
         },
         {
-          "title": "Comunôtâ",
+          "title": "Community",
           "subsection": [
             {
               "title": "Is Amikumu open source?",
@@ -202,33 +202,33 @@
 "page_home-page":
 {
   "content": {
-    "post_title": "Reçua",
+    "post_title": "Home",
     "post_content": null,
     "post_meta": {
       "add_title": "Practice languages nearby",
       "claim": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
-      "language_name_in_own_script": "Arpìtan",
-      "massive_thanks": "Un grand mèrci a tuis nos 429 contributors sur Kickstarter qu’ant pèrmi de dèpassar no‘tros obj·èctivos et fâre d’Amikumu una rèalitâ",
-      "metadata_desc": "Trova et conècta-te ôra avèc de pèrsones que parlant la mèma lengua a ton entòrn. No'tr' aplicacion suporte més de 7000 lengües coment lo catalan, lo ch·inès, l'holandès, l'espèranto, l'irlandès, lo j·aponès, l'occitan, lo polonès, lo portuguès, lo russo, lo toki pona et lo galès, et tot cen gratuit!",
-      "metadata_title": "Amikumu — Trovar de partenèros de lengües a l’entòrn",
-      "official_sponsor": "Sponsòr oficièl",
-      "sponsors": "Sponsòrs",
+      "language_name_in_own_script": "English",
+      "massive_thanks": "A massive thanks to all our 429 backers on Kickstarter who smashed our funding goals and made Amikumu a reality",
+      "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
+      "metadata_title": "Amikumu - Find language partners nearby",
+      "official_sponsor": "The Official Sponsor",
+      "sponsors": "Sponsors",
       "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
       "testimonials_block_0_add_sortcontent": "I never know which city I’m going to wake up in next, and yet I want to practice all my languages. With this app, I can practice any language I want at the push of a button!",
-      "testimonials_block_1_add_name": "Judith Meyer, fondatrice de Polyglot Gathering",
+      "testimonials_block_1_add_name": "Judith Meyer, Polyglot Gathering Founder",
       "testimonials_block_1_add_sortcontent": "I believe that Amikumu is an incredibly useful app for the language learning community!",
-      "testimonials_block_2_add_name": "Professòr Ghil’ad Zuckermann, D.Phil.",
+      "testimonials_block_2_add_name": "Professor Ghil'ad Zuckermann, D.Phil.",
       "testimonials_block_2_add_sortcontent": "The app can enhance communication among speakers of endangered languages and revivalists of dreaming sleeping beauties such as Barngarla.",
       "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
       "testimonials_block_3_add_sortcontent": "We are inspired by Amikumu and their ambition to unite us through the languages we speak – or aspire to speak!",
-      "testimonials_block_4_add_name": "Govèrnement galès: aplicacion de la semana",
+      "testimonials_block_4_add_name": "Welsh Government App of the Week",
       "testimonials_block_4_add_sortcontent": "Amikumu adds a whole new dimension to language learning and is changing the way people connect and practice languages.",
       "tutorial_blocks_0_text": "Add a bio and name for each language you speak!\n\nIndicate which languages you know and how well you speak them.>",
       "tutorial_blocks_0_title": "Explore profiles and express yourself",
       "tutorial_blocks_1_text": "Choose a language.\n\nFind people nearby who also speak that language.>",
-      "tutorial_blocks_1_title": "Trova de partenèros por aprendre de lengua a l’entòrn — a tot’ òra, en tot endrèt",
+      "tutorial_blocks_1_title": "Find language learning partners nearby anytime, anywhere",
       "tutorial_blocks_2_text": "Message others nearby who speak your language.\n\nSend pictures, voice messages and map coordinates.\n\nQuickly organize meetups and make friends for life.>",
-      "tutorial_blocks_2_title": "Barjacar et se rencontrar!"
+      "tutorial_blocks_2_title": "Chat and meetup!"
     }
   }
 }
@@ -236,7 +236,7 @@
 "page_press":
 {
   "content": {
-    "post_title": "Prèssa",
+    "post_title": "Press",
     "post_content": {
       "subsection": [
         {
@@ -335,7 +335,7 @@
 "page_privacy-terms":
 {
   "content": {
-    "post_title": "Privacitâ et Tèrmos",
+    "post_title": "Privacy & Terms",
     "post_content": {
       "main": {
         "title": "Privacy Policy",
@@ -490,7 +490,7 @@
 "page_shop":
 {
   "content": {
-    "post_title": "Botica",
+    "post_title": "Shop",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Visit the online Amikumu shop and get one of our awesome t-shirts to help raise awareness of Amikumu in your local community.",
@@ -502,11 +502,11 @@
 "page_statistics":
 {
   "content": {
-    "post_title": "Statistiques",
+    "post_title": "Statistics",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
-      "metadata_title": "Statistiques d’Amikumu"
+      "metadata_title": "Amikumu statistics"
     }
   }
 }
@@ -518,16 +518,16 @@
     "post_content": {
       "subsection": [
         {
-          "title": "1. Abonar la lètra d’enformacions",
+          "title": "1. Sign up to our newsletter",
           "#text": "Each month we publish a newsletter with behind-the-scenes insights about our plans and successes. We also accept contributions from our community members such as yourself. This is our way of talking directly with you. `Sign up here [http://eepurl.com/c4qiRD]`_."
         },
         {
           "title": "2. Follow us on social media",
-          "ul": "#. `Facebook [https://www.facebook.com/amikumuapp/]`_\n \t#. `Twitter (Anglês) [https://twitter.com/Amikumu]`_\n \t#. `Twitter (Èspèranto) [https://twitter.com/Amikumu_eo]`_\n \t#. `VK [https://vk.com/amikumu]`_\n \t#. `Telegram [https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g]`_\n \t#. Wechat",
+          "ul": "#. `Facebook [https://www.facebook.com/amikumuapp/]`_\n \t#. `Twitter (English) [https://twitter.com/Amikumu]`_\n \t#. `Twitter (Esperanto) [https://twitter.com/Amikumu_eo]`_\n \t#. `VK [https://vk.com/amikumu]`_\n \t#. `Telegram [https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g]`_\n \t#. Wechat",
           "#text": "We have a social media presence on the most popular websites."
         },
         {
-          "title": "3. Partagér avèc tos amis",
+          "title": "3. Share us with your friends",
           "#text": "Share our app with your friends on social media or by email!\n\nThe more people hear about Amikumu, the more useful it becomes for us all. Share a link to our official website `www.amikumu.com [https://www.amikumu.com]`_ along with why you enjoy it so much."
         },
         {
@@ -547,7 +547,7 @@
           "#text": "`We've prepared flyers you can distribute [https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing]`_ in your school, university and local language club. They have also been translated into many languages for your use. If you need custom flyers made, please contact us at `info@amikumu.com [mailto:info@amikumu.com]`_"
         },
         {
-          "title": "8. Organisa d’èvènements!",
+          "title": "8. Organize meetups!",
           "#text": "Last but not least, meet people with Amikumu and share your stories! We love to share stories of successful meetups with our community. Email us your stories and pics to `info@amikumu.com. [mailto:info@amikumu.com]`_\n\nFinally, massive thanks in advance for any way you can help.\n\nIf you have any ideas or suggestions, feel free to contact us at `info@amikumu.com [mailto:info@amikumu.com]`_.>"
         }
       ],

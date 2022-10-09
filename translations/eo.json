@@ -11,43 +11,56 @@
       "metadata_desc": "La teamo de Amikumu konsistas de poliglotoj el la tuta mondo, kiuj dediĉas nekalkuleblajn horojn al la regado de lingvoj.",
       "metadata_title": "Konatiĝu kun la teamo de Amikumu",
       "our_team": "Nia Teamo",
+"members": [{
       "team_members_0_city": "Sidnejo, Aŭstralio",
       "team_members_0_description": "Richard Delamore, kiu uzas la kaŝnomon Evildea, estas aŭstralia Esperanto-Jutubisto kaj gravulo en la Esperanto-filmindustrio. Antaŭ la fondo de Amikumu, Richard kreis Esperanto-TV-on kaj li estis ankaŭ estrarano de la Aŭstralia Esperanto-Asocio (AEA), la Lingva Festivala Asocio (LFA) kaj la Esperanto-Federacio de Novsudkimrio (EFNSW). Krome, li servis ses jarojn en la aŭstralia armeo kiel radio-operatoro kaj laboris por multaj internaciaj firmaoj kiel komputila administranto.",
       "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
       "team_members_0_job_title": "Ĉefa Afergvida Oficisto",
       "team_members_0_languages": "Angla, Esperanto kaj mandarena",
-      "team_members_0_name": "Richard Delamore",
-      "team_members_1_city": "Berlino, Germanio (el Usono)",
+      "team_members_0_name": "Richard Delamore"
+          },
+          {
+            "team_members_1_city": "Berlino, Germanio (el Usono)",
       "team_members_1_description": "Chuck Smith estas kunorganizanto de la Polyglot Gathering, kontribuanto de la Kurso de Esperanto ĉe Duolingo kaj fondinto de la Esperanta Vikipedio, inter multaj aliaj projektoj pri lingvoj. Li programadis iOS-apojn ekde la lanĉo de la Apla ap-vendejo en 2008. Li havis ideon por GPS-ilo por trovi proksimajn samideanojn vojaĝante tra Brazilo en 2002, sed devis atendi 15 jarojn por ke teknologio evoluiĝu tiom kiom necesas por realigi ĉi tiun revon. Nun li antaŭĝojas alfronti la defiojn por helpi, ke homoj ĉie konektiĝu kaj tiel plibonigi la mondon.",
       "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "Angla, Esperanto, germana, hispana, franca, nederlanda kaj usona signolingvo",
-      "team_members_1_name": "Chuck Smith",
-      "team_members_2_city": "Amsterdam, The Netherlands",
+      "team_members_1_name": "Chuck Smith"
+          },
+          {
+            "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme",
-      "team_members_3_city": "Berlino, Germanio",
+      "team_members_2_name": "Tanja Orme"
+          },
+          {
+            "team_members_3_city": "Berlino, Germanio",
       "team_members_3_description": "Judith Meyer estas fakulino de komputita lingvistiko, kiu pasigas la plejparton de sia tempo programante retajn aplikaĵojn traktantaj lingvojn, ekzemple ŝian projekton LearnYu. Ankaŭ ŝi estas poligloto, kunorganizanto de la Polyglot Gathering kaj aŭtoro de multaj prilingvaj libroj kaj lingvaj kursoj. Ŝi eklernis Esperanton kiam ŝi estas 14-jaraĝa por uzi ĝin kiel saltotabulon al lernado de aliaj lingvoj.",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.”",
+      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
       "team_members_3_job_title": "Servilprogramisto",
       "team_members_3_languages": "germana, angla, Esperanto, latina, franca, itala, moderna greka, mandarena, nederlanda, hispana, indonezia, hebrea, svahila",
-      "team_members_3_name": "Judith Meyer",
-      "team_members_4_city": "Filadelfio, Usono",
+      "team_members_3_name": "Judith Meyer"
+          },
+          {
+            "team_members_4_city": "Filadelfio, Usono",
       "team_members_4_description": "Jesse Alter estas sistemadministranto pri Linukso kun diplomoj pri Komputiko kaj Sociala Laboro. Dum jaroj, Jesse administris servilojn por multaj retejoj kaj servoj dum li laboris kiel pediatria sociala laboristo. Li poste ŝanĝis sian karieron por sekvi sian tutvivan intereson pri la konstruado kaj la administrado de komputilaj sistemoj. Krom Amikumu, liaj interesoj inkluzivas prakomputikon, datumprotektadon, kaj analizon de datumoj.",
       "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Por mi, tio estas superpovo.",
       "team_members_4_job_title": "Sistemadministranto",
       "team_members_4_languages": "angla, Esperanto",
-      "team_members_4_name": "Jesse Alter",
-      "team_members_5_city": "Jekaterinburgo, Rusio",
+      "team_members_4_name": "Jesse Alter"
+          },
+          {
+            "team_members_5_city": "Jekaterinburgo, Rusio",
       "team_members_5_description": "Elena Ĥusanova estas sukcesa grafikisto kun diplomo pri arkitektura teorio. Diplomiĝinte, ŝi ekstudis Esperanton kaj eklaboris en multaj organizoj kaj eventoj. Elstaraj laboroj inkluzivas – inter la aliaj – ŝian volontuladon por E@I en Slovakio kaj por la 101-a Universala Esperanto-Kongreso inter aliaj. Lastatempe, ŝi kompletigis sian propran projekton: kartojn por la ludo “Homlupoj”.",
       "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
       "team_members_5_job_title": "Grafikisto",
       "team_members_5_languages": "angla, rusa, Esperanto, slovaka, sveda, Tokipono",
       "team_members_5_name": "Elena Ĥusanova"
-    }
+ } 
+]
+}
   }
 }
 ,

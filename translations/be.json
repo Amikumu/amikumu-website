@@ -11,43 +11,56 @@
       "metadata_desc": "Каманда Amikumu складаецца з паліглотаў з усяго свету, якія прысвяцілі шмат часу на вывучэнне моў.",
       "metadata_title": "Сустракайце каманду Amikumu",
       "our_team": "Наша каманда",
+"members": [{
       "team_members_0_city": "Сіднэй, Аўстралія",
       "team_members_0_description": "Рычард Дэламор, таксама вядомы пад мянушкай Evildea, з'яўляецца аўстралійскім эсперанта-відэаблогерам і адной з галоўных асоб у кінаіндустрыі эсперанта. Да заснавання Amikumu Рычард стварыў тэлебачанне эсперанта, а таксама быў старшынёй аўстралійскай асацыяцыі эсперанта (AEA), асацыяцыі фестывалю моў (LFA) і федэрацыі эсперанта новага паўднёвага Уэльса (EFNSW). Акрамя гэтага, ён адслужыў шэсць гадоў у арміі Аўстраліі ў якасці радыста, а таксама працаваў у шматлікіх міжнародных кампаніях сістэмным адміністратарам.",
       "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
       "team_members_0_job_title": "Галоўны выканаўчы дырэктар",
       "team_members_0_languages": "Англійская, эсперанта, кітайская (мандарын)",
-      "team_members_0_name": "Рычард Дэламор",
-      "team_members_1_city": "Берлін, Германія (нарадзіўся ў ЗША)",
+      "team_members_0_name": "Рычард Дэламор"
+          },
+          {
+            "team_members_1_city": "Берлін, Германія (нарадзіўся ў ЗША)",
       "team_members_1_description": "Чак Сміт з'яўляецца адным з арганізатараў Polyglot Gathering, стваральнікам курса эсперанта для Duolingo, а таксама заснавальнікам Wikipedia на мове эсперанта і гэта толькі некаторыя яго праекты. Ён распрацоўвае праграмы для iOS з заснавання App Store у 2008 годзе. Тады ў яго з'явілася ідэя шукаць носьбітаў мовы эсперанта праз прылады з модулямі GPS падчас падарожжа па Бразіліі ў 2002 годзе, але давялося чакаць 15 гадоў пакуль тэхналагічны прагрэс дазволіць ажыццявіць гэтую мару. Зараз ён смела глядзіць на пастаўленыя задачы, каб дапамагчы людзям па ўсім свеце аб'яднацца і зрабіць свет яшчэ лепш.",
       "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "Англійская, эсперанта, нямецкая, іспанская, французская, нідэрландская, польская, амерыканская мова жэстаў (ASL)",
-      "team_members_1_name": "Чак Сміт",
-      "team_members_2_city": "Amsterdam, The Netherlands",
+      "team_members_1_name": "Чак Сміт"
+          },
+          {
+            "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme",
-      "team_members_3_city": "Берлін, Германія",
+      "team_members_2_name": "Tanja Orme"
+          },
+          {
+            "team_members_3_city": "Берлін, Германія",
       "team_members_3_description": "Джудзіт Мэер з'яўляецца спецыялістам па камп'ютарнай лінгвістыцы, якая займаецца ў асноўным распрацоўкай сеціўных праграм лінгвістычнага кірунку, адным з якіх з'яўляецца праект LearnYu. Яна таксама з'яўляецца паліглотам, арганізатарам Polyglot Gathering, аўтарам шматлікіх кніг і моўных курсаў. З 14 гадоў яна пачала вывучаць эсперанта, як базавую мову для вывучэння іншых моў.",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.”",
+      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
       "team_members_3_job_title": "Серверны праграміст",
       "team_members_3_languages": "Нямецкая, англійская, эсперанта, лацінская, французская, італьянская, грэчаская, дацкая, іспанская, інданезійская, іўрыт, суахілі",
-      "team_members_3_name": "Джудзіт Мэер",
-      "team_members_4_city": "Філадэльфія, ЗША",
+      "team_members_3_name": "Джудзіт Мэер"
+          },
+          {
+            "team_members_4_city": "Філадэльфія, ЗША",
       "team_members_4_description": "Джэсі Альтар з'яўляецца сістэмным адміністратарам з дыпломамі па інфарматыцы і сацыяльнай працы. На працягу многіх гадоў Джэсі адміністрыраваў шматлікія вэб-сайты і сэрвісы падчас працы ў педыятрычнай сацыяльнай службе. Пазней ён змяніў працу на занятак, які быў больш яму па душы і пачаў распрацоўваць і адміністрыраваць камп'ютарныя сістэмы. Акрамя Amikumu, ён цікавіцца гісторыяй развіцця камп'ютарных сістэм, абаронай прыватных звестак і аналізам даных.",
       "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Для мяне гэта - суперсіла.\"",
       "team_members_4_job_title": "Сістэмны адміністратар",
       "team_members_4_languages": "Англійская, эсперанта",
-      "team_members_4_name": "Джэсі Альтар",
-      "team_members_5_city": "Екацярынбург, Расія",
+      "team_members_4_name": "Джэсі Альтар"
+          },
+          {
+            "team_members_5_city": "Екацярынбург, Расія",
       "team_members_5_description": "Алена Хусанава з'яўляецца дасведчаным графічным дызайнерам, якая мае дыплом па тэорыі архітэктуры. Абараніўшы дыплом, яна пачала вучыць эсперанта і з таго часу ўдзельнічае ў шматлікіх арганізацыях і мерапрыемствах прысвечаных гэтай мове. Самыя значныя дасягненнямі сярод іншых праектаў былі добраахвотніцкая дзейнасць для E@I у Славакіі і ўдзел у 101-м сусветным кангрэсе эсперантыстаў. Не так даўно яна завяршыла праект - карткі для настольнай гульні \"Ваўкалак\".",
       "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
       "team_members_5_job_title": "Графічны дызайнер",
       "team_members_5_languages": "Англійская, руская, эсперанта, французская, ісландская, шведская, такіпона",
       "team_members_5_name": "Алена Хусанава"
-    }
+ } 
+]
+}
   }
 }
 ,

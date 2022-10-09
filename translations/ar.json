@@ -11,43 +11,56 @@
       "metadata_desc": "ويتألف فريق أميكومو من  متعددي اللغات من عبر العالم الذين كرسوا ساعات لا تحصى لإتقان اللغات.",
       "metadata_title": "تعرف علي فريق أميكومو\n>",
       "our_team": "فريقنا",
+"members": [{
       "team_members_0_city": "سيدني، أستراليا",
       "team_members_0_description": "مهمة أميكومو هي إنشاء والحفاظ على شبكة اجتماعية توفر المتحدثين و مترجمين لغة الاشارة والمستخدمين لجميع لغات العالم من خلال منصة للتواصل وتبادل المعلومات ذات الصلة محليا ، بغض النظر عن الوضع الاجتماعي أو السياسي أو الاقتصادي الخاص لكل لغة.\n قبل تأسيس  أميكومو ، أسس ريتشارد تلفزيون اسبرانتو وعمل في مجلس إدارة جمعية الأسبرانتو الأسترالية (AEA) وجمعية مهرجان اللغة (LFA) واتحاد إسبرانتو بنيو ساوث ويلز (EFNSW).  بالإضافة إلى ذلك ، خدم ست سنوات في الجيش الأسترالي  كمترجم للإشارات وعمل في العديد من الشركات الدولية كمدير للأنظمة.",
       "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
       "team_members_0_job_title": "الرئيس التنفيذى\n>",
       "team_members_0_languages": "الإنجليزية ، الاسبرانتو ،  الماندراين الصينية\n>",
-      "team_members_0_name": "ريتشارد ديلامور\n>",
-      "team_members_1_city": "برلين ، ألمانيا (من الولايات المتحدة الأمريكية)\n>",
+      "team_members_0_name": "ريتشارد ديلامور\n>"
+          },
+          {
+            "team_members_1_city": "برلين ، ألمانيا (من الولايات المتحدة الأمريكية)\n>",
       "team_members_1_description": "تشاك سميث هو المنظم المشارك في تجمع متعددي اللغات-  الألسنة - ، والمساهم في دورة والمساهم في دورةدوولينجو الخاصة بلغة الإسبرانتو ومؤسس إسبرانتو ويكيبيديا ، من بين العديد من  مشاريع متعددي الألسنة  الأخرى. \n لقد قام بتطوير تطبيقات آي أو إس\niOS منذ إطلاق متجرأبل ستور- Apple Store في عام 2008.  كانت لديه فكرة عن جهاز GPS للعثور على متحدثين آخرين من الاسبرانتو أثناء سفرهم عبر البرازيل في عام 2002 ، ولكنهم كانوا بحاجة إلى الانتظار لمدة 15 عامًا حتى يتسنى للتكنولوجيا اللحاق بالركب ، لذلك يمكنه متابعة هذا الحلم حاليا وهو الآن يتطلع إلى مواجهة التحديات المستقبلية لمساعدة الناس في كل مكان على التواصل لجعل العالم مكانًا أفضل.",
       "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
       "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
       "team_members_1_languages": "الإنجليزية ، الاسبرانتو ، الألمانية ، الإسبانية ، الفرنسية ، الهولندية ، البولندية ، لغة الإشارة الأمريكية\n>",
-      "team_members_1_name": "تشاك سميث\n>",
-      "team_members_2_city": "Amsterdam, The Netherlands",
+      "team_members_1_name": "تشاك سميث\n>"
+          },
+          {
+            "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
       "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
       "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme",
-      "team_members_3_city": "برلين، ألمانيا\n>",
+      "team_members_2_name": "Tanja Orme"
+          },
+          {
+            "team_members_3_city": "برلين، ألمانيا\n>",
       "team_members_3_description": "جوديث ماير هي لغوية وعالمة حاسوب تقضي معظم وقتها في تطوير تطبيقات الويب التي تتعامل مع اللغات ، مثل مشروعها ليرن ياو LearnYu.  وهي أيضا متعددة اللغات ، وشاركت في تنظيم تجمع متعددي اللغات- الألسنة - ومؤلفة العديد من كتب اللغة ودورات اللغة.  . تعلمت الاسبرانتو عندما كان عمرها 14 عامًا لاستخدامها كنقطة انطلاق لتعلم العديد من اللغات الأخرى.",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.”",
+      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
       "team_members_3_job_title": "مطورالواجهة الخلفية\n>",
       "team_members_3_languages": "الألمانية ، الإنجليزية ، الإسبرانتو ، اللاتينية ، الفرنسية ، الإيطالية ، اليونانية الحديثة ، الماندراين الصينية ، الهولندية ، الإسبانية ، الإندونيسية ، العبرية ، السواحلية\n>",
-      "team_members_3_name": "جوديث ماير\n>",
-      "team_members_4_city": "فيلادلفيا ، الولايات المتحدة الأمريكية\n>",
+      "team_members_3_name": "جوديث ماير\n>"
+          },
+          {
+            "team_members_4_city": "فيلادلفيا ، الولايات المتحدة الأمريكية\n>",
       "team_members_4_description": "جيسي ألتر هو مسؤول نظام لينكس الحاصل على درجات علمية عديدة في علوم الكمبيوتر والعمل الاجتماعي.  على مر السنين ، حافظ جيسي على خوادم-الويب- لمواقع وخدمات متعددة أثناء عمله كموظف في قطاع الخدمة الاجتماعية للأطفال.  وفي وقت لاحق ، غير حياته المهنية لمتابعة اهتمامه الدائم بتطوير وصيانة أنظمة الكمبيوتر. بخلاف أميكومو ، تشمل اهتمامات جيسي إعادة الجدولة ، وخصوصية المعلومات ، وتحليل البيانات.",
       "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. بالنسبة لي ، هذه قوة عظمى \".",
       "team_members_4_job_title": "مدير النظام\n>",
       "team_members_4_languages": "الإنجليزية ، الإسبرانتو\n>",
-      "team_members_4_name": "جيسي ألتر",
-      "team_members_5_city": "ايكاترينبرج ، روسيا\n>",
+      "team_members_4_name": "جيسي ألتر"
+          },
+          {
+            "team_members_5_city": "ايكاترينبرج ، روسيا\n>",
       "team_members_5_description": "إيلينا  خوسانوفا\n  هي مصممة جرافيك بارعة حاصلة علي دبلوم في نظرية العمارة. بعد التخرج ، تعلمت الإسبرانتو ومنذ ذلك الحين عملت في العديد من المنظمات و شاركت في العديد من الأحداث.  تشمل أبرز  خدماتها  التطوعية مثل تطوعها للعمل في E @ I في سلوفاكيا ومؤتمر -تجمع - كونجرس الإسبرانتو العالمي الواحد بعد المائة 101 من بين مشاريع أخرى.   أكملت مؤخرا مشروعا خاصا بها: بطاقات للعبة المستذئبين \"Werewolves\". \"",
       "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
       "team_members_5_job_title": "مصممة جرافيك\n>",
       "team_members_5_languages": "الإنجليزية ، الروسية ، الإسبرانتو ، السلوفاكية ، السويدية ، توكي بونا\n>",
       "team_members_5_name": "إيلينا  خوسانوفا\n>"
-    }
+ } 
+]
+}
   }
 }
 ,

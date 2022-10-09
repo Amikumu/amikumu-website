@@ -1,507 +1,469 @@
 {
-  "page_about-us": {
-    "post_meta": {
-      "add_description": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
-      "add_title": "由一个多语者团队开发",
-      "city": "城市",
-      "languages": "语言",
-      "members": [
-        {
-          "city": "澳大利亚悉尼",
-          "description": "Richard Delamore，以网名Evildea闻名，是一位澳大利亚Youtube世界语播主，是世界语影片制作的领军人物。 在共同创办Amikumu之前，Richard创立了世界语TV，并在澳大利亚世界语协会（AEA）、语言节协会（LFA）和新南威尔士世界语联合会（EFNSW）的董事会任职。 此外, 他作为信号操作员在澳大利亚军队服役六年, 并作为系统管理员在多个国际企业工作。",
-          "job_title": "首席执行官",
-          "languages": "英语、世界语、汉语普通话",
-          "name": "Richard Delamore",
-          "quote": "Amikumu is an essential part of every language learner’s toolkit."
-        },
-        {
-          "city": "德国柏林（来自美国）",
-          "description": "Chuck Smith是多语者聚会的共同组织者、多邻国世界语课程贡献者、世界语维基百科创始人，还参与了其他世界语和多语言的项目。 自从苹果应用商店在2008年推出以来，他一直在开发iOS应用程序。 2002年他在巴西旅行时，就有了用GPS设备寻找世界语使用者的想法，不过还要等15年后技术条件成熟了，这个梦想才会实现。 现在，他期待着未来的挑战，帮助各地的人们连接起来，让世界变得更美好。",
-          "job_title": "Chief Technical Officer and Mobile Developer",
-          "languages": "英语、世界语、德语、西班牙语、法语、荷兰语、波兰语、美国手语",
-          "name": "Chuck Smith",
-          "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!"
-        },
-        {
-          "city": "Amsterdam, The Netherlands",
-          "description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
-          "job_title": "Volunteer: Mobile Developer / Customer Support",
-          "languages": "Dutch, English, Esperanto, baby-German",
-          "name": "Tanja Orme",
-          "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!"
-        },
-        {
-          "city": "德国柏林",
-          "description": "Judith Meyer是一位计算语言学家，大部分时间都在开发处理语言的Web应用程序，比如她的项目LearnYu。 她也是位多语者，是多语者聚会的共同组织者，还是不少语言书籍和语言课本的作者。 她在14岁时学习世界语，以此作为学习其他语言的跳板。",
-          "job_title": "后端开发",
-          "languages": "德语、英语、世界语、拉丁语、法语、意大利语、现代希腊语、汉语普通话、荷兰语、西班牙语、 印尼语、希伯来语、斯瓦西里语",
-          "name": "Judith Meyer",
-          "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me."
-        },
-        {
-          "city": "美国费城",
-          "description": "Jesse Alter是一位 Linux 系统管理员，拥有计算机科学和社会工作的学位。 多年来， Jesse在担任儿科社工的同时，还为多个网站和服务维护服务器。 后来他改变了职业，遵循他毕生的兴趣开发和维护计算机系统。 除了Amikumu之外，杰西的兴趣还包括古董计算机、信息隐私和数据分析。",
-          "job_title": "系统管理员",
-          "languages": "英语、世界语",
-          "name": "Jesse Alter",
-          "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 对我来说，简直是超能力了。"
-        },
-        {
-          "city": "俄罗斯叶卡捷琳堡",
-          "description": "Elena Khusanova是一位优秀的平面设计师，拥有建筑学理论的文凭。 毕业后，她学会了世界语，并且曾为很多组织和活动工作过。 值得一提的包括在斯洛伐克教育机构E@I以及第101届国际世界语大会的志愿服务。 最近她刚完成了自己的项目：狼人游戏卡牌。",
-          "job_title": "平面设计师",
-          "languages": "英语、俄语、世界语、斯洛伐克语、瑞典语、道本语",
-          "name": "Elena Khusanova",
-          "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline."
-        }
-      ],
-      "metadata_desc": "Amikumu 团队由世界各地的多语者组成，他们为掌握语言投入了无数的时间。",
-      "metadata_title": "认识 Amikumu 团队",
-      "our_team": "我们的团队"
-    },
-    "post_title": "关于我们"
-  },
-  "page_ambassador": {
-    "post_content": {
-      "#text": "首先，感谢你对大使计划的兴趣。",
-      "section": [
-        {
-          "#text": "大使在本地社区宣传Amikumu。他们是当地的代表，我们最大的粉丝和最坚定的支持者。",
-          "title": "什么是大使？"
-        },
-        {
-          "#text": "这取决于他们能做什么。下面列举了大使同我们合作在世界各地推广 Amikumu 的一些方式。",
-          "title": "大使做什么？",
-          "ul": "#. 他们可以发布博客和视频！ 举几个例子，像`Amikumu：意第绪语使用者期待已久的应用！ <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) 和 `澳大利亚手语：什么是 Amikumu？ <https://youtu.be/57W73If51NE>`_ (Kiah Morante) 等类似的文章。 这里还有一整页的 `消息区 <http://amikumu.com/press/>`_。\n \t#. 他们在脸书小组和自己的主页上分享链接。即使一个简单的支持，也可以走得很远！\n \t#. 他们派发传单，并在当地的语言聚会上讨论Amikumu。这也是建立和发展当地社群的好方法。\n \t#. 他们一起把这个应用和网站`翻译成各自的语言 <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_ 。 我们的目标是成为世界上被翻译为最多语言的应用，达到这一点需要所有人的支持。\n \t#. 人们给我们提供了非常重要的指导。我们明白，每种语言和文化都是不同的。我们希望你们能提供建议，如何才能更好地在你的社区开展活动。"
-        },
-        {
-          "#text": "其实，对你做出的宝贵贡献，我们能回报的不多。 不过，作为一位大使，还是有几点好处的。 我们会为大使提供独特的应用内收藏徽章。 向我们获取更多信息，欢迎随时联系 `info@amikumu.com <mailto:info@amikumu.com>`_.",
-          "title": "作为大使能得到什么？"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "大使在本地社区宣传Amikumu。他们是当地的代表，我们最大的粉丝和最坚定的支持者。",
-      "metadata_title": "加入 Amikumu 大使计划!"
-    },
-    "post_title": "大使"
-  },
-  "page_faq": {
-    "post_content": {
-      "section": [
-        {
-          "subsection": {
-            "#text": "Amikumu 是一个应用程序，能帮助您在附近找到说任何语言的人。\n比如，正在度假的你，就可以使用 Amikumu 在城里找人聊聊西班牙语、法语或任何其他语言啦。",
-            "title": "什么是Amikumu？"
-          },
-          "title": "常见问题"
-        },
-        {
-          "subsection": [
-            {
-              "ol": "#. 手动或直接用Facebook关联创建一个账户。\n \t#. 选择你会说的语言和相应级别。我们的数据库支持超过7000门语言（包括100门以上的手语）。\n \t#. 在你所用的每种语言下设置一个名字和简介。\n \t#. 筛选附近的人，找到同样使用你目标语言的100个人。\n \t#. 联系他们，并且见上一面吧！",
-              "title": "它是怎么用的？"
-            },
-            {
-              "#text": "是的",
-              "title": "免费吗？"
-            },
-            {
-              "#text": "Amikumu 可用于 Android (OS 4.0.3) 和 iOS 9.1 (iPhone 4S, iPad 2 +)。",
-              "title": "Amikumu支持哪些平台？"
-            }
-          ],
-          "title": "特点"
-        },
-        {
-          "subsection": [
-            {
-              "#text": "你的隐私和安全对我们非常重要，因此Amikumu不会存储或显示确切位置。",
-              "title": "其他人可以看到我的确切位置吗？"
-            },
-            {
-              "#text": "这个还做不到，但Amikumu有拉黑功能，当你拉黑某用户后，对方就不会再看到并联系你了。",
-              "title": "如何确保我不被奇怪的人骚扰？"
-            }
-          ],
-          "title": "安全性"
-        },
-        {
-          "subsection": [
-            {
-              "#text": "虽然我们喜欢代码开源。 不过，目前开源并不适合我们团队。 当然，在我们认为时机成熟时，会找机会开放代码的。",
-              "title": "Amikumu是开源的吗？"
-            },
-            {
-              "#text": "是的，你可以参与把Amikumu翻译为`你在这里所用的语言 <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_.",
-              "title": "我也可以翻译Amikumu吗？"
-            },
-            {
-              "#text": "Amikumu 在世界语里意为“与朋友度过愉快时光”。",
-              "title": "“Amikumu”是什么意思？"
-            },
-            {
-              "#text": "我们期待你的反馈，请加入 `我们的邮件组 <http://eepurl.com/c4qiRD>`_，或者关注我们的 `脸书 <https://www.facebook.com/amikumuapp/>`_，`Twitter <https://twitter.com/Amikumu>`_和 `VK主页 <https://vk.com/amikumu>`_获得新消息。\n获取更多信息，请联系`info@amikumu.com <mailto:info@amikumu.com>`_>",
-              "title": "我如何能参与进去呢？"
-            }
-          ],
-          "title": "社群"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "帮助/常见问题解答"
-    },
-    "post_title": "帮助/常见问题解答"
-  },
-  "page_for-organizations": {
-    "post_content": {
-      "ol": "#. 广告的名称\n \t#. 在广告中用的高画质图片\n \t#. 广告的叙述（300字内）\n \t#. 电子邮件地址\n \t#. 电话号码\n \t#. 网址\n \t#. 地址（如和广告有关）\n \t#. 对象地址（你的广告可以面向世界中的任何地方）。 举例来说，也许你住在新加坡，但是你想向温哥华投放广告。 那么你的对象地址就是温哥华。"
-    },
-    "post_meta": {
-      "additional_month": "每月的追加费用（需事先付款）",
-      "advertise_teaser": "基于地理位置投放广告，只有最近的100个人能看到。",
-      "advertise_text": "Amikumu是一个面向使用世界中任何语言（包括手语）的用户的交流和分享信息的社交网络。 我们主要的用户是说多种语言或者不常见的语言的人。",
-      "advertise_with_us": "在Amikumu上做广告",
-      "advertisement": "广告",
-      "average_number_of_languages_spoken": "平均所讲语言数",
-      "badge_contact_us_part1": "如需咨询详情，请发送电子邮件至",
-      "badge_contact_us_part2": "。",
-      "commercial": "商业公司",
-      "complete_analysis_part1": "如需要参考我们的完整的语言统计信息，请看我们的",
-      "complete_analysis_part2": "统计页面",
-      "cost": "费用",
-      "dau_daily_active_users": "DAU（每日活跃用户数）",
-      "how_to_purchase": "如何购买",
-      "in_app_collectible_badges": "应用内可收集的徽章",
-      "in_app_collectible_badges_text": "一个应用内的，可以收集的徽章。会显示在用户的资料上。 最适合在大型聚会，语言节或者演讲会的时候为参加者提供额外的一份奖励。",
-      "mau_montly_active_users": "MAU（每月活跃用户数）",
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "Amikumu——找到附近的语言伙伴。",
-      "non_profit": "非营利",
-      "number_of_countries_represented": "代表的国家数",
-      "number_of_languages_spoken": "用户使用的语言数",
-      "prices_assume": "以上价格假定您的广告仅针对一种语言。 对于每一个额外的语言，我们额外收每月4欧元的费用。 没有额外的开头费用。",
-      "purchase_email_text_part1": "如需咨询详情，请发送电子邮件至",
-      "purchase_email_text_part2": "并为每个语言的广告提供上述列表中的信息。",
-      "purchase_info": "所有广告的购买必须以英语或世界语进行。",
-      "setup_fee": "开头费用（包括第一个月的月费）",
-      "total_users": "用户总数",
-      "your_badge": "你的徽章！"
-    },
-    "post_title": "面向组织的说明"
-  },
-  "page_home-page": {
-    "post_meta": {
-      "add_title": "就近练习语言",
-      "claim": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
-      "language_name_in_own_script": "中文",
-      "massive_thanks": "感谢在 Kickstarter 上的429名支持者，是他们让 Amikumu 变成现实",
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "Amikumu——找到附近的语言伙伴。",
-      "official_sponsor": "官方赞助人",
-      "sponsors": "赞助人",
-      "testimonials_block_0_add_name": "Benny Lewis，3月内流利说",
-      "testimonials_block_0_add_sortcontent": "我从来都不知道明早将在哪个城市醒来，但我还想练习所有我掌握的语言。通过这个应用，只需轻轻一点，我就能找到跟我练习任何语言的人。",
-      "testimonials_block_1_add_name": "Judith Meyer，多语者聚会发起人",
-      "testimonials_block_1_add_sortcontent": "我相信 Amikumu 对语言学习社群来说是个非常有用的应用程序！",
-      "testimonials_block_2_add_name": "Ghil'ad Zuckermann 教授，哲学博士",
-      "testimonials_block_2_add_sortcontent": "Amikumu能够促进濒危语种人群或者死亡语言学习者之间的交流，比如Barngarla土著语言。",
-      "testimonials_block_3_add_name": "2017年 Langfest 创新奖（蒙特利尔）",
-      "testimonials_block_3_add_sortcontent": "我们被Amikumu所鼓舞，他们的雄心壮志是通过我们所说的，或渴望说的语言将人们连结！",
-      "testimonials_block_4_add_name": "威尔士政府的本周应用",
-      "testimonials_block_4_add_sortcontent": "Amikumu为语言学习增加了一个全新的维度，正在改变人们连结和练习语言的方式。\n——威尔士政府的本周应用>",
-      "tutorial_blocks_0_text": "为你使用的每种语言添加一个简介和名字！\n明确每种你所掌握的语言名称以及掌握程度。>",
-      "tutorial_blocks_0_title": "浏览简介并表达自己",
-      "tutorial_blocks_1_text": "选择一门语言。\n找到附近同样会讲该语言的人。>",
-      "tutorial_blocks_1_title": "随时、随地找到附近的语言学习伙伴",
-      "tutorial_blocks_2_text": "发信息给附近会讲同样语言的人。\n发送图片、语音和地图坐标。\n快速组织聚会，结交终生朋友。>",
-      "tutorial_blocks_2_title": "去聊一聊，聚一聚吧！"
-    },
-    "post_title": "主页"
-  },
-  "page_press": {
-    "post_content": {
-      "subsection": [
-        {
-          "#text": "2018-04-21: `A Language Back From the Future <http://sbcltr.in/2018/04/19/a-language-back-from-the-future/>`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/>`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere <https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near>`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto <https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto>`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages <http://fluentlanguage.co.uk/blog/podcast-episode-70>`_ (Fluent Language)\n\n2017-08-03: `Amikumu! <https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html>`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language <https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996>`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves <http://www.globaltimes.cn/content/1057976.shtml>`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick <https://jasonvermes.net/portfolio/story-esperanto-berwick>`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects <http://blogs.transparent.com/esperanto/kick-start-these-projects/>`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? <http://yozzi.com/successful-kickstarter-campaign/>`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu <http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/>`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language <https://www.youtube.com/watch?v=2mXoS1_fQ0w>`_ (Steve Kaufmann)",
-          "title": "English"
-        },
-        {
-          "#text": "2017-10-22: `What is Amikumu? <https://youtu.be/57W73If51NE>`_",
-          "title": "Auslan (Australian Sign Language)"
-        },
-        {
-          "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! <http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/>`_ (Espereto)",
-          "title": "български (Bulgarian)"
-        },
-        {
-          "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto <http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html>`_ (IB3)",
-          "title": "Català (Catalan)"
-        },
-        {
-          "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 <https://zhuanlan.zhihu.com/p/23152607?refer=esperanto>`_ (徐杰)",
-          "title": "普通话 (Chinese)"
-        },
-        {
-          "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан <http://chuvash.org/news/14909.html>`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан <https://vk.com/cvpelme?w=wall-48481616_513>`_",
-          "title": "Чӑваш (Chuvash)"
-        },
-        {
-          "#text": "2017-11-07: `App of the Week - Amikumu <http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en>`_ (Welsh Government)",
-          "title": "Cymraeg (Welsh)"
-        },
-        {
-          "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? <https://www.sprachheld.de/chuck-smith-interview-esperanto/>`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung <http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf>`_ (Svisa Espero)",
-          "title": "Deutsch (German)"
-        },
-        {
-          "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado <http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html>`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu <http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/>`_ (Polyglot Nerd)",
-          "title": "Español (Spanish)"
-        },
-        {
-          "#text": "2018-03-24: `Amikumu iĝas socia reto <http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/>`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/>`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu <http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/>`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon <https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/>`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj <http://www.liberafolio.org/2017/06/13/keefevidpunkto/>`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu <http://sezonoj.ru/2017/04/amikumu-4/>`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn <http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/>`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile <http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/>`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) <https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd>`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2017/03/amikumu-3/>`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu <http://sezonoj.ru/2016/11/amikumu-2/>`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu <http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu>`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA <http://www.espero.com.cn/2016-11/15/content_39708875.htm>`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min <https://www.youtube.com/watch?v=nML_kb98LAU>`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? <https://www.youtube.com/watch?v=21H560KdNj8>`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu <https://www.youtube.com/watch?v=v2v3Bb2XZao>`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter <https://www.youtube.com/watch?v=ZI6Pd34T0Qg>`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn <http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn>`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj <http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/>`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2016/10/amikumu/>`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj <https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/>`_ (Movada Vidpunkto)",
-          "title": "Esperanto"
-        },
-        {
-          "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu <http://www.toulangues.org/spip.php?article2176>`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous <http://esperanto-france.org/esperanto-aktiv-73-decouverte>`_ (Espéranto France)",
-          "title": "Français (French)"
-        },
-        {
-          "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)",
-          "title": "Gaeilge (Irish)"
-        },
-        {
-          "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu <http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/>`_ (Jurnalo)",
-          "title": "Ido"
-        },
-        {
-          "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici <https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera>`_ (Manageritalia)",
-          "title": "Italiano (Italian)"
-        },
-        {
-          "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 <http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf>`_ (エスペラントの今)",
-          "title": "日本語 (Japanese)"
-        },
-        {
-          "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! <http://esperanto.kr/?p=2541>`_ (에스페란티스토를 위한)",
-          "title": "한국어 (Korean)"
-        },
-        {
-          "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden <http://www.esperanto.be/fel/nl/horizontaal.pdf>`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog <https://www.youtube.com/watch?v=THf1D_xMDhU>`_ (Vincent Oostelbos)",
-          "title": "Nederlands (Dutch)"
-        },
-        {
-          "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan <https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan>`_",
-          "title": "Occitan"
-        },
-        {
-          "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua <https://www.youtube.com/watch?v=R5FSUMBRHWQ>`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu <http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/>`_ (Polyglot Nerd)",
-          "title": "Português (Portuguese)"
-        },
-        {
-          "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too <http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/>`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! <https://www.youtube.com/watch?v=6g3QtBtBB_U>`_ (Reb Yid)",
-          "title": "ייִדיש (Yiddish)"
-        },
-        {
-          "#text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
-          "title": "èdè Yorùbá (Yoruba)"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "欢迎来到 Amikumu 的消息页面。在这里你可以找到各种语言所写的关于 Amikumu 的文章。",
-      "metadata_title": "Amikumu的新闻！"
-    },
-    "post_title": "消息"
-  },
-  "page_privacy-terms": {
-    "post_content": {
-      "main": {
-        "section": [
-          {
-            "text": [
-              "**Personal information:** The type of information we collect may include:"
-            ],
-            "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you."
-          },
-          {
-            "text": "We collect and use the information for purposes including:"
-          },
-          {
-            "text": [
-              null,
-              "Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith."
-            ],
-            "title": "3. Disclosure of personal information to third parties"
-          },
-          {
-            "title": "4. our rights and controlling your personal information"
-          },
-          {
-            "title": "5. Storage and Security"
-          },
-          {
-            "title": "6. Cookies & Web Beacons"
-          },
-          {
-            "title": "7. Links to other websites"
-          },
-          {
-            "h1": "App Terms & Conditions",
-            "title": "8. Amendments"
-          },
-          {
-            "title": "1. Eligibility and Basis of Use"
-          },
-          {
-            "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com <https://www.amikumu.com/>`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**).",
-            "title": "2. Additional Terms and Conditions"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "The App has many features and allows you to:"
-              }
-            },
-            "title": "3. How the App Works"
-          },
-          {
-            "title": "4. Registration"
-          },
-          {
-            "title": "5. Copyright and Intellectual Property"
-          },
-          {
-            "title": "6. User Licence"
-          },
-          {
-            "title": "7. User Warranties"
-          },
-          {
-            "title": "8. Fees and Payment"
-          },
-          {
-            "title": "9. User Information and Security"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "In connection with Status Submissions, you warrant that:"
-              }
-            },
-            "title": "10. User Intellectual Property"
-          },
-          {
-            "ol": {
-              "#text": "#. harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);\n \t#. is unlawful, fraudulent or deceptive;\n \t#. uses technology or other means to access the App, Website or Content that is not authorized by us;\n \t#. uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;\n \t#. attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;\n \t#. attempts to gain unauthorised access to our computer network or user accounts;\n \t#. encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;\n \t#. violates these Terms;\n \t#. attempts to damage, disable, overburden, or impair our servers or networks;\n \t#. fails to comply with applicable third party Terms; or\n \t\n \t\n \t#. print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;\n \t#. breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;\n \t#. cause any of the App to be framed or embedded in another website;\n \t#. use the App for commercial purposes;\n \t#. collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;\n \t#. modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or\n \t#. facilitate or assist another person to do any of the above acts.",
-              "li": [
+    "page_about-us": {
+        "post_meta": {
+            "add_description": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
+            "add_title": "由一个多语者团队开发",
+            "city": "城市",
+            "languages": "语言",
+            "members": [
                 {
-                  "text": "You must not:"
+                    "city": "澳大利亚悉尼",
+                    "description": "Richard Delamore，以网名Evildea闻名，是一位澳大利亚Youtube世界语播主，是世界语影片制作的领军人物。 在共同创办Amikumu之前，Richard创立了世界语TV，并在澳大利亚世界语协会（AEA）、语言节协会（LFA）和新南威尔士世界语联合会（EFNSW）的董事会任职。 此外, 他作为信号操作员在澳大利亚军队服役六年, 并作为系统管理员在多个国际企业工作。",
+                    "job_title": "首席执行官",
+                    "languages": "英语、世界语、汉语普通话",
+                    "name": "Richard Delamore",
+                    "quote": "Amikumu is an essential part of every language learner’s toolkit."
                 },
                 {
-                  "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances."
+                    "city": "德国柏林（来自美国）",
+                    "description": "Chuck Smith是多语者聚会的共同组织者、多邻国世界语课程贡献者、世界语维基百科创始人，还参与了其他世界语和多语言的项目。 自从苹果应用商店在2008年推出以来，他一直在开发iOS应用程序。 2002年他在巴西旅行时，就有了用GPS设备寻找世界语使用者的想法，不过还要等15年后技术条件成熟了，这个梦想才会实现。 现在，他期待着未来的挑战，帮助各地的人们连接起来，让世界变得更美好。",
+                    "job_title": "Chief Technical Officer and Mobile Developer",
+                    "languages": "英语、世界语、德语、西班牙语、法语、荷兰语、波兰语、美国手语",
+                    "name": "Chuck Smith",
+                    "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!"
+                },
+                {
+                    "city": "Amsterdam, The Netherlands",
+                    "description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+                    "job_title": "Volunteer: Mobile Developer / Customer Support",
+                    "languages": "Dutch, English, Esperanto, baby-German",
+                    "name": "Tanja Orme",
+                    "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!"
+                },
+                {
+                    "city": "德国柏林",
+                    "description": "Judith Meyer是一位计算语言学家，大部分时间都在开发处理语言的Web应用程序，比如她的项目LearnYu。 她也是位多语者，是多语者聚会的共同组织者，还是不少语言书籍和语言课本的作者。 她在14岁时学习世界语，以此作为学习其他语言的跳板。",
+                    "job_title": "后端开发",
+                    "languages": "德语、英语、世界语、拉丁语、法语、意大利语、现代希腊语、汉语普通话、荷兰语、西班牙语、 印尼语、希伯来语、斯瓦西里语",
+                    "name": "Judith Meyer",
+                    "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me."
+                },
+                {
+                    "city": "美国费城",
+                    "description": "Jesse Alter是一位 Linux 系统管理员，拥有计算机科学和社会工作的学位。 多年来， Jesse在担任儿科社工的同时，还为多个网站和服务维护服务器。 后来他改变了职业，遵循他毕生的兴趣开发和维护计算机系统。 除了Amikumu之外，杰西的兴趣还包括古董计算机、信息隐私和数据分析。",
+                    "job_title": "系统管理员",
+                    "languages": "英语、世界语",
+                    "name": "Jesse Alter",
+                    "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 对我来说，简直是超能力了。"
+                },
+                {
+                    "city": "俄罗斯叶卡捷琳堡",
+                    "description": "Elena Khusanova是一位优秀的平面设计师，拥有建筑学理论的文凭。 毕业后，她学会了世界语，并且曾为很多组织和活动工作过。 值得一提的包括在斯洛伐克教育机构E@I以及第101届国际世界语大会的志愿服务。 最近她刚完成了自己的项目：狼人游戏卡牌。",
+                    "job_title": "平面设计师",
+                    "languages": "英语、俄语、世界语、斯洛伐克语、瑞典语、道本语",
+                    "name": "Elena Khusanova",
+                    "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline."
                 }
-              ]
-            },
-            "title": "11. Acceptable Use and Prohibited Use"
-          },
-          {
-            "title": "12. Consumer Guarantee"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "We take the safety of our Users very seriously. When interacting with another User, we recommend that you exercise your discretion and judgment, remain cautious and do not disclose your personal and/or financial information to them. If you are meeting a User in person, we recommend that you do the following, as a minimum:"
-              }
-            },
-            "title": "13. Disclaimers"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "As a condition of using the App, and in consideration of the App provided by us, we exclude and you agree to the fullest extent allowable under applicable law, in no event shall Amikumu and its parent or related bodies corporate (i) be liable to the User or any third party with respect to use of the App, including without limitation participation in online payment; and (ii) be liable to the User or any third party for any direct, indirect, special, incidental, punitive, consequential, or exemplary damages, including, without limitation, damages for loss of goodwill, lost profits, loss of earnings, loss of business opportunities, loss, theft or corruption of User Information, the inability to use the App or device failure or malfunction, however arising (including negligence) or otherwise arising in connection with:"
-              }
-            },
-            "title": "14. Limitation of Liability"
-          },
-          {
-            "title": "15. Indemnification"
-          },
-          {
-            "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
-            "title": "16. General"
-          }
-        ],
-        "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
-      }
+            ],
+            "metadata_desc": "Amikumu 团队由世界各地的多语者组成，他们为掌握语言投入了无数的时间。",
+            "metadata_title": "认识 Amikumu 团队",
+            "our_team": "我们的团队"
+        },
+        "post_title": "关于我们"
     },
-    "post_meta": {
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "Amikumu 隐私和条款"
+    "page_ambassador": {
+        "post_content": {
+            "#text": "首先，感谢你对大使计划的兴趣。",
+            "section": [
+                {
+                    "#text": "大使在本地社区宣传Amikumu。他们是当地的代表，我们最大的粉丝和最坚定的支持者。",
+                    "title": "什么是大使？"
+                },
+                {
+                    "#text": "这取决于他们能做什么。下面列举了大使同我们合作在世界各地推广 Amikumu 的一些方式。",
+                    "title": "大使做什么？",
+                    "ul": "#. 他们可以发布博客和视频！ 举几个例子，像`Amikumu：意第绪语使用者期待已久的应用！ <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) 和 `澳大利亚手语：什么是 Amikumu？ <https://youtu.be/57W73If51NE>`_ (Kiah Morante) 等类似的文章。 这里还有一整页的 `消息区 <http://amikumu.com/press/>`_。\n \t#. 他们在脸书小组和自己的主页上分享链接。即使一个简单的支持，也可以走得很远！\n \t#. 他们派发传单，并在当地的语言聚会上讨论Amikumu。这也是建立和发展当地社群的好方法。\n \t#. 他们一起把这个应用和网站`翻译成各自的语言 <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_ 。 我们的目标是成为世界上被翻译为最多语言的应用，达到这一点需要所有人的支持。\n \t#. 人们给我们提供了非常重要的指导。我们明白，每种语言和文化都是不同的。我们希望你们能提供建议，如何才能更好地在你的社区开展活动。"
+                },
+                {
+                    "#text": "其实，对你做出的宝贵贡献，我们能回报的不多。 不过，作为一位大使，还是有几点好处的。 我们会为大使提供独特的应用内收藏徽章。 向我们获取更多信息，欢迎随时联系 `info@amikumu.com <mailto:info@amikumu.com>`_.",
+                    "title": "作为大使能得到什么？"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "大使在本地社区宣传Amikumu。他们是当地的代表，我们最大的粉丝和最坚定的支持者。",
+            "metadata_title": "加入 Amikumu 大使计划!"
+        },
+        "post_title": "大使"
     },
-    "post_title": "隐私和条款"
-  },
-  "page_shop": {
-    "post_content": "No translation needed.",
-    "post_meta": {
-      "metadata_desc": "访问 Amikumu 在线商店，获得我们的 t恤衫，在你的社区提高 Amikumu 的存在感。",
-      "metadata_title": "Amikumu 在线商店"
+    "page_faq": {
+        "post_content": {
+            "section": [
+                {
+                    "subsection": {
+                        "#text": "Amikumu 是一个应用程序，能帮助您在附近找到说任何语言的人。\n比如，正在度假的你，就可以使用 Amikumu 在城里找人聊聊西班牙语、法语或任何其他语言啦。",
+                        "title": "什么是Amikumu？"
+                    },
+                    "title": "常见问题"
+                },
+                {
+                    "subsection": [
+                        {
+                            "ol": "#. 手动或直接用Facebook关联创建一个账户。\n \t#. 选择你会说的语言和相应级别。我们的数据库支持超过7000门语言（包括100门以上的手语）。\n \t#. 在你所用的每种语言下设置一个名字和简介。\n \t#. 筛选附近的人，找到同样使用你目标语言的100个人。\n \t#. 联系他们，并且见上一面吧！",
+                            "title": "它是怎么用的？"
+                        },
+                        {
+                            "#text": "是的",
+                            "title": "免费吗？"
+                        },
+                        {
+                            "#text": "Amikumu 可用于 Android (OS 4.0.3) 和 iOS 9.1 (iPhone 4S, iPad 2 +)。",
+                            "title": "Amikumu支持哪些平台？"
+                        }
+                    ],
+                    "title": "特点"
+                },
+                {
+                    "subsection": [
+                        {
+                            "#text": "你的隐私和安全对我们非常重要，因此Amikumu不会存储或显示确切位置。",
+                            "title": "其他人可以看到我的确切位置吗？"
+                        },
+                        {
+                            "#text": "这个还做不到，但Amikumu有拉黑功能，当你拉黑某用户后，对方就不会再看到并联系你了。",
+                            "title": "如何确保我不被奇怪的人骚扰？"
+                        }
+                    ],
+                    "title": "安全性"
+                },
+                {
+                    "subsection": [
+                        {
+                            "#text": "虽然我们喜欢代码开源。 不过，目前开源并不适合我们团队。 当然，在我们认为时机成熟时，会找机会开放代码的。",
+                            "title": "Amikumu是开源的吗？"
+                        },
+                        {
+                            "#text": "是的，你可以参与把Amikumu翻译为`你在这里所用的语言 <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_.",
+                            "title": "我也可以翻译Amikumu吗？"
+                        },
+                        {
+                            "#text": "Amikumu 在世界语里意为“与朋友度过愉快时光”。",
+                            "title": "“Amikumu”是什么意思？"
+                        },
+                        {
+                            "#text": "我们期待你的反馈，请加入 `我们的邮件组 <http://eepurl.com/c4qiRD>`_，或者关注我们的 `脸书 <https://www.facebook.com/amikumuapp/>`_，`Twitter <https://twitter.com/Amikumu>`_和 `VK主页 <https://vk.com/amikumu>`_获得新消息。\n获取更多信息，请联系`info@amikumu.com <mailto:info@amikumu.com>`_>",
+                            "title": "我如何能参与进去呢？"
+                        }
+                    ],
+                    "title": "社群"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "帮助/常见问题解答"
+        },
+        "post_title": "帮助/常见问题解答"
     },
-    "post_title": "商店"
-  },
-  "page_statistics": {
-    "post_content": "No translation needed.",
-    "post_meta": {
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "Amikumu 统计"
+    "page_for-organizations": {
+        "post_content": {
+            "ol": "#. 广告的名称\n \t#. 在广告中用的高画质图片\n \t#. 广告的叙述（300字内）\n \t#. 电子邮件地址\n \t#. 电话号码\n \t#. 网址\n \t#. 地址（如和广告有关）\n \t#. 对象地址（你的广告可以面向世界中的任何地方）。 举例来说，也许你住在新加坡，但是你想向温哥华投放广告。 那么你的对象地址就是温哥华。"
+        },
+        "post_meta": {
+            "additional_month": "每月的追加费用（需事先付款）",
+            "advertise_teaser": "基于地理位置投放广告，只有最近的100个人能看到。",
+            "advertise_text": "Amikumu是一个面向使用世界中任何语言（包括手语）的用户的交流和分享信息的社交网络。 我们主要的用户是说多种语言或者不常见的语言的人。",
+            "advertise_with_us": "在Amikumu上做广告",
+            "advertisement": "广告",
+            "average_number_of_languages_spoken": "平均所讲语言数",
+            "badge_contact_us_part1": "如需咨询详情，请发送电子邮件至",
+            "badge_contact_us_part2": "。",
+            "commercial": "商业公司",
+            "complete_analysis_part1": "如需要参考我们的完整的语言统计信息，请看我们的",
+            "complete_analysis_part2": "统计页面",
+            "cost": "费用",
+            "dau_daily_active_users": "DAU（每日活跃用户数）",
+            "how_to_purchase": "如何购买",
+            "in_app_collectible_badges": "应用内可收集的徽章",
+            "in_app_collectible_badges_text": "一个应用内的，可以收集的徽章。会显示在用户的资料上。 最适合在大型聚会，语言节或者演讲会的时候为参加者提供额外的一份奖励。",
+            "mau_montly_active_users": "MAU（每月活跃用户数）",
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "Amikumu——找到附近的语言伙伴。",
+            "non_profit": "非营利",
+            "number_of_countries_represented": "代表的国家数",
+            "number_of_languages_spoken": "用户使用的语言数",
+            "prices_assume": "以上价格假定您的广告仅针对一种语言。 对于每一个额外的语言，我们额外收每月4欧元的费用。 没有额外的开头费用。",
+            "purchase_email_text_part1": "如需咨询详情，请发送电子邮件至",
+            "purchase_email_text_part2": "并为每个语言的广告提供上述列表中的信息。",
+            "purchase_info": "所有广告的购买必须以英语或世界语进行。",
+            "setup_fee": "开头费用（包括第一个月的月费）",
+            "total_users": "用户总数",
+            "your_badge": "你的徽章！"
+        },
+        "post_title": "面向组织的说明"
     },
-    "post_title": "统计"
-  },
-  "page_support-us": {
-    "post_content": {
-      "#text": "感谢您对支持 Amikumu 的兴趣。\n这里有8种简单的方法来实现你的支持，帮助我们的社群成长。",
-      "subsection": [
-        {
-          "#text": "每个月我们都会发布一份内部视角的通讯，有关我们的最新进展和计划。 我们也接受来自社群成员的贡献，比如您。 这是我们直接和您对话的方式。 `在这里注册 <http://eepurl.com/c4qiRD>`_.",
-          "title": "1. 订阅我们的新闻通讯"
+    "page_home-page": {
+        "post_meta": {
+            "add_title": "就近练习语言",
+            "claim": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
+            "language_name_in_own_script": "中文",
+            "massive_thanks": "感谢在 Kickstarter 上的429名支持者，是他们让 Amikumu 变成现实",
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "Amikumu——找到附近的语言伙伴。",
+            "official_sponsor": "官方赞助人",
+            "sponsors": "赞助人",
+            "testimonials_block_0_add_name": "Benny Lewis，3月内流利说",
+            "testimonials_block_0_add_sortcontent": "我从来都不知道明早将在哪个城市醒来，但我还想练习所有我掌握的语言。通过这个应用，只需轻轻一点，我就能找到跟我练习任何语言的人。",
+            "testimonials_block_1_add_name": "Judith Meyer，多语者聚会发起人",
+            "testimonials_block_1_add_sortcontent": "我相信 Amikumu 对语言学习社群来说是个非常有用的应用程序！",
+            "testimonials_block_2_add_name": "Ghil'ad Zuckermann 教授，哲学博士",
+            "testimonials_block_2_add_sortcontent": "Amikumu能够促进濒危语种人群或者死亡语言学习者之间的交流，比如Barngarla土著语言。",
+            "testimonials_block_3_add_name": "2017年 Langfest 创新奖（蒙特利尔）",
+            "testimonials_block_3_add_sortcontent": "我们被Amikumu所鼓舞，他们的雄心壮志是通过我们所说的，或渴望说的语言将人们连结！",
+            "testimonials_block_4_add_name": "威尔士政府的本周应用",
+            "testimonials_block_4_add_sortcontent": "Amikumu为语言学习增加了一个全新的维度，正在改变人们连结和练习语言的方式。\n——威尔士政府的本周应用>",
+            "tutorial_blocks_0_text": "为你使用的每种语言添加一个简介和名字！\n明确每种你所掌握的语言名称以及掌握程度。>",
+            "tutorial_blocks_0_title": "浏览简介并表达自己",
+            "tutorial_blocks_1_text": "选择一门语言。\n找到附近同样会讲该语言的人。>",
+            "tutorial_blocks_1_title": "随时、随地找到附近的语言学习伙伴",
+            "tutorial_blocks_2_text": "发信息给附近会讲同样语言的人。\n发送图片、语音和地图坐标。\n快速组织聚会，结交终生朋友。>",
+            "tutorial_blocks_2_title": "去聊一聊，聚一聚吧！"
         },
-        {
-          "#text": "在最受欢迎的社交网站上都有我们的存在。",
-          "title": "2. 在社交媒体上关注我们",
-          "ul": "#. `脸书 <https://www.facebook.com/amikumuapp/>`_\n \t#. `推特（英语） <https://twitter.com/Amikumu>`_\n \t#. `推特（世界语） <https://twitter.com/Amikumu_eo>`_\n \t#. `VK <https://vk.com/amikumu>`_\n \t#. `Telegram <https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g>`_\n \t#. Wechat"
-        },
-        {
-          "#text": "通过社交网络或邮件向你的朋友们推荐我们的应用吧！\n越多人知道Amikumu，它对我们所有人就越有用。分享链接到我们的官网 `www.amikumu.com <https://www.amikumu.com>`_写出你为什么喜欢它。",
-          "title": "3. 推荐我们给你的朋友"
-        },
-        {
-          "#text": "我们的目标是成为世界上被翻译成最多语种的应用！这不太容易，所以我们需要你的帮助！\n如果你想完善现有的翻译或开始一个新语言，请注册到 `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_ （我们的首选翻译平台）并选择你要翻译的语言。没有最低限度，你可以翻译整个应用程序或仅仅是几个词。",
-          "title": "4. 帮忙翻译应用和网站！"
-        },
-        {
-          "#text": "黄金会员可以使用更多功能，比如虚拟传送和额外的隐私设置。 而且，这也是展示您的支持并资助我们的办法！ 您可以在应用内购买黄金会员（即将到来）。",
-          "title": "5. 购买黄金会员!"
-        },
-        {
-          "#text": "一件T恤可以简单又有效地提高Amikumu影响力，请戳 `网上商店 <https://www.amikumu.com/shop/#!/>`_.",
-          "title": "6. 购买T恤或马克杯！"
-        },
-        {
-          "#text": "`我们已经准备好了传单 <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ ，您可以在您的学校和当地的语言俱乐部里分发。它们也被翻译成多种语言供您使用。 如果您需要定制传单，请与我们联系 `info@amikumu.com <mailto:info@amikumu.com>`_",
-          "title": "7. 打印并分发我们的传单"
-        },
-        {
-          "#text": "最后还有件重要的事儿，通过Amikumu和人聚会并分享你的故事！我们喜欢在我们的社群里分享成功聚会的故事。有故事和照片就发到这里吧 `info@amikumu.com. <mailto:info@amikumu.com>`_\n\n最后，非常感谢您提供的任何帮助。\n如果您有任何想法或建议，请随时与我们联系`info@amikumu.com <mailto:info@amikumu.com>`_.>",
-          "title": "8. 组织聚会！"
-        }
-      ]
+        "post_title": "主页"
     },
-    "post_meta": {
-      "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
-      "metadata_title": "支持Amikumu就在今天！"
+    "page_press": {
+        "post_content": {
+            "subsection": [
+                {
+                    "#text": "2018-04-21: `A Language Back From the Future <http://sbcltr.in/2018/04/19/a-language-back-from-the-future/>`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/>`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere <https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near>`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto <https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto>`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages <http://fluentlanguage.co.uk/blog/podcast-episode-70>`_ (Fluent Language)\n\n2017-08-03: `Amikumu! <https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html>`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language <https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996>`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves <http://www.globaltimes.cn/content/1057976.shtml>`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick <https://jasonvermes.net/portfolio/story-esperanto-berwick>`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects <http://blogs.transparent.com/esperanto/kick-start-these-projects/>`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? <http://yozzi.com/successful-kickstarter-campaign/>`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu <http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/>`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language <https://www.youtube.com/watch?v=2mXoS1_fQ0w>`_ (Steve Kaufmann)",
+                    "title": "English"
+                },
+                {
+                    "#text": "2017-10-22: `What is Amikumu? <https://youtu.be/57W73If51NE>`_",
+                    "title": "Auslan (Australian Sign Language)"
+                },
+                {
+                    "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! <http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/>`_ (Espereto)",
+                    "title": "български (Bulgarian)"
+                },
+                {
+                    "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto <http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html>`_ (IB3)",
+                    "title": "Català (Catalan)"
+                },
+                {
+                    "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 <https://zhuanlan.zhihu.com/p/23152607?refer=esperanto>`_ (徐杰)",
+                    "title": "普通话 (Chinese)"
+                },
+                {
+                    "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан <http://chuvash.org/news/14909.html>`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан <https://vk.com/cvpelme?w=wall-48481616_513>`_",
+                    "title": "Чӑваш (Chuvash)"
+                },
+                {
+                    "#text": "2017-11-07: `App of the Week - Amikumu <http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en>`_ (Welsh Government)",
+                    "title": "Cymraeg (Welsh)"
+                },
+                {
+                    "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? <https://www.sprachheld.de/chuck-smith-interview-esperanto/>`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung <http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf>`_ (Svisa Espero)",
+                    "title": "Deutsch (German)"
+                },
+                {
+                    "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado <http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html>`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu <http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/>`_ (Polyglot Nerd)",
+                    "title": "Español (Spanish)"
+                },
+                {
+                    "#text": "2018-03-24: `Amikumu iĝas socia reto <http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/>`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/>`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu <http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/>`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon <https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/>`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj <http://www.liberafolio.org/2017/06/13/keefevidpunkto/>`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu <http://sezonoj.ru/2017/04/amikumu-4/>`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn <http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/>`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile <http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/>`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) <https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd>`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2017/03/amikumu-3/>`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu <http://sezonoj.ru/2016/11/amikumu-2/>`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu <http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu>`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA <http://www.espero.com.cn/2016-11/15/content_39708875.htm>`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min <https://www.youtube.com/watch?v=nML_kb98LAU>`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? <https://www.youtube.com/watch?v=21H560KdNj8>`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu <https://www.youtube.com/watch?v=v2v3Bb2XZao>`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter <https://www.youtube.com/watch?v=ZI6Pd34T0Qg>`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn <http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn>`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj <http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/>`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2016/10/amikumu/>`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj <https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/>`_ (Movada Vidpunkto)",
+                    "title": "Esperanto"
+                },
+                {
+                    "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu <http://www.toulangues.org/spip.php?article2176>`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous <http://esperanto-france.org/esperanto-aktiv-73-decouverte>`_ (Espéranto France)",
+                    "title": "Français (French)"
+                },
+                {
+                    "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)",
+                    "title": "Gaeilge (Irish)"
+                },
+                {
+                    "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu <http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/>`_ (Jurnalo)",
+                    "title": "Ido"
+                },
+                {
+                    "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici <https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera>`_ (Manageritalia)",
+                    "title": "Italiano (Italian)"
+                },
+                {
+                    "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 <http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf>`_ (エスペラントの今)",
+                    "title": "日本語 (Japanese)"
+                },
+                {
+                    "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! <http://esperanto.kr/?p=2541>`_ (에스페란티스토를 위한)",
+                    "title": "한국어 (Korean)"
+                },
+                {
+                    "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden <http://www.esperanto.be/fel/nl/horizontaal.pdf>`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog <https://www.youtube.com/watch?v=THf1D_xMDhU>`_ (Vincent Oostelbos)",
+                    "title": "Nederlands (Dutch)"
+                },
+                {
+                    "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan <https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan>`_",
+                    "title": "Occitan"
+                },
+                {
+                    "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua <https://www.youtube.com/watch?v=R5FSUMBRHWQ>`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu <http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/>`_ (Polyglot Nerd)",
+                    "title": "Português (Portuguese)"
+                },
+                {
+                    "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too <http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/>`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! <https://www.youtube.com/watch?v=6g3QtBtBB_U>`_ (Reb Yid)",
+                    "title": "ייִדיש (Yiddish)"
+                },
+                {
+                    "#text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+                    "title": "èdè Yorùbá (Yoruba)"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "欢迎来到 Amikumu 的消息页面。在这里你可以找到各种语言所写的关于 Amikumu 的文章。",
+            "metadata_title": "Amikumu的新闻！"
+        },
+        "post_title": "消息"
     },
-    "post_title": "支持我们"
-  }
+    "page_privacy-terms": {
+        "post_content": {
+            "main": {
+                "section": [
+                    {
+                        "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you."
+                    },
+                    {},
+                    {
+                        "text": [
+                            null
+                        ],
+                        "title": "3. Disclosure of personal information to third parties"
+                    },
+                    {},
+                    {
+                        "title": "5. Storage and Security"
+                    },
+                    {},
+                    {
+                        "title": "7. Links to other websites"
+                    },
+                    {
+                        "title": "8. Amendments"
+                    },
+                    {},
+                    {
+                        "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com <https://www.amikumu.com/>`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**)."
+                    },
+                    {
+                        "ol": {
+                            "li": {
+                                "#text": "The App has many features and allows you to:"
+                            }
+                        }
+                    },
+                    {
+                        "title": "4. Registration"
+                    },
+                    {},
+                    {
+                        "title": "6. User Licence"
+                    },
+                    {},
+                    {
+                        "title": "8. Fees and Payment"
+                    },
+                    {},
+                    {
+                        "ol": {
+                            "li": {
+                                "#text": "In connection with Status Submissions, you warrant that:"
+                            }
+                        }
+                    },
+                    {
+                        "ol": {
+                            "#text": "#. harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);\n \t#. is unlawful, fraudulent or deceptive;\n \t#. uses technology or other means to access the App, Website or Content that is not authorized by us;\n \t#. uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;\n \t#. attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;\n \t#. attempts to gain unauthorised access to our computer network or user accounts;\n \t#. encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;\n \t#. violates these Terms;\n \t#. attempts to damage, disable, overburden, or impair our servers or networks;\n \t#. fails to comply with applicable third party Terms; or\n \t\n \t\n \t#. print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;\n \t#. breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;\n \t#. cause any of the App to be framed or embedded in another website;\n \t#. use the App for commercial purposes;\n \t#. collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;\n \t#. modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or\n \t#. facilitate or assist another person to do any of the above acts.",
+                            "li": [
+                                {},
+                                {
+                                    "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "12. Consumer Guarantee"
+                    },
+                    {
+                        "title": "13. Disclaimers"
+                    },
+                    {
+                        "title": "14. Limitation of Liability"
+                    },
+                    {},
+                    {
+                        "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+                    }
+                ],
+                "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
+            }
+        },
+        "post_meta": {
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "Amikumu 隐私和条款"
+        },
+        "post_title": "隐私和条款"
+    },
+    "page_shop": {
+        "post_content": "No translation needed.",
+        "post_meta": {
+            "metadata_desc": "访问 Amikumu 在线商店，获得我们的 t恤衫，在你的社区提高 Amikumu 的存在感。",
+            "metadata_title": "Amikumu 在线商店"
+        },
+        "post_title": "商店"
+    },
+    "page_statistics": {
+        "post_content": "No translation needed.",
+        "post_meta": {
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "Amikumu 统计"
+        },
+        "post_title": "统计"
+    },
+    "page_support-us": {
+        "post_content": {
+            "#text": "感谢您对支持 Amikumu 的兴趣。\n这里有8种简单的方法来实现你的支持，帮助我们的社群成长。",
+            "subsection": [
+                {
+                    "#text": "每个月我们都会发布一份内部视角的通讯，有关我们的最新进展和计划。 我们也接受来自社群成员的贡献，比如您。 这是我们直接和您对话的方式。 `在这里注册 <http://eepurl.com/c4qiRD>`_.",
+                    "title": "1. 订阅我们的新闻通讯"
+                },
+                {
+                    "#text": "在最受欢迎的社交网站上都有我们的存在。",
+                    "title": "2. 在社交媒体上关注我们",
+                    "ul": "#. `脸书 <https://www.facebook.com/amikumuapp/>`_\n \t#. `推特（英语） <https://twitter.com/Amikumu>`_\n \t#. `推特（世界语） <https://twitter.com/Amikumu_eo>`_\n \t#. `VK <https://vk.com/amikumu>`_\n \t#. `Telegram <https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g>`_\n \t#. Wechat"
+                },
+                {
+                    "#text": "通过社交网络或邮件向你的朋友们推荐我们的应用吧！\n越多人知道Amikumu，它对我们所有人就越有用。分享链接到我们的官网 `www.amikumu.com <https://www.amikumu.com>`_写出你为什么喜欢它。",
+                    "title": "3. 推荐我们给你的朋友"
+                },
+                {
+                    "#text": "我们的目标是成为世界上被翻译成最多语种的应用！这不太容易，所以我们需要你的帮助！\n如果你想完善现有的翻译或开始一个新语言，请注册到 `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/zh-CN>`_ （我们的首选翻译平台）并选择你要翻译的语言。没有最低限度，你可以翻译整个应用程序或仅仅是几个词。",
+                    "title": "4. 帮忙翻译应用和网站！"
+                },
+                {
+                    "#text": "黄金会员可以使用更多功能，比如虚拟传送和额外的隐私设置。 而且，这也是展示您的支持并资助我们的办法！ 您可以在应用内购买黄金会员（即将到来）。",
+                    "title": "5. 购买黄金会员!"
+                },
+                {
+                    "#text": "一件T恤可以简单又有效地提高Amikumu影响力，请戳 `网上商店 <https://www.amikumu.com/shop/#!/>`_.",
+                    "title": "6. 购买T恤或马克杯！"
+                },
+                {
+                    "#text": "`我们已经准备好了传单 <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ ，您可以在您的学校和当地的语言俱乐部里分发。它们也被翻译成多种语言供您使用。 如果您需要定制传单，请与我们联系 `info@amikumu.com <mailto:info@amikumu.com>`_",
+                    "title": "7. 打印并分发我们的传单"
+                },
+                {
+                    "#text": "最后还有件重要的事儿，通过Amikumu和人聚会并分享你的故事！我们喜欢在我们的社群里分享成功聚会的故事。有故事和照片就发到这里吧 `info@amikumu.com. <mailto:info@amikumu.com>`_\n\n最后，非常感谢您提供的任何帮助。\n如果您有任何想法或建议，请随时与我们联系`info@amikumu.com <mailto:info@amikumu.com>`_.>",
+                    "title": "8. 组织聚会！"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！",
+            "metadata_title": "支持Amikumu就在今天！"
+        },
+        "post_title": "支持我们"
+    }
 }

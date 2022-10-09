@@ -1,507 +1,469 @@
 {
-  "page_about-us": {
-    "post_meta": {
-      "add_description": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
-      "add_title": "Vonena gan soli dem yonavusik",
-      "city": "Widava",
-      "languages": "Ava",
-      "members": [
-        {
-          "city": "Sydney, Australia",
-          "description": "Richard Delamore ayik, dan zo yoltar Evildea koe Internet, tir australiaf mamewavaxusik dene Youtube ise tir korobik koe esperantoavafa raba va elpat. Vomi zabdura va Amikumu, Richard va esperantoavafi sumewisiki reduyur ise dere tiyir olkoy ke okilikeem ke Australia patectafo boxo mu Esperanto (AEA) is olkoy ke Boxo ke Avafa Kapava (LFA) is olkoy ke Esperantoavafa Galda ke New South Wales (EFNSW). Ison, wetce olyakaf sopusik, va australiafa ervolia remi tevda zanivayar ise kobayar mu jontika walvedeyafa zolosta wetce vusikof ristusik.",
-          "job_title": "Jadif Gadesik",
-          "languages": "Englava is Esperanto is Jongguava",
-          "name": "Richard Delamore",
-          "quote": "Amikumu is an essential part of every language learner’s toolkit."
-        },
-        {
-          "city": "Berlin, Germana (bas Amerikatanarasokeem)",
-          "description": "Chuck Smith tir dogrustasik va Polyglot Gathering is webesik va Esperanto avaf prujneks dene Duolingo is zabdusik va Vikipedio (Esperanto avafa Wikipedia), vanmiae ara jontika erava icde ava. In va yon talpeyot tori iOS mali tulaviawera ke App Store ke Apple bak 2008 al voner. Rieteyer icde rukomasiko ta trasira va pokef esperantoavusik bal intafa koyara koo Brasila bak 2002 voxe gokeyer remi 15-da ta da ckaneopa umon di towar ta da va bat klokeks di tugeltrar. Re in tir gadiaf ta budura va pomara va kotlizuf ayik ta da va sint uzerad ise batinde va tamava lasutulokiewar.",
-          "job_title": "Chief Technical Officer and Mobile Developer",
-          "languages": "Englava is Esperanto is Germanava is Espanava is Francava is Nederlandava is Polskava is amerikatanarasokeemafa zatcava",
-          "name": "Chuck Smith",
-          "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!"
-        },
-        {
-          "city": "Amsterdam, The Netherlands",
-          "description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
-          "job_title": "Volunteer: Mobile Developer / Customer Support",
-          "languages": "Dutch, English, Esperanto, baby-German",
-          "name": "Tanja Orme",
-          "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!"
-        },
-        {
-          "city": "Berlin, Germana",
-          "description": "Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.",
-          "job_title": "Talpeyasik va okilavusiko",
-          "languages": "Germanava is Englava is Esperanto is Latinus is Francava is Italiava is bomafa Ellasava is Jongguava is Nederlandava is Espanava is Indonesiava is Yisraelava is Swaxiliava",
-          "name": "Judith Meyer",
-          "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me."
-        },
-        {
-          "city": "Philadelphia, Amerikatanarasokeem",
-          "description": "Jesse Alter tir ristusik va Linux bolk is dobkiraf gu givavuropa isu eyafa kobara. Remi yona tanda, Jesse va okilavusiko ristuyur tori jontiko Internet gortafo xo isu zaniga ugale va eyafa swavopikeba tori rumeik exavayar. Va klepa kaikion betaveyer ta suzdara va intafa dulapena kubla icde vegedura isu ristura va vusikof bolk. Vaxe Amikumu, inaf dulap, va savsafa givavuropa is va nendara va orig is va origdrunara ruldad.",
-          "job_title": "Ristusik va bolk",
-          "languages": "Englava is Esperanto",
-          "name": "Jesse Alter",
-          "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Sedme jin, batcoba zultafi roti. »"
-        },
-        {
-          "city": "Ekaterinburg, Rossia",
-          "description": "Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.",
-          "job_title": "Varnokasik",
-          "languages": "Englava is Rossiava is Esperanto is Slovenskava is Sverigava is Toki Pona",
-          "name": "Elena Husanova",
-          "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline."
-        }
-      ],
-      "metadata_desc": "Soli ke Amikumu tir dem yonavusik bas kota tamava dan va dat bartiv ta felilera va ava ziliyad.",
-      "metadata_title": "Va soli ke Amikumu rungrupel vay ‼",
-      "our_team": "Cinafi Soli"
-    },
-    "post_title": "Icde cin"
-  },
-  "page_ambassador": {
-    "post_content": {
-      "#text": "Taneon, va jontik greway icde rinafa dulapera va permaf talpey.",
-      "section": [
-        {
-          "#text": "Nelkon, permik tir tel pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lanlizef kaatoesik, i cinaf lozolonaf mafelasik isu kireptaf bristusik !",
-          "title": "Tokcoba permik tir ?"
-        },
-        {
-          "#text": "Batcoba va coba sinon rotaskina benaykar. Va yon ask gan permik ta dokobara ta abduaskira va Amikumu ko tamava al vexalav.",
-          "title": "Va tokcoba permik askir ?",
-          "ul": "#. Finta icde ilkafi bli is Youtube debakaf elpat zo sanegad ! Tulon, vay disukel va `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ik `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante), vanmiae arcoba ‼ Va kotrafu bu tarizanu gu `press releasese <http://amikumu.com/press/>`_.\n \t#. Sin va givavuropagluyaxa fintad ko Facebook debakafa lospa is koe intafa liota. Dace mana pinafa sanegafa bristura en ropomar !\n \t#. Va truk walzilid ise va Amikumu pulvid bal lizukafa avafa kabelcara. Dere batcoba gu exonera is laumasira va lizukafa doda en pomar.\n \t#. Va Internet gortafo xo is `va talpeyot remsuted <https://traduk.amikumu.com/engage/amikumu/avk>`_ kal intafa lizukafa ava. Va vanpira va tanoy lojontikon remsuten talpeyot ke tamava mukotav ise va winafa pomara olegav ta kiewaskira va batcoba.\n \t#. Gu cin va zolonapafa stara tiskad. Jiligav da kota ava isu araya tid amidafa. Jugemev ise olegav da va cin pirdac gu ronkura koe winafa doda."
-        },
-        {
-          "#text": "Va abiccoba pu rin rotiskav grewason icde rinafa zolonapafa pomara. Neken, yon gunt krulded nope tira permik. Pu permik va yon tanaf talpeyoton rodotan prosil tiskav, vanmiae ara coba. Vay va golera pu cin me vurdel ta seotara va loa giva vey `info@amikumu.com <mailto:info@amikumu.com>`_.",
-          "title": "Va tokcoba permik seotad ?"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "Permik ke Amikumu tir tel va cin pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lizukaf kaatoesik, i cinaf logijaf mafelasik isu kireptaf bristusik !",
-      "metadata_title": "Va permaf talpey ke Amikumu pakel djay ‼"
-    },
-    "post_title": "Permik"
-  },
-  "page_faq": {
-    "post_content": {
-      "section": [
-        {
-          "subsection": {
-            "#text": "Amikumu tir talpeyot pomas va rin icde trasira is icde golera pu pokef avafamik.\nTulon, viele tilderugalon koyat, pune va Amikumu rofavet ta kevlanira va francavusik ik espanavusik ik pokef usik va beta ava.",
-            "title": "Tokcoba Amikumu tir ?"
-          },
-          "title": "Jadion"
-        },
-        {
-          "subsection": [
-            {
-              "ol": "#. Redura va pata elupkon ok kan Facebook.\n \t#. Narara va ava rinon felilena is vas toka vwa. Lo 7000 ava krulded (don lo 100 zatcava) koe minaf origeem.\n \t#. Sutelara va pilkaf yolt isu tanizva tori kota ava rinon felilena.\n \t#. Espara va pokeikafa vexala ta trasira va tel 100 lopokef ayik us va rinafa mukotana ava.\n \t#. Golera pu arik ise kevlanira va sin !",
-              "title": "Tokinde flir ?"
-            },
-            {
-              "#text": "Gue.",
-              "title": "Kas batcoba dodiskafa ?"
-            },
-            {
-              "#text": "Amikumu flir kan Android (OS 4.0.3) isu iOS 9.1 (iPhone 4S, iPad 2+).",
-              "title": "Kan tok bolk Amikumu zo rofaver ?"
-            }
-          ],
-          "title": "Flieem"
-        },
-        {
-          "subsection": [
-            {
-              "#text": "Rinafe yasege isu muse tid tolke zolonafe sedme cin, numen Amikumu va elimaf liz me nedir.",
-              "title": "Kas arik kotviele rowid lize elimon tigí ?"
-            },
-            {
-              "#text": "Va batcoba me koton rotarutel. Neke, ede zo funel, pune drikon rotelekal vey liota ke funesik. Viele va kontel elekal, bam in va rin mea di rowir meie pu rin di rogoler.",
-              "title": "Tokinde rotulanawé da abigik va jin me staksad ?"
-            }
-          ],
-          "title": "Musuca"
-        },
-        {
-          "subsection": [
-            {
-              "#text": "Dene Amikumu, Open Source teza zo albar. Goxe, Open Source teza, va minaf viley me katir. Neken, kotviele va rofenkura va beksa aneyav viele berde.",
-              "title": "Kas Amikumu tir ton Open Source teza ?"
-            },
-            {
-              "#text": "En, ropomal da va Amikumu remsutet kal `rinafa ava batlize. <https://traduk.amikumu.com/engage/amikumu/avk>`_.",
-              "title": "Kas va Amikumu roremsuté ?"
-            },
-            {
-              "#text": "Amikumu sosugdalar : « nucul djay » koe Esperanto.",
-              "title": "Va tokcoba Amikumu sugdalar ?"
-            },
-            {
-              "#text": "Va rinafa koaykaxa tudrumbav numen vay yotel va  `cinafa vexala dem givavuropamane ‼ <http://eepurl.com/c4qiRD>`_ Oke vay va cin suzdal koe  `Facebook  <https://www.facebook.com/amikumuapp/>`_ik `Twitter <https://twitter.com/Amikumu>`_ik `VK bu <https://vk.com/amikumu>`_ ta da zo gival ‼\n\nTori loa giva, vay pu cin golel vey `info@amikumu.com <mailto:info@amikumu.com>`_>",
-              "title": "Tokinde ropomá ?"
-            }
-          ],
-          "title": "Doda"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
-      "metadata_title": "Pomara / Bibeeem"
-    },
-    "post_title": "Pomara / Bibeeem"
-  },
-  "page_for-organizations": {
-    "post_content": {
-      "ol": "#. Yolt ke plataera\n \t#. Duganyafa ewava mu plataera\n \t#. Pimtara mu plataera (iclo 300 staa)\n \t#. Givavuropamane\n \t#. Sumepulvisikiotuk\n \t#. Debak\n \t#. Piutemane (zolonafa anton tori plataeks digis va ine)\n \t#. Plataerafe mane (rinafa plataera rotulaviawer betlize koe tamava). Tulon, ede rinafa bifa co dilizer koe New York, pune va korik bas London co roguivel. Acum, London co tir plataerafe mane"
-    },
-    "post_meta": {
-      "additional_month": "mu kot isaf aksat (gonabdidodena)",
-      "advertise_teaser": "Plataera al zo galter koe aptaf liz rowin gan anton tel 100 lopokef korik.",
-      "advertise_text": "Amikumu tir eyaf gort dafus va golesiko pu usik va beta ava tamavafa ise va aptolafa giva lizukon rodafur. Cinaf favesik nelkon tid yonavusik is usik va yona riafa ava.",
-      "advertise_with_us": "Kan Amikumu platael vay ‼",
-      "advertisement": "Plataera",
-      "average_number_of_languages_spoken": "Mialukafa ota ke una ava",
-      "badge_contact_us_part1": "Vay va cin staksal kan",
-      "badge_contact_us_part2": "ta da va loa giva.",
-      "commercial": "Kazafa",
-      "complete_analysis_part1": "Ta kotafa drunara va cinafa avafa enkopa, vay wil va",
-      "complete_analysis_part2": "bu dem enkopa ‼",
-      "cost": "Droka",
-      "dau_daily_active_users": "VTF (Vielef Tegiraf Favesik)",
-      "how_to_purchase": "Inde rolustel",
-      "in_app_collectible_badges": "Erbilok rodatan koe talpeyot",
-      "in_app_collectible_badges_text": "Ewava rodotana koe talpeyot tulaviawesa ko liotafu bu ke favesik. Batcoba kotunafa ta abduaskira va gijafa kakevera is va avafa kapava is ta dafura va isafa gablexa pu bifapakesik.",
-      "mau_montly_active_users": "KTF- (Kotaksataf Tegiraf Favesik)",
-      "metadata_desc": "Vay trasil ise pu lizukaf milavusik vere golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
-      "metadata_title": "Amikumu - Trasira va pokef avusik",
-      "non_profit": "Meimpavanta",
-      "number_of_countries_represented": "Ota dem kaatoena patecta",
-      "number_of_languages_spoken": "Ota dem una ava",
-      "prices_assume": "Moefo dro zo bazer gu nelkot da rinafa plataera, anton va 1 ava jalar. Pu kota isafa ava, loplekuon gododel vas 4 € fuxe aksat. Isaf doraf oyak me tigir.",
-      "purchase_email_text_part1": "Vay va cin staksal vey",
-      "purchase_email_text_part2": "do moefa pinta tori kota avafa plataera.",
-      "purchase_info": "Kota lustera va kazafa plataera zo goskur kan Englava ok Esperanto ava.",
-      "setup_fee": "oyak ta inkera (don taneaf aksat)",
-      "total_users": "Kotaf favesikeem",
-      "your_badge": "Rinafa ewava !"
-    },
-    "post_title": "Mu viley"
-  },
-  "page_home-page": {
-    "post_meta": {
-      "add_title": "Va ava ul pokeon vay ‼",
-      "claim": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
-      "language_name_in_own_script": "Kotava",
-      "massive_thanks": "Va gijapaf greway pu kot 429 bristusik ke Kickstarter is nostayas va cinaf enid is tugeltrayas va Amikumu",
-      "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
-      "metadata_title": "Amikumu - Trasira va pokef avusik",
-      "official_sponsor": "Winugaf fukorlasik",
-      "sponsors": "Fukorlasik",
-      "testimonials_block_0_add_name": "Benny Lewis, Rustonaf bad 3 aksat",
-      "testimonials_block_0_add_sortcontent": "Meviele grupé koe toka widava direvielon divmodeté voxe va int gu kota jinafa ava djufunté. Kan bat talpeyot, va jin rofunté koe beta ava jinon djumuna vey vulera!",
-      "testimonials_block_1_add_name": "Judith Meyer, zabdusik va Polyglot Gathering",
-      "testimonials_block_1_add_sortcontent": "Trakú da Amikumu talpeyot tir tolke favlapaf tori doda dem avaravesik !",
-      "testimonials_block_2_add_name": "Ghil'ad Zuckermann esik, D.Phil.",
-      "testimonials_block_2_add_sortcontent": "Talpeyot va golera wal usik va keuninafa ava is va kenibesa listaca bro Barngarla anlizukafa ava rodetukiewar.",
-      "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
-      "testimonials_block_3_add_sortcontent": "Zo rietesipit gan Amikumu is gan inafa bitonuca ta remgluyara va tamava kan ava minon djumuna !",
-      "testimonials_block_4_add_name": "Saftatalpeyot ke bowere va Kimrua",
-      "testimonials_block_4_add_sortcontent": "Amikumu va koton warzaf tust loplekur gu avaravera ise va paskalerinda is va funterinda gu ava betar.",
-      "tutorial_blocks_0_text": "Va tanizva is yolt tori kota ava rinon felilena loplekul djay ‼\n\nVa ava rinon felilena is va intafa vwa tori sina bazel vay ‼>",
-      "tutorial_blocks_0_title": "Vay va yona pata vestal ise muxal vay ‼",
-      "tutorial_blocks_1_text": "Va ava naral vay ‼\n\nVa avalbasik pokeon trasil vay ‼>",
-      "tutorial_blocks_1_title": "Va milavusik pokeon trasil kotviele, kotlize",
-      "tutorial_blocks_2_text": "Va pokef arik djumus va rinafa ava staksal vay ‼\n\nVa ewava is mamkoverteks is tawavopafa maneka staksel vay ‼\n\nVay kalion va kevlanira grustal ise va kotablif nik trasil vay ‼>",
-      "tutorial_blocks_2_title": "Prilal ise kevlanil djay ‼"
-    },
-    "post_title": "Emudexo"
-  },
-  "page_press": {
-    "post_content": {
-      "subsection": [
-        {
-          "#text": "2018-04-21: `A Language Back From the Future <http://sbcltr.in/2018/04/19/a-language-back-from-the-future/>`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/>`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere <https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near>`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto <https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto>`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages <http://fluentlanguage.co.uk/blog/podcast-episode-70>`_ (Fluent Language)\n\n2017-08-03: `Amikumu! <https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html>`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language <https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996>`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves <http://www.globaltimes.cn/content/1057976.shtml>`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick <https://jasonvermes.net/portfolio/story-esperanto-berwick>`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects <http://blogs.transparent.com/esperanto/kick-start-these-projects/>`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? <http://yozzi.com/successful-kickstarter-campaign/>`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu <http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/>`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language <https://www.youtube.com/watch?v=2mXoS1_fQ0w>`_ (Steve Kaufmann)",
-          "title": "English"
-        },
-        {
-          "#text": "2017-10-22: `What is Amikumu? <https://youtu.be/57W73If51NE>`_",
-          "title": "Auslan (Australian Sign Language)"
-        },
-        {
-          "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! <http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/>`_ (Espereto)",
-          "title": "български (Bulgarian)"
-        },
-        {
-          "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto <http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html>`_ (IB3)",
-          "title": "Català (Catalan)"
-        },
-        {
-          "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 <https://zhuanlan.zhihu.com/p/23152607?refer=esperanto>`_ (徐杰)",
-          "title": "普通话 (Chinese)"
-        },
-        {
-          "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан <http://chuvash.org/news/14909.html>`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан <https://vk.com/cvpelme?w=wall-48481616_513>`_",
-          "title": "Чӑваш (Chuvash)"
-        },
-        {
-          "#text": "2017-11-07: `App of the Week - Amikumu <http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en>`_ (Welsh Government)",
-          "title": "Cymraeg (Welsh)"
-        },
-        {
-          "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? <https://www.sprachheld.de/chuck-smith-interview-esperanto/>`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung <http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf>`_ (Svisa Espero)",
-          "title": "Deutsch (German)"
-        },
-        {
-          "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado <http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html>`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu <http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/>`_ (Polyglot Nerd)",
-          "title": "Español (Spanish)"
-        },
-        {
-          "#text": "2018-03-24: `Amikumu iĝas socia reto <http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/>`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/>`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu <http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/>`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon <https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/>`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj <http://www.liberafolio.org/2017/06/13/keefevidpunkto/>`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu <http://sezonoj.ru/2017/04/amikumu-4/>`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn <http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/>`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile <http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/>`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) <https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd>`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2017/03/amikumu-3/>`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu <http://sezonoj.ru/2016/11/amikumu-2/>`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu <http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu>`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA <http://www.espero.com.cn/2016-11/15/content_39708875.htm>`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min <https://www.youtube.com/watch?v=nML_kb98LAU>`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? <https://www.youtube.com/watch?v=21H560KdNj8>`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu <https://www.youtube.com/watch?v=v2v3Bb2XZao>`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter <https://www.youtube.com/watch?v=ZI6Pd34T0Qg>`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn <http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn>`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj <http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/>`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2016/10/amikumu/>`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj <https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/>`_ (Movada Vidpunkto)",
-          "title": "Esperanto"
-        },
-        {
-          "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu <http://www.toulangues.org/spip.php?article2176>`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous <http://esperanto-france.org/esperanto-aktiv-73-decouverte>`_ (Espéranto France)",
-          "title": "Français (French)"
-        },
-        {
-          "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)",
-          "title": "Gaeilge (Irish)"
-        },
-        {
-          "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu <http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/>`_ (Jurnalo)",
-          "title": "Ido"
-        },
-        {
-          "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici <https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera>`_ (Manageritalia)",
-          "title": "Italiano (Italian)"
-        },
-        {
-          "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 <http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf>`_ (エスペラントの今)",
-          "title": "日本語 (Japanese)"
-        },
-        {
-          "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! <http://esperanto.kr/?p=2541>`_ (에스페란티스토를 위한)",
-          "title": "한국어 (Korean)"
-        },
-        {
-          "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden <http://www.esperanto.be/fel/nl/horizontaal.pdf>`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog <https://www.youtube.com/watch?v=THf1D_xMDhU>`_ (Vincent Oostelbos)",
-          "title": "Nederlands (Dutch)"
-        },
-        {
-          "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan <https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan>`_",
-          "title": "Occitan"
-        },
-        {
-          "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua <https://www.youtube.com/watch?v=R5FSUMBRHWQ>`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu <http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/>`_ (Polyglot Nerd)",
-          "title": "Português (Portuguese)"
-        },
-        {
-          "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too <http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/>`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! <https://www.youtube.com/watch?v=6g3QtBtBB_U>`_ (Reb Yid)",
-          "title": "ייִדיש (Yiddish)"
-        },
-        {
-          "#text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
-          "title": "èdè Yorùbá (Yoruba)"
-        }
-      ]
-    },
-    "post_meta": {
-      "metadata_desc": "Til drumbaf ko lidayeem ke Amikumu. Batlize va jontika givavuropagluyaxa va teliz icde Amikumu koe gedrafa ava rotrasil.",
-      "metadata_title": "Amikumu koe lidayeem !"
-    },
-    "post_title": "Lidayeem"
-  },
-  "page_privacy-terms": {
-    "post_content": {
-      "main": {
-        "section": [
-          {
-            "text": [
-              "**Personal information:** The type of information we collect may include:"
-            ],
-            "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you."
-          },
-          {
-            "text": "We collect and use the information for purposes including:"
-          },
-          {
-            "text": [
-              null,
-              "Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith."
-            ],
-            "title": "3. Disclosure of personal information to third parties"
-          },
-          {
-            "title": "4. our rights and controlling your personal information"
-          },
-          {
-            "title": "5. Storage and Security"
-          },
-          {
-            "title": "6. Cookies & Web Beacons"
-          },
-          {
-            "title": "7. Links to other websites"
-          },
-          {
-            "h1": "App Terms & Conditions",
-            "title": "8. Amendments"
-          },
-          {
-            "title": "1. Eligibility and Basis of Use"
-          },
-          {
-            "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com <https://www.amikumu.com/>`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**).",
-            "title": "2. Additional Terms and Conditions"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "The App has many features and allows you to:"
-              }
-            },
-            "title": "3. How the App Works"
-          },
-          {
-            "title": "4. Registration"
-          },
-          {
-            "title": "5. Copyright and Intellectual Property"
-          },
-          {
-            "title": "6. User Licence"
-          },
-          {
-            "title": "7. User Warranties"
-          },
-          {
-            "title": "8. Fees and Payment"
-          },
-          {
-            "title": "9. User Information and Security"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "In connection with Status Submissions, you warrant that:"
-              }
-            },
-            "title": "10. User Intellectual Property"
-          },
-          {
-            "ol": {
-              "#text": "#. harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);\n \t#. is unlawful, fraudulent or deceptive;\n \t#. uses technology or other means to access the App, Website or Content that is not authorized by us;\n \t#. uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;\n \t#. attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;\n \t#. attempts to gain unauthorised access to our computer network or user accounts;\n \t#. encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;\n \t#. violates these Terms;\n \t#. attempts to damage, disable, overburden, or impair our servers or networks;\n \t#. fails to comply with applicable third party Terms; or\n \t\n \t\n \t#. print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;\n \t#. breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;\n \t#. cause any of the App to be framed or embedded in another website;\n \t#. use the App for commercial purposes;\n \t#. collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;\n \t#. modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or\n \t#. facilitate or assist another person to do any of the above acts.",
-              "li": [
+    "page_about-us": {
+        "post_meta": {
+            "add_description": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
+            "add_title": "Vonena gan soli dem yonavusik",
+            "city": "Widava",
+            "languages": "Ava",
+            "members": [
                 {
-                  "text": "You must not:"
+                    "city": "Sydney, Australia",
+                    "description": "Richard Delamore ayik, dan zo yoltar Evildea koe Internet, tir australiaf mamewavaxusik dene Youtube ise tir korobik koe esperantoavafa raba va elpat. Vomi zabdura va Amikumu, Richard va esperantoavafi sumewisiki reduyur ise dere tiyir olkoy ke okilikeem ke Australia patectafo boxo mu Esperanto (AEA) is olkoy ke Boxo ke Avafa Kapava (LFA) is olkoy ke Esperantoavafa Galda ke New South Wales (EFNSW). Ison, wetce olyakaf sopusik, va australiafa ervolia remi tevda zanivayar ise kobayar mu jontika walvedeyafa zolosta wetce vusikof ristusik.",
+                    "job_title": "Jadif Gadesik",
+                    "languages": "Englava is Esperanto is Jongguava",
+                    "name": "Richard Delamore",
+                    "quote": "Amikumu is an essential part of every language learner’s toolkit."
                 },
                 {
-                  "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances."
+                    "city": "Berlin, Germana (bas Amerikatanarasokeem)",
+                    "description": "Chuck Smith tir dogrustasik va Polyglot Gathering is webesik va Esperanto avaf prujneks dene Duolingo is zabdusik va Vikipedio (Esperanto avafa Wikipedia), vanmiae ara jontika erava icde ava. In va yon talpeyot tori iOS mali tulaviawera ke App Store ke Apple bak 2008 al voner. Rieteyer icde rukomasiko ta trasira va pokef esperantoavusik bal intafa koyara koo Brasila bak 2002 voxe gokeyer remi 15-da ta da ckaneopa umon di towar ta da va bat klokeks di tugeltrar. Re in tir gadiaf ta budura va pomara va kotlizuf ayik ta da va sint uzerad ise batinde va tamava lasutulokiewar.",
+                    "job_title": "Chief Technical Officer and Mobile Developer",
+                    "languages": "Englava is Esperanto is Germanava is Espanava is Francava is Nederlandava is Polskava is amerikatanarasokeemafa zatcava",
+                    "name": "Chuck Smith",
+                    "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!"
+                },
+                {
+                    "city": "Amsterdam, The Netherlands",
+                    "description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+                    "job_title": "Volunteer: Mobile Developer / Customer Support",
+                    "languages": "Dutch, English, Esperanto, baby-German",
+                    "name": "Tanja Orme",
+                    "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!"
+                },
+                {
+                    "city": "Berlin, Germana",
+                    "description": "Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.",
+                    "job_title": "Talpeyasik va okilavusiko",
+                    "languages": "Germanava is Englava is Esperanto is Latinus is Francava is Italiava is bomafa Ellasava is Jongguava is Nederlandava is Espanava is Indonesiava is Yisraelava is Swaxiliava",
+                    "name": "Judith Meyer",
+                    "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me."
+                },
+                {
+                    "city": "Philadelphia, Amerikatanarasokeem",
+                    "description": "Jesse Alter tir ristusik va Linux bolk is dobkiraf gu givavuropa isu eyafa kobara. Remi yona tanda, Jesse va okilavusiko ristuyur tori jontiko Internet gortafo xo isu zaniga ugale va eyafa swavopikeba tori rumeik exavayar. Va klepa kaikion betaveyer ta suzdara va intafa dulapena kubla icde vegedura isu ristura va vusikof bolk. Vaxe Amikumu, inaf dulap, va savsafa givavuropa is va nendara va orig is va origdrunara ruldad.",
+                    "job_title": "Ristusik va bolk",
+                    "languages": "Englava is Esperanto",
+                    "name": "Jesse Alter",
+                    "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Sedme jin, batcoba zultafi roti. »"
+                },
+                {
+                    "city": "Ekaterinburg, Rossia",
+                    "description": "Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.",
+                    "job_title": "Varnokasik",
+                    "languages": "Englava is Rossiava is Esperanto is Slovenskava is Sverigava is Toki Pona",
+                    "name": "Elena Husanova",
+                    "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline."
                 }
-              ]
-            },
-            "title": "11. Acceptable Use and Prohibited Use"
-          },
-          {
-            "title": "12. Consumer Guarantee"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "We take the safety of our Users very seriously. When interacting with another User, we recommend that you exercise your discretion and judgment, remain cautious and do not disclose your personal and/or financial information to them. If you are meeting a User in person, we recommend that you do the following, as a minimum:"
-              }
-            },
-            "title": "13. Disclaimers"
-          },
-          {
-            "ol": {
-              "li": {
-                "#text": "As a condition of using the App, and in consideration of the App provided by us, we exclude and you agree to the fullest extent allowable under applicable law, in no event shall Amikumu and its parent or related bodies corporate (i) be liable to the User or any third party with respect to use of the App, including without limitation participation in online payment; and (ii) be liable to the User or any third party for any direct, indirect, special, incidental, punitive, consequential, or exemplary damages, including, without limitation, damages for loss of goodwill, lost profits, loss of earnings, loss of business opportunities, loss, theft or corruption of User Information, the inability to use the App or device failure or malfunction, however arising (including negligence) or otherwise arising in connection with:"
-              }
-            },
-            "title": "14. Limitation of Liability"
-          },
-          {
-            "title": "15. Indemnification"
-          },
-          {
-            "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
-            "title": "16. General"
-          }
-        ],
-        "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
-      }
+            ],
+            "metadata_desc": "Soli ke Amikumu tir dem yonavusik bas kota tamava dan va dat bartiv ta felilera va ava ziliyad.",
+            "metadata_title": "Va soli ke Amikumu rungrupel vay ‼",
+            "our_team": "Cinafi Soli"
+        },
+        "post_title": "Icde cin"
     },
-    "post_meta": {
-      "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
-      "metadata_title": "Yasegucafa gaderopa is kreda ke favera ke Amikumu"
+    "page_ambassador": {
+        "post_content": {
+            "#text": "Taneon, va jontik greway icde rinafa dulapera va permaf talpey.",
+            "section": [
+                {
+                    "#text": "Nelkon, permik tir tel pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lanlizef kaatoesik, i cinaf lozolonaf mafelasik isu kireptaf bristusik !",
+                    "title": "Tokcoba permik tir ?"
+                },
+                {
+                    "#text": "Batcoba va coba sinon rotaskina benaykar. Va yon ask gan permik ta dokobara ta abduaskira va Amikumu ko tamava al vexalav.",
+                    "title": "Va tokcoba permik askir ?",
+                    "ul": "#. Finta icde ilkafi bli is Youtube debakaf elpat zo sanegad ! Tulon, vay disukel va `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ik `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante), vanmiae arcoba ‼ Va kotrafu bu tarizanu gu `press releasese <http://amikumu.com/press/>`_.\n \t#. Sin va givavuropagluyaxa fintad ko Facebook debakafa lospa is koe intafa liota. Dace mana pinafa sanegafa bristura en ropomar !\n \t#. Va truk walzilid ise va Amikumu pulvid bal lizukafa avafa kabelcara. Dere batcoba gu exonera is laumasira va lizukafa doda en pomar.\n \t#. Va Internet gortafo xo is `va talpeyot remsuted <https://traduk.amikumu.com/engage/amikumu/avk>`_ kal intafa lizukafa ava. Va vanpira va tanoy lojontikon remsuten talpeyot ke tamava mukotav ise va winafa pomara olegav ta kiewaskira va batcoba.\n \t#. Gu cin va zolonapafa stara tiskad. Jiligav da kota ava isu araya tid amidafa. Jugemev ise olegav da va cin pirdac gu ronkura koe winafa doda."
+                },
+                {
+                    "#text": "Va abiccoba pu rin rotiskav grewason icde rinafa zolonapafa pomara. Neken, yon gunt krulded nope tira permik. Pu permik va yon tanaf talpeyoton rodotan prosil tiskav, vanmiae ara coba. Vay va golera pu cin me vurdel ta seotara va loa giva vey `info@amikumu.com <mailto:info@amikumu.com>`_.",
+                    "title": "Va tokcoba permik seotad ?"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "Permik ke Amikumu tir tel va cin pomas gu abduaskira va Amikumu ko intafa doda. Sin tid cinaf lizukaf kaatoesik, i cinaf logijaf mafelasik isu kireptaf bristusik !",
+            "metadata_title": "Va permaf talpey ke Amikumu pakel djay ‼"
+        },
+        "post_title": "Permik"
     },
-    "post_title": "Yasegucafa gaderopa is kreda ke favera"
-  },
-  "page_shop": {
-    "post_content": "No translation needed.",
-    "post_meta": {
-      "metadata_desc": "Vay va Internet gortafa dolta ke Amikumu woral aze va tanoya ribiegafa banyusta lustel ta pomara va abduaskira va Amikumu koe rinafa lizukafa doda.",
-      "metadata_title": "Internet gortafa dolta ke Amikumu"
+    "page_faq": {
+        "post_content": {
+            "section": [
+                {
+                    "subsection": {
+                        "#text": "Amikumu tir talpeyot pomas va rin icde trasira is icde golera pu pokef avafamik.\nTulon, viele tilderugalon koyat, pune va Amikumu rofavet ta kevlanira va francavusik ik espanavusik ik pokef usik va beta ava.",
+                        "title": "Tokcoba Amikumu tir ?"
+                    },
+                    "title": "Jadion"
+                },
+                {
+                    "subsection": [
+                        {
+                            "ol": "#. Redura va pata elupkon ok kan Facebook.\n \t#. Narara va ava rinon felilena is vas toka vwa. Lo 7000 ava krulded (don lo 100 zatcava) koe minaf origeem.\n \t#. Sutelara va pilkaf yolt isu tanizva tori kota ava rinon felilena.\n \t#. Espara va pokeikafa vexala ta trasira va tel 100 lopokef ayik us va rinafa mukotana ava.\n \t#. Golera pu arik ise kevlanira va sin !",
+                            "title": "Tokinde flir ?"
+                        },
+                        {
+                            "#text": "Gue.",
+                            "title": "Kas batcoba dodiskafa ?"
+                        },
+                        {
+                            "#text": "Amikumu flir kan Android (OS 4.0.3) isu iOS 9.1 (iPhone 4S, iPad 2+).",
+                            "title": "Kan tok bolk Amikumu zo rofaver ?"
+                        }
+                    ],
+                    "title": "Flieem"
+                },
+                {
+                    "subsection": [
+                        {
+                            "#text": "Rinafe yasege isu muse tid tolke zolonafe sedme cin, numen Amikumu va elimaf liz me nedir.",
+                            "title": "Kas arik kotviele rowid lize elimon tigí ?"
+                        },
+                        {
+                            "#text": "Va batcoba me koton rotarutel. Neke, ede zo funel, pune drikon rotelekal vey liota ke funesik. Viele va kontel elekal, bam in va rin mea di rowir meie pu rin di rogoler.",
+                            "title": "Tokinde rotulanawé da abigik va jin me staksad ?"
+                        }
+                    ],
+                    "title": "Musuca"
+                },
+                {
+                    "subsection": [
+                        {
+                            "#text": "Dene Amikumu, Open Source teza zo albar. Goxe, Open Source teza, va minaf viley me katir. Neken, kotviele va rofenkura va beksa aneyav viele berde.",
+                            "title": "Kas Amikumu tir ton Open Source teza ?"
+                        },
+                        {
+                            "#text": "En, ropomal da va Amikumu remsutet kal `rinafa ava batlize. <https://traduk.amikumu.com/engage/amikumu/avk>`_.",
+                            "title": "Kas va Amikumu roremsuté ?"
+                        },
+                        {
+                            "#text": "Amikumu sosugdalar : « nucul djay » koe Esperanto.",
+                            "title": "Va tokcoba Amikumu sugdalar ?"
+                        },
+                        {
+                            "#text": "Va rinafa koaykaxa tudrumbav numen vay yotel va  `cinafa vexala dem givavuropamane ‼ <http://eepurl.com/c4qiRD>`_ Oke vay va cin suzdal koe  `Facebook  <https://www.facebook.com/amikumuapp/>`_ik `Twitter <https://twitter.com/Amikumu>`_ik `VK bu <https://vk.com/amikumu>`_ ta da zo gival ‼\n\nTori loa giva, vay pu cin golel vey `info@amikumu.com <mailto:info@amikumu.com>`_>",
+                            "title": "Tokinde ropomá ?"
+                        }
+                    ],
+                    "title": "Doda"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
+            "metadata_title": "Pomara / Bibeeem"
+        },
+        "post_title": "Pomara / Bibeeem"
     },
-    "post_title": "Dolta"
-  },
-  "page_statistics": {
-    "post_content": "No translation needed.",
-    "post_meta": {
-      "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
-      "metadata_title": "Enkopa ke Amikumu"
+    "page_for-organizations": {
+        "post_content": {
+            "ol": "#. Yolt ke plataera\n \t#. Duganyafa ewava mu plataera\n \t#. Pimtara mu plataera (iclo 300 staa)\n \t#. Givavuropamane\n \t#. Sumepulvisikiotuk\n \t#. Debak\n \t#. Piutemane (zolonafa anton tori plataeks digis va ine)\n \t#. Plataerafe mane (rinafa plataera rotulaviawer betlize koe tamava). Tulon, ede rinafa bifa co dilizer koe New York, pune va korik bas London co roguivel. Acum, London co tir plataerafe mane"
+        },
+        "post_meta": {
+            "additional_month": "mu kot isaf aksat (gonabdidodena)",
+            "advertise_teaser": "Plataera al zo galter koe aptaf liz rowin gan anton tel 100 lopokef korik.",
+            "advertise_text": "Amikumu tir eyaf gort dafus va golesiko pu usik va beta ava tamavafa ise va aptolafa giva lizukon rodafur. Cinaf favesik nelkon tid yonavusik is usik va yona riafa ava.",
+            "advertise_with_us": "Kan Amikumu platael vay ‼",
+            "advertisement": "Plataera",
+            "average_number_of_languages_spoken": "Mialukafa ota ke una ava",
+            "badge_contact_us_part1": "Vay va cin staksal kan",
+            "badge_contact_us_part2": "ta da va loa giva.",
+            "commercial": "Kazafa",
+            "complete_analysis_part1": "Ta kotafa drunara va cinafa avafa enkopa, vay wil va",
+            "complete_analysis_part2": "bu dem enkopa ‼",
+            "cost": "Droka",
+            "dau_daily_active_users": "VTF (Vielef Tegiraf Favesik)",
+            "how_to_purchase": "Inde rolustel",
+            "in_app_collectible_badges": "Erbilok rodatan koe talpeyot",
+            "in_app_collectible_badges_text": "Ewava rodotana koe talpeyot tulaviawesa ko liotafu bu ke favesik. Batcoba kotunafa ta abduaskira va gijafa kakevera is va avafa kapava is ta dafura va isafa gablexa pu bifapakesik.",
+            "mau_montly_active_users": "KTF- (Kotaksataf Tegiraf Favesik)",
+            "metadata_desc": "Vay trasil ise pu lizukaf milavusik vere golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
+            "metadata_title": "Amikumu - Trasira va pokef avusik",
+            "non_profit": "Meimpavanta",
+            "number_of_countries_represented": "Ota dem kaatoena patecta",
+            "number_of_languages_spoken": "Ota dem una ava",
+            "prices_assume": "Moefo dro zo bazer gu nelkot da rinafa plataera, anton va 1 ava jalar. Pu kota isafa ava, loplekuon gododel vas 4 € fuxe aksat. Isaf doraf oyak me tigir.",
+            "purchase_email_text_part1": "Vay va cin staksal vey",
+            "purchase_email_text_part2": "do moefa pinta tori kota avafa plataera.",
+            "purchase_info": "Kota lustera va kazafa plataera zo goskur kan Englava ok Esperanto ava.",
+            "setup_fee": "oyak ta inkera (don taneaf aksat)",
+            "total_users": "Kotaf favesikeem",
+            "your_badge": "Rinafa ewava !"
+        },
+        "post_title": "Mu viley"
     },
-    "post_title": "Enkopa"
-  },
-  "page_support-us": {
-    "post_content": {
-      "#text": "Grewav icde djubristura va Amikumu.\n\nBatse 8 drikaf ask ta nedira va bristura is ta pomara va laumara ke minafa doda.",
-      "subsection": [
-        {
-          "#text": "Va liday dem vildeks va erupa is dem cinaf azed is dem cinafa kiewatca kotaksaton sanegav. Dere va webera gan olkoy ke minafa doda, tulon gan rin, nalev. Batcoba tir cinaf ask ta rontifa prilara va rin. `Batlize yotel vay ‼ <http://eepurl.com/c4qiRD>`_.",
-          "title": "1. Gu cinaf liday duulel vay ‼"
+    "page_home-page": {
+        "post_meta": {
+            "add_title": "Va ava ul pokeon vay ‼",
+            "claim": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
+            "language_name_in_own_script": "Kotava",
+            "massive_thanks": "Va gijapaf greway pu kot 429 bristusik ke Kickstarter is nostayas va cinaf enid is tugeltrayas va Amikumu",
+            "metadata_desc": "Vay trasil ise davon golel pu pokef avalbasik vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODERISKAFA !",
+            "metadata_title": "Amikumu - Trasira va pokef avusik",
+            "official_sponsor": "Winugaf fukorlasik",
+            "sponsors": "Fukorlasik",
+            "testimonials_block_0_add_name": "Benny Lewis, Rustonaf bad 3 aksat",
+            "testimonials_block_0_add_sortcontent": "Meviele grupé koe toka widava direvielon divmodeté voxe va int gu kota jinafa ava djufunté. Kan bat talpeyot, va jin rofunté koe beta ava jinon djumuna vey vulera!",
+            "testimonials_block_1_add_name": "Judith Meyer, zabdusik va Polyglot Gathering",
+            "testimonials_block_1_add_sortcontent": "Trakú da Amikumu talpeyot tir tolke favlapaf tori doda dem avaravesik !",
+            "testimonials_block_2_add_name": "Ghil'ad Zuckermann esik, D.Phil.",
+            "testimonials_block_2_add_sortcontent": "Talpeyot va golera wal usik va keuninafa ava is va kenibesa listaca bro Barngarla anlizukafa ava rodetukiewar.",
+            "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
+            "testimonials_block_3_add_sortcontent": "Zo rietesipit gan Amikumu is gan inafa bitonuca ta remgluyara va tamava kan ava minon djumuna !",
+            "testimonials_block_4_add_name": "Saftatalpeyot ke bowere va Kimrua",
+            "testimonials_block_4_add_sortcontent": "Amikumu va koton warzaf tust loplekur gu avaravera ise va paskalerinda is va funterinda gu ava betar.",
+            "tutorial_blocks_0_text": "Va tanizva is yolt tori kota ava rinon felilena loplekul djay ‼\n\nVa ava rinon felilena is va intafa vwa tori sina bazel vay ‼>",
+            "tutorial_blocks_0_title": "Vay va yona pata vestal ise muxal vay ‼",
+            "tutorial_blocks_1_text": "Va ava naral vay ‼\n\nVa avalbasik pokeon trasil vay ‼>",
+            "tutorial_blocks_1_title": "Va milavusik pokeon trasil kotviele, kotlize",
+            "tutorial_blocks_2_text": "Va pokef arik djumus va rinafa ava staksal vay ‼\n\nVa ewava is mamkoverteks is tawavopafa maneka staksel vay ‼\n\nVay kalion va kevlanira grustal ise va kotablif nik trasil vay ‼>",
+            "tutorial_blocks_2_title": "Prilal ise kevlanil djay ‼"
         },
-        {
-          "#text": "Va bu koe telyon lovartaf eyaf debak digiv.",
-          "title": "2. Koe eyaf gort, va cin suzdal djay ‼",
-          "ul": "#. `Facebook <https://www.facebook.com/amikumuapp/>`_\n \t#. `Twitter (englavon) <https://twitter.com/Amikumu>`_\n \t#. `Twitter (kan Esperanto ava) <https://twitter.com/Amikumu_eo>`_\n \t#. `VK <https://vk.com/amikumu>`_\n \t#. `Telegram <https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g>`_\n \t#. Wechat"
-        },
-        {
-          "#text": "Va tel talpeyot pu rinaf nik walzilil kan eyafo golesiko ik kan Internet gortafe piute djay ‼\n\nEde loloon ayik va Amikumu jiligad, pune Amikumu lolofavlafu tori kottan. Va givavuropagluyaxa va winugaf debak walzilil vay ‼ `www.amikumu.com <https://www.amikumu.com>`_Vay askil pebuson dume va in maneke albal ‼",
-          "title": "3. Djay askil da rinaf nik va cin gruped ‼"
-        },
-        {
-          "#text": "Mukotav da talpeyot tir tel loremsuten ke tamava ! Batcoba me drikafa; batdume va pomara olegav !\n\nTa webera va ixam kruldes remsuteks ik tozura va warzaf tan, vay yotel va `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/avk>`_ (cinafa lodalbana zana ta remsutera) aze va ava kal dana djugaremsutel naral vay ‼ Vugafa klaa me tigir banlize; va kotaf talpeyot ok anton tanoy ravlem roremsutel – to rin goral.",
-          "title": "4. Gu remsutera va talpeyot is debak pomal djay ‼"
-        },
-        {
-          "#text": "Moavafa olkoyuca pu rin namyer va loplekufi fli, tulon vigornafa betavera va liz is yon loplekuf dor ke yaseguca. Voxe, dere tir askany ta nedira va bristura is ta da va tciamafa fukorlara, pu cin tiskal ! Va Moavafa olkoyuca rolustel kou talpeyot (fure enafa).",
-          "title": "5. Va moavafa olkoyuca lustel vay ‼"
-        },
-        {
-          "#text": "Diskira va banyusta do erbilok ke Amikumu tir kiewapaf ask ta da sane va talpeyot gruper. Vay vestal va `Internet gortafa dolta ‼ <https://www.amikumu.com/shop/#!/>`_.",
-          "title": "6. Va banyusta ik bilaga lustel vay ‼"
-        },
-        {
-          "#text": "`Al egav va truk dan rowalzilil <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ koe rinafa bema iku kotla iku lizukaf avaf rijay. Dere sin ixam zo remsuted kal jontika ara ava ta rinafa favera. Ede va tuilkan truk olegal, pune pu cin golel vey `info@amikumu.com <mailto:info@amikumu.com>`_",
-          "title": "7. Vay va cinaf truk rubial ise walzilipil vay ‼"
-        },
-        {
-          "#text": "Adim, djak batcoba zolonaf uum djakarse, kan Amikumu kevlanic djay aze va bagala pu cin kareizul vay ‼ En djukaraskiv da doda va kiewatcakirafa kevlanira gruper. Vay va reiz is afigasuteks staksel pu `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nAdim, grewapav icde beta pomara va cin gan rin.\n\nEde va rieta ik tiaveks dil, pune djay me vurdel da pu cin golel vey`info@amikumu.com <mailto:info@amikumu.com>`_.>",
-          "title": "8. Va kevlanira grustal djay ‼"
-        }
-      ]
+        "post_title": "Emudexo"
     },
-    "post_meta": {
-      "metadata_desc": "Va avalbasik trasil aze pu sin davon golel pokeon vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
-      "metadata_title": "Va Amikumu revielon bristul djay ‼"
+    "page_press": {
+        "post_content": {
+            "subsection": [
+                {
+                    "#text": "2018-04-21: `A Language Back From the Future <http://sbcltr.in/2018/04/19/a-language-back-from-the-future/>`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/>`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere <https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near>`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto <https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto>`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages <http://fluentlanguage.co.uk/blog/podcast-episode-70>`_ (Fluent Language)\n\n2017-08-03: `Amikumu! <https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html>`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language <https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996>`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves <http://www.globaltimes.cn/content/1057976.shtml>`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick <https://jasonvermes.net/portfolio/story-esperanto-berwick>`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects <http://blogs.transparent.com/esperanto/kick-start-these-projects/>`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? <http://yozzi.com/successful-kickstarter-campaign/>`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu <http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/>`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language <https://www.youtube.com/watch?v=2mXoS1_fQ0w>`_ (Steve Kaufmann)",
+                    "title": "English"
+                },
+                {
+                    "#text": "2017-10-22: `What is Amikumu? <https://youtu.be/57W73If51NE>`_",
+                    "title": "Auslan (Australian Sign Language)"
+                },
+                {
+                    "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! <http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/>`_ (Espereto)",
+                    "title": "български (Bulgarian)"
+                },
+                {
+                    "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto <http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html>`_ (IB3)",
+                    "title": "Català (Catalan)"
+                },
+                {
+                    "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 <https://zhuanlan.zhihu.com/p/23152607?refer=esperanto>`_ (徐杰)",
+                    "title": "普通话 (Chinese)"
+                },
+                {
+                    "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан <http://chuvash.org/news/14909.html>`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан <https://vk.com/cvpelme?w=wall-48481616_513>`_",
+                    "title": "Чӑваш (Chuvash)"
+                },
+                {
+                    "#text": "2017-11-07: `App of the Week - Amikumu <http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en>`_ (Welsh Government)",
+                    "title": "Cymraeg (Welsh)"
+                },
+                {
+                    "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? <https://www.sprachheld.de/chuck-smith-interview-esperanto/>`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung <http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf>`_ (Svisa Espero)",
+                    "title": "Deutsch (German)"
+                },
+                {
+                    "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado <http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html>`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu <http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/>`_ (Polyglot Nerd)",
+                    "title": "Español (Spanish)"
+                },
+                {
+                    "#text": "2018-03-24: `Amikumu iĝas socia reto <http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/>`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/>`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu <http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/>`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon <https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/>`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj <http://www.liberafolio.org/2017/06/13/keefevidpunkto/>`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu <http://sezonoj.ru/2017/04/amikumu-4/>`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn <http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/>`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile <http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/>`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) <https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd>`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2017/03/amikumu-3/>`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu <http://sezonoj.ru/2016/11/amikumu-2/>`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu <http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu>`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA <http://www.espero.com.cn/2016-11/15/content_39708875.htm>`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min <https://www.youtube.com/watch?v=nML_kb98LAU>`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? <https://www.youtube.com/watch?v=21H560KdNj8>`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu <https://www.youtube.com/watch?v=v2v3Bb2XZao>`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter <https://www.youtube.com/watch?v=ZI6Pd34T0Qg>`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn <http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn>`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj <http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/>`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2016/10/amikumu/>`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj <https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/>`_ (Movada Vidpunkto)",
+                    "title": "Esperanto"
+                },
+                {
+                    "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu <http://www.toulangues.org/spip.php?article2176>`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous <http://esperanto-france.org/esperanto-aktiv-73-decouverte>`_ (Espéranto France)",
+                    "title": "Français (French)"
+                },
+                {
+                    "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)",
+                    "title": "Gaeilge (Irish)"
+                },
+                {
+                    "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu <http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/>`_ (Jurnalo)",
+                    "title": "Ido"
+                },
+                {
+                    "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici <https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera>`_ (Manageritalia)",
+                    "title": "Italiano (Italian)"
+                },
+                {
+                    "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 <http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf>`_ (エスペラントの今)",
+                    "title": "日本語 (Japanese)"
+                },
+                {
+                    "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! <http://esperanto.kr/?p=2541>`_ (에스페란티스토를 위한)",
+                    "title": "한국어 (Korean)"
+                },
+                {
+                    "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden <http://www.esperanto.be/fel/nl/horizontaal.pdf>`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog <https://www.youtube.com/watch?v=THf1D_xMDhU>`_ (Vincent Oostelbos)",
+                    "title": "Nederlands (Dutch)"
+                },
+                {
+                    "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan <https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan>`_",
+                    "title": "Occitan"
+                },
+                {
+                    "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua <https://www.youtube.com/watch?v=R5FSUMBRHWQ>`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu <http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/>`_ (Polyglot Nerd)",
+                    "title": "Português (Portuguese)"
+                },
+                {
+                    "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too <http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/>`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! <https://www.youtube.com/watch?v=6g3QtBtBB_U>`_ (Reb Yid)",
+                    "title": "ייִדיש (Yiddish)"
+                },
+                {
+                    "#text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+                    "title": "èdè Yorùbá (Yoruba)"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "Til drumbaf ko lidayeem ke Amikumu. Batlize va jontika givavuropagluyaxa va teliz icde Amikumu koe gedrafa ava rotrasil.",
+            "metadata_title": "Amikumu koe lidayeem !"
+        },
+        "post_title": "Lidayeem"
     },
-    "post_title": "Va cin bristul vay ‼"
-  }
+    "page_privacy-terms": {
+        "post_content": {
+            "main": {
+                "section": [
+                    {
+                        "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you."
+                    },
+                    {},
+                    {
+                        "text": [
+                            null
+                        ],
+                        "title": "3. Disclosure of personal information to third parties"
+                    },
+                    {},
+                    {
+                        "title": "5. Storage and Security"
+                    },
+                    {},
+                    {
+                        "title": "7. Links to other websites"
+                    },
+                    {
+                        "title": "8. Amendments"
+                    },
+                    {},
+                    {
+                        "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com <https://www.amikumu.com/>`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**)."
+                    },
+                    {
+                        "ol": {
+                            "li": {
+                                "#text": "The App has many features and allows you to:"
+                            }
+                        }
+                    },
+                    {
+                        "title": "4. Registration"
+                    },
+                    {},
+                    {
+                        "title": "6. User Licence"
+                    },
+                    {},
+                    {
+                        "title": "8. Fees and Payment"
+                    },
+                    {},
+                    {
+                        "ol": {
+                            "li": {
+                                "#text": "In connection with Status Submissions, you warrant that:"
+                            }
+                        }
+                    },
+                    {
+                        "ol": {
+                            "#text": "#. harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);\n \t#. is unlawful, fraudulent or deceptive;\n \t#. uses technology or other means to access the App, Website or Content that is not authorized by us;\n \t#. uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;\n \t#. attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;\n \t#. attempts to gain unauthorised access to our computer network or user accounts;\n \t#. encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;\n \t#. violates these Terms;\n \t#. attempts to damage, disable, overburden, or impair our servers or networks;\n \t#. fails to comply with applicable third party Terms; or\n \t\n \t\n \t#. print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;\n \t#. breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;\n \t#. cause any of the App to be framed or embedded in another website;\n \t#. use the App for commercial purposes;\n \t#. collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;\n \t#. modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or\n \t#. facilitate or assist another person to do any of the above acts.",
+                            "li": [
+                                {},
+                                {
+                                    "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "title": "12. Consumer Guarantee"
+                    },
+                    {
+                        "title": "13. Disclaimers"
+                    },
+                    {
+                        "title": "14. Limitation of Liability"
+                    },
+                    {},
+                    {
+                        "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+                    }
+                ],
+                "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
+            }
+        },
+        "post_meta": {
+            "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
+            "metadata_title": "Yasegucafa gaderopa is kreda ke favera ke Amikumu"
+        },
+        "post_title": "Yasegucafa gaderopa is kreda ke favera"
+    },
+    "page_shop": {
+        "post_content": "No translation needed.",
+        "post_meta": {
+            "metadata_desc": "Vay va Internet gortafa dolta ke Amikumu woral aze va tanoya ribiegafa banyusta lustel ta pomara va abduaskira va Amikumu koe rinafa lizukafa doda.",
+            "metadata_title": "Internet gortafa dolta ke Amikumu"
+        },
+        "post_title": "Dolta"
+    },
+    "page_statistics": {
+        "post_content": "No translation needed.",
+        "post_meta": {
+            "metadata_desc": "Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
+            "metadata_title": "Enkopa ke Amikumu"
+        },
+        "post_title": "Enkopa"
+    },
+    "page_support-us": {
+        "post_content": {
+            "#text": "Grewav icde djubristura va Amikumu.\n\nBatse 8 drikaf ask ta nedira va bristura is ta pomara va laumara ke minafa doda.",
+            "subsection": [
+                {
+                    "#text": "Va liday dem vildeks va erupa is dem cinaf azed is dem cinafa kiewatca kotaksaton sanegav. Dere va webera gan olkoy ke minafa doda, tulon gan rin, nalev. Batcoba tir cinaf ask ta rontifa prilara va rin. `Batlize yotel vay ‼ <http://eepurl.com/c4qiRD>`_.",
+                    "title": "1. Gu cinaf liday duulel vay ‼"
+                },
+                {
+                    "#text": "Va bu koe telyon lovartaf eyaf debak digiv.",
+                    "title": "2. Koe eyaf gort, va cin suzdal djay ‼",
+                    "ul": "#. `Facebook <https://www.facebook.com/amikumuapp/>`_\n \t#. `Twitter (englavon) <https://twitter.com/Amikumu>`_\n \t#. `Twitter (kan Esperanto ava) <https://twitter.com/Amikumu_eo>`_\n \t#. `VK <https://vk.com/amikumu>`_\n \t#. `Telegram <https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g>`_\n \t#. Wechat"
+                },
+                {
+                    "#text": "Va tel talpeyot pu rinaf nik walzilil kan eyafo golesiko ik kan Internet gortafe piute djay ‼\n\nEde loloon ayik va Amikumu jiligad, pune Amikumu lolofavlafu tori kottan. Va givavuropagluyaxa va winugaf debak walzilil vay ‼ `www.amikumu.com <https://www.amikumu.com>`_Vay askil pebuson dume va in maneke albal ‼",
+                    "title": "3. Djay askil da rinaf nik va cin gruped ‼"
+                },
+                {
+                    "#text": "Mukotav da talpeyot tir tel loremsuten ke tamava ! Batcoba me drikafa; batdume va pomara olegav !\n\nTa webera va ixam kruldes remsuteks ik tozura va warzaf tan, vay yotel va `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/avk>`_ (cinafa lodalbana zana ta remsutera) aze va ava kal dana djugaremsutel naral vay ‼ Vugafa klaa me tigir banlize; va kotaf talpeyot ok anton tanoy ravlem roremsutel – to rin goral.",
+                    "title": "4. Gu remsutera va talpeyot is debak pomal djay ‼"
+                },
+                {
+                    "#text": "Moavafa olkoyuca pu rin namyer va loplekufi fli, tulon vigornafa betavera va liz is yon loplekuf dor ke yaseguca. Voxe, dere tir askany ta nedira va bristura is ta da va tciamafa fukorlara, pu cin tiskal ! Va Moavafa olkoyuca rolustel kou talpeyot (fure enafa).",
+                    "title": "5. Va moavafa olkoyuca lustel vay ‼"
+                },
+                {
+                    "#text": "Diskira va banyusta do erbilok ke Amikumu tir kiewapaf ask ta da sane va talpeyot gruper. Vay vestal va `Internet gortafa dolta ‼ <https://www.amikumu.com/shop/#!/>`_.",
+                    "title": "6. Va banyusta ik bilaga lustel vay ‼"
+                },
+                {
+                    "#text": "`Al egav va truk dan rowalzilil <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ koe rinafa bema iku kotla iku lizukaf avaf rijay. Dere sin ixam zo remsuted kal jontika ara ava ta rinafa favera. Ede va tuilkan truk olegal, pune pu cin golel vey `info@amikumu.com <mailto:info@amikumu.com>`_",
+                    "title": "7. Vay va cinaf truk rubial ise walzilipil vay ‼"
+                },
+                {
+                    "#text": "Adim, djak batcoba zolonaf uum djakarse, kan Amikumu kevlanic djay aze va bagala pu cin kareizul vay ‼ En djukaraskiv da doda va kiewatcakirafa kevlanira gruper. Vay va reiz is afigasuteks staksel pu `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nAdim, grewapav icde beta pomara va cin gan rin.\n\nEde va rieta ik tiaveks dil, pune djay me vurdel da pu cin golel vey`info@amikumu.com <mailto:info@amikumu.com>`_.>",
+                    "title": "8. Va kevlanira grustal djay ‼"
+                }
+            ]
+        },
+        "post_meta": {
+            "metadata_desc": "Va avalbasik trasil aze pu sin davon golel pokeon vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !",
+            "metadata_title": "Va Amikumu revielon bristul djay ‼"
+        },
+        "post_title": "Va cin bristul vay ‼"
+    }
 }

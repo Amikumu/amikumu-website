@@ -1,7 +1,6 @@
 {
 "page_about-us":
-{
-  "content": {
+ {
     "post_title": "О нас",
     "post_meta": {
       "add_description": "Цель Amikumu - создать и поддерживать социальную сеть, которая позволит носителям различных языков, в том числе жестовых, общаться и делиться свежей информацией на своей территории, независимо от социального, политического или экономического статуса каждого из языков.",
@@ -25,6 +24,7 @@
       "team_members_1_name": "Чак Смит",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -51,11 +51,9 @@
       "team_members_5_name": "Елена Хусанова"
     }
   }
-}
 ,
 "page_ambassador":
-{
-  "content": {
+ {
     "post_title": "Амбассадор",
     "post_content": {
       "section": [
@@ -65,12 +63,12 @@
         },
         {
           "title": "Чем занимается Посланник?",
-          "ul": "#. Они публикуют блоги и YouTube видео! Например, Amikumu: The App Yiddish Speakers have been Waiting for! (Moshe Sherizen) и Auslan: What is Amikumu? (Kiah Morante) среди других. У нас есть целая страница, посвященная `пресс-релизам <http://amikumu.com/press/>`_.\n \t#. Они размещают ссылки в Facebook группах и в своих профилях. Даже простой показ общественной поддержки может помочь!\n \t#. Они раздают листовки и говорят об Amikumu на лингвистических собраниях. Это также отличный способ для создания и развития местного сообщества.\n \t#. Они переводят приложение и веб-сайт на местные языки. Наша цель – стать самым переводимым приложением в мире, и нам нужна помощь для достижения этой цели.\n \t#. Они предоставляют жизненно важные рекомендации. Мы понимаем, что каждый язык и культура разные. Нам необходим ваш совет как лучше действовать в вашей общине.",
+          "ul": "#. Они публикуют блоги и YouTube видео! Например, Amikumu: The App Yiddish Speakers have been Waiting for! (Moshe Sherizen) и Auslan: What is Amikumu? (Kiah Morante) среди других. У нас есть целая страница, посвященная `пресс-релизам [http://amikumu.com/press/]`_.\n \t#. Они размещают ссылки в Facebook группах и в своих профилях. Даже простой показ общественной поддержки может помочь!\n \t#. Они раздают листовки и говорят об Amikumu на лингвистических собраниях. Это также отличный способ для создания и развития местного сообщества.\n \t#. Они переводят приложение и веб-сайт на местные языки. Наша цель – стать самым переводимым приложением в мире, и нам нужна помощь для достижения этой цели.\n \t#. Они предоставляют жизненно важные рекомендации. Мы понимаем, что каждый язык и культура разные. Нам необходим ваш совет как лучше действовать в вашей общине.",
           "#text": "Это зависит от того, что они могут делать. Мы перечислили некоторые способы взаимодействия наших посланников с нами для содействия Amikumu по всему миру."
         },
         {
           "title": "Что получают амбассадоры?",
-          "#text": "Не очень много мы можем предоставить за вашу бесценную помощь. Однако амбассадоры получают некоторые интересные привилегии. Одно из таких привелегий получение уникальных коллекционных значков для вашего профиля в приложении. Обращайтесь к нам для получения дополнительной информации на `info@amikumu.com <mailto:info@amikumu.com>`_."
+          "#text": "Не очень много мы можем предоставить за вашу бесценную помощь. Однако амбассадоры получают некоторые интересные привилегии. Одно из таких привелегий получение уникальных коллекционных значков для вашего профиля в приложении. Обращайтесь к нам для получения дополнительной информации на `info@amikumu.com [mailto:info@amikumu.com]`_."
         }
       ],
       "#text": "Во-первых, огромное спасибо за ваш интерес к программе амбассадоров."
@@ -80,11 +78,9 @@
       "metadata_title": "Присоединяйтесь к программе амбассадоров Amikumu!"
     }
   }
-}
 ,
 "page_faq":
-{
-  "content": {
+ {
     "post_title": "Помощь / часто задаваемые вопросы",
     "post_content": {
       "section": [
@@ -134,7 +130,7 @@
             },
             {
               "title": "Могу ли я переводить Amikumu?",
-              "#text": "Да, вы можете помочь перевести Amikumu `на ваш язык <https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4>`_."
+              "#text": "Да, вы можете помочь перевести Amikumu `на ваш язык [https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4]`_."
             },
             {
               "title": "Что значит Amikumu?",
@@ -142,7 +138,7 @@
             },
             {
               "title": "Как я могу поучаствовать?",
-              "#text": "Мы приветствуем ваши отзывы. Присоединяйтесь `в наш список рассылки <http://eepurl.com/c4qiRD>`_, или следуйте за нами на `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ и `VK <https://vk.com/amikumu>`_ чтобы быть в курсе. Для дополнительных вопросов пишите на`info@amikumu.com <mailto:info@amikumu.com>`_>"
+              "#text": "Мы приветствуем ваши отзывы. Присоединяйтесь `в наш список рассылки [http://eepurl.com/c4qiRD]`_, или следуйте за нами на `Facebook [https://www.facebook.com/amikumuapp/]`_, `Twitter [https://twitter.com/Amikumu]`_ и `VK [https://vk.com/amikumu]`_ чтобы быть в курсе. Для дополнительных вопросов пишите на`info@amikumu.com [mailto:info@amikumu.com]`_>"
             }
           ]
         }
@@ -153,11 +149,9 @@
       "metadata_title": "Помощь / ЧаВо"
     }
   }
-}
 ,
 "page_for-organizations":
-{
-  "content": {
+ {
     "post_title": "Для организаций",
     "post_content": {
       "ol": "#. Название для рекламного объявления\n \t#. Картинка высокого качества для рекламного объявления\n \t#. Описание для рекламы (не более 300 знаков)\n \t#. Адрес электронной почты\n \t#. Номер телефона\n \t#. Сайт\n \t#. Адрес (актуально только для объявлений, которые имеют физический адрес)\n \t#. Рекламный адрес (ваши объявления могут появляться по всему миру). Например, событие может быть в Нью-Йорке, но вы хотите привлечь людей из Лондона. Таким образом Екатеринбург — это адрес рекламы",
@@ -195,11 +189,9 @@
       "your_badge": "Ваш значок!"
     }
   }
-}
 ,
 "page_home-page":
-{
-  "content": {
+ {
     "post_title": "Главная",
     "post_meta": {
       "add_title": "Практикуй языки поблизости",
@@ -228,97 +220,95 @@
       "tutorial_blocks_2_title": "Общайся и встречайся!"
     }
   }
-}
 ,
 "page_press":
-{
-  "content": {
+ {
     "post_title": "Пресса",
     "post_content": {
       "subsection": [
         {
           "title": "English",
-          "#text": "2018-04-21: `A Language Back From the Future <http://sbcltr.in/2018/04/19/a-language-back-from-the-future/>`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/>`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere <https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near>`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto <https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto>`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages <http://fluentlanguage.co.uk/blog/podcast-episode-70>`_ (Fluent Language)\n\n2017-08-03: `Amikumu! <https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html>`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language <https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996>`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves <http://www.globaltimes.cn/content/1057976.shtml>`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick <https://jasonvermes.net/portfolio/story-esperanto-berwick>`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects <http://blogs.transparent.com/esperanto/kick-start-these-projects/>`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? <http://yozzi.com/successful-kickstarter-campaign/>`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu <http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/>`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language <https://www.youtube.com/watch?v=2mXoS1_fQ0w>`_ (Steve Kaufmann)"
+          "#text": "2018-04-21: `A Language Back From the Future [http://sbcltr.in/2018/04/19/a-language-back-from-the-future/]`_ (Sbcltr)\n\n2018-03-18: `Language learners on Amikumu [https://svendvnielsen.wordpress.com/2018/03/18/language-learners-on-amikumu/]`_ (Kalkulinda)\n\n2018-01-11: `FLP11: Interview with Richard Delamore, CEO of Amikumu - App to find language learning partners nearby anytime + anywhere [https://freelanguage.org/podcast/flp11-interview-with-richard-delamore-of-amikumu-app-to-find-language-learning-partners-near]`_ (Free Language)\n\n2017-12-07: `‘Saluton!’: the surprise return of Esperanto [https://www.theguardian.com/science/2017/dec/06/saluton-the-surprise-return-of-esperanto]`_ (The Guardian)\n\n2017-12-04: `Finding Friends Who Love Languages [http://fluentlanguage.co.uk/blog/podcast-episode-70]`_ (Fluent Language)\n\n2017-08-03: `Amikumu! [https://yuryjakymec.blogspot.com.au/2017/09/amikumu.html]`_ (Yury Jakymec)\n\n2017-07-28: `Practise speaking a new language [https://www.teachyourselflanguagesonline.com/practise-speaking-foreign-language/#more-1996]`_ (Teach Yourself)\n\n2017-07-25: `Esperanto language grows in China, helps people from different cultures and backgrounds express themselves [http://www.globaltimes.cn/content/1057976.shtml]`_ (The Global Times)\n\n2017-06-12: `Story: Esperanto in Berwick [https://jasonvermes.net/portfolio/story-esperanto-berwick]`_ (CBC Radio One)\n\n2016-11-03: `Kick start these projects [http://blogs.transparent.com/esperanto/kick-start-these-projects/]`_ (Transparent Language)\n\n2016-11-03: `What does it take to run a successful Kickstarter campaign? [http://yozzi.com/successful-kickstarter-campaign/]`_ (Yozzi)\n\n2016-10-24: `Interview with Richard Delamore, founder of the app Amikumu [http://www.polyglotnerd.com/blog/2016/10/24/interview-with-richard-delamore-founder-of-the-app-amikumu/]`_ (Polyglot Nerd)\n\n2016-10-18: `The Difficulties of Speaking in a Foreign Language [https://www.youtube.com/watch?v=2mXoS1_fQ0w]`_ (Steve Kaufmann)"
         },
         {
           "title": "Auslan (Australian Sign Language)",
-          "#text": "2017-10-22: `What is Amikumu? <https://youtu.be/57W73If51NE>`_"
+          "#text": "2017-10-22: `What is Amikumu? [https://youtu.be/57W73If51NE]`_"
         },
         {
           "title": "български (Bulgarian)",
-          "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! <http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/>`_ (Espereto)"
+          "#text": "2017-04-26: `Amikumu за Android и iOS – намерете есперантисти близо до вас! [http://espereto.com/amikumu-za-android-i-ios-namerete-esperantisti-blizo-do-vas/]`_ (Espereto)"
         },
         {
           "title": "Català (Catalan)",
-          "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto <http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html>`_ (IB3)"
+          "#text": "2017-08-04: `El mallorquí i filòleg Nicolau Dols guanya el premi mundial de poesia en esperanto [http://ib3tv.com/un-mallorqui-guanya-el-premi-mundial-de-poesia-en-esperanto.html]`_ (IB3)"
         },
         {
           "title": "普通话 (Chinese)",
-          "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 <https://zhuanlan.zhihu.com/p/23152607?refer=esperanto>`_ (徐杰)"
+          "#text": "2017-08-23: `世界语社交APP-Amikumu帮你寻找附近的世界语朋友 [https://zhuanlan.zhihu.com/p/23152607?refer=esperanto]`_ (徐杰)"
         },
         {
           "title": "Чӑваш (Chuvash)",
-          "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан <http://chuvash.org/news/14909.html>`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан <https://vk.com/cvpelme?w=wall-48481616_513>`_"
+          "#text": "2017-02-08: `Тӗнчере: Амикуму — пӗр-пӗр чӗлхепе калаҫакана тупма пулӑшакан [http://chuvash.org/news/14909.html]`_ (Chuvash.org)\n\n2017-02-08: `Хӑвӑнпа пӗр чӗлхепе хутшӑнма кӑмӑллӑ ҫынна шыраса туп – кирек ӑҫта, кирек хӑҫан [https://vk.com/cvpelme?w=wall-48481616_513]`_"
         },
         {
           "title": "Cymraeg (Welsh)",
-          "#text": "2017-11-07: `App of the Week - Amikumu <http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en>`_ (Welsh Government)"
+          "#text": "2017-11-07: `App of the Week - Amikumu [http://cymraeg.gov.wales/news/index/ApyrWythnosAmikumu?lang=en]`_ (Welsh Government)"
         },
         {
           "title": "Deutsch (German)",
-          "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? <https://www.sprachheld.de/chuck-smith-interview-esperanto/>`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung <http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf>`_ (Svisa Espero)"
+          "#text": "2017-05-28: `Was ist Esperanto und warum solltest Du die Sprache lernen? [https://www.sprachheld.de/chuck-smith-interview-esperanto/]`_ (Sprachheld)\n\n2016-12-31: `Amikumu – die App zum Finden von Sprechern einer bestimmten Sprache in deiner Umgebung [http://esperanto.ch/svisa-espero/2016-04-Vintra%20Eldono-Versio%2005.pdf]`_ (Svisa Espero)"
         },
         {
           "title": "Español (Spanish)",
-          "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado <http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html>`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu <http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/>`_ (Polyglot Nerd)"
+          "#text": "2018-01-08: `'Paroli esperanton' no es cosa del pasado [http://www.elmundo.es/cataluna/2018/01/08/5a53b3e6ca4741206d8b45e6.html]`_ (El Mundo)\n\n2017-10-24: `Entrevista con el creador de la app Amikumu [http://www.polyglotnerd.com/spanish/2016/10/24/entrevista-con-el-creador-del-app-amikumu/]`_ (Polyglot Nerd)"
         },
         {
           "title": "Esperanto",
-          "#text": "2018-03-24: `Amikumu iĝas socia reto <http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/>`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu <https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/>`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu <http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/>`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon <https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/>`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj <http://www.liberafolio.org/2017/06/13/keefevidpunkto/>`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu <http://sezonoj.ru/2017/04/amikumu-4/>`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn <http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/>`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile <http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/>`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) <https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd>`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2017/03/amikumu-3/>`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu <http://sezonoj.ru/2016/11/amikumu-2/>`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu <http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu>`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA <http://www.espero.com.cn/2016-11/15/content_39708875.htm>`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min <https://www.youtube.com/watch?v=nML_kb98LAU>`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? <https://www.youtube.com/watch?v=21H560KdNj8>`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu <https://www.youtube.com/watch?v=v2v3Bb2XZao>`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter <https://www.youtube.com/watch?v=ZI6Pd34T0Qg>`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn <http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn>`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj <http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/>`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj <http://sezonoj.ru/2016/10/amikumu/>`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj <https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/>`_ (Movada Vidpunkto)"
+          "#text": "2018-03-24: `Amikumu iĝas socia reto [http://www.liberafolio.org/2018/03/24/amikumu-igas-socia-reto/]`_ (Libera Folio)\n\n2018-03-18: `Lingvaj lernantoj en Amikumu [https://svendvnielsen.wordpress.com/2018/03/18/lingvaj-lernantoj-en-amikumu/]`_ (Kalkulinda)\n\n2017-10-27: `UEA investis 10.000 eŭrojn en Amikumu [http://www.liberafolio.org/2017/10/27/uea-investis-10-000-eurojn-en-amikumu/]`_ (Libera Folio)\n\n2017-07-25: `Kiel Amikumu ŝanĝos Esperantujon [https://teokajlibroj.wordpress.com/2017/07/25/kiel-amikumu-sangos-esperantujon/]`_ (Teo kaj Libroj)\n\n2017-06-13: `UEA dediĉu malpli da tempo al komoj [http://www.liberafolio.org/2017/06/13/keefevidpunkto/]`_ (Libera Folio)\n\n2017-04-26: `Freŝbakitoj atendas vin en Amikumu [http://sezonoj.ru/2017/04/amikumu-4/]`_ (La Balta Ondo)\n\n2017-04-23: `Amikumu ekhavis pli ol mil novajn uzantojn [http://www.liberafolio.org/2017/04/23/amikumu-rapide-ekhavis-pli-ol-mil-novajn-uzantojn/]`_ (Libera Folio)\n\n2017-04-13: `Amikuma aplikaĵo aperos aprile [http://www.liberafolio.org/2017/04/13/amikuma-aplikajo-aperos-aprile/]`_ (Libera Folio)\n\n2017-03-27: `Esperanto-Magazino N°116 (Interview in Esperanto and French) [http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017]`_\n\n2017-03-19: `Mia unua impreso pri la apo Amikumu (Androida beta-versio; uzado ekster malvirtualaj Esperanto-kunvenoj) [https://medium.com/@imnej7/mia-unua-impreso-pri-la-apo-amikumu-androida-beta-versio-uzado-ekster-malvirtualaj-esperanto-dab153c807f0#.guy73gxbd]`_\n\n2017-03-09: `Amikumu, nova revolucia aplikaĵo por esperantistoj [http://sezonoj.ru/2017/03/amikumu-3/]`_ (La Balta Ondo)\n\n2016-11-22: `Sukcesa monkolekto por Amikumu [http://sezonoj.ru/2016/11/amikumu-2/]`_ (La Balta Ondo)\n\n2016-11-16: `UEA fariĝis la Oficiala Sponsoro de Amikumu [http://www.uea.org/aktuale/komunikoj/2016/UEA-farigxis-la-Oficiala-Sponsoro-de-Amikumu]`_ (UEA)\n\n2016-11-15: Mention in the `Intervjuo al Veronika Poór, ĝenerala direktoro de UEA [http://www.espero.com.cn/2016-11/15/content_39708875.htm]`_ (El Popola Ĉinio)\n\n2016-11-02: `Amikumu volas mortigi min [https://www.youtube.com/watch?v=nML_kb98LAU]`_ (Jake H)\n\n2016-10-26: `Ĉu indas subteni la apon Amikumu? [https://www.youtube.com/watch?v=21H560KdNj8]`_ (Emilio Cid)\n\n2016-10-23: `Ŝoka novaĵo pri Amikumu [https://www.youtube.com/watch?v=v2v3Bb2XZao]`_ (Esperanto VBlogo)\n\n2016-10-19: `Amikumu – monkolektado | Kickstarter [https://www.youtube.com/watch?v=ZI6Pd34T0Qg]`_ (Esperanto VBlogo)\n\n2016-10-18: `Amikumu helpos trovi proksimajn esperantistojn [http://www.liberafolio.org/2016/amikumi-helpos-trovi-proksimajn-esperantistojn]`_ (Libera Folio)\n\n2016-10-18: `Amikumu povas revoluciigi kontaktojn inter esperantistoj [http://pola-retradio.org/2016/10/e_elsendo-el-la-18-10-2016/]`_ (Pola RetRadio)\n\n2016-10-18: `Nova revolucia aplikaĵo por esperantistoj [http://sezonoj.ru/2016/10/amikumu/]`_ (La Ondo de Esperanto, 2016, №10)\n\n2016-10-10: `Intervjuo kun Chuck Smith kaj Evildea pri nova apo por Esperantistoj [https://movada-vid.punkto.info/2016/10/10/mvp010-amikumu/]`_ (Movada Vidpunkto)"
         },
         {
           "title": "Français (French)",
-          "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu <http://www.toulangues.org/spip.php?article2176>`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) <http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017>`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous <http://esperanto-france.org/esperanto-aktiv-73-decouverte>`_ (Espéranto France)"
+          "#text": "2017-03-30: `INTERVIEW : Chuck Smith, développeur d’Amikumu [http://www.toulangues.org/spip.php?article2176]`_ (Toulangues)\n\n2017-03-27: `Esperanto-Magazino N°116 (Intervjuo en Esperanto kaj la franca) [http://www.esperanto-midipyrenees.org/download/download.php?val=248_esperanto-magazino+27+mars+2017]`_\n\n2016-1-01: `Amikumu, découvrez les espérantophones près de chez vous [http://esperanto-france.org/esperanto-aktiv-73-decouverte]`_ (Espéranto France)"
         },
         {
           "title": "Gaeilge (Irish)",
-          "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)"
+          "#text": "2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation [https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/]`_ (Whistling in the Wind)"
         },
         {
           "title": "Ido",
-          "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu <http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/>`_ (Jurnalo)"
+          "#text": "2018-03-11: `Dekamil uzeri pos un yaro — Amikumu [http://jurnalo.org/2018/03/11/dekamil-uzeri-pos-un-yaro/]`_ (Jurnalo)"
         },
         {
           "title": "Italiano (Italian)",
-          "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici <https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera>`_ (Manageritalia)"
+          "#text": "2017-11-02: `Amikumu: app per trovare partner linguistici [https://www.manageritalia.it/it/economia/app-per-imparare-lingua-straniera]`_ (Manageritalia)"
         },
         {
           "title": "日本語 (Japanese)",
-          "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 <http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf>`_ (エスペラントの今)"
+          "#text": "2018-03-20: `エスペラントで実証実験、SNSアプリAmikumuの可能性 [http://www.jei.or.jp/informo/2018/esperanto-no-ima_13a.pdf]`_ (エスペラントの今)"
         },
         {
           "title": "한국어 (Korean)",
-          "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! <http://esperanto.kr/?p=2541>`_ (에스페란티스토를 위한)"
+          "#text": "2017-10-27: `스마트폰 앱 ‘Amikumu’ 2017년 3월 출시 예정! [http://esperanto.kr/?p=2541]`_ (에스페란티스토를 위한)"
         },
         {
           "title": "Nederlands (Dutch)",
-          "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden <http://www.esperanto.be/fel/nl/horizontaal.pdf>`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog <https://www.youtube.com/watch?v=THf1D_xMDhU>`_ (Vincent Oostelbos)"
+          "#text": "2017-01-31: `Amikumu: een app om sprekers van een taal in je buurt te vinden [http://www.esperanto.be/fel/nl/horizontaal.pdf]`_ (Horizon.taal)\n\n2016-10-31: `Nederlands – Amikumu vlog [https://www.youtube.com/watch?v=THf1D_xMDhU]`_ (Vincent Oostelbos)"
         },
         {
           "title": "Occitan",
-          "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan <https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan>`_"
+          "#text": "2018-006-04: `Amikumu: lo ret social per practicar de lengas es ara en occitan [https://www.jornalet.com/nova/9813/amikumu-lo-ret-social-per-practicar-de-lengas-es-ara-en-occitan]`_"
         },
         {
           "title": "Português (Portuguese)",
-          "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua <https://www.youtube.com/watch?v=R5FSUMBRHWQ>`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu <http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/>`_ (Polyglot Nerd)"
+          "#text": "2017-11-03: `Amikumu – encontre usuários de uma língua [https://www.youtube.com/watch?v=R5FSUMBRHWQ]`_ (Marko Esperanto)\n\n2017-10-24: `Entrevista com o criador do aplicativo Amikumu [http://www.polyglotnerd.com/portuguese/2016/10/24/entrevista-com-o-criador-do-aplicativo-amikumu/]`_ (Polyglot Nerd)"
         },
         {
           "title": "ייִדיש (Yiddish)",
-          "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too <http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/>`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! <https://www.youtube.com/watch?v=6g3QtBtBB_U>`_ (Reb Yid)"
+          "#text": "2017-08-17: `App Linking Esperanto Fans Will Soon Help Yiddishists, Too [http://yiddish.forward.com/articles/205616/app-linking-esperanto-fans-will-soon-help-yiddishi/]`_ (Yiddish Daily Forward)\n\n2016-11-02: `The App Yiddish Speakers have been Waiting For! [https://www.youtube.com/watch?v=6g3QtBtBB_U]`_ (Reb Yid)"
         },
         {
           "title": "èdè Yorùbá (Yoruba)",
-          "#text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>"
+          "#text": "2017-01-24: `Amikumu: Hang Out With Friends [http://culturetree.co.uk/amikumu-hang-friends/]`_ (YorubaMums Blog)>"
         }
       ]
     },
@@ -327,51 +317,57 @@
       "metadata_title": "Amikumu в новостях!"
     }
   }
-}
 ,
 "page_privacy-terms":
-{
-  "content": {
+ {
     "post_title": "Условия конфиденциальности",
     "post_content": {
       "main": {
         "title": "Privacy Policy",
+        "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com [http://www.amikumu.com/]`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.",
         "section": [
           {
             "title": "1. Collection of personal information",
-            "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you.",
-            "#text": "**Personal information:** The type of information we collect may include:\n\n**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy."
+            "text": [
+              "**Personal information:** The type of information we collect may include:",
+              "**Your use of our Site or App:** As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.\n\n**Your opinion and feedback:** We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.\n\nIf we receive your personal information from third parties, we will protect it as set out in this Privacy Policy."
+            ],
+            "ul": "#. name;\n \t#. image;\n \t#. email address;\n \t#. geolocation;\n \t#. gender;\n \t#. language(s) spoken;\n \t#. employment details;\n \t#. demographic information such as postcode;\n \t#. preferences and opinions; and\n \t#. any other information requested on this Site, App or otherwise requested by us or provided by you."
           },
           {
             "title": "2. Collection and use of personal information",
-            "ul": "#. to create your account on our Site and App;\n \t#. to provide our services;\n \t#. to contact and communicate with you;\n \t#. for internal record keeping;\n \t#. for market research and business development including website development;\n \t#. for marketing including direct marketing;\n \t#. to run competitions or offer additional benefits to you;\n \t#. to send you promotional information about third parties that we think may be of interest to you; and\n \t#. for data analytics purposes.",
-            "#text": "We collect and use the information for purposes including:"
+            "text": "We collect and use the information for purposes including:",
+            "ul": "#. to create your account on our Site and App;\n \t#. to provide our services;\n \t#. to contact and communicate with you;\n \t#. for internal record keeping;\n \t#. for market research and business development including website development;\n \t#. for marketing including direct marketing;\n \t#. to run competitions or offer additional benefits to you;\n \t#. to send you promotional information about third parties that we think may be of interest to you; and\n \t#. for data analytics purposes."
           },
           {
             "title": "3. Disclosure of personal information to third parties",
-            "ul": "#. credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;\n \t#. courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;\n \t#. third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. We also use third party cloud storage service providers to host our data. This may include parties located, or that store data, outside of Australia including in Germany; and\n \t#. third parties to collect and process data including Google Analytics and other similar businesses. This may include parties that store data outside of Australia.",
-            "#text": "We may disclose personal information to:\n\nWhere we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith."
+            "text": [
+              "We may disclose personal information to:",
+              "Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.\n\nIf there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith."
+            ],
+            "ul": "#. credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;\n \t#. courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;\n \t#. third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. We also use third party cloud storage service providers to host our data. This may include parties located, or that store data, outside of Australia including in Germany; and\n \t#. third parties to collect and process data including Google Analytics and other similar businesses. This may include parties that store data outside of Australia."
           },
           {
             "title": "4. our rights and controlling your personal information",
-            "#text": "**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below."
+            "text": "**Choice and consent:** Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.\n\n**Your provision of third party information:** If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.\n\n**Restrict:** You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.\n\n**Access:** You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.\n\n**Correction:** If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.\n\n**Complaints:** If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.\n\n**Unsubscribe:** To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below."
           },
           {
             "title": "5. Storage and Security",
-            "#text": "We are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy."
+            "text": "We are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.\n\nNo information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy."
           },
           {
             "title": "6. Cookies & Web Beacons",
-            "#text": "We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see `www.google.com <https://www.google.com/policies/privacy/partners/>`_ or any other URL Google may use from time to time."
+            "text": "We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.\n\nWe may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.\n\nWe may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see `www.google.com [https://www.google.com/policies/privacy/partners/]`_ or any other URL Google may use from time to time."
           },
           {
             "title": "7. Links to other websites",
-            "#text": "Our Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy."
+            "text": "Our Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy."
           },
           {
             "title": "8. Amendments",
+            "text": "This Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
             "h1": "App Terms & Conditions",
-            "#text": "This Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.\n\n**For any questions or notice, please contact our Privacy Officer at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com\n\nThese Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**)."
+            "#text": "These Terms of use (**Terms**) govern your use of Amikumu, the social mobile App (**App**). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “**Amikumu**”, “**we**”, “**us**” or “**our**”) from time to time, which constitute a binding agreement between you and us governing the use of the App.\n\nBy downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.\n\nThe terms you and your refer to users of the App (each a **User**)."
           },
           {
             "title": "1. Eligibility and Basis of Use",
@@ -379,8 +375,9 @@
           },
           {
             "title": "2. Additional Terms and Conditions",
-            "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com <https://www.amikumu.com/>`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**).",
-            "#text": "These Terms supplement and incorporate:\n\nIf any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App."
+            "text": "These Terms supplement and incorporate:",
+            "ol": "#. The Amikumu policies and terms including the privacy policy posted at `www.amikumu.com [https://www.amikumu.com/]`_ (**Website**);\n \t#. the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (**Apple Terms**);\n \t#. the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (**Facebook Terms**); and\n \t#. the Google Play Terms of Service (**Google Play Terms**).",
+            "#text": "If any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App."
           },
           {
             "title": "3. How the App Works",
@@ -428,9 +425,13 @@
           },
           {
             "title": "11. Acceptable Use and Prohibited Use",
+            "text": "Use by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:",
             "ol": {
               "li": [
-                "facilitates or assists another person to do any of the above acts.\nYou must not:",
+                {
+                  "text": "You must not:",
+                  "#text": "facilitates or assists another person to do any of the above acts."
+                },
                 {
                   "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances.",
                   "#text": "post, upload, publish, submit or transmit any Content that:"
@@ -438,7 +439,7 @@
               ],
               "#text": "#. harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);\n \t#. is unlawful, fraudulent or deceptive;\n \t#. uses technology or other means to access the App, Website or Content that is not authorized by us;\n \t#. uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;\n \t#. attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;\n \t#. attempts to gain unauthorised access to our computer network or user accounts;\n \t#. encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;\n \t#. violates these Terms;\n \t#. attempts to damage, disable, overburden, or impair our servers or networks;\n \t#. fails to comply with applicable third party Terms; or\n \t\n \t\n \t#. print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;\n \t#. breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;\n \t#. cause any of the App to be framed or embedded in another website;\n \t#. use the App for commercial purposes;\n \t#. collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;\n \t#. modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or\n \t#. facilitate or assist another person to do any of the above acts."
             },
-            "#text": "Use by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:\n\nAny use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms."
+            "#text": "Any use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (**Content**) is prohibited.\n\nWe reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.\n\nUpon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms."
           },
           {
             "title": "12. Consumer Guarantee",
@@ -473,8 +474,7 @@
             "ol": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
             "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
           }
-        ],
-        "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
+        ]
       }
     },
     "post_meta": {
@@ -482,11 +482,9 @@
       "metadata_title": "Конфиденциальность и условия Amikumu"
     }
   }
-}
 ,
 "page_shop":
-{
-  "content": {
+ {
     "post_title": "Магазином",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -494,11 +492,9 @@
       "metadata_title": "Интернет-магазин Amikumu"
     }
   }
-}
 ,
 "page_statistics":
-{
-  "content": {
+ {
     "post_title": "Пресса",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -506,30 +502,28 @@
       "metadata_title": "Статистика Amikumu"
     }
   }
-}
 ,
 "page_support-us":
-{
-  "content": {
+ {
     "post_title": "Поддержите нас",
     "post_content": {
       "subsection": [
         {
           "title": "1. Подпишитесь на нашу рассылку",
-          "#text": "Каждый месяц мы публикуем информационный бюллетень о наших планах и успехах. Мы также принимаем пожертвования от членов нашего сообщества. Это наш способ говорить непосредственно с вами. `Подпишите здесь <http://eepurl.com/c4qiRD>`_."
+          "#text": "Каждый месяц мы публикуем информационный бюллетень о наших планах и успехах. Мы также принимаем пожертвования от членов нашего сообщества. Это наш способ говорить непосредственно с вами. `Подпишите здесь [http://eepurl.com/c4qiRD]`_."
         },
         {
           "title": "2. Следуйте за нами в социальных сетях",
-          "ul": "#. `Facebook <https://www.facebook.com/amikumuapp/>`_\n \t#. `Twitter (English) <https://twitter.com/Amikumu>`_\n \t#. `Twitter (Esperanto) <https://twitter.com/Amikumu_eo>`_\n \t#. `VK <https://vk.com/amikumu>`_\n \t#. `Telegram <https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g>`_\n \t#. Wechat",
+          "ul": "#. `Facebook [https://www.facebook.com/amikumuapp/]`_\n \t#. `Twitter (English) [https://twitter.com/Amikumu]`_\n \t#. `Twitter (Esperanto) [https://twitter.com/Amikumu_eo]`_\n \t#. `VK [https://vk.com/amikumu]`_\n \t#. `Telegram [https://t.me/joinchat/C7Ci7kDqX1TgUXIVNPeT8g]`_\n \t#. Wechat",
           "#text": "Мы есть во всех самых популярных социальных средствах массовой информации."
         },
         {
           "title": "3. Поделиться с друзьями о нас",
-          "#text": "Поделитесь о нашем приложении с друзьями в социальных сетях или по электронной почте! Чем больше людей услышать о Amikumu, тем более полезным он станет для всех нас. Поделитесь ссылкой на наш официальный веб-сайт `www.amikumu.com <https://www.amikumu.com>`_наряду с тем, почему вам так понравилось."
+          "#text": "Поделитесь о нашем приложении с друзьями в социальных сетях или по электронной почте! Чем больше людей услышать о Amikumu, тем более полезным он станет для всех нас. Поделитесь ссылкой на наш официальный веб-сайт `www.amikumu.com [https://www.amikumu.com]`_наряду с тем, почему вам так понравилось."
         },
         {
           "title": "4. Помогите перевести приложение и веб-сайт!",
-          "#text": "Наша цель - стать самым переводимым приложениемв мире! Это -\n не легко, поэтому нам нужна ваша помощь! Чтобы улучшить существующий перевод или начать новый, пожалуйста, подпишитесь на `CrowdIn <https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4>`_ (наш предпочитаемый сервис для перевода) и язык, на который вы хотели бы переводить. Нет ограничений по минимуму, вы можете переводить всё приложение или любое слово на ваш выбор."
+          "#text": "Наша цель - стать самым переводимым приложениемв мире! Это -\n не легко, поэтому нам нужна ваша помощь! Чтобы улучшить существующий перевод или начать новый, пожалуйста, подпишитесь на `CrowdIn [https://crowdin.com/project/amikumu/invite?d=a5j626v495h50743f3o4r4c3h4]`_ (наш предпочитаемый сервис для перевода) и язык, на который вы хотели бы переводить. Нет ограничений по минимуму, вы можете переводить всё приложение или любое слово на ваш выбор."
         },
         {
           "title": "5. Приобретите Золотое Членство!",
@@ -537,15 +531,15 @@
         },
         {
           "title": "6. Купите футболку или кружку!",
-          "#text": "Футболка - это простое, но мощное средство для повышения осведомленности о Amikumu. Ознакомьтесь с нашим `интернет-магазином <https://www.amikumu.com/shop/#!/>`_."
+          "#text": "Футболка - это простое, но мощное средство для повышения осведомленности о Amikumu. Ознакомьтесь с нашим `интернет-магазином [https://www.amikumu.com/shop/#!/]`_."
         },
         {
           "title": "7. Печатать и распространять наши листовки",
-          "#text": "`Мы подготовили листовки, которые можно распространять <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ в вашей школе, университете и в языковом клубе. Они также были переведены на многие языки для вашего удобства. Если вам нужны специально изготовленные листовки, пожалуйста, свяжитесь с нами `info@amikumu.com <mailto:info@amikumu.com>`_"
+          "#text": "`Мы подготовили листовки, которые можно распространять [https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing]`_ в вашей школе, университете и в языковом клубе. Они также были переведены на многие языки для вашего удобства. Если вам нужны специально изготовленные листовки, пожалуйста, свяжитесь с нами `info@amikumu.com [mailto:info@amikumu.com]`_"
         },
         {
           "title": "8. Организовывайте встречи!",
-          "#text": "И последнее, встречайтесь с людьми посредством Amikumu и делитесь своими историями! Нам очень нравиться, когда вы делитесь своими историями успешных встреч с нашим сообществом. Вышлите нам ваши рассказы и фото `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nНаконец, заранее огромное спасибо за любым помощь. Если у вас есть идеи или предложения, свяжитесь с нами по адресу`info@amikumu.com <mailto:info@amikumu.com>`_.>"
+          "#text": "И последнее, встречайтесь с людьми посредством Amikumu и делитесь своими историями! Нам очень нравиться, когда вы делитесь своими историями успешных встреч с нашим сообществом. Вышлите нам ваши рассказы и фото `info@amikumu.com. [mailto:info@amikumu.com]`_\n\nНаконец, заранее огромное спасибо за любым помощь. Если у вас есть идеи или предложения, свяжитесь с нами по адресу`info@amikumu.com [mailto:info@amikumu.com]`_.>"
         }
       ],
       "#text": "Благодарим вас за ваш интерес к поддержке Amikumu. Вот 8 простых способов показать вашу поддержку и помочь развитию нашего сообщества."
@@ -555,5 +549,4 @@
       "metadata_title": "Поддержите Amikumu сегодня!"
     }
   }
-}
 }

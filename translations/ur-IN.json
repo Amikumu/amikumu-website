@@ -1,7 +1,6 @@
 {
 "page_about-us":
-{
-  "content": {
+ {
     "post_title": "About Us",
     "post_meta": {
       "add_description": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
@@ -51,11 +50,9 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
-}
 ,
 "page_ambassador":
-{
-  "content": {
+ {
     "post_title": "Ambassador",
     "post_content": {
       "section": [
@@ -80,11 +77,9 @@
       "metadata_title": "Join the Amikumu ambassador program!"
     }
   }
-}
 ,
 "page_faq":
-{
-  "content": {
+ {
     "post_title": "Help / FAQ",
     "post_content": {
       "section": [
@@ -153,16 +148,13 @@
       "metadata_title": "Help / FAQ"
     }
   }
-}
 ,
 "page_for-organizations":
-{
-  "content": {
+ {
     "post_title": "For Organizations",
     "post_content": {
-      "ol": "#. Name for the advertisement\n \t#. High quality picture for the advertisement\n \t#. Description for the advertisement (300 characters max)\n \t#. Email address\n \t#. Phone number\n \t#. Website\n \t#. Address (only relevant for advertisements that have a physical address)\n \t#. Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address",
-      "#text": ">"
-    },
+      "ol": "#. Name for the advertisement\n \t#. High quality picture for the advertisement\n \t#. Description for the advertisement (300 characters max)\n \t#. Email address\n \t#. Phone number\n \t#. Website\n \t#. Address (only relevant for advertisements that have a physical address)\n \t#. Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address"
+},
     "post_meta": {
       "additional_month": "for each additional month (must be paid in advance)",
       "advertise_teaser": "A location based advertisement that only the 100 people closest nearby see.",
@@ -195,11 +187,9 @@
       "your_badge": "Your Badge!"
     }
   }
-}
 ,
 "page_home-page":
-{
-  "content": {
+ {
     "post_title": "Home",
     "post_meta": {
       "add_title": "Practice languages nearby",
@@ -228,11 +218,9 @@
       "tutorial_blocks_2_title": "Chat and meetup!"
     }
   }
-}
 ,
 "page_press":
-{
-  "content": {
+ {
     "post_title": "Press",
     "post_content": {
       "subsection": [
@@ -327,11 +315,9 @@
       "metadata_title": "Amikumu in the news!"
     }
   }
-}
 ,
 "page_privacy-terms":
-{
-  "content": {
+ {
     "post_title": "Privacy & Terms",
     "post_content": {
       "main": {
@@ -482,11 +468,9 @@
       "metadata_title": "Amikumu Privacy & Terms"
     }
   }
-}
 ,
 "page_shop":
-{
-  "content": {
+ {
     "post_title": "Shop",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -494,11 +478,9 @@
       "metadata_title": "Amikumu online shop"
     }
   }
-}
 ,
 "page_statistics":
-{
-  "content": {
+ {
     "post_title": "Statistics",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -506,11 +488,9 @@
       "metadata_title": "Amikumu statistics"
     }
   }
-}
 ,
 "page_support-us":
-{
-  "content": {
+ {
     "post_title": "Support Us",
     "post_content": {
       "subsection": [
@@ -555,5 +535,4 @@
       "metadata_title": "Support Amikumu today!"
     }
   }
-}
 }

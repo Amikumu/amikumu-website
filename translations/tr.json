@@ -161,7 +161,7 @@
   "content": {
     "post_title": "Kurumlar için",
     "post_content": {
-      "ol": "#. Reklamın ismi\n \t#. Reklamın yükse çözünürlülükte resmi\n \t#. Reklamın açıklaması (en fazla 300 harf)\n \t#. E-posta adresi\n \t#. Telefon numarası\n \t#. Web sitesi\n \t#. Adres (sadece fiziksel adresi olan reklamlar için geçerli)\n \t#. Reklam adresi (reklamınız dünyanın herhangi bir yerinde görünebilir). Örneğin, olayınız New York'ta olabilir ama Londra'daki insanların ilgisini çekmek isteyebilirsiniz. Bundan dolayı reklam adresi Londra olmalıdır",
+      "ol": "#. Reklamın ismi\n \t#. Reklamın yükse çözünürlülükte resmi\n \t#. Reklamın açıklaması (en fazla 300 harf)\n \t#. E-posta adresi\n \t#. Telefon numarası\n \t#. Web sitesi\n \t#. Adres (sadece fiziksel adresi olan reklamlar için geçerli)\n \t#. Reklam adresi (reklamınız dünyanın herhangi bir yerinde görünebilir). Örneğin, olayınız New York'ta olabilir ama Londra'daki insanların ilgisini çekmek isteyebilirsiniz. Bundan dolayı reklam adresi Londra olmalıdır"
     },
     "post_meta": {
       "additional_month": "her ilave ay için (önceden ödeme yapılmış olmalı)",

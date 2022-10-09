@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Pri ni",
     "post_meta": {
       "add_description": "La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Ĥusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambasadoro",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Partoprenu en la ambasadora programo de Amikumu!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Helpo / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Helpo / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Por organizaĵoj",
     "post_content": {
       "ol": "#. Nomo por la reklamo\n \t#. Altkvalita bildo por la reklamo\n \t#. Priskribo por la reklamo (300 signoj maksimume)\n \t#. Retpoŝtadreso\n \t#. Telefonnumero\n \t#. Retejo\n \t#. Fizika adreso (nur gravas por reklamoj kiuj havas fizikan adreson)\n \t#. Reklama adreso (via reklamo povas aperi ie ajn en la mondo). Ekzemple, se via evento okazus en Novjorko, vi povus allogi homojn el Londono. Do, Londono estus la reklama adreso",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "por ĉiu plua monato (vi devas antaŭpagi ĉiujn monatojn)",
@@ -188,9 +195,11 @@
       "your_badge": "Via ŝildo!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Hejmo",
     "post_content": null,
     "post_meta": {
@@ -220,9 +229,11 @@
       "tutorial_blocks_2_title": "Babilu kaj kunvenu!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Gazetaro",
     "post_content": {
       "subsection": [
@@ -315,9 +326,11 @@
       "metadata_title": "Amikumu en la gazetaro!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Privateca Politiko kaj Kondiĉoj de Uzado",
     "post_content": {
       "h1": "Privacy Policy",
@@ -473,9 +486,11 @@
       "metadata_title": "Amikumu Privateca Politiko & Kondiĉoj de Uzado"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Retbutiko",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -483,9 +498,11 @@
       "metadata_title": "Retbutiko de Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Statistikoj",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -493,9 +510,11 @@
       "metadata_title": "Statistikoj de Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Subtenu nin",
     "post_content": {
       "subsection": [
@@ -540,4 +559,5 @@
       "metadata_title": "Subtenu Amikumu!"
     }
   }
+}
 }

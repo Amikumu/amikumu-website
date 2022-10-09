@@ -154,7 +154,6 @@
     "post_title": "For Organizations",
     "post_content": {
       "ol": "#. Name for the advertisement\n \t#. High quality picture for the advertisement\n \t#. Description for the advertisement (300 characters max)\n \t#. Email address\n \t#. Phone number\n \t#. Riäkersiet\n \t#. Address (only relevant for advertisements that have a physical address)\n \t#. Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "for each additional month (must be paid in advance)",

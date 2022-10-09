@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "关于我们",
     "post_meta": {
       "add_description": "Amikumu的使命是创建和维护一个社交网络，为世界上所有语言的使用者提供一个平台，能在本地交流和分享相关信息，无论每种语言的社会、政治或经济状况如何。",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "大使",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "加入 Amikumu 大使计划!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "帮助/常见问题解答",
     "post_content": {
       "section": [
@@ -148,9 +154,11 @@
       "metadata_title": "帮助/常见问题解答"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "面向组织的说明",
     "post_content": {
       "ol": "#. 广告的名称\n \t#. 在广告中用的高画质图片\n \t#. 广告的叙述（300字内）\n \t#. 电子邮件地址\n \t#. 电话号码\n \t#. 网址\n \t#. 地址（如和广告有关）\n \t#. 对象地址（你的广告可以面向世界中的任何地方）。 举例来说，也许你住在新加坡，但是你想向温哥华投放广告。 那么你的对象地址就是温哥华。",
@@ -188,9 +196,11 @@
       "your_badge": "你的徽章！"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "主页",
     "post_meta": {
       "add_title": "就近练习语言",
@@ -219,9 +229,11 @@
       "tutorial_blocks_2_title": "去聊一聊，聚一聚吧！"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "消息",
     "post_content": {
       "subsection": [
@@ -316,9 +328,11 @@
       "metadata_title": "Amikumu的新闻！"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "隐私和条款",
     "post_content": {
       "main": {
@@ -481,9 +495,11 @@
       "metadata_title": "Amikumu 隐私和条款"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "商店",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +507,11 @@
       "metadata_title": "Amikumu 在线商店"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "统计",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +519,11 @@
       "metadata_title": "Amikumu 统计"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "支持我们",
     "post_content": {
       "subsection": [
@@ -548,4 +568,5 @@
       "metadata_title": "支持Amikumu就在今天！"
     }
   }
+}
 }

@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Öäver uns",
     "post_meta": {
       "add_description": "De missioon van Amikumu is dat upbowen un holden van en sociaal netwark, wat spreakers, gebäärders un brukers van alle språken in de werld en platform büdt vöär lokale kommunikatioon un deylen van relevante informationen - wat de sociale, politiske or ökonomiske ståtus van elke språke ouk is.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambassadör",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Meld dy an by dat Amikumu-ambassadörprogram!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Helpe / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Helpe / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Vöär organisationen",
     "post_content": {
       "ol": "#. Name van de reklame\n \t#. Bild med houge kwaliteet vöär de reklame\n \t#. Vorklåring van de reklame (maks. 300 teykens)\n \t#. Netpostadresse\n \t#. Telefoonnummer\n \t#. Websteade\n \t#. Adresse (alleyn relevant vöär reklame med en fysiske adresse)\n \t#. Adresse van de reklame (dyn reklame kan allerweagens in de werld updükeren). Eksempelwyse mag dyn event in New York weasen, man du wult lüde uut Londen berekken. Sodännig is Londen de adresse van de reklame",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "vöär elken månd ekstra (mut vöäraf betaald warden)",
@@ -188,9 +195,11 @@
       "your_badge": "Dyn embleem!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "To huus",
     "post_meta": {
       "add_title": "Ööv språken in de ümgeaving",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Chättet un koamet tosamen!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Media",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu in et nys!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Bedingen un privaatsfäärregels",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Bedingen un privaatsfäärregels van Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Butik",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Amikumu-webbutik"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Statistiken",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Amikumu statistiken"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Ünderstüt uns",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Ünderstüt Amikumu vandage!"
     }
   }
+}
 }

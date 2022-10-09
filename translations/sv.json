@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Om mig",
     "post_meta": {
       "add_description": "Amikumus uppdrag är att skapa och underhålla ett socialt nätverk som förser talare, tecknare och övriga språkanvändare med relevant lokal information, oavsett språkets sociala, politiska eller ekonomiska status.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Jelena Husanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambassadör",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Anslut dig till Amikumus ambassadörprogram idag!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Hjälp / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Hjälp / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "För organisationer",
     "post_content": {
       "ol": "#. Namn för reklam\n \t#. Hög bildkvalitet för reklam\n \t#. Beskrivning för reklam (max 300 tecken)\n \t#. E-postadress\n \t#. Telefonnummer\n \t#. Webbplats\n \t#. Adress (endast relevant om reklamen besitter en fysisk adress)\n \t#. Reklamadress (er reklam kan dyka upp var som helst i världen). Till exempel: Ert evenemang kanske är i New York, men ni vill locka till er folk från London. Sådels blir London är reklamadress",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "för varje ytterligare månad (skall betalas i förskott)",
@@ -188,9 +195,11 @@
       "your_badge": "Din bricka!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Hem",
     "post_meta": {
       "add_title": "Träna på språk i närheten",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Chatta och träffas!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Press",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu i nyheterna!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Sekretess & Användarvillkor",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Amikumu Sekretess & Användarvillkor"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Nätbutik",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -494,9 +509,11 @@
       }
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Statistik",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -504,9 +521,11 @@
       "metadata_title": "Statistik från Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Stöd oss",
     "post_content": {
       "subsection": [
@@ -551,4 +570,5 @@
       "metadata_title": "Stöd Amikumu idag!"
     }
   }
+}
 }

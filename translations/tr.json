@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Hakkımızda",
     "post_meta": {
       "add_description": "Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Büyükelçi",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Amikumu elçisi programına katılın!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Yardım / SSS",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Yardım / SSS"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Kurumlar için",
     "post_content": {
       "ol": "#. Reklamın ismi\n \t#. Reklamın yükse çözünürlülükte resmi\n \t#. Reklamın açıklaması (en fazla 300 harf)\n \t#. E-posta adresi\n \t#. Telefon numarası\n \t#. Web sitesi\n \t#. Adres (sadece fiziksel adresi olan reklamlar için geçerli)\n \t#. Reklam adresi (reklamınız dünyanın herhangi bir yerinde görünebilir). Örneğin, olayınız New York'ta olabilir ama Londra'daki insanların ilgisini çekmek isteyebilirsiniz. Bundan dolayı reklam adresi Londra olmalıdır",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "her ilave ay için (önceden ödeme yapılmış olmalı)",
@@ -188,9 +195,11 @@
       "your_badge": "Rozetini!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Ana sayfa",
     "post_meta": {
       "add_title": "Etrafta dil pratiği yapın",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Sohbet edin ve buluşun!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Basın",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Haberlerde Amikumu!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Gizlilik ve şartlar",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Amikumu gizlilik ve koşullar"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Dükkan",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Amikumu online dükkan"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Istatistikleri",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Amikumu istatistikleri"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Bizi destekle",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Amikumu'ya bugün destek verin!"
     }
   }
+}
 }

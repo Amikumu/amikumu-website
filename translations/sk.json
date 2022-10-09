@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "O nás",
     "post_meta": {
       "add_description": "Misiou Amikumu je vytvoriť a udržiavať sociálnu sieť, ktorá poskytuje hovoriacim, znakujúcim a užívateľom všetkých svetových jazykov platformu pre komunikáciu a zdieľanie relevantných informácií lokálne bez pohľadu na spoločenský, politický či ekonomický status jednotlivých jazykov.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambassador",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Pripojte sa do programu Amikumu ambasadorov!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Pomoc / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Pomoc / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Pre organizácie",
     "post_content": {
       "ol": "#. Názov reklamy\n \t#. Obrázok k reklame vo vysokej kvalite\n \t#. Text reklamy (maximálne 300 znakov)\n \t#. Emailová adresa\n \t#. Telefónne číslo\n \t#. Webstránka\n \t#. Adresa (relevantná len pre reklamy, ktoré majú fyzickú adresu)\n \t#. Adresa reklamy (vaša reklama sa môže zobrazovať kdekoľvek na svete). Napríklad sa vaša udalosť môže diať v New Yorku, ale chcete prilákať ľudí z Londýna. V takom prípade je Londýn adresa reklamy",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "za kazždý dodatočný mesiac (musí byť vyplatené vopred)",
@@ -188,9 +195,11 @@
       "your_badge": "Váš odznak!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Domov",
     "post_meta": {
       "add_title": "Precvičuj jazyky zo svojho okolia",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Chatuj a stretni sa!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Médiá",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu v médiách!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Súkromie a podmienky",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Podmienky a pravidlá Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Obchod",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Online obchod Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Štatistiky",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Štatistiky Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Podporte nás",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Podporte Amikumu už dnes!"
     }
   }
+}
 }

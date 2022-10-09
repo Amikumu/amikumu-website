@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Sur nos",
     "post_meta": {
       "add_description": "La mision de Amikumu es crea e manteni un rede sosial cual furni parlores e usores de linguas de sinia, e tota la linguas de la mundo, con un plataforma per comunica e comparti local informa pertinente, sin relata con la state sosial, political, o economial de cada lingua.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Cusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambasador",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Junta la program de ambasador per Amikumu!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Aida / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Aida / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Per organizas",
     "post_content": {
       "ol": "#. Nom per la anunsia\n \t#. Foto de cualia alta per la anunsia\n \t#. Descrive per la anunsia (300 sinias a masima)\n \t#. Adirije de eposta\n \t#. Numero de telefon\n \t#. Loca ueb\n \t#. Adirije (sola pertinente per anunsias cual ave un adirije fisical)\n \t#. Adirije de anunsia (tua anunsia pote apare en cualce loca en la mundo). Per esemplo, tua aveni ta pote es en New York ma tu vole atrae plu persones de London. Donce, London es la adirije de anunsia",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "per cada mense de plu (debe es paiada en avansa)",
@@ -188,9 +195,11 @@
       "your_badge": "Tua Insinia!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Casa",
     "post_meta": {
       "add_title": "Pratica linguas prosima",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Parleta e asembla!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Jornalistes",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu en la novas!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Privatia & Restrinjes",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Privatia e Restrinjes de Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Boteca",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Boteca enlinia de Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Statisticas",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Statisticas de Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Suporta nos",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Suporta oji Amikumu!"
     }
   }
+}
 }

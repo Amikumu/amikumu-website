@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "О нас",
     "post_meta": {
       "add_description": "Цель Amikumu - создать и поддерживать социальную сеть, которая позволит носителям различных языков, в том числе жестовых, общаться и делиться свежей информацией на своей территории, независимо от социального, политического или экономического статуса каждого из языков.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Чак Смит",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Елена Хусанова"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Амбассадор",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Присоединяйтесь к программе амбассадоров Amikumu!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Помощь / часто задаваемые вопросы",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Помощь / ЧаВо"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Для организаций",
     "post_content": {
       "ol": "#. Название для рекламного объявления\n \t#. Картинка высокого качества для рекламного объявления\n \t#. Описание для рекламы (не более 300 знаков)\n \t#. Адрес электронной почты\n \t#. Номер телефона\n \t#. Сайт\n \t#. Адрес (актуально только для объявлений, которые имеют физический адрес)\n \t#. Рекламный адрес (ваши объявления могут появляться по всему миру). Например, событие может быть в Нью-Йорке, но вы хотите привлечь людей из Лондона. Таким образом Екатеринбург — это адрес рекламы",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "за каждый дополнительный месяц (должен быть оплачен заранее)",
@@ -188,9 +195,11 @@
       "your_badge": "Ваш значок!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Главная",
     "post_meta": {
       "add_title": "Практикуй языки поблизости",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Общайся и встречайся!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Пресса",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu в новостях!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Условия конфиденциальности",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Конфиденциальность и условия Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Магазином",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Интернет-магазин Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Пресса",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Статистика Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Поддержите нас",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Поддержите Amikumu сегодня!"
     }
   }
+}
 }

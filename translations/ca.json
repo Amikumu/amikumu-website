@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Quant a nosaltres",
     "post_meta": {
       "add_description": "La missió de l'Amikumu és crear i mantenir una xarxa social que proporcioni als parlants, signants i usuaris de totes les llengües del món una plataforma per a comunicar i compartir informació rellevant a nivell local, independentment de l'estatus social, polític o econòmic de cada llengua.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Khusanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Ambaixador",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Uniu-vos al programa d'ambaixadors de l'Amikumu!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Ajuda / FAQ",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Ajuda / FAQ"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Per a les organitzacions",
     "post_content": {
       "ol": "#. Nom de l'anunci\n \t#. Imatge d'alta qualitat per a l'anunci\n \t#. Descripció de l'anunci (300 caràcters com a màxim)\n \t#. Adreça electrònica\n \t#. Número de telèfon\n \t#. Lloc web\n \t#. Adreça (només per als anuncis que tenen una adreça física)\n \t#. Adreça de l'anunci (el vostre anunci pot aparèixer a qualsevol lloc del món: per exemple, el vostre esdeveniment podria ser a Nova York, però voleu atreure gent de Londres; per tant, Londres és l'adreça de publicitat).",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "per a cada mes addicional (s'ha de pagar per avançat)",
@@ -188,9 +195,11 @@
       "your_badge": "El vostre emblema!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Inici",
     "post_meta": {
       "add_title": "Practiqueu llengües a prop",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Converseu i coneixeu-vos!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Premsa",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "L'Amikumu a les notícies"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Termes i privacitat",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Termes i privacitat de l'Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Botiga",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Botiga en línia de l'Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Estadístiques",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Estadístiques de l'Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Doneu-nos suport",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Doneu-nos suport!"
     }
   }
+}
 }

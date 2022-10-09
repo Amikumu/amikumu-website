@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "من نحن",
     "post_meta": {
       "add_description": "مهمة أميكومو هي إنشاء والحفاظ على شبكة اجتماعية توفر المتحدثين و مترجمين لغة الاشارة والمستخدمين لجميع لغات العالم من خلال منصة للتواصل وتبادل المعلومات ذات الصلة محليا ، بغض النظر عن الوضع الاجتماعي أو السياسي أو الاقتصادي الخاص لكل لغة. قبل تأسيس أميكومو ، أسس ريتشارد تلفزيون اسبرانتو وعمل في مجلس إدارة جمعية الأسبرانتو الأسترالية (AEA) وجمعية مهرجان اللغة (LFA) واتحاد إسبرانتو بنيو ساوث ويلز (EFNSW). بالإضافة إلى ذلك ، خدم ست سنوات في الجيش الأسترالي كمترجم للإشارات وعمل في العديد من الشركات الدولية كمدير للأنظمة. \"أميكومو تمثل جزء أساسي من مجموعة أدوات كل متعلم لغوي.\"\n>",
@@ -24,6 +25,7 @@
       "team_members_1_name": "تشاك سميث\n>",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "إيلينا  خوسانوفا\n>"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "السفير",
     "post_content": {
       "section": [
@@ -83,9 +87,11 @@
       "metadata_title": "انضم إلى برنامج سفير أميكومو!"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "المساعدة/ التعليمات\n>",
     "post_content": {
       "section": [
@@ -154,16 +160,17 @@
       "metadata_title": "المساعدة - التعليمات"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "للمنظمات",
     "post_content": {
       "ol": {
         "li": "عنوان الإعلان (يمكن أن يظهر إعلانك في أي مكان في العالم). على سبيل المثال ،\n على سبيل المثال ، قد يكون الحدث الخاص بك في نيويورك ولكنك ترغب في جذب أشخاص من لندن.  لذلك ، لندن هي عنوان الإعلان",
         "#text": "#. اسم للإعلان\n \t#. صورة عالية الجودة للإعلان\n \t#. وصف للإعلان (300 حرف كحد أقصى)\n \t#. عنوان البريد الإلكتروني\n \t#. رقم الهاتف\n \t#. موقع الكتروني\n \t#. العنوان (ملائم فقط للإعلانات التي لها عنوان فعلي)"
       },
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "لكل شهر إضافي (يجب الدفع مقدما)\n>",
@@ -197,9 +204,11 @@
       "your_badge": "شارتك!"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "منزل",
     "post_meta": {
       "add_title": "مارس اللغات في مكان قريب",
@@ -228,9 +237,11 @@
       "tutorial_blocks_2_title": "دردشة و تواصل!"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "صحافة",
     "post_content": {
       "subsection": [
@@ -325,9 +336,11 @@
       "metadata_title": "أميكومو فى الأخبار!"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "الخصوصية و الشروط",
     "post_content": {
       "main": {
@@ -490,9 +503,11 @@
       "metadata_title": "اميكومو الخصوصية و الشروط"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "المتجر",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -500,9 +515,11 @@
       "metadata_title": "متجر أميوكو  الإلكتروني-  عبر الإنترنت-"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "الإحصائيات \n>",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -510,9 +527,11 @@
       "metadata_title": "إحصائيات أميكومو"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "تقديم الدعم لنا",
     "post_content": {
       "subsection": [
@@ -557,4 +576,5 @@
       "metadata_title": "دعم أميكومو اليوم!"
     }
   }
+}
 }

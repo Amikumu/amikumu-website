@@ -1,6 +1,7 @@
 {
 "page_about-us":
- {
+{
+  "content": {
     "post_title": "Icde cin",
     "post_meta": {
       "add_description": "Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.",
@@ -24,6 +25,7 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
+        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,9 +52,11 @@
       "team_members_5_name": "Elena Husanova"
     }
   }
+}
 ,
 "page_ambassador":
- {
+{
+  "content": {
     "post_title": "Permik",
     "post_content": {
       "section": [
@@ -77,9 +81,11 @@
       "metadata_title": "Va permaf talpey ke Amikumu pakel djay ‼"
     }
   }
+}
 ,
 "page_faq":
- {
+{
+  "content": {
     "post_title": "Pomara / Bibeeem",
     "post_content": {
       "section": [
@@ -148,13 +154,14 @@
       "metadata_title": "Pomara / Bibeeem"
     }
   }
+}
 ,
 "page_for-organizations":
- {
+{
+  "content": {
     "post_title": "Mu viley",
     "post_content": {
       "ol": "#. Yolt ke plataera\n \t#. Duganyafa ewava mu plataera\n \t#. Pimtara mu plataera (iclo 300 staa)\n \t#. Givavuropamane\n \t#. Sumepulvisikiotuk\n \t#. Debak\n \t#. Piutemane (zolonafa anton tori plataeks digis va ine)\n \t#. Plataerafe mane (rinafa plataera rotulaviawer betlize koe tamava). Tulon, ede rinafa bifa co dilizer koe New York, pune va korik bas London co roguivel. Acum, London co tir plataerafe mane",
-      "#text": ">"
     },
     "post_meta": {
       "additional_month": "mu kot isaf aksat (gonabdidodena)",
@@ -188,9 +195,11 @@
       "your_badge": "Rinafa ewava !"
     }
   }
+}
 ,
 "page_home-page":
- {
+{
+  "content": {
     "post_title": "Emudexo",
     "post_meta": {
       "add_title": "Va ava ul pokeon vay ‼",
@@ -219,9 +228,11 @@
       "tutorial_blocks_2_title": "Prilal ise kevlanil djay ‼"
     }
   }
+}
 ,
 "page_press":
- {
+{
+  "content": {
     "post_title": "Lidayeem",
     "post_content": {
       "subsection": [
@@ -316,9 +327,11 @@
       "metadata_title": "Amikumu koe lidayeem !"
     }
   }
+}
 ,
 "page_privacy-terms":
- {
+{
+  "content": {
     "post_title": "Yasegucafa gaderopa is kreda ke favera",
     "post_content": {
       "main": {
@@ -481,9 +494,11 @@
       "metadata_title": "Yasegucafa gaderopa is kreda ke favera ke Amikumu"
     }
   }
+}
 ,
 "page_shop":
- {
+{
+  "content": {
     "post_title": "Dolta",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -491,9 +506,11 @@
       "metadata_title": "Internet gortafa dolta ke Amikumu"
     }
   }
+}
 ,
 "page_statistics":
- {
+{
+  "content": {
     "post_title": "Enkopa",
     "post_content": "No translation needed.",
     "post_meta": {
@@ -501,9 +518,11 @@
       "metadata_title": "Enkopa ke Amikumu"
     }
   }
+}
 ,
 "page_support-us":
- {
+{
+  "content": {
     "post_title": "Va cin bristul vay ‼",
     "post_content": {
       "subsection": [
@@ -548,4 +567,5 @@
       "metadata_title": "Va Amikumu revielon bristul djay ‼"
     }
   }
+}
 }

@@ -66,7 +66,7 @@
         },
         {
           "title": "Que fait un ambassadeur ?",
-          "ul": "#. Ils publient des articles de blog et des vidéos sur YouTube ! Par exemple, jetez un coup d’œil à `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ou `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante), entre autres. Nous avons toute une page consacrée aux `communiqués de presse <http://amikumu.com/press/>`_.\n \t#. Ils partagent des liens dans des groupes Facebook et sur leurs profils. Même une simple manifestation publique de soutien peut faire beaucoup !\n \t#. Ils distribuent des prospectus et parlent d’Amikumu dans des événements locaux concernant les langues. C’est aussi une excellente manière de créer une communauté locale et de l’agrandir.\n \t#. Ils `traduisent l’application <https://traduk.amikumu.com/engage/amikumu/>`_ et le site dans leur langue. Notre but est de devenir l’application la plus traduire au monde et nous avons besoin de toute l’aide possible pour y parvenir.\n \t#. Ils fournissent des conseils indispensables. Nous comprenons que chaque langue et chaque culture est différente. Nous avons besoin de vos conseils pour savoir comment agir au mieux dans votre communauté.",
+          "ul": "#. Ils publient des articles de blog et des vidéos sur YouTube ! Par exemple, jetez un coup d’œil à `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ou `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante), entre autres. Nous avons toute une page consacrée aux `communiqués de presse <http://amikumu.com/press/>`_.\n \t#. Ils partagent des liens dans des groupes Facebook et sur leurs profils. Même une simple manifestation publique de soutien peut faire beaucoup !\n \t#. Ils distribuent des prospectus et parlent d’Amikumu dans des événements locaux concernant les langues. C’est aussi une excellente manière de créer une communauté locale et de l’agrandir.\n \t#. Ils `traduisent l’application <https://traduk.amikumu.com/engage/amikumu/fr>`_ et le site dans leur langue. Notre but est de devenir l’application la plus traduire au monde et nous avons besoin de toute l’aide possible pour y parvenir.\n \t#. Ils fournissent des conseils indispensables. Nous comprenons que chaque langue et chaque culture est différente. Nous avons besoin de vos conseils pour savoir comment agir au mieux dans votre communauté.",
           "#text": "Cela dépend de ce à quoi ils peuvent s’engager. Voici une liste de quelques unes des manières dont nos ambassadeurs coopèrent avec nous pour faire connaître Amikumu dans le monde."
         },
         {
@@ -135,7 +135,7 @@
             },
             {
               "title": "Puis-je traduire Amikumu ?",
-              "#text": "Oui, vous pouvez nous aider à traduire Amikumu `dans votre langue ici. <https://traduk.amikumu.com/engage/amikumu/>`_."
+              "#text": "Oui, vous pouvez nous aider à traduire Amikumu `dans votre langue ici. <https://traduk.amikumu.com/engage/amikumu/fr>`_."
             },
             {
               "title": "Que signifie « Amikumu » ?",
@@ -541,7 +541,7 @@
         },
         {
           "title": "4. Aidez-nous à traduire l’application et le site !",
-          "#text": "Notre but est de devenir l’application la plus traduite au monde ! Ce n’est pas si facile, c’est pour ça que nous avons besoin de vous !\n\nPour contribuer à une traduction existante ou en commencer une nouvelle, veuillez vous inscrire à `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/>`_ (notre service de traduction préféré) et choisissez la langue dans laquelle vous voulez traduire. Il n’y a pas de minimum requis : vous pouvez traduire toute l’application ou bien un seul mot, c’est vous qui décidez."
+          "#text": "Notre but est de devenir l’application la plus traduite au monde ! Ce n’est pas si facile, c’est pour ça que nous avons besoin de vous !\n\nPour contribuer à une traduction existante ou en commencer une nouvelle, veuillez vous inscrire à `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/fr>`_ (notre service de traduction préféré) et choisissez la langue dans laquelle vous voulez traduire. Il n’y a pas de minimum requis : vous pouvez traduire toute l’application ou bien un seul mot, c’est vous qui décidez."
         },
         {
           "title": "5. Achetez un abonnement Or !",

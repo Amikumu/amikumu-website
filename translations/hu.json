@@ -66,7 +66,7 @@
         },
         {
           "title": "Mit csinál egy nagykövet?",
-          "ul": "#. Blogbejegyzéseket és YouTube videókat posztolnak! Például, nézd meg ezt: `Amikumu: Az app, amire a jiddisül beszélők mindig is vártak! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizentől) és ezt: `Auslan: Mi az Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante-tól), hogy csak két példát említsünk. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. Linkeket posztolnak Facebook-csoportokban és a profiljukon. Egy egyszerű megnyilvánulás a támogatásunkról is sokat jelenthet!\n \t#. Szórólapokat osztanak az Amikumuról és beszélnek is róla a hely nyelvi találkozókon. A helyi közösségépítés remek példája.\n \t#. `Lefordítják az appet <https://traduk.amikumu.com/engage/amikumu/>`_ és a weboldalt helyi nyelveikre. A célunk, hogy a a világon a legtöbb nyelvre lefordított app legyünk, és ennek az eléréséhez segítségre van szükségünk.\n \t#. Nagyon fontos segítséget nyújtanak az útmutatásban. Minden nyelv és kultúra más. Szükségünk van a tanácsodra arról, hogy mi a legjobb stratégia a te közösségedben.",
+          "ul": "#. Blogbejegyzéseket és YouTube videókat posztolnak! Például, nézd meg ezt: `Amikumu: Az app, amire a jiddisül beszélők mindig is vártak! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizentől) és ezt: `Auslan: Mi az Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante-tól), hogy csak két példát említsünk. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. Linkeket posztolnak Facebook-csoportokban és a profiljukon. Egy egyszerű megnyilvánulás a támogatásunkról is sokat jelenthet!\n \t#. Szórólapokat osztanak az Amikumuról és beszélnek is róla a hely nyelvi találkozókon. A helyi közösségépítés remek példája.\n \t#. `Lefordítják az appet <https://traduk.amikumu.com/engage/amikumu/hu>`_ és a weboldalt helyi nyelveikre. A célunk, hogy a a világon a legtöbb nyelvre lefordított app legyünk, és ennek az eléréséhez segítségre van szükségünk.\n \t#. Nagyon fontos segítséget nyújtanak az útmutatásban. Minden nyelv és kultúra más. Szükségünk van a tanácsodra arról, hogy mi a legjobb stratégia a te közösségedben.",
           "#text": "Ez attól függ, mit tud elvállalni. Összegyűjtöttünk néhány példát arról, hogyan dolgoznak a nagyköveteink az Amikumu népszerűsítésén, a világ minden táján."
         },
         {
@@ -135,7 +135,7 @@
             },
             {
               "title": "Lefordíthatom az Amikumu-t?",
-              "#text": "Igen, segíthetsz az Amikumu fordításában a következő nyelvre`írd ide a nyelvedet <https://traduk.amikumu.com/engage/amikumu/>`_."
+              "#text": "Igen, segíthetsz az Amikumu fordításában a következő nyelvre`írd ide a nyelvedet <https://traduk.amikumu.com/engage/amikumu/hu>`_."
             },
             {
               "title": "Mit jelent az Amikumu?",
@@ -541,7 +541,7 @@
         },
         {
           "title": "4. Segíts az app és a weboldal lefordításában!",
-          "#text": "Célunk, hogy a világon a legtöbb nyelvre lefordított app legyünk! Ez nem könnyű, így szükségünk van a segítségedre! A már létező fordítások szerkesztéséhez vagy egy új fordítás kezdeményezéséhez regisztrálj itt `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/>`_ (ez az általunk preferált fordítási program) és válaszd ki azt a nyelvet, amire szeretnél fordítani. Nincs kötelező minimum, lefordíthatod az egész alkalmazást, vagy csak egy szót belőle - a te döntésed."
+          "#text": "Célunk, hogy a világon a legtöbb nyelvre lefordított app legyünk! Ez nem könnyű, így szükségünk van a segítségedre! A már létező fordítások szerkesztéséhez vagy egy új fordítás kezdeményezéséhez regisztrálj itt `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/hu>`_ (ez az általunk preferált fordítási program) és válaszd ki azt a nyelvet, amire szeretnél fordítani. Nincs kötelező minimum, lefordíthatod az egész alkalmazást, vagy csak egy szót belőle - a te döntésed."
         },
         {
           "title": "5. Vásárolj aranyfokozatú tagságot!",

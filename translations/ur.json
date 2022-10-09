@@ -62,7 +62,7 @@
         },
         {
           "title": "What does an Ambassador do?",
-          "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community.",
+          "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/ur>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community.",
           "#text": "It depends on what they can commit. We've listed some of the ways our ambassadors are working with us to promote Amikumu around the world."
         },
         {
@@ -129,7 +129,7 @@
             },
             {
               "title": "Can I translate Amikumu?",
-              "#text": "Yes, you can help translate Amikumu to `your language here <https://traduk.amikumu.com/engage/amikumu/>`_."
+              "#text": "Yes, you can help translate Amikumu to `your language here <https://traduk.amikumu.com/engage/amikumu/ur>`_."
             },
             {
               "title": "What does Amikumu mean?",
@@ -509,7 +509,7 @@
         },
         {
           "title": "4. Help translate the app and website!",
-          "#text": "Our aim is to become the most translated app in the world! This is not easy, so we need your help!\n\nTo contribute to an existing translation or start a new one, please sign up to `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/>`_ (our preferred translation service) and select the language you want to translate. There's no required minimum, you can translate the entire app or just a single word–you decide."
+          "#text": "Our aim is to become the most translated app in the world! This is not easy, so we need your help!\n\nTo contribute to an existing translation or start a new one, please sign up to `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/ur>`_ (our preferred translation service) and select the language you want to translate. There's no required minimum, you can translate the entire app or just a single word–you decide."
         },
         {
           "title": "5. Purchase a Gold Membership!",

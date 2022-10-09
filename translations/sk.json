@@ -66,7 +66,7 @@
         },
         {
           "title": "Čo ambasador robí?",
-          "ul": "#. Publikujú blogy a videá na YouTube! Pozrite si napríklad `Amikumu: Aplikácia, na ktorú hovorcovia Yiddish čakali! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) a `Auslan: Čo je Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) medzi inými. Máme samostatnú stránku venovanú `tlačovým správam <http://amikumu.com/press/>`_.\n \t#. Postujú odkazy v skupinách a na ich profiloch na Facebooku. Hoci ide o jednoduchú formu verejnej podpory, môže sa dostať ďaleko!\n \t#. Rozdávajú letáky a hovoria o Amikumu na miestnych stretnutiach venovaných jazykom. Ide tiež o skvelý spôsob ako vybudovať a nechať rásť miestnu komunitu.\n \t#. `Prekladajú aplikáciu <https://traduk.amikumu.com/engage/amikumu/>`_ a webstránku do ich lokálnych jazykov. Našim cieľom je stať sa najprekladanejšou aplikáciou na svete a potrebujeme pomoc, aby sme to dosiahli.\n \t#. Poskytujú nám životne dôležitú pomoc. Chápeme, že každý jazyk a kultúra sú rozdielne. Chceme a potrebujeme vaše rady ak najlepšie fungovať vo vašej komunite.",
+          "ul": "#. Publikujú blogy a videá na YouTube! Pozrite si napríklad `Amikumu: Aplikácia, na ktorú hovorcovia Yiddish čakali! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) a `Auslan: Čo je Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) medzi inými. Máme samostatnú stránku venovanú `tlačovým správam <http://amikumu.com/press/>`_.\n \t#. Postujú odkazy v skupinách a na ich profiloch na Facebooku. Hoci ide o jednoduchú formu verejnej podpory, môže sa dostať ďaleko!\n \t#. Rozdávajú letáky a hovoria o Amikumu na miestnych stretnutiach venovaných jazykom. Ide tiež o skvelý spôsob ako vybudovať a nechať rásť miestnu komunitu.\n \t#. `Prekladajú aplikáciu <https://traduk.amikumu.com/engage/amikumu/sk>`_ a webstránku do ich lokálnych jazykov. Našim cieľom je stať sa najprekladanejšou aplikáciou na svete a potrebujeme pomoc, aby sme to dosiahli.\n \t#. Poskytujú nám životne dôležitú pomoc. Chápeme, že každý jazyk a kultúra sú rozdielne. Chceme a potrebujeme vaše rady ak najlepšie fungovať vo vašej komunite.",
           "#text": "Záleží na tom, k čomu sa vedia zaviazať. Uviedli sme zoznam niekoľkých spôsobov ako s nami ambasadori spolupracujú pri propagácii Amikumu na celom svete."
         },
         {
@@ -135,7 +135,7 @@
             },
             {
               "title": "Môžem preložiť Amikumu?",
-              "#text": "Áno, môžete pomôcť preložiť Amikumu do `vášho jazyka tu <https://traduk.amikumu.com/engage/amikumu/>`_."
+              "#text": "Áno, môžete pomôcť preložiť Amikumu do `vášho jazyka tu <https://traduk.amikumu.com/engage/amikumu/sk>`_."
             },
             {
               "title": "Čo znamená Amikumu?",
@@ -541,7 +541,7 @@
         },
         {
           "title": "4. Pomôžte preložiť aplikáciu a webovú stránku!",
-          "#text": "Naším cieľom je stať sa najprekladanejšou aplikáciou na svete! To nie je jednoduché, takže potrebujeme vašu pomoc! Ak chcete prispieť k existujúcemu prekladu alebo začať nový, zaregistrujte sa prosím na `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/>`_ (naša preferovaná prekladateľská služba) a vyberte jazyk, ktorý chcete preložiť. Nie je stanovené potrebné minimum, môžete preložiť celú aplikáciu alebo len jedno slovo - vy sa rozhodnete."
+          "#text": "Naším cieľom je stať sa najprekladanejšou aplikáciou na svete! To nie je jednoduché, takže potrebujeme vašu pomoc! Ak chcete prispieť k existujúcemu prekladu alebo začať nový, zaregistrujte sa prosím na `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/sk>`_ (naša preferovaná prekladateľská služba) a vyberte jazyk, ktorý chcete preložiť. Nie je stanovené potrebné minimum, môžete preložiť celú aplikáciu alebo len jedno slovo - vy sa rozhodnete."
         },
         {
           "title": "5. Zakúpiť zlaté členstvo!",

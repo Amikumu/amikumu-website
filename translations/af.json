@@ -1,6 +1,5 @@
 {
-"page_about-us":
- {
+  "page_about-us": {
     "post_title": "Oor Ons",
     "post_meta": {
       "add_description": "Die missie van Amikumu is om 'n sosiale netwerk te skep en te handhaaf wat sprekers, signers en gebruikers van die hele wêreld se tale 'n platform aan te bied om te kommunikeer en relevante inligting plaaslik, ongeag van die sosiale, politieke of ekonomiese status van elke taal, te deel.",
@@ -24,7 +23,6 @@
       "team_members_1_name": "Chuck Smith",
       "team_members_2_city": "Amsterdam, The Netherlands",
       "team_members_2_description": {
-        "br": null,
         "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
       },
       "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
@@ -50,10 +48,8 @@
       "team_members_5_languages": "Engels, Russies, Esperanto, Slowaaks, Sweeds, Toki Pona",
       "team_members_5_name": "Elena Khusanova"
     }
-  }
-,
-"page_ambassador":
- {
+  },
+  "page_ambassador": {
     "post_title": "Ambassador",
     "post_content": {
       "section": [
@@ -77,10 +73,8 @@
       "metadata_desc": "An Amikumu ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters.",
       "metadata_title": "Join the Amikumu ambassador program!"
     }
-  }
-,
-"page_faq":
- {
+  },
+  "page_faq": {
     "post_title": "Help / FAQ",
     "post_content": {
       "section": [
@@ -148,10 +142,8 @@
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Help / FAQ"
     }
-  }
-,
-"page_for-organizations":
- {
+  },
+  "page_for-organizations": {
     "post_title": "For Organizations",
     "post_content": {
       "ol": "#. Name for the advertisement\n \t#. High quality picture for the advertisement\n \t#. Description for the advertisement (300 characters max)\n \t#. Email address\n \t#. Phone number\n \t#. Website\n \t#. Address (only relevant for advertisements that have a physical address)\n \t#. Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address",
@@ -188,10 +180,8 @@
       "total_users": "Total Users",
       "your_badge": "Your Badge!"
     }
-  }
-,
-"page_home-page":
- {
+  },
+  "page_home-page": {
     "post_title": "Home",
     "post_meta": {
       "add_title": "Practice languages nearby",
@@ -219,10 +209,8 @@
       "tutorial_blocks_2_text": "Message others nearby who speak your language.\n\nSend pictures, voice messages and map coordinates.\n\nQuickly organize meetups and make friends for life.>",
       "tutorial_blocks_2_title": "Chat and meetup!"
     }
-  }
-,
-"page_press":
- {
+  },
+  "page_press": {
     "post_title": "Press",
     "post_content": {
       "subsection": [
@@ -316,10 +304,8 @@
       "metadata_desc": "Welcome to the Amikumu press page. Here you can find countless links to articles about Amikumu in different languages.",
       "metadata_title": "Amikumu in the news!"
     }
-  }
-,
-"page_privacy-terms":
- {
+  },
+  "page_privacy-terms": {
     "post_title": "Privacy & Terms",
     "post_content": {
       "h1": "Privacy Policy",
@@ -474,30 +460,24 @@
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Amikumu Privacy & Terms"
     }
-  }
-,
-"page_shop":
- {
+  },
+  "page_shop": {
     "post_title": "Shop",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Visit the online Amikumu shop and get one of our awesome t-shirts to help raise awareness of Amikumu in your local community.",
       "metadata_title": "Amikumu online shop"
     }
-  }
-,
-"page_statistics":
- {
+  },
+  "page_statistics": {
     "post_title": "Statistics",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Amikumu statistics"
     }
-  }
-,
-"page_support-us":
- {
+  },
+  "page_support-us": {
     "post_title": "Support Us",
     "post_content": {
       "subsection": [

@@ -12,52 +12,52 @@
       "metadata_title": "Amikumuのチーム紹介",
       "our_team": "メンバーたち",
 "members": [{
-      "team_members_0_city": "オーストラリア、シドニー",
-      "team_members_0_description": "イヴァルディア（Evildea）の名でも知られるリチャード・デラモアは、オーストラリア在住のユーチューバーであり、エスペラントの映画業界の重鎮でもあります。 Amikumuに着手する前、リチャードはエスペラントTVを創設し、オーストラリアエスペラント協会、言語フェステバル協会、そしてニューサウスウェールズエスペラント協会の役員でもありました。 オーストラリア軍で6年間通信士として従事し、多くの国際企業でコンピュータ管理者として働いてきました。",
-      "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
-      "team_members_0_job_title": "責任者",
-      "team_members_0_languages": "英語、エスペラント、中国語（官話）",
-      "team_members_0_name": "リチャード・デラモア"
+      "city": "オーストラリア、シドニー",
+      "description": "イヴァルディア（Evildea）の名でも知られるリチャード・デラモアは、オーストラリア在住のユーチューバーであり、エスペラントの映画業界の重鎮でもあります。 Amikumuに着手する前、リチャードはエスペラントTVを創設し、オーストラリアエスペラント協会、言語フェステバル協会、そしてニューサウスウェールズエスペラント協会の役員でもありました。 オーストラリア軍で6年間通信士として従事し、多くの国際企業でコンピュータ管理者として働いてきました。",
+      "quote": "Amikumu is an essential part of every language learner’s toolkit.",
+      "job_title": "責任者",
+      "languages": "英語、エスペラント、中国語（官話）",
+      "name": "リチャード・デラモア"
           },
           {
-            "team_members_1_city": "ドイツ、ベルリン（アメリカ合衆国出身）",
-      "team_members_1_description": "チュック・スミスはPolyglot Gatheringの共催者のひとりで、Duolingoのエスペラントコースに貢献し、エスペラント版ウィキペディアを創設しました。そのほかにも言語に関する数多くのプロジェクトに従事しています。 彼は2008年にアップルApp Storeを開設して以来iOSアプリを開発してきました。 2002年、ブラジルを旅行中にGPSを使って近くのエスペランティストをみつけるというアイデアを得た彼はテクノロジーの進歩がその夢を実現させるために15年もの間待たなければなりませんでした。 あらゆる場所で人々が結びつき、それが世界が良くしていく。その手助けをするための挑戦に彼は嬉々として取り組んでいます",
-      "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
-      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
-      "team_members_1_languages": "英語、エスペラント、ドイツ語、スペイン語、フランス語、オランダ語、アメリカ手話",
-      "team_members_1_name": "チュック・スミス"
+            "city": "ドイツ、ベルリン（アメリカ合衆国出身）",
+      "description": "チュック・スミスはPolyglot Gatheringの共催者のひとりで、Duolingoのエスペラントコースに貢献し、エスペラント版ウィキペディアを創設しました。そのほかにも言語に関する数多くのプロジェクトに従事しています。 彼は2008年にアップルApp Storeを開設して以来iOSアプリを開発してきました。 2002年、ブラジルを旅行中にGPSを使って近くのエスペランティストをみつけるというアイデアを得た彼はテクノロジーの進歩がその夢を実現させるために15年もの間待たなければなりませんでした。 あらゆる場所で人々が結びつき、それが世界が良くしていく。その手助けをするための挑戦に彼は嬉々として取り組んでいます",
+      "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
+      "job_title": "Chief Technical Officer and Mobile Developer",
+      "languages": "英語、エスペラント、ドイツ語、スペイン語、フランス語、オランダ語、アメリカ手話",
+      "name": "チュック・スミス"
           },
           {
-            "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
-      "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
-      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
-      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme"
+            "city": "Amsterdam, The Netherlands",
+      "description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+      "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
+      "job_title": "Volunteer: Mobile Developer / Customer Support",
+      "languages": "Dutch, English, Esperanto, baby-German",
+      "name": "Tanja Orme"
           },
           {
-            "team_members_3_city": "ドイツ、ベルリン",
-      "team_members_3_description": "ユディト・マイヤーはコンピュータ言語学の専門家です。自身のプロジェクトLearnYuをはじめとして主に言語を扱うアプリの開発に従事してきました。 多言語話者である彼女はPolyglot Gatheringの共同開催者、そして語学講座の執筆者でもあります。 彼女は14歳のときに、さまざまな言語を学ぶ「踏み台」として、エスペラントを学び始めた。",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
-      "team_members_3_job_title": "サーバープログラマー",
-      "team_members_3_languages": "ドイツ語、英語、エスペラント、ラテン語、フランス語、ギリシア語、北京語、オランダ語、スペイン語、インドネシア語、ヘブライ語、スワヒリ語",
-      "team_members_3_name": "ユディト・マイヤー"
+            "city": "ドイツ、ベルリン",
+      "description": "ユディト・マイヤーはコンピュータ言語学の専門家です。自身のプロジェクトLearnYuをはじめとして主に言語を扱うアプリの開発に従事してきました。 多言語話者である彼女はPolyglot Gatheringの共同開催者、そして語学講座の執筆者でもあります。 彼女は14歳のときに、さまざまな言語を学ぶ「踏み台」として、エスペラントを学び始めた。",
+      "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
+      "job_title": "サーバープログラマー",
+      "languages": "ドイツ語、英語、エスペラント、ラテン語、フランス語、ギリシア語、北京語、オランダ語、スペイン語、インドネシア語、ヘブライ語、スワヒリ語",
+      "name": "ユディト・マイヤー"
           },
           {
-            "team_members_4_city": "アメリカ合衆国、フィラデルフィア",
-      "team_members_4_description": "ジェスィ・オルタはコンピュータと社会事業の学位をもつLinuxのシステムアドミニストレーターです。 数年間、子供を対象とした社会事業に関わりながら、彼はさまざまなウェブサイトのサーバ管理にも従事してきました。 コンピュータシステムの開発・管理という全人生をかけるべき興味のために転職してからは、 Amikumuのほかに、レトロPC、情報プライバシー、データ解析などにも興味を持っています。",
-      "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 私には、それがスーパーパワーでした。」",
-      "team_members_4_job_title": "システムアドミニストレーター",
-      "team_members_4_languages": "英語、エスペラント",
-      "team_members_4_name": "ジェスィ・オルタ"
+            "city": "アメリカ合衆国、フィラデルフィア",
+      "description": "ジェスィ・オルタはコンピュータと社会事業の学位をもつLinuxのシステムアドミニストレーターです。 数年間、子供を対象とした社会事業に関わりながら、彼はさまざまなウェブサイトのサーバ管理にも従事してきました。 コンピュータシステムの開発・管理という全人生をかけるべき興味のために転職してからは、 Amikumuのほかに、レトロPC、情報プライバシー、データ解析などにも興味を持っています。",
+      "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. 私には、それがスーパーパワーでした。」",
+      "job_title": "システムアドミニストレーター",
+      "languages": "英語、エスペラント",
+      "name": "ジェスィ・オルタ"
           },
           {
-            "team_members_5_city": "ロシア、エカテリンブルク",
-      "team_members_5_description": "エレナ・クサノヴァは建築理論の学位を持つ、素晴らしいグラフィックデザイナーです。 学位を取ったあと、彼女はエスペラントを学び始め、数多くの団体やイベントで働いてきました。 彼女がこれまで従事してきた仕事の中には、E@I（スロバキア）でのボランティア活動、第101回世界エスペラント大会なども含まれます。 最近彼女は「人狼」のカードを集めるという個人的な目標を達成したそうです。",
-      "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
-      "team_members_5_job_title": "グラフィックデザイナー",
-      "team_members_5_languages": "ロシア語、英語、エスペラント、スロベキア語、スウェーデン語、トキポナ",
-      "team_members_5_name": "エレナ・クサノヴァ"
+            "city": "ロシア、エカテリンブルク",
+      "description": "エレナ・クサノヴァは建築理論の学位を持つ、素晴らしいグラフィックデザイナーです。 学位を取ったあと、彼女はエスペラントを学び始め、数多くの団体やイベントで働いてきました。 彼女がこれまで従事してきた仕事の中には、E@I（スロバキア）でのボランティア活動、第101回世界エスペラント大会なども含まれます。 最近彼女は「人狼」のカードを集めるという個人的な目標を達成したそうです。",
+      "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
+      "job_title": "グラフィックデザイナー",
+      "languages": "ロシア語、英語、エスペラント、スロベキア語、スウェーデン語、トキポナ",
+      "name": "エレナ・クサノヴァ"
  } 
 ]
 }

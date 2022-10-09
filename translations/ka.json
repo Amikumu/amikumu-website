@@ -12,52 +12,52 @@
       "metadata_title": "გაიცანით Amikumu-ს გუნდი",
       "our_team": "ჩვენი გუნდი",
 "members": [{
-      "team_members_0_city": "სიდნეი, ავსტრალია",
-      "team_members_0_description": "რიჩარდ დელამორი, ცნობილი თავისი ინტერნეტფსევდონიმით - Evildea, არის ავსტრალიელი ესპერანტისტი იუთუბერი და ესპერანტოს კინოინდუსტრიაში წამყვანი ფიგურა. Amikumu-ს თანადამფუძნებლობამდე რიჩარდმა ესპერანტოს ტელევიზია დააფუძნა და აქტიურობდა ავსტრალიის ესპერანტოს ასოციაციის (AEA) დირექტორთა საბჭოში, ენების ფესტივალის ასოციაციასა (LFA) და ახალი სამხრეთ უელსის ესპერანტოს ფედერაციაში (EFNSW). გარდა ამისა, იგი ექვსი წელი მსახურობდა ავსტრალიის შეიარაღებულ ძალებში სიგნალის ოპერატორად და ასევე უმუშავია არაერთ საერთაშორისო ბიზნესპროექტში სისტემის ადმინისტრატორად.",
-      "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
-      "team_members_0_job_title": "მთავარი აღმასრულებელი ოფიცერი (CEO)",
-      "team_members_0_languages": "ინგლისური, ესპერანტო, მანდარინი",
-      "team_members_0_name": "რიჩარდ დელამორი"
+      "city": "სიდნეი, ავსტრალია",
+      "description": "რიჩარდ დელამორი, ცნობილი თავისი ინტერნეტფსევდონიმით - Evildea, არის ავსტრალიელი ესპერანტისტი იუთუბერი და ესპერანტოს კინოინდუსტრიაში წამყვანი ფიგურა. Amikumu-ს თანადამფუძნებლობამდე რიჩარდმა ესპერანტოს ტელევიზია დააფუძნა და აქტიურობდა ავსტრალიის ესპერანტოს ასოციაციის (AEA) დირექტორთა საბჭოში, ენების ფესტივალის ასოციაციასა (LFA) და ახალი სამხრეთ უელსის ესპერანტოს ფედერაციაში (EFNSW). გარდა ამისა, იგი ექვსი წელი მსახურობდა ავსტრალიის შეიარაღებულ ძალებში სიგნალის ოპერატორად და ასევე უმუშავია არაერთ საერთაშორისო ბიზნესპროექტში სისტემის ადმინისტრატორად.",
+      "quote": "Amikumu is an essential part of every language learner’s toolkit.",
+      "job_title": "მთავარი აღმასრულებელი ოფიცერი (CEO)",
+      "languages": "ინგლისური, ესპერანტო, მანდარინი",
+      "name": "რიჩარდ დელამორი"
           },
           {
-            "team_members_1_city": "ბერლინი, გერმანია (აშშ-დან)",
-      "team_members_1_description": "ჩაკ სმიტი არის Polyglot Gathering-ის თანაორგანიზატორი, Duolingo-ზე ესპერნატოს კურსის კონტრიბუტორი და ესპერანტოს ვიკიპედიის დამფუძნებელი, ესპერანტოსა და ენებთან დაკავშირებულ სხვადასხვა პროექტთა შორის. იგი 2008 წელს Apple-ის App Store-ის გაშვებიდან მუშაობს iOS აპლიკაციებზე. 2002 წელს ბრაზილიაში მოგზაურობისას სწორედ მას დაებადა GPS-ის საშუალებით ესპერანტოზე მოსაუბრეთა პოვნის იდეა, მაგრამ პრაქტიკაში მის განსახორციელებლად15 წლით დაცდა მოუხდა რათა ტექნოლოგია შესაბამისად დახვეწილიყო. ახლა კი იგი ახალ გამოწვევებს მოუთმენლად ელის, რათა ხალხს ერთანეთთან დაკავშირებაში დაეხმაროს და მსოფლიოს გაუმჯობესებაში თავისი წვლილი შეიტანოს.",
-      "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
-      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
-      "team_members_1_languages": "ინგლისური, ესპერანტო, გერმანული, ესპანური, ფრანგული, ჰოლანდიური, პოლონური, ASL (ამერიკული ჟესტების ენა)",
-      "team_members_1_name": "ჩაკ სმიტი"
+            "city": "ბერლინი, გერმანია (აშშ-დან)",
+      "description": "ჩაკ სმიტი არის Polyglot Gathering-ის თანაორგანიზატორი, Duolingo-ზე ესპერნატოს კურსის კონტრიბუტორი და ესპერანტოს ვიკიპედიის დამფუძნებელი, ესპერანტოსა და ენებთან დაკავშირებულ სხვადასხვა პროექტთა შორის. იგი 2008 წელს Apple-ის App Store-ის გაშვებიდან მუშაობს iOS აპლიკაციებზე. 2002 წელს ბრაზილიაში მოგზაურობისას სწორედ მას დაებადა GPS-ის საშუალებით ესპერანტოზე მოსაუბრეთა პოვნის იდეა, მაგრამ პრაქტიკაში მის განსახორციელებლად15 წლით დაცდა მოუხდა რათა ტექნოლოგია შესაბამისად დახვეწილიყო. ახლა კი იგი ახალ გამოწვევებს მოუთმენლად ელის, რათა ხალხს ერთანეთთან დაკავშირებაში დაეხმაროს და მსოფლიოს გაუმჯობესებაში თავისი წვლილი შეიტანოს.",
+      "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
+      "job_title": "Chief Technical Officer and Mobile Developer",
+      "languages": "ინგლისური, ესპერანტო, გერმანული, ესპანური, ფრანგული, ჰოლანდიური, პოლონური, ASL (ამერიკული ჟესტების ენა)",
+      "name": "ჩაკ სმიტი"
           },
           {
-            "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
-      "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
-      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
-      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme"
+            "city": "Amsterdam, The Netherlands",
+      "description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+      "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
+      "job_title": "Volunteer: Mobile Developer / Customer Support",
+      "languages": "Dutch, English, Esperanto, baby-German",
+      "name": "Tanja Orme"
           },
           {
-            "team_members_3_city": "ბერლინი, გერმანია",
-      "team_members_3_description": "იუდით მაიერი კომპიუტერული ლინგვისტია, რომელიც მეტწილად ენებთან დაკავშირებულ ისეთ ვებაპლიკაციათა შექმნაზე მუშაობს, როგორიცაა მისი პროექტი LearnYu. იგი პოლიგლოტიცაა, Polyglot Gathering-ის თანაორგანიზატორი და ენების შესახებ არაერთი წიგნისა და კურსის ავტორი. მან ესპერანტო 14 წლის ასაკში შეისწავლა შემდგომ სხვა ენების უფრო იოლად დაუფლების მიზნით.",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
-      "team_members_3_job_title": "ფონის ავტორი",
-      "team_members_3_languages": "გერმანული, ინგლისური, ესპერანტო, ლათინური, ფრანგული, იტალიური, თანამედროვე ბერძნული, მანდარინი, ჰოლანდიური, ესპანური, ინდონეზიური, ებრაული, სუაჰილი",
-      "team_members_3_name": "იუდით მაიერი"
+            "city": "ბერლინი, გერმანია",
+      "description": "იუდით მაიერი კომპიუტერული ლინგვისტია, რომელიც მეტწილად ენებთან დაკავშირებულ ისეთ ვებაპლიკაციათა შექმნაზე მუშაობს, როგორიცაა მისი პროექტი LearnYu. იგი პოლიგლოტიცაა, Polyglot Gathering-ის თანაორგანიზატორი და ენების შესახებ არაერთი წიგნისა და კურსის ავტორი. მან ესპერანტო 14 წლის ასაკში შეისწავლა შემდგომ სხვა ენების უფრო იოლად დაუფლების მიზნით.",
+      "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
+      "job_title": "ფონის ავტორი",
+      "languages": "გერმანული, ინგლისური, ესპერანტო, ლათინური, ფრანგული, იტალიური, თანამედროვე ბერძნული, მანდარინი, ჰოლანდიური, ესპანური, ინდონეზიური, ებრაული, სუაჰილი",
+      "name": "იუდით მაიერი"
           },
           {
-            "team_members_4_city": "ფილადელფია, აშშ",
-      "team_members_4_description": "ჯესი ალტერი ლინუქსის სისტემის ადმინისტრატორია კომპიუტერულ მეცნიერებებსა და სოციალურ მუშაობაში აკადემიური ხარისხით. წლების მანძილზე, პედიატრულ სოცმუშაკად მუშაობის პარალელურად, ჯესი არაერთ ვებგვერდსა და სერვისის სერვერს მართავდა. შემდეგ მან კარიერა შეიცვალა თავისი ხანგრძლივი ცხოვრებისეული ინტერესის - კომპიუტერულ სისტემათა შექმნა-მართვის გასაგრძელებლად. Amikumu-ს გარდა ჯესის ინტერესის სფეროებია რეტროკომპიუტირება, ინფორმაციული კონფიდენციალობა და მონაცემთა ანალიზი.",
-      "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. ჩემთვის ეს სუპერძალაა.“",
-      "team_members_4_job_title": "სისტემის ადმინისტრატორი",
-      "team_members_4_languages": "ინგლისური, ესპერანტო",
-      "team_members_4_name": "ჯესი ალტერი"
+            "city": "ფილადელფია, აშშ",
+      "description": "ჯესი ალტერი ლინუქსის სისტემის ადმინისტრატორია კომპიუტერულ მეცნიერებებსა და სოციალურ მუშაობაში აკადემიური ხარისხით. წლების მანძილზე, პედიატრულ სოცმუშაკად მუშაობის პარალელურად, ჯესი არაერთ ვებგვერდსა და სერვისის სერვერს მართავდა. შემდეგ მან კარიერა შეიცვალა თავისი ხანგრძლივი ცხოვრებისეული ინტერესის - კომპიუტერულ სისტემათა შექმნა-მართვის გასაგრძელებლად. Amikumu-ს გარდა ჯესის ინტერესის სფეროებია რეტროკომპიუტირება, ინფორმაციული კონფიდენციალობა და მონაცემთა ანალიზი.",
+      "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. ჩემთვის ეს სუპერძალაა.“",
+      "job_title": "სისტემის ადმინისტრატორი",
+      "languages": "ინგლისური, ესპერანტო",
+      "name": "ჯესი ალტერი"
           },
           {
-            "team_members_5_city": "ეკატერინბურგი, რუსეთი",
-      "team_members_5_description": "ელენა ხუსანოვა გამოცდილი გრაფიკდიზაინერია შესაბამისი დიპლომით არქიტექტურის თეორიაში. ესპერანტო სწავლის დასრულებისას ისწავლა და მას შემდეგ უმუშავია არაერთ ორგანიზაციაში და ღონისძიებაზე. სხვა პროექტთა შორის გამორჩეულია მისი მოხალისეობა E@I-ში სლოვაკეთში და ესპერანტოს 101-ე მსოფლიო კონგრესში საორგანიზაციო ჩართულობა. ახლახან მან თავისი პირადი პროექტი დაასრულა: ბარათები თამაშისათვის „მაქციები“.",
-      "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
-      "team_members_5_job_title": "გრაფიკული დიზაინერი",
-      "team_members_5_languages": "ინგლისური, რუსული, ესპერანტო, სლოვაკური, შვედური, ტოკი პონა",
-      "team_members_5_name": "ელენა ხუსანოვა"
+            "city": "ეკატერინბურგი, რუსეთი",
+      "description": "ელენა ხუსანოვა გამოცდილი გრაფიკდიზაინერია შესაბამისი დიპლომით არქიტექტურის თეორიაში. ესპერანტო სწავლის დასრულებისას ისწავლა და მას შემდეგ უმუშავია არაერთ ორგანიზაციაში და ღონისძიებაზე. სხვა პროექტთა შორის გამორჩეულია მისი მოხალისეობა E@I-ში სლოვაკეთში და ესპერანტოს 101-ე მსოფლიო კონგრესში საორგანიზაციო ჩართულობა. ახლახან მან თავისი პირადი პროექტი დაასრულა: ბარათები თამაშისათვის „მაქციები“.",
+      "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
+      "job_title": "გრაფიკული დიზაინერი",
+      "languages": "ინგლისური, რუსული, ესპერანტო, სლოვაკური, შვედური, ტოკი პონა",
+      "name": "ელენა ხუსანოვა"
  } 
 ]
 }

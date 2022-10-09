@@ -12,52 +12,52 @@
       "metadata_title": "Зустрічайте команду Amikumu",
       "our_team": "Наша команда",
 "members": [{
-      "team_members_0_city": "Сідней, Австралія",
-      "team_members_0_description": "Річард Деламор, відомий під своїм онлайновим псевдонімом Evildea, є австралійським есперанто-відеоблогером та провідною фігурою в есперантській кіноіндустрії. До заснування Amikumu Річард створив Esperanto-TV, а також був головою Австралійської есперанто-асоціації (AEA), Асоціації мовних фестивалів (LFA) і Есперанто-федерації Нового Південного Уельсу (EFNSW). Крім цього, він шість років служив в австралійській армії радистом і працював у багатьох міжнародних компаніях як системний адміністратор.",
-      "team_members_0_quote": "Amikumu is an essential part of every language learner’s toolkit.",
-      "team_members_0_job_title": "Головний виконавчий директор",
-      "team_members_0_languages": "англійська, есперанто, китайська (мандаринська)",
-      "team_members_0_name": "Річард Деламор"
+      "city": "Сідней, Австралія",
+      "description": "Річард Деламор, відомий під своїм онлайновим псевдонімом Evildea, є австралійським есперанто-відеоблогером та провідною фігурою в есперантській кіноіндустрії. До заснування Amikumu Річард створив Esperanto-TV, а також був головою Австралійської есперанто-асоціації (AEA), Асоціації мовних фестивалів (LFA) і Есперанто-федерації Нового Південного Уельсу (EFNSW). Крім цього, він шість років служив в австралійській армії радистом і працював у багатьох міжнародних компаніях як системний адміністратор.",
+      "quote": "Amikumu is an essential part of every language learner’s toolkit.",
+      "job_title": "Головний виконавчий директор",
+      "languages": "англійська, есперанто, китайська (мандаринська)",
+      "name": "Річард Деламор"
           },
           {
-            "team_members_1_city": "Берлін, Німечинна (народився в Сполученних Штатах)",
-      "team_members_1_description": "Чак Сміт є співорганізатор Збіру поліглотів, вкладник курсу есперанто на Duolingo і засновник Вікіпедії на есперанто, серед інших проектів для есперантістів та поліглотів. Вiн розвивав додаткi iOS з самого запуску Appstore в 2008. Вiн мав iдею о GPS-средстве для пошуку однодумців під час поїздки по Бразилii в 2002 роцi, но вiн бул повинен ждати 15 рокiв, поки технологія не розвинулася настільки, що стало можливо реалізувати цю мрію. Зараз вiн кидає виклик цьому завданні, щоб допомогти людям об'єднатися i зтворити свiт краше.",
-      "team_members_1_quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
-      "team_members_1_job_title": "Chief Technical Officer and Mobile Developer",
-      "team_members_1_languages": "Англійська, есперанто, німецька, іспаньска, французська, польска, та американьска жестова мова",
-      "team_members_1_name": "Чак Сміт"
+            "city": "Берлін, Німечинна (народився в Сполученних Штатах)",
+      "description": "Чак Сміт є співорганізатор Збіру поліглотів, вкладник курсу есперанто на Duolingo і засновник Вікіпедії на есперанто, серед інших проектів для есперантістів та поліглотів. Вiн розвивав додаткi iOS з самого запуску Appstore в 2008. Вiн мав iдею о GPS-средстве для пошуку однодумців під час поїздки по Бразилii в 2002 роцi, но вiн бул повинен ждати 15 рокiв, поки технологія не розвинулася настільки, що стало можливо реалізувати цю мрію. Зараз вiн кидає виклик цьому завданні, щоб допомогти людям об'єднатися i зтворити свiт краше.",
+      "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
+      "job_title": "Chief Technical Officer and Mobile Developer",
+      "languages": "Англійська, есперанто, німецька, іспаньска, французська, польска, та американьска жестова мова",
+      "name": "Чак Сміт"
           },
           {
-            "team_members_2_city": "Amsterdam, The Netherlands",
-      "team_members_2_description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
-      "team_members_2_quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
-      "team_members_2_job_title": "Volunteer: Mobile Developer / Customer Support",
-      "team_members_2_languages": "Dutch, English, Esperanto, baby-German",
-      "team_members_2_name": "Tanja Orme"
+            "city": "Amsterdam, The Netherlands",
+      "description":  "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+      "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
+      "job_title": "Volunteer: Mobile Developer / Customer Support",
+      "languages": "Dutch, English, Esperanto, baby-German",
+      "name": "Tanja Orme"
           },
           {
-            "team_members_3_city": "Берлін, Німеччина",
-      "team_members_3_description": "Джудіт Мейєр — лінгвіст-інформатик, який приділяє значну частину свого часу розробці лінгвістично-орієнтованих веб-додатків, одним із яких є проект LearnYu. Вона — поліглот, співорганізатор Polyglot Gathering, автор ряду мовних книг і мовних курсів. Вивчення есперанто у віці 14 років допомогло їй опанувати багато інших мов. «Amikumu — це справжій дар для таких поліглотів як я», —ділиться враженнями Джудіт.",
-      "team_members_3_quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
-      "team_members_3_job_title": "Сервернiй розробник",
-      "team_members_3_languages": "Німецька, англійська, есперанто, латинська, французька, італійська, грецька, кітайська, нідерландська, індонезійська, іврит, суахілі",
-      "team_members_3_name": "Джудіт Мейєр"
+            "city": "Берлін, Німеччина",
+      "description": "Джудіт Мейєр — лінгвіст-інформатик, який приділяє значну частину свого часу розробці лінгвістично-орієнтованих веб-додатків, одним із яких є проект LearnYu. Вона — поліглот, співорганізатор Polyglot Gathering, автор ряду мовних книг і мовних курсів. Вивчення есперанто у віці 14 років допомогло їй опанувати багато інших мов. «Amikumu — це справжій дар для таких поліглотів як я», —ділиться враженнями Джудіт.",
+      "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
+      "job_title": "Сервернiй розробник",
+      "languages": "Німецька, англійська, есперанто, латинська, французька, італійська, грецька, кітайська, нідерландська, індонезійська, іврит, суахілі",
+      "name": "Джудіт Мейєр"
           },
           {
-            "team_members_4_city": "Філадельфія, Сполучени Штати",
-      "team_members_4_description": "Джессі Альтер - системний адміністратор під Linux з науковими ступенями в області комп'ютерних наук і соціальної служби. Протягом довгих років поєднував роботу з підтримки серверів для веб-сайтів і додатків з посадою дитячого соціального працівника. Згодом змінив сферу діяльності, зайнявшись розробкою і підтримкою комп'ютерних систем, які його завжди цікавили. Крім Amikumu, Джессі цікавиться ретро-обчисленням, конфіденційністю інформації та аналізом даних.",
-      "team_members_4_quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Для мене це - суперсила.»",
-      "team_members_4_job_title": "Системний адміністратор",
-      "team_members_4_languages": "Англійська, есперанто",
-      "team_members_4_name": "Джессі Альтер"
+            "city": "Філадельфія, Сполучени Штати",
+      "description": "Джессі Альтер - системний адміністратор під Linux з науковими ступенями в області комп'ютерних наук і соціальної служби. Протягом довгих років поєднував роботу з підтримки серверів для веб-сайтів і додатків з посадою дитячого соціального працівника. Згодом змінив сферу діяльності, зайнявшись розробкою і підтримкою комп'ютерних систем, які його завжди цікавили. Крім Amikumu, Джессі цікавиться ретро-обчисленням, конфіденційністю інформації та аналізом даних.",
+      "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Для мене це - суперсила.»",
+      "job_title": "Системний адміністратор",
+      "languages": "Англійська, есперанто",
+      "name": "Джессі Альтер"
           },
           {
-            "team_members_5_city": "Екатеринбург, Росiя",
-      "team_members_5_description": "Олена Хусанова — досвідчений графічний дизайнер з дипломом по теорії архітектури. Захистившись, вона почала вивчати есперанто та працювати для багатьох есперанто-організацій і заходів. Серед її видатних робіт — добровільча діяльність для E@I у Словаччині та робота для 101-го Всесвітнього конгресу Есперанто. Останнім часом вона закінчила свій власний проект — карти для гри \"Homlupoj\".",
-      "team_members_5_quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
-      "team_members_5_job_title": "Графiчний дизайнер",
-      "team_members_5_languages": "Англійська, російська, есперанто, словацька, шведська, токіпона",
-      "team_members_5_name": "Олена Хусанова"
+            "city": "Екатеринбург, Росiя",
+      "description": "Олена Хусанова — досвідчений графічний дизайнер з дипломом по теорії архітектури. Захистившись, вона почала вивчати есперанто та працювати для багатьох есперанто-організацій і заходів. Серед її видатних робіт — добровільча діяльність для E@I у Словаччині та робота для 101-го Всесвітнього конгресу Есперанто. Останнім часом вона закінчила свій власний проект — карти для гри \"Homlupoj\".",
+      "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
+      "job_title": "Графiчний дизайнер",
+      "languages": "Англійська, російська, есперанто, словацька, шведська, токіпона",
+      "name": "Олена Хусанова"
  } 
 ]
 }

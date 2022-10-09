@@ -118,7 +118,7 @@ TRANSLATIONS = {
     "sk": "./sk",
     "tr": "./tr",
     "lt": "./lt",
-    "cs": "./cs",
+   # "cs": "./cs",
      #"avk": "./avk", #kotava
      #"lfn": "./lfn", #lingua franca nova
      #"nds": "./nds", #nedersassik

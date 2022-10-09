@@ -111,7 +111,7 @@ TRANSLATIONS = {
     "zh_cn": "./zh",
    "ru": "./ru",
   #  #   "ja": "./ja",
-  "ka": "./ka", #georgian
+  #"ka": "./ka", #georgian
    "oc": "./oc",
    "pl": "./pl",
    "pt": "./pt",

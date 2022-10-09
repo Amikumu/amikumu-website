@@ -1,6 +1,5 @@
 {
-"page_about-us":
- {
+  "page_about-us": {
     "post_title": "ਸਾਡੇ ਬਾਰੇ",
     "post_meta": {
       "add_description": "ਅਮਿਕੁਮੁ ਦਾ ਮਿਸ਼ਨ ਇੱਕ ਸੋਸ਼ਲ ਨੈਟਵਰਕ ਬਣਾਉਣਾ ਅਤੇ ਬਣਾਈ ਰੱਖਣਾ ਹੈ ਜੋ ਹਰੇਕ ਭਾਸ਼ਾ ਦੀ ਸਮਾਜਿਕ, ਰਾਜਨੀਤਿਕ ਜਾਂ ਆਰਥਿਕ ਸਥਿਤੀ ਤੇ ਵਿਚਾਰ ਕੀਤੇ ਬਿਨਾਂ ਭਾਸ਼ਾਈ, ਹਸਤਾਖਰ ਕਰਤਾ ਅਤੇ ਸੰਸਾਰ ਭਰ ਦੀਆਂ ਭਾਸ਼ਾਵਾਂ ਦੇ ਉਪਭੋਗਤਾਵਾਂ ਦੀ ਸਾਂਝੀ ਜਾਣਕਾਰੀ ਸਾਂਝੀ ਕਰਨ ਲਈ ਇੱਕ ਪਲੇਟਫਾਰਮ ਪ੍ਰਦਾਨ ਕਰਦਾ ਹੈ.",
@@ -10,89 +9,84 @@
       "metadata_desc": "ਅਮਿਕੂਮੂ ਦੀ ਟੀਮ ਦੁਨੀਆ ਭਰ ਦੇ ਬਹੁ-ਭਾਸ਼ਾਈ ਪੰਨੇ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਮਾਸਟਰਿੰਗ ਭਾਸ਼ਾਵਾਂ ਲਈ ਅਣਗਿਣਤ ਘੰਟੇ ਸਮਰਪਿਤ ਕੀਤੇ ਹਨ.",
       "metadata_title": "ਅਮਿਕੁਮੁ ਟੀਮ ਨੂੰ ਮਿਲੋ",
       "our_team": "ਸਾਡੀ ਟੀਮ",
-"members": [{
-      "city": "ਸਿਡਨੀ, ਆਸਟਰੇਲੀਆ",
-      "description": "ਰਿਚਰਡ ਡੇਲਾਮੋਰੇ, ਜੋ ਆਪਣੇ ਆਨਲਾਈਨ ਉਪਨਾਮ ਈਵਿਲਡੇਆ ਦੁਆਰਾ ਜਾਣੇ ਜਾਂਦੇ ਹਨ, ਇੱਕ ਆਸਟਰੇਲਿਆਈ ਐਸਰੋਤ੍ਬਿਸ਼ਨ ਯੂਟਿਊਬ-ਸ਼ਖਸੀਅਤ ਅਤੇ ਐਸਪੇਰਾਂਤੋ ਦੀ ਫਿਲਮ ਉਦਯੋਗ ਵਿੱਚ ਪ੍ਰਮੁੱਖ ਹਸਤੀ ਹੈ. ਅਮਿਕੁਮੂ ਦੀ ਸਹਿ ਸੰਸਥਾਪਕ ਤੋਂ ਪਹਿਲਾਂ, ਰਿਚਰਡ ਨੇ ਐਸਪੇਰਾਂਤੋ ਟੀਵੀਰ ਦੀ ਸਥਾਪਨਾ ਕੀਤੀ ਅਤੇ ਆਸਟ੍ਰੇਲੀਅਨ ਐਸੋਸੀਏਸ਼ਨ ਐਸੋਸੀਏਸ਼ਨ (ਏਈਏ), ਲੈਂਗਵੇਜ ਫੈਸਟੀਵਲ ਐਸੋਸੀਏਸ਼ਨ (ਐਲ. ਐੱਫ. ਏ.) ਅਤੇ ਨਿਊ ਸਾਊਥ ਵੇਲਸ (ਐਫਐੱਨਐੱਨਐੱਸ). ਇਸ ਤੋਂ ਇਲਾਵਾ, ਉਸ ਨੇ ਆਸਟ੍ਰੇਲੀਆ ਦੀ ਫ਼ੌਜ ਵਿਚ ਇਕ ਸਿਗਨਲ ਆਪ੍ਰੇਟਰ ਦੇ ਰੂਪ ਵਿਚ ਛੇ ਸਾਲ ਕੰਮ ਕੀਤਾ ਅਤੇ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਦੇ ਤੌਰ ਤੇ ਕਈ ਅੰਤਰਰਾਸ਼ਟਰੀ ਕਾਰੋਬਾਰਾਂ ਲਈ ਕੰਮ ਕੀਤਾ.",
-      "quote": "Amikumu is an essential part of every language learner’s toolkit.",
-      "job_title": "ਮੁੱਖ ਕਾਰਜਕਾਰੀ ਅਧਿਕਾਰੀ",
-      "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਮੈਂਡਰਿਨ",
-      "name": "ਰਿਚਰਡ ਡੈਲੇਮੋਰ"
-          },
-          {
-            "city": "ਬਰਲਿਨ, ਜਰਮਨੀ (ਅਮਰੀਕਾ ਤੋਂ)",
-      "description": "ਚੱਕ ਸਮਿਥ ਪੌਲੀਗਲੋਟ ਗੱਪਿੰਗ ਦਾ ਸਹਿ-ਪ੍ਰਬੰਧਕ ਹੈ, ਜੋ ਡੂੋਲਿੰਗੋ ਦੇ ਐਸਪੇਰਾਂਤੋ ਕੋਰਸ ਦਾ ਯੋਗਦਾਨ ਪਾਉਂਦਾ ਹੈ ਅਤੇ ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਪੌਲੀਗਲੋਟ ਪ੍ਰਾਜੈਕਟਾਂ ਦੇ ਵਿਚਕਾਰ ਐਸਪੇਰਾਂਤੋ ਵਿਕੀਪੀਡੀਆ ਦੇ ਸੰਸਥਾਪਕ ਹਨ. 2008 ਵਿੱਚ ਐਪਲ ਦੇ ਐਪ ਸਟੋਰ ਦੀ ਸ਼ੁਰੂਆਤ ਤੋਂ ਬਾਅਦ ਉਹ ਆਈਓਐਸ ਐਪਸ ਵਿਕਸਿਤ ਕਰ ਰਹੇ ਹਨ. 2002 ਵਿਚ ਬ੍ਰਾਜ਼ੀਲ ਵਿਚ ਸਫ਼ਰ ਕਰਦੇ ਹੋਏ ਸਪਾਂਸਰ ਨੂੰ ਸਪਾਂਸਰ ਲੱਭਣ ਲਈ ਉਹ ਇਕ ਜੀਪੀਐਸ ਡਿਵਾਈਸ ਦੇ ਵਿਚਾਰ ਵਿਚ ਸਨ, ਪਰ ਤਕਨਾਲੋਜੀ ਨੂੰ ਹਾਸਲ ਕਰਨ ਲਈ 15 ਸਾਲ ਇੰਤਜਾਰ ਕਰਨ ਦੀ ਲੋੜ ਸੀ, ਤਾਂ ਜੋ ਉਹ ਇਸ ਸੁਪਨੇ ਨੂੰ ਅੱਗੇ ਵਧਾ ਸਕੇ. ਹੁਣ ਉਹ ਅੱਗੇ ਚੁਣੌਤੀਆਂ ਦਾ ਸਾਹਮਣਾ ਕਰਨ ਦੀ ਉਮੀਦ ਕਰਦਾ ਹੈ ਤਾਂ ਜੋ ਦੁਨੀਆਂ ਭਰ ਵਿਚ ਲੋਕਾਂ ਨੂੰ ਬਿਹਤਰ ਸਥਾਨ ਬਣਾਉਣ ਲਈ ਜੋੜਿਆ ਜਾ ਸਕੇ.",
-      "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
-      "job_title": "Chief Technical Officer and Mobile Developer",
-      "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਜਰਮਨ, ਸਪੈਨਿਸ਼, ਫ੍ਰੈਂਚ, ਡਚ, ਪੋਲਿਸ਼, ਏਐਸਐਲ",
-      "name": "ਚੱਕ ਸਮਿਥ"
-          },
-          {
-            "city": "Amsterdam, The Netherlands",
-      "description": {
-        "#text": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout."
-   } 
-]
-},
-      "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
-      "job_title": "Volunteer: Mobile Developer / Customer Support",
-      "languages": "Dutch, English, Esperanto, baby-German",
-      "name": "Tanja Orme"
-          },
-          {
-            "city": "ਬਰਲਿਨ, ਜਰਮਨੀ",
-      "description": "ਜੂਡਿਥ ਮੇਅਰ, ਉਸ ਦੇ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ, ਜੋ ਕਿ ਉਸ ਦੇ ਪ੍ਰੋਜੈਕਟ ਲਿਯੂਯੂ ਨਾਲ ਭਾਸ਼ਾਵਾਂ ਨਾਲ ਸੰਬੰਧਤ ਵੈਬ ਐਪਲੀਕੇਸ਼ਨ ਵਿਕਸਤ ਕਰਨ ਲਈ ਇੱਕ ਕਾੱਪੀਸ਼ਲੀ ਭਾਸ਼ਾ-ਵਿਗਿਆਨੀ ਖਰਚ ਹੈ. ਉਹ ਇੱਕ ਪੌਲੀਗਲੋਟ, ਪੌਲੀਗਲੋਟ ਇਕੱਤਰਤਾ ਦੇ ਸਹਿ-ਪ੍ਰਬੰਧਕ ਅਤੇ ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾ ਦੀਆਂ ਕਿਤਾਬਾਂ ਅਤੇ ਭਾਸ਼ਾ ਦੇ ਕੋਰਸਾਂ ਦੇ ਲੇਖਕ ਹਨ. ਜਦੋਂ ਉਹ 14 ਸਾਲ ਦੀ ਸੀ ਤਾਂ ਉਹ ਐਸਪੇਰਾਂਤੋ ਸਿੱਖ ਗਈ ਸੀ ਤਾਂ ਕਿ ਉਹ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਸਿੱਖਣ ਲਈ ਇੱਕ ਸਪ੍ਰਿੰਗਬੋਰਡ ਦੇ ਤੌਰ ਤੇ ਵਰਤੋਂ ਕਰ ਸਕੇ.",
-      "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
-      "job_title": "ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ",
-      "languages": "ਜਰਮਨ, ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਲਾਤੀਨੀ, ਫਰੈਂਚ, ਇਤਾਲਵੀ, ਮਾਡਰਨ ਗ੍ਰੀਕ, ਮੈਂਡਰਿਨ, ਡਚ, ਸਪੈਨਿਸ਼, ਇੰਡੋਨੇਸ਼ੀਆਈ, ਇਬਰਾਨੀ, ਸਵਾਹਿਲੀ",
-      "name": "ਜੂਡਿਥ ਮੇਅਰ"
-          },
-          {
-            "city": "ਫਿਲਡੇਲ੍ਫਿਯਾ, ਅਮਰੀਕਾ",
-      "description": "ਯੱਸੀ ਅਲਟਰ ਕੰਪਿਊਟਰ ਵਿਗਿਆਨ ਅਤੇ ਸਮਾਜਿਕ ਕਾਰਜਾਂ ਵਿੱਚ ਡਿਗਰੀਆਂ ਨਾਲ ਇੱਕ ਲਿਨਕਸ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਹੈ. ਸਾਲਾਂ ਦੌਰਾਨ, ਯੈਸੀ ਨੇ ਬੱਚਿਆਂ ਦੇ ਸੋਸ਼ਲ ਵਰਕਰ ਦੇ ਤੌਰ ਤੇ ਕੰਮ ਕਰਦਿਆਂ ਕਈ ਵੈਬਸਾਈਟਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਸਰਵਰਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕੀਤਾ ਹੈ. ਬਾਅਦ ਵਿਚ ਉਸਨੇ ਕੰਪਿਊਟਰ ਪ੍ਰਣਾਲੀਆਂ ਦੇ ਵਿਕਾਸ ਅਤੇ ਸਾਂਭ-ਸੰਭਾਲ ਵਿਚ ਆਪਣੇ ਜੀਵਨ ਭਰ ਦੇ ਹਿੱਤ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਆਪਣਾ ਕਰੀਅਰ ਬਦਲ ਦਿੱਤਾ. ਅਮਿਕੁਮੂ ਤੋਂ ਇਲਾਵਾ, ਯੱਸੀ ਦੇ ਹਿੱਤ ਵਿਚ ਮੁੜ ਕੋਸ਼ਾਣੂ, ਜਾਣਕਾਰੀ ਗੁਪਤਤਾ, ਅਤੇ ਡਾਟਾ ਵਿਸ਼ਲੇਸ਼ਣ ਸ਼ਾਮਲ ਹਨ.",
-      "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. ਮੇਰੇ ਲਈ, ਇਹ ਇੱਕ ਅਲੌਕਿਕ ਸ਼ਕਤੀ ਹੈ. \"",
-      "job_title": "ਸਿਸਟਮ ਪ੍ਰਸ਼ਾਸ਼ਕ",
-      "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ",
-      "name": "ਜੇਸੀ ਐਲਟਰ"
-          },
-          {
-            "city": "ਯੇਕਟੇਰਿਨਬਰਗ, ਰੂਸ",
-      "description": "ਐਲੇਨਾ ਖੁਸਨੋਵਾ ਆਰਕੀਟੈਕਚਰ ਦੇ ਥਿਊਰੀ ਵਿੱਚ ਇੱਕ ਡਿਪਲੋਮਾ ਦੇ ਨਾਲ ਇੱਕ ਮੁਕੰਮਲ ਗ੍ਰਾਫਿਕ ਡਿਜਾਇਨਰ ਹੈ. ਗ੍ਰੈਜੂਏਸ਼ਨ ਤੋਂ ਬਾਅਦ, ਉਹ ਐਸਪੇਰਾਂਤੋ ਭਾਸ਼ਾ ਸਿੱਖੀ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਕਈ ਸੰਸਥਾਵਾਂ ਅਤੇ ਸਮਾਗਮਾਂ ਲਈ ਕੰਮ ਕੀਤਾ. ਹਾਈਲਾਈਟਸ ਵਿੱਚ ਸਲੋਵਾਕੀਆ ਵਿੱਚ ਈ @ ਮੈਂ ਲਈ ਆਪਣੀ ਸਵੈ-ਇੱਛਾ ਨਾਲ ਸੇਵਾ ਅਤੇ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ 101st ਵਰਲ ਐਸਪੇਰਾਂਤੋ ਕਾਂਗਰਸ. ਹਾਲ ਹੀ ਵਿਚ ਉਸ ਨੇ ਆਪਣੇ ਆਪ ਦਾ ਇਕ ਪ੍ਰੋਜੈਕਟ ਪੂਰਾ ਕਰ ਲਿਆ: ਖੇਡ ਲਈ ਕਾਰਡ \"ਵਾਇਰਓਲਵਜ਼\".",
-      "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
-      "job_title": "ਗ੍ਰਾਫਿਕ ਡਿਜ਼ਾਈਨਰ",
-      "languages": "ਅੰਗਰੇਜ਼ੀ, ਰੂਸੀ, ਐਸਪੇਰਾਂਤੋ, ਸਲੋਵਾਕ, ਸਵੀਡਿਸ਼, ਤੋਕੀ ਪੋਨਾ",
-      "name": "ਏਲੇਨਾ ਖੁਸ਼ਸਨੋਵਾ"
-    }
-  }
-,
-"page_ambassador":
- {
-    "post_title": "Ambassador",
-    "post_content": {
-      "section": [
+      "members": [
         {
-          "title": "What is an ambassador?",
-          "#text": "Essentially, an ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters."
+          "city": "ਸਿਡਨੀ, ਆਸਟਰੇਲੀਆ",
+          "description": "ਰਿਚਰਡ ਡੇਲਾਮੋਰੇ, ਜੋ ਆਪਣੇ ਆਨਲਾਈਨ ਉਪਨਾਮ ਈਵਿਲਡੇਆ ਦੁਆਰਾ ਜਾਣੇ ਜਾਂਦੇ ਹਨ, ਇੱਕ ਆਸਟਰੇਲਿਆਈ ਐਸਰੋਤ੍ਬਿਸ਼ਨ ਯੂਟਿਊਬ-ਸ਼ਖਸੀਅਤ ਅਤੇ ਐਸਪੇਰਾਂਤੋ ਦੀ ਫਿਲਮ ਉਦਯੋਗ ਵਿੱਚ ਪ੍ਰਮੁੱਖ ਹਸਤੀ ਹੈ. ਅਮਿਕੁਮੂ ਦੀ ਸਹਿ ਸੰਸਥਾਪਕ ਤੋਂ ਪਹਿਲਾਂ, ਰਿਚਰਡ ਨੇ ਐਸਪੇਰਾਂਤੋ ਟੀਵੀਰ ਦੀ ਸਥਾਪਨਾ ਕੀਤੀ ਅਤੇ ਆਸਟ੍ਰੇਲੀਅਨ ਐਸੋਸੀਏਸ਼ਨ ਐਸੋਸੀਏਸ਼ਨ (ਏਈਏ), ਲੈਂਗਵੇਜ ਫੈਸਟੀਵਲ ਐਸੋਸੀਏਸ਼ਨ (ਐਲ. ਐੱਫ. ਏ.) ਅਤੇ ਨਿਊ ਸਾਊਥ ਵੇਲਸ (ਐਫਐੱਨਐੱਨਐੱਸ). ਇਸ ਤੋਂ ਇਲਾਵਾ, ਉਸ ਨੇ ਆਸਟ੍ਰੇਲੀਆ ਦੀ ਫ਼ੌਜ ਵਿਚ ਇਕ ਸਿਗਨਲ ਆਪ੍ਰੇਟਰ ਦੇ ਰੂਪ ਵਿਚ ਛੇ ਸਾਲ ਕੰਮ ਕੀਤਾ ਅਤੇ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਦੇ ਤੌਰ ਤੇ ਕਈ ਅੰਤਰਰਾਸ਼ਟਰੀ ਕਾਰੋਬਾਰਾਂ ਲਈ ਕੰਮ ਕੀਤਾ.",
+          "quote": "Amikumu is an essential part of every language learner’s toolkit.",
+          "job_title": "ਮੁੱਖ ਕਾਰਜਕਾਰੀ ਅਧਿਕਾਰੀ",
+          "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਮੈਂਡਰਿਨ",
+          "name": "ਰਿਚਰਡ ਡੈਲੇਮੋਰ"
         },
         {
-          "title": "What does an Ambassador do?",
-          "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/pa>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community.",
-          "#text": "It depends on what they can commit. We've listed some of the ways our ambassadors are working with us to promote Amikumu around the world."
+          "city": "ਬਰਲਿਨ, ਜਰਮਨੀ (ਅਮਰੀਕਾ ਤੋਂ)",
+          "description": "ਚੱਕ ਸਮਿਥ ਪੌਲੀਗਲੋਟ ਗੱਪਿੰਗ ਦਾ ਸਹਿ-ਪ੍ਰਬੰਧਕ ਹੈ, ਜੋ ਡੂੋਲਿੰਗੋ ਦੇ ਐਸਪੇਰਾਂਤੋ ਕੋਰਸ ਦਾ ਯੋਗਦਾਨ ਪਾਉਂਦਾ ਹੈ ਅਤੇ ਐਸਪੇਰਾਂਤੋ ਅਤੇ ਪੌਲੀਗਲੋਟ ਪ੍ਰਾਜੈਕਟਾਂ ਦੇ ਵਿਚਕਾਰ ਐਸਪੇਰਾਂਤੋ ਵਿਕੀਪੀਡੀਆ ਦੇ ਸੰਸਥਾਪਕ ਹਨ. 2008 ਵਿੱਚ ਐਪਲ ਦੇ ਐਪ ਸਟੋਰ ਦੀ ਸ਼ੁਰੂਆਤ ਤੋਂ ਬਾਅਦ ਉਹ ਆਈਓਐਸ ਐਪਸ ਵਿਕਸਿਤ ਕਰ ਰਹੇ ਹਨ. 2002 ਵਿਚ ਬ੍ਰਾਜ਼ੀਲ ਵਿਚ ਸਫ਼ਰ ਕਰਦੇ ਹੋਏ ਸਪਾਂਸਰ ਨੂੰ ਸਪਾਂਸਰ ਲੱਭਣ ਲਈ ਉਹ ਇਕ ਜੀਪੀਐਸ ਡਿਵਾਈਸ ਦੇ ਵਿਚਾਰ ਵਿਚ ਸਨ, ਪਰ ਤਕਨਾਲੋਜੀ ਨੂੰ ਹਾਸਲ ਕਰਨ ਲਈ 15 ਸਾਲ ਇੰਤਜਾਰ ਕਰਨ ਦੀ ਲੋੜ ਸੀ, ਤਾਂ ਜੋ ਉਹ ਇਸ ਸੁਪਨੇ ਨੂੰ ਅੱਗੇ ਵਧਾ ਸਕੇ. ਹੁਣ ਉਹ ਅੱਗੇ ਚੁਣੌਤੀਆਂ ਦਾ ਸਾਹਮਣਾ ਕਰਨ ਦੀ ਉਮੀਦ ਕਰਦਾ ਹੈ ਤਾਂ ਜੋ ਦੁਨੀਆਂ ਭਰ ਵਿਚ ਲੋਕਾਂ ਨੂੰ ਬਿਹਤਰ ਸਥਾਨ ਬਣਾਉਣ ਲਈ ਜੋੜਿਆ ਜਾ ਸਕੇ.",
+          "quote": "I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!",
+          "job_title": "Chief Technical Officer and Mobile Developer",
+          "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਜਰਮਨ, ਸਪੈਨਿਸ਼, ਫ੍ਰੈਂਚ, ਡਚ, ਪੋਲਿਸ਼, ਏਐਸਐਲ",
+          "name": "ਚੱਕ ਸਮਿਥ"
         },
         {
-          "title": "What do Ambassadors get?",
-          "#text": "There's little we can provide for your invaluable help. However, there are a few perks to being an ambassador. We provide ambassadors with unique in-app collectible badges among other things. Feel free to reach out to us for more info at `info@amikumu.com <mailto:info@amikumu.com>`_."
+          "city": "Amsterdam, The Netherlands",
+          "description": "Tanja is a stay at home geek who has extensive experience in customer support (both front and back office) for several ISPs. In her free time she codes, creates various items with yarn and plays videogames (or does the New York Times crossword puzzle).\n\nAfter re-entering the world of Esperanto, she voluntarily helped rewrite the code for the current version of Amikumu, as well as being responsible for the layout.",
+          "quote": "Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!",
+          "job_title": "Volunteer: Mobile Developer / Customer Support",
+          "languages": "Dutch, English, Esperanto, baby-German",
+          "name": "Tanja Orme"
+        },
+        {
+          "city": "ਬਰਲਿਨ, ਜਰਮਨੀ",
+          "description": "ਜੂਡਿਥ ਮੇਅਰ, ਉਸ ਦੇ ਜ਼ਿਆਦਾਤਰ ਸਮਾਂ, ਜੋ ਕਿ ਉਸ ਦੇ ਪ੍ਰੋਜੈਕਟ ਲਿਯੂਯੂ ਨਾਲ ਭਾਸ਼ਾਵਾਂ ਨਾਲ ਸੰਬੰਧਤ ਵੈਬ ਐਪਲੀਕੇਸ਼ਨ ਵਿਕਸਤ ਕਰਨ ਲਈ ਇੱਕ ਕਾੱਪੀਸ਼ਲੀ ਭਾਸ਼ਾ-ਵਿਗਿਆਨੀ ਖਰਚ ਹੈ. ਉਹ ਇੱਕ ਪੌਲੀਗਲੋਟ, ਪੌਲੀਗਲੋਟ ਇਕੱਤਰਤਾ ਦੇ ਸਹਿ-ਪ੍ਰਬੰਧਕ ਅਤੇ ਬਹੁਤ ਸਾਰੀਆਂ ਭਾਸ਼ਾ ਦੀਆਂ ਕਿਤਾਬਾਂ ਅਤੇ ਭਾਸ਼ਾ ਦੇ ਕੋਰਸਾਂ ਦੇ ਲੇਖਕ ਹਨ. ਜਦੋਂ ਉਹ 14 ਸਾਲ ਦੀ ਸੀ ਤਾਂ ਉਹ ਐਸਪੇਰਾਂਤੋ ਸਿੱਖ ਗਈ ਸੀ ਤਾਂ ਕਿ ਉਹ ਹੋਰ ਭਾਸ਼ਾਵਾਂ ਸਿੱਖਣ ਲਈ ਇੱਕ ਸਪ੍ਰਿੰਗਬੋਰਡ ਦੇ ਤੌਰ ਤੇ ਵਰਤੋਂ ਕਰ ਸਕੇ.",
+          "quote": "Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.",
+          "job_title": "ਬੈਕਐਂਡ ਡਿਵੈਲਪਰ",
+          "languages": "ਜਰਮਨ, ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ, ਲਾਤੀਨੀ, ਫਰੈਂਚ, ਇਤਾਲਵੀ, ਮਾਡਰਨ ਗ੍ਰੀਕ, ਮੈਂਡਰਿਨ, ਡਚ, ਸਪੈਨਿਸ਼, ਇੰਡੋਨੇਸ਼ੀਆਈ, ਇਬਰਾਨੀ, ਸਵਾਹਿਲੀ",
+          "name": "ਜੂਡਿਥ ਮੇਅਰ"
+        },
+        {
+          "city": "ਫਿਲਡੇਲ੍ਫਿਯਾ, ਅਮਰੀਕਾ",
+          "description": "ਯੱਸੀ ਅਲਟਰ ਕੰਪਿਊਟਰ ਵਿਗਿਆਨ ਅਤੇ ਸਮਾਜਿਕ ਕਾਰਜਾਂ ਵਿੱਚ ਡਿਗਰੀਆਂ ਨਾਲ ਇੱਕ ਲਿਨਕਸ ਸਿਸਟਮ ਪ੍ਰਬੰਧਕ ਹੈ. ਸਾਲਾਂ ਦੌਰਾਨ, ਯੈਸੀ ਨੇ ਬੱਚਿਆਂ ਦੇ ਸੋਸ਼ਲ ਵਰਕਰ ਦੇ ਤੌਰ ਤੇ ਕੰਮ ਕਰਦਿਆਂ ਕਈ ਵੈਬਸਾਈਟਾਂ ਅਤੇ ਸੇਵਾਵਾਂ ਲਈ ਸਰਵਰਾਂ ਦਾ ਪ੍ਰਬੰਧਨ ਕੀਤਾ ਹੈ. ਬਾਅਦ ਵਿਚ ਉਸਨੇ ਕੰਪਿਊਟਰ ਪ੍ਰਣਾਲੀਆਂ ਦੇ ਵਿਕਾਸ ਅਤੇ ਸਾਂਭ-ਸੰਭਾਲ ਵਿਚ ਆਪਣੇ ਜੀਵਨ ਭਰ ਦੇ ਹਿੱਤ ਦੀ ਪਾਲਣਾ ਕਰਨ ਲਈ ਆਪਣਾ ਕਰੀਅਰ ਬਦਲ ਦਿੱਤਾ. ਅਮਿਕੁਮੂ ਤੋਂ ਇਲਾਵਾ, ਯੱਸੀ ਦੇ ਹਿੱਤ ਵਿਚ ਮੁੜ ਕੋਸ਼ਾਣੂ, ਜਾਣਕਾਰੀ ਗੁਪਤਤਾ, ਅਤੇ ਡਾਟਾ ਵਿਸ਼ਲੇਸ਼ਣ ਸ਼ਾਮਲ ਹਨ.",
+          "quote": "Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. ਮੇਰੇ ਲਈ, ਇਹ ਇੱਕ ਅਲੌਕਿਕ ਸ਼ਕਤੀ ਹੈ. \"",
+          "job_title": "ਸਿਸਟਮ ਪ੍ਰਸ਼ਾਸ਼ਕ",
+          "languages": "ਅੰਗਰੇਜ਼ੀ, ਐਸਪੇਰਾਂਤੋ",
+          "name": "ਜੇਸੀ ਐਲਟਰ"
+        },
+        {
+          "city": "ਯੇਕਟੇਰਿਨਬਰਗ, ਰੂਸ",
+          "description": "ਐਲੇਨਾ ਖੁਸਨੋਵਾ ਆਰਕੀਟੈਕਚਰ ਦੇ ਥਿਊਰੀ ਵਿੱਚ ਇੱਕ ਡਿਪਲੋਮਾ ਦੇ ਨਾਲ ਇੱਕ ਮੁਕੰਮਲ ਗ੍ਰਾਫਿਕ ਡਿਜਾਇਨਰ ਹੈ. ਗ੍ਰੈਜੂਏਸ਼ਨ ਤੋਂ ਬਾਅਦ, ਉਹ ਐਸਪੇਰਾਂਤੋ ਭਾਸ਼ਾ ਸਿੱਖੀ ਅਤੇ ਬਾਅਦ ਵਿੱਚ ਕਈ ਸੰਸਥਾਵਾਂ ਅਤੇ ਸਮਾਗਮਾਂ ਲਈ ਕੰਮ ਕੀਤਾ. ਹਾਈਲਾਈਟਸ ਵਿੱਚ ਸਲੋਵਾਕੀਆ ਵਿੱਚ ਈ @ ਮੈਂ ਲਈ ਆਪਣੀ ਸਵੈ-ਇੱਛਾ ਨਾਲ ਸੇਵਾ ਅਤੇ ਹੋਰ ਪ੍ਰੋਜੈਕਟਾਂ ਵਿੱਚ 101st ਵਰਲ ਐਸਪੇਰਾਂਤੋ ਕਾਂਗਰਸ. ਹਾਲ ਹੀ ਵਿਚ ਉਸ ਨੇ ਆਪਣੇ ਆਪ ਦਾ ਇਕ ਪ੍ਰੋਜੈਕਟ ਪੂਰਾ ਕਰ ਲਿਆ: ਖੇਡ ਲਈ ਕਾਰਡ \"ਵਾਇਰਓਲਵਜ਼\".",
+          "quote": "The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.",
+          "job_title": "ਗ੍ਰਾਫਿਕ ਡਿਜ਼ਾਈਨਰ",
+          "languages": "ਅੰਗਰੇਜ਼ੀ, ਰੂਸੀ, ਐਸਪੇਰਾਂਤੋ, ਸਲੋਵਾਕ, ਸਵੀਡਿਸ਼, ਤੋਕੀ ਪੋਨਾ",
+          "name": "ਏਲੇਨਾ ਖੁਸ਼ਸਨੋਵਾ"
         }
-      ],
-      "#text": "Firstly, a massive thanks for your interest in the Ambassador program."
+      ]
     },
-    "post_meta": {
-      "metadata_desc": "An Amikumu ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters.",
-      "metadata_title": "Join the Amikumu ambassador program!"
+    "page_ambassador": {
+      "post_title": "Ambassador",
+      "post_content": {
+        "section": [
+          {
+            "title": "What is an ambassador?",
+            "#text": "Essentially, an ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters."
+          },
+          {
+            "title": "What does an Ambassador do?",
+            "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/pa>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community.",
+            "#text": "It depends on what they can commit. We've listed some of the ways our ambassadors are working with us to promote Amikumu around the world."
+          },
+          {
+            "title": "What do Ambassadors get?",
+            "#text": "There's little we can provide for your invaluable help. However, there are a few perks to being an ambassador. We provide ambassadors with unique in-app collectible badges among other things. Feel free to reach out to us for more info at `info@amikumu.com <mailto:info@amikumu.com>`_."
+          }
+        ],
+        "#text": "Firstly, a massive thanks for your interest in the Ambassador program."
+      },
+      "post_meta": {
+        "metadata_desc": "An Amikumu ambassador is someone who helps promote Amikumu within their local community. They're our representatives on the ground! Our biggest fans and greatest supporters.",
+        "metadata_title": "Join the Amikumu ambassador program!"
+      }
     }
-  }
-,
-"page_faq":
- {
+  },
+  "page_faq": {
     "post_title": "Help / FAQ",
     "post_content": {
       "section": [
@@ -160,14 +154,12 @@
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Help / FAQ"
     }
-  }
-,
-"page_for-organizations":
- {
+  },
+  "page_for-organizations": {
     "post_title": "For Organizations",
     "post_content": {
       "ol": "#. Name for the advertisement\n \t#. High quality picture for the advertisement\n \t#. Description for the advertisement (300 characters max)\n \t#. Email address\n \t#. Phone number\n \t#. Website\n \t#. Address (only relevant for advertisements that have a physical address)\n \t#. Advertisement address (your advertisement can appear anywhere in the world). For example your event might be in New York but you want to attract people from London. Therefore, London is the advertisement address"
-},
+    },
     "post_meta": {
       "additional_month": "for each additional month (must be paid in advance)",
       "advertise_teaser": "A location based advertisement that only the 100 people closest nearby see.",
@@ -199,10 +191,8 @@
       "total_users": "Total Users",
       "your_badge": "Your Badge!"
     }
-  }
-,
-"page_home-page":
- {
+  },
+  "page_home-page": {
     "post_title": "Home",
     "post_meta": {
       "add_title": "Practice languages nearby",
@@ -230,10 +220,8 @@
       "tutorial_blocks_2_text": "Message others nearby who speak your language.\n\nSend pictures, voice messages and map coordinates.\n\nQuickly organize meetups and make friends for life.>",
       "tutorial_blocks_2_title": "Chat and meetup!"
     }
-  }
-,
-"page_press":
- {
+  },
+  "page_press": {
     "post_title": "Press",
     "post_content": {
       "subsection": [
@@ -327,10 +315,8 @@
       "metadata_desc": "Welcome to the Amikumu press page. Here you can find countless links to articles about Amikumu in different languages.",
       "metadata_title": "Amikumu in the news!"
     }
-  }
-,
-"page_privacy-terms":
- {
+  },
+  "page_privacy-terms": {
     "post_title": "Privacy & Terms",
     "post_content": {
       "main": {
@@ -480,30 +466,24 @@
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Amikumu Privacy & Terms"
     }
-  }
-,
-"page_shop":
- {
+  },
+  "page_shop": {
     "post_title": "Shop",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Visit the online Amikumu shop and get one of our awesome t-shirts to help raise awareness of Amikumu in your local community.",
       "metadata_title": "Amikumu online shop"
     }
-  }
-,
-"page_statistics":
- {
+  },
+  "page_statistics": {
     "post_title": "Statistics",
     "post_content": "No translation needed.",
     "post_meta": {
       "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
       "metadata_title": "Amikumu statistics"
     }
-  }
-,
-"page_support-us":
- {
+  },
+  "page_support-us": {
     "post_title": "Support Us",
     "post_content": {
       "subsection": [

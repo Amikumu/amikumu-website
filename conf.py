@@ -110,15 +110,15 @@ TRANSLATIONS = {
     "fr": "./fr",
     "zh_cn": "./zh",
    "ru": "./ru",
-  #  #   "ja": "./ja",
+     "ja": "./ja",
   #"ka": "./ka", #georgian
    "oc": "./oc",
    "pl": "./pl",
    "pt": "./pt",
    "sk": "./sk",
    "tr": "./tr",
-  # "lt": "./lt",
-  # "cs": "./cs",
+   "lt": "./lt",
+   "cs": "./cs",
      #"avk": "./avk", #kotava
      #"lfn": "./lfn", #lingua franca nova
      #"nds": "./nds", #nedersassik

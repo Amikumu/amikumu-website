@@ -8,27 +8,27 @@
  <url>
   <loc>https://nova.amikumu.com/</loc>
   <lastmod>2022-10-10T15:06:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="ja" href="https://nova.amikumu.com/ja/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://nova.amikumu.com/ka/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://nova.amikumu.com/lfn/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/" />
-  <xhtml:link rel="alternate" hreflang="avk" href="https://nova.amikumu.com/avk/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/" />
-  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh_cn/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://nova.amikumu.com/tr/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://nova.amikumu.com/lt/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://nova.amikumu.com/nds/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://nova.amikumu.com/eo/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://nova.amikumu.com/fr/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://nova.amikumu.com/tr/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://nova.amikumu.com/ca/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh_cn/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://nova.amikumu.com/lfn/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://nova.amikumu.com/ja/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://nova.amikumu.com/eo/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://nova.amikumu.com/lt/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://nova.amikumu.com/nds/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://nova.amikumu.com/ka/" />
+  <xhtml:link rel="alternate" hreflang="avk" href="https://nova.amikumu.com/avk/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/authors/</loc>
@@ -1585,78 +1585,6 @@
   <loc>https://nova.amikumu.com/tr/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/authors/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/authors/amikumu/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/authors/roberto-alsina/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/blog/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/cat_nikola/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/demo/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/nikola/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/categories/python/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/galleries/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/galleries/demo/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/2012/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/2022/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/archive.html</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh_cn/</loc>

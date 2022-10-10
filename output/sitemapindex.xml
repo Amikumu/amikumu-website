@@ -767,7 +767,7 @@
  </sitemap>
  <sitemap>
   <loc>https://nova.amikumu.com/sitemap.xml</loc>
-  <lastmod>2022-10-10T15:06:00Z</lastmod>
+  <lastmod>2022-10-10T15:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nova.amikumu.com/sk/authors/amikumu.xml</loc>
@@ -848,46 +848,6 @@
  <sitemap>
   <loc>https://nova.amikumu.com/tr/rss.xml</loc>
   <lastmod>2022-10-10T15:06:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/authors/amikumu.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/authors/roberto-alsina.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/categories/blog.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/categories/cat_nikola.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/categories/demo.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/categories/nikola.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/categories/python.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/galleries/demo/rss.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/galleries/rss.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://nova.amikumu.com/zh/rss.xml</loc>
-  <lastmod>2022-10-10T13:33:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://nova.amikumu.com/zh_cn/authors/amikumu.xml</loc>

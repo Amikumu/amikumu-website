@@ -1,0 +1,1 @@
+Złote Członkostwo zapewnia dodatkowe funkcje, takie jak wirtualna teleportacja i dodatkowe ustawienia prywatności. Jednak jest to także świetny sposób na okazanie Twojego wsparcia i zapewnienie nam cennych funduszy! Możesz zakupić Złote Członkostwo w aplikacji (już wkrótce!).

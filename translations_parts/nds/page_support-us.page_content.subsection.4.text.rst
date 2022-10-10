@@ -1,0 +1,1 @@
+Goldene lidmåtskap büdt dy ekstrafunktionen so as virtuelle teleportatioon un tosätlike privaatsfäärinstellings. Man dat is ouk en super weg dyn stüt/stöän to wysen un uns waerdvulle financering to beden! Binnenkört kanst du en goldene lidmåtskap ouk van de äpp uut köypen.

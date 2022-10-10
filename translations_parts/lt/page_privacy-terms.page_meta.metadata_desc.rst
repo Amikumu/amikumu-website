@@ -1,0 +1,1 @@
+Raskite ir bendraukite tuoj pat su vietiniais kalbų partneriais netoliese. Mūsų programėlė palaiko virš 7000 kalbų įskaitant katalonų, kinų, olandų, esperanto, airių, japonų, occitan, lenkų, portugalų, rusų, toki pona, valų, ir visos nemokamai!

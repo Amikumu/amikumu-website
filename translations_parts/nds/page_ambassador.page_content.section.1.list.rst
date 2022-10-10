@@ -1,0 +1,5 @@
+#. Se publiceret blogpoosts un YouTube-videos! As eksempel, kyk nå `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) un `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) un wat noch meyr. Wy hebbet en heyle syde med `mediaberichten <http://amikumu.com/press/>`_.
+ 	#. Se poostet lenken in Facebook-gruppen un up ear profilen. Sülvst so en lüt teyken van oapenlike stüt kan veal helpen!
+ 	#. Se vordeylet flyers un spreaket öäver Amikumu in ear lokale språktosamenkumsten. Dit is ouk en fantastiske wyse en lokale gemeynskap up to bowen un wassen to låten.
+ 	#. Se `öäversettet de äpp <https://traduk.amikumu.com/engage/amikumu/nds>`_ un de websteade nå ear lokale språken. Uns wunsk is de meyrstöäversettede äpp in de werld to warden un wy bruket so veal helpe as möäglik üm dit to berekken.
+ 	#. Se bedet uns en belangryk leid. Wy begrypet, dat elke språke un kultuur anders is. Wy wüllet un bruket dyn råd, woans wy up dat best in dyn gemeynskap ageren köänet.

@@ -1,0 +1,1 @@
+UAD (Usuários Ativos Diariamente)

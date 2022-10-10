@@ -1,0 +1,1 @@
+Judith Meyer tir exavakirik gu givavuropafa avopa bedumus va talpeyara va yon Internet gortaf talpeyot sules va ava, tulon va LearnYu intaf azed. Dere in tir yonavusik is dogrustasik va Polyglot Gathering is sutesik va jontika avasulesa neva is va yona avafa prujnera. In va Esperanto toz raveyer tison 14-daf ta favera va ino dum va plumba ta ravera va aryona ava.

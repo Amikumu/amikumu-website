@@ -1,0 +1,5 @@
+#. Publikują posty na blogach i filmy na YouTube! Na przykład zobacz między innymi `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) i `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante). Mamy całą stronę poświęconą `prasie <http://amikumu.com/press/>`_.
+ 	#. Umieszczają linki w grupach na Facebooku i w swoich profilach. Nawet proste okazanie wsparcia publicznie może bardzo pomóc!
+ 	#. Rozdają ulotki i mówią o Amikumu na miejscowych spotkaniach językowych. To także świetny sposób by stworzyć i rozwinąć lokalną społeczność.
+ 	#. `Tłumaczą aplikację <https://traduk.amikumu.com/engage/amikumu/pl>`_ i stronę internetową na swoje języki. Naszym celem jest stać się aplikacją przetłumaczoną na największą ilość języków i potrzebujemy wszelkiej pomocy, aby to osiągnąć.
+ 	#. Dostarczają nam niezwykle ważnych wskazówek. Rozumiemy, że każdy język i kultura jest inna. Chcemy i potrzebujemy twojej rady, aby jak najlepiej zachowywać się w twojej społeczności.

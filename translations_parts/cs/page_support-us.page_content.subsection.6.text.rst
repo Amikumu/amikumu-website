@@ -1,0 +1,1 @@
+`Připravili jsme letáky, které můžete distribuovat <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ ve vaší škole, univerzitě a místním jazykovém klubu. Také jsou přeloženy do mnoha jazyků. Pokud byste potřebovali letáky vyrobené na míru, dejte nám prosím vědět `info@amikumu.com <mailto:info@amikumu.com>`_

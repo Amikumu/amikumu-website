@@ -1,0 +1,2 @@
+Judith Meyer é uma linguista computacional que passa a maior parte de seu tempo desenvolvendo aplicações 
+ da web que lidam com línguas, como seu projeto LearnYu. Ela também é uma poliglota, co-organizadora do Encontro Poliglota e autora de muitos livros de línguas e cursos linguísticos. Ela aprendeu Esperanto quando tinha 14 anos, a fim de usá-lo como um trampolim para a aprendizagem de muitas outras línguas.

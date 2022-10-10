@@ -1,0 +1,1 @@
+Judith Meyer, hesaplama dilbilimcisidir ve zamanının çoğunu dillerle uğraşan web uygulamaları geliştirmek için harcamaktadır, örneğin, LearnYu projesi. Ayrıca o bir poliglot, Polyglot Gathering'in eş-organizatörü ve birçok dil kitapları ve dil kurslarının yazarı. Esperanto'yu 14 yaşındayken öğrendi ve birçok dili öğrenmek için bir sıçrama tahtası olarak kullandı.

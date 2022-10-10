@@ -1,0 +1,1 @@
+La misio de Amikumu estas krei kaj administri socian reton, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke, malgraŭ la socia, politika aŭ ekonomia stato de ĉiu lingvo.

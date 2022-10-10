@@ -1,0 +1,1 @@
+Kio estas Ambasadoro?

@@ -1,0 +1,1 @@
+Amikumu tüm dünya dilleri kullanıcıları, konuşmacıları, ve kaydolmuş kişilerin iletişimde bulunabilecekleri ve yerel olarak ilgili bilgi paylaşabilecekleri bir sosyal ağ platformudur. Kullanıcılarımız genelde çok dilli kişiler (polyglot) ve azınlık dillerini konuşanlardır.

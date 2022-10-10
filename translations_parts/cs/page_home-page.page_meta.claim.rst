@@ -1,0 +1,1 @@
+Posláním Amikumu je vytvořit a udržovat sociální síť, která poskytne platformu pro mluvčí, znakující a uživatele všech světových jazyků ke komunikaci a sdílení relevantních místních informací bez ohledu na sociální, politický a ekonomický statut každého jazyka.

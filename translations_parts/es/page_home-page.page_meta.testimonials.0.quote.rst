@@ -1,0 +1,1 @@
+Yo nunca sé en qué ciudad me levantaré por la mañana, y sin embargo, quiero practicar todos los idiomas que hablo. Con esta aplicación podré practicar cualquier lengua que desee con tan sólo presionar un botón. ¡No puedo esperar!

@@ -1,0 +1,1 @@
+Nombre de llengües parlades

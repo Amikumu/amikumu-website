@@ -1,0 +1,1 @@
+Je toho málo, co můžeme poskytnou za vaši neocenitelnou pomoc. Nicméně existuje několik výsad pro ambasadory. Ambasadorům mimo jiné poskytujeme jedinečné sběratelské odznaky v aplikaci. Neváhejte se na nás obrátit pro více informací na e-mail `info@amikumu.com <mailto:info@amikumu.com>`_.

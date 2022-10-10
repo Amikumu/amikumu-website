@@ -1,0 +1,1 @@
+L'Amikumu és una xarxa social que ofereix als parlants, signants i usuaris de tots els idiomes del món una plataforma per a comunicar i compartir informació rellevant a nivell local. Els nostres usuaris són principalment poliglots i parlants de llengües minoritàries.

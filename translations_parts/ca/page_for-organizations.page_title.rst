@@ -1,0 +1,1 @@
+Per a les organitzacions

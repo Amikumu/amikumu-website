@@ -1,0 +1,5 @@
+#. Finta icde ilkafi bli is Youtube debakaf elpat zo sanegad ! Tulon, vay disukel va `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ik `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante), vanmiae arcoba ‼ Va kotrafu bu tarizanu gu `press releasese <http://amikumu.com/press/>`_.
+ 	#. Sin va givavuropagluyaxa fintad ko Facebook debakafa lospa is koe intafa liota. Dace mana pinafa sanegafa bristura en ropomar !
+ 	#. Va truk walzilid ise va Amikumu pulvid bal lizukafa avafa kabelcara. Dere batcoba gu exonera is laumasira va lizukafa doda en pomar.
+ 	#. Va Internet gortafo xo is `va talpeyot remsuted <https://traduk.amikumu.com/engage/amikumu/avk>`_ kal intafa lizukafa ava. Va vanpira va tanoy lojontikon remsuten talpeyot ke tamava mukotav ise va winafa pomara olegav ta kiewaskira va batcoba.
+ 	#. Gu cin va zolonapafa stara tiskad. Jiligav da kota ava isu araya tid amidafa. Jugemev ise olegav da va cin pirdac gu ronkura koe winafa doda.

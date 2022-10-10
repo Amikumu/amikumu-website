@@ -1,0 +1,1 @@
+Què és l'Amikumu?

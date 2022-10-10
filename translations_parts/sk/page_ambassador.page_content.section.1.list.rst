@@ -1,0 +1,5 @@
+#. Publikujú blogy a videá na YouTube! Pozrite si napríklad `Amikumu: Aplikácia, na ktorú hovorcovia Yiddish čakali! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) a `Auslan: Čo je Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) medzi inými. Máme samostatnú stránku venovanú `tlačovým správam <http://amikumu.com/press/>`_.
+ 	#. Postujú odkazy v skupinách a na ich profiloch na Facebooku. Hoci ide o jednoduchú formu verejnej podpory, môže sa dostať ďaleko!
+ 	#. Rozdávajú letáky a hovoria o Amikumu na miestnych stretnutiach venovaných jazykom. Ide tiež o skvelý spôsob ako vybudovať a nechať rásť miestnu komunitu.
+ 	#. `Prekladajú aplikáciu <https://traduk.amikumu.com/engage/amikumu/sk>`_ a webstránku do ich lokálnych jazykov. Našim cieľom je stať sa najprekladanejšou aplikáciou na svete a potrebujeme pomoc, aby sme to dosiahli.
+ 	#. Poskytujú nám životne dôležitú pomoc. Chápeme, že každý jazyk a kultúra sú rozdielne. Chceme a potrebujeme vaše rady ak najlepšie fungovať vo vašej komunite.

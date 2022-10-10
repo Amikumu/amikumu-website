@@ -1,0 +1,1 @@
+Misiou Amikumu je vytvoriť a udržiavať spoločenskú sieť, ktorá hovoriacim, signatárom a užívateľom všetkých svetových jazykov poskytne platformu na komunikáciu a zdieľanie relevantných informácií na mieste, bez ohľadu na spoločenský, politický alebo ekonomický status každého jedného jazyka.

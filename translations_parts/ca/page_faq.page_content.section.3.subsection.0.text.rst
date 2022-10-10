@@ -1,0 +1,1 @@
+A Amikumu som amics del codi lliure. No obstant això, el codi lliure no s'ajusta actualment a la nostra organització. De tota manera tenim en compte les possibilitats d'alliberar el nostre codi quan trobem que sigui el bon moment.

@@ -1,0 +1,1 @@
+`Hemos preparado folletos que puedes distribuir <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ en tu escuela, universidad y club de idioma local. También han sido traducidos a muchos idiomas que puedes utilizar. Si necesita folletos personalizados, por favor contáctenos en `info@amikumu.com <mailto:info@amikumu.com>`_

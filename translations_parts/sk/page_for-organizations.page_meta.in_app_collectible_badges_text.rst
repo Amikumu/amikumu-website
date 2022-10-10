@@ -1,0 +1,1 @@
+Zberateľský odznak v aplikácii, ktorý sa zobrazuje na užívateľovom profile. Dokonalý na propagáciu veľkých stretnutí, jazykových festivalov alebo seminárov a pre udeľovanie dodatočných ocenení za účasť na udalostiach.

@@ -1,0 +1,1 @@
+Paha biçilmez yardımınız için sağlayabileceğimiz az şey var. Ancak, Büyükelçi olanlar için bir kaç ikramiyemiz var. Diğer şeylerin yanı sıra, büyükelçilerimize benzersiz uygulama içi tahsil edilebilir rozetler sunuyoruz. info@amikumu.com adresinde daha fazla bilgi için bize ulaşmaktan çekinmeyin `info@amikumu.com <mailto:info@amikumu.com>`_.

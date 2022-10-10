@@ -1,0 +1,1 @@
+Chatuj a stretni sa!

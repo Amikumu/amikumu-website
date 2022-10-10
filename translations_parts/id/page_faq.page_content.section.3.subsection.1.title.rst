@@ -1,0 +1,1 @@
+Bisakah saya menerjemahkan Amikumu?

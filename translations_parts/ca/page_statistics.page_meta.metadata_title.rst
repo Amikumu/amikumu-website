@@ -1,0 +1,1 @@
+Estadístiques de l'Amikumu

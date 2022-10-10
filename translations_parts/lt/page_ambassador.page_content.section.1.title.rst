@@ -1,0 +1,1 @@
+Ką daro Ambasadorius?

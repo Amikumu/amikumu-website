@@ -1,0 +1,1 @@
+Cada mes, publicam una newsletter amb un còp d'uèlh sus las colissas de nòstres plans e de nòstras capitadas. Tanben acceptam las contribucions dels membres de nòstra comunautat, per exemple las vòstras. Es nòstre biais de parlar dirèctament amb vos. `Abonatz-vos aicí <http://eepurl.com/c4qiRD>`_.

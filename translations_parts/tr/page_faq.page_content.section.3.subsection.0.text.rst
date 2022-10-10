@@ -1,0 +1,1 @@
+Amikumu'yu açık kaynaklı yapmak için bizler de can atıyoruz. Ne yazık ki, açık kaynak şu anda kuruluşumuza uygun değildir. Bununla birlikte, açık kaynağın bizim için uygun olduğuna karar verdiğimizde açmak için fırsatlar arıyoruz.

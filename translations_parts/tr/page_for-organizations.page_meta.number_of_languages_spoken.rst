@@ -1,0 +1,1 @@
+Konuşulan dil sayısı

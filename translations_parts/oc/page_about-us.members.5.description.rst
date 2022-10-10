@@ -1,0 +1,1 @@
+Elena Khusanova es una grafista talentuosa, diplomada en teoria de l'arquitectura. Un còp diplomada, aprenguèt l'esperanto e trabalhèt per un fum d'eveniments e organizacions. En particulièr, cal mencionar son volontariat per E@L en Eslovaquia e son trabalh pel 101en Congrès Mondial d'Esperanto. I a pas gaire, acabèt un de sos projèctes personals: cartas pel jòc del Lop-garon.

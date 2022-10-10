@@ -1,0 +1,1 @@
+Amikumu é uma rede social que fornece a falantes, usuários de línguas de sinais e de qualquer outra língua do mundo com uma plataforma para comunicar e compartilhar informação relevante localmente. Nossos usuários são principalmente poliglotas e falantes de línguas minoritárias.

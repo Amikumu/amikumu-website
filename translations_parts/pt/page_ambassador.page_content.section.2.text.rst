@@ -1,0 +1,1 @@
+Há pouco que podemos oferecer por sua inestimável ajuda. No entanto, existem algumas vantagens de ser um embaixador. Nós fornecemos aos embaixadores exclusivos distintivos coletáveis no aplicativo entre outras coisas. Sinta-se livre para chegar até nós para mais informação em `info@amikumu.com <mailto:info@amikumu.com>`_.

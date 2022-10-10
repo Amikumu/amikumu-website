@@ -1,0 +1,1 @@
+Nájdite a okamžite sa spojte s vašimi lokálnymi jazykovými partnermi. Sme jediná aplikácia, ktorá podporuje viac ako 7000 jazykov vrátane katalánčiny, čínštiny, holandčiny, esperanta, írštiny, japončiny, okcitánštiny, poľštiny, portugalčiny, ruštiny, toki pona a welštiny, a to všetko zdarma!

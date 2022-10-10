@@ -1,0 +1,1 @@
+Inggris, Esperanto, Tionghoa

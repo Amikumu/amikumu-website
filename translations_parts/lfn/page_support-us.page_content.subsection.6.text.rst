@@ -1,0 +1,1 @@
+`Nos ia prepara folias avisante ce tu pote distribui <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ en tua scola, universia e club de lingua local. Los ia es ance traduida en multe linguas per tua usa. Si tu nesesa la crea de folias avisante, por favor contata nos a `info@amikumu.com <mailto:info@amikumu.com>`_

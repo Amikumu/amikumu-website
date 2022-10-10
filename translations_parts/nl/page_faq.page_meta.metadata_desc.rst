@@ -1,0 +1,1 @@
+Vind en leg direct contact met taalpartners in de buurt. Wij zijn de enige app die meer dan 7000 talen ondersteunt, waaronder het Catalaans, Chinees, Fries, Esperanto, Iers, Japans, Occitaans, Pools, Portugees, Russisch, Toki Pona en Welsh, allemaal GRATIS!

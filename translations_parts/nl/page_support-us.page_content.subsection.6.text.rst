@@ -1,0 +1,1 @@
+`We hebben flyers samengesteld die je kan uitdelen <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ in je school, universiteit en lokale taalclub. Deze zijn ook vertaald in vele talen voor je gebruik. Als je aangepaste flyers nodig hebt, contacteer ons dan op `info@amikumu.com <mailto:info@amikumu.com>`_

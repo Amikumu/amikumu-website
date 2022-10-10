@@ -1,0 +1,1 @@
+`Al egav va truk dan rowalzilil <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ koe rinafa bema iku kotla iku lizukaf avaf rijay. Dere sin ixam zo remsuted kal jontika ara ava ta rinafa favera. Ede va tuilkan truk olegal, pune pu cin golel vey `info@amikumu.com <mailto:info@amikumu.com>`_

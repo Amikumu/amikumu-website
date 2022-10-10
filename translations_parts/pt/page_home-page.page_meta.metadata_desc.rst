@@ -1,0 +1,1 @@
+Encontre e conecte-se instantaneamente com parceiros de línguas locais nas proximidades. Nós somos o único aplicativo que suporta mais de 7 mil línguas incluindo catalão, chinês, holandês, Esperanto, irlandês, japonês, occitano, polonês, português, russo, Toki Pona e galês, tudo isso de GRAÇA!

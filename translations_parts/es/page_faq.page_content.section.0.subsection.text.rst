@@ -1,0 +1,1 @@
+Amikumu es una app que te ayuda a encontrar gente cercana con quien hablar cualquier lengua. Por ejemplo, si estás de vacaciones, puedes usar Amikumu para hallar personas que hablen inglés, francés, o hablantes de cualquier otro idioma cerca de donde estés.

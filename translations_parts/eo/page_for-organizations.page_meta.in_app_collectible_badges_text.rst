@@ -1,0 +1,1 @@
+En-apa kolektebla ŝildo, kiu aperas en la profila paĝo de la uzanto. Perfekte por reklamado de grandskalaj renkontiĝoj, lingvaj festivaloj aŭ seminarioj kaj por provizi aldonan premion por partoprenantoj en eventoj.

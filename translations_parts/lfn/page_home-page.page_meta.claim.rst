@@ -1,0 +1,1 @@
+La mision de Amikumu es crea e manteni un rede sosial cual furni parlores, siniores e usores de tota la linguas de la mundo con un plataforma per comunica e comparti local informa pertinente, sin relata con la state sosial, political, o economial de cada lingua.

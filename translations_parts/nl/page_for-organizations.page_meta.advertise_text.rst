@@ -1,0 +1,1 @@
+Amikumu is een sociaal netwerk dat sprekers, gebaarders en gebruikers van alle talen van de wereld een platform biedt om lokaal te communiceren en relevante informatie te delen. Onze gebruikers zijn voornamelijk polyglotten en sprekers van minderheidstalen.

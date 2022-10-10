@@ -1,0 +1,1 @@
+Talpeyasik va okilavusiko

@@ -1,0 +1,1 @@
+Dyrektor generalny (CEO)

@@ -1,0 +1,1 @@
+Administrator del sistèma

@@ -1,0 +1,1 @@
+`Wir haben Flyer vorbereitet, <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ die du in deiner Schule, Universität und im Sprachclub verteilen kannst. Sie wurden für deinen Gebrauch in eine Vielzahl Sprachen übersetzt. Solltest du speziell angepasste Flyer brauchen, kontaktiere uns unter `info@amikumu.com <mailto:info@amikumu.com>`_

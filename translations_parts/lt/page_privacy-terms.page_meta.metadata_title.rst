@@ -1,0 +1,1 @@
+Amikumu privatumas ir sąlygos

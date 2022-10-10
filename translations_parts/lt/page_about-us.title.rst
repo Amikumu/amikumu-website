@@ -1,0 +1,1 @@
+Sukurta poliglotų komandos

@@ -1,0 +1,1 @@
+Amikumu gizlilik ve koşullar

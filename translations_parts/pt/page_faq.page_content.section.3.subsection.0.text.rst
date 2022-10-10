@@ -1,0 +1,1 @@
+Nós do Amikumu somos amigáveis a código aberto. Infelizmente, código aberto não encaixa na nossa organização atualmente. Nós somos, no entanto, procurando por oportunidades para abrir o código quando nós sentirmos que a situação permite.

@@ -1,0 +1,1 @@
+Odznaka do zbierania w aplikacji, która pojawia się na stronie profilowej użytkownika. Idealna by reklamować spotkania na dużą skalę, językowe festiwale lub seminaria i zapewniająca dodatkową nagrodę za uczestnictwo w wydarzeniach.

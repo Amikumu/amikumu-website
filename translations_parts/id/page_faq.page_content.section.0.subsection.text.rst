@@ -1,0 +1,1 @@
+Amikumu adalah aplikasi yang membantu Anda menemukan orang-orang di sekitar untuk berbicara dengan bahasa apa pun. Misalnya, saat berlibur, gunakan Amikumu untuk bertemu dengan penutur bahasa Spanyol, Perancis atau lainnya.

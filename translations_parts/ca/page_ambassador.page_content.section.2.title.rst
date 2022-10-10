@@ -1,0 +1,1 @@
+Què obtenen els ambaixadors?

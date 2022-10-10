@@ -1,0 +1,1 @@
+Es poco lo que podemos proporcionar por tu inestimable ayuda. Sin embargo, hay algunas ventajas a ser embajador. Ofrecemos a los embajadores insignias únicas coleccionables en la aplicación entre otras cosas. No dude en preguntarnos para obtener más información al respecto `info@amikumu.com <mailto:info@amikumu.com>`_.

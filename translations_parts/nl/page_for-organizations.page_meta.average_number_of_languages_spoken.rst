@@ -1,0 +1,1 @@
+Gemiddeld aantal gesproken talen

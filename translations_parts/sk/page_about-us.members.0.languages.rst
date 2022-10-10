@@ -1,0 +1,1 @@
+angličtina, esperanto, mandarínska čínština

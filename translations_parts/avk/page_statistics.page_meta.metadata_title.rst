@@ -1,0 +1,1 @@
+Enkopa ke Amikumu

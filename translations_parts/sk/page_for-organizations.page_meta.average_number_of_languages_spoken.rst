@@ -1,0 +1,1 @@
+Priemerný počet hovorených jazykov

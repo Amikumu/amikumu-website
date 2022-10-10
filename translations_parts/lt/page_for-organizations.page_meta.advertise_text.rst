@@ -1,0 +1,1 @@
+Amikumu is a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally. Our users are primarily polyglots and speakers of minority languages.

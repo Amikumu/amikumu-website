@@ -1,0 +1,1 @@
+Berlin, Germana (bas Amerikatanarasokeem)

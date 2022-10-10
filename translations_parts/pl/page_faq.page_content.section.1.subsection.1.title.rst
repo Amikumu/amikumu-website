@@ -1,0 +1,1 @@
+Czy aplikacja jest darmowa?

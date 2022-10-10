@@ -1,0 +1,1 @@
+Nosautres, en çò d'Amikumu, nos agrada l'open source. Malurosament, l'open source conven pas a l'ora d'ara a nòstra organizacion. Çaquelà, sèm a cercar de possibilitats per dobrir nòstre còde quand sentirem qu'es lo bon moment.

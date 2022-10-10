@@ -1,0 +1,1 @@
+Misi Amikumu adalah untuk menciptakan dan memelihara jaringan sosial yang menyediakan penutur, penandatangan dan pengguna semua bahasa di dunia dengan media untuk berkomunikasi dan berbagi informasi yang relevan secara lokal, terlepas dari status sosial, politik dan ekonomi setiap bahasa.

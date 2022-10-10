@@ -1,0 +1,1 @@
+Gouden lidmaatschap biedt extra functies zoals virtuele teleportatie en aanvullende privacy-instellingen. Het is echter ook een geweldige manier om je steun te tonen en ons waardevolle financiering te bieden! Binnenkort kan je gouden lidmaatschap kopen in de app.

@@ -1,0 +1,1 @@
+`配布用のチラシを用意しています。 <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ 学校、大学、当地の言語クラブなどで配布しましょう。他の言語にも翻訳されています。チラシのカスタマイズが必要な場合、このメールアドレスまでご連絡： `info@amikumu.com <mailto:info@amikumu.com>`_

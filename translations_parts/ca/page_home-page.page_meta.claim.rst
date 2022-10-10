@@ -1,0 +1,1 @@
+La missió de l'Amikumu és crear i mantenir una xarxa social que proporcioni als parlants, signants i usuaris de totes les llengües del món una plataforma per a comunicar i compartir informació rellevant a nivell local, independentment de l'estatus social, polític o econòmic de cada llengua.

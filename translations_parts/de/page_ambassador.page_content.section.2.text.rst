@@ -1,0 +1,1 @@
+Es gibt nicht viel, was wir für deine wertvolle Hilfe bieten können. Aber, Botschafter zu sein bringt gewisse Vorteile mit sich. Wir bieten Botschaftern unter anderem Abzeichen, die in der App gesammelt werden können. Zögere nicht uns für mehr Informationen zu kontaktieren unter `info@amikumu.com <mailto:info@amikumu.com>`_.

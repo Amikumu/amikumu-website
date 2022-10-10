@@ -1,0 +1,1 @@
+Moavafa olkoyuca pu rin namyer va loplekufi fli, tulon vigornafa betavera va liz is yon loplekuf dor ke yaseguca. Voxe, dere tir askany ta nedira va bristura is ta da va tciamafa fukorlara, pu cin tiskal ! Va Moavafa olkoyuca rolustel kou talpeyot (fure enafa).

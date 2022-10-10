@@ -1,0 +1,1 @@
+Judith Meyer je počítačovou lingvistkou, ktorá trávi najviac času vývojom webových aplikácií, ktoré sa zaoberajú jazykom, ako napríklad LearnYu. Tiež je polyglotkou, spoluorganizátorkou Stretnutia polyglotov a autorkou mnohých jazykových kníh a jazykových kurzov. Naučila sa esperanto, keď mala 14 rokov, aby ho využila ako odrazový mostík pri u čení sa mnohých ďalších jazykov.

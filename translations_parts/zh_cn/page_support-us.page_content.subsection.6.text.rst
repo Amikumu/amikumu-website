@@ -1,0 +1,1 @@
+`我们已经准备好了传单 <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ ，您可以在您的学校和当地的语言俱乐部里分发。它们也被翻译成多种语言供您使用。 如果您需要定制传单，请与我们联系 `info@amikumu.com <mailto:info@amikumu.com>`_

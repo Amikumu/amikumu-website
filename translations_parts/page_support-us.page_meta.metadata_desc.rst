@@ -1,0 +1,1 @@
+Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!

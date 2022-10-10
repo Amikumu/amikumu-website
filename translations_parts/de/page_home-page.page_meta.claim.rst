@@ -1,0 +1,1 @@
+Die Mission von Amikumu ist es, ein Netzwerk zu schaffen und aufrecht zu erhalten, das Sprechern, Gebärdenden und Benutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und relevante Informationen örtlich auszutauschen - alles ungeachtet der sozialen, politischen und wirtschaftlichen Stellung jeder Sprache.

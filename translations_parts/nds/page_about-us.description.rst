@@ -1,0 +1,1 @@
+De missioon van Amikumu is dat upbowen un holden van en sociaal netwark, wat spreakers, gebäärders un brukers van alle språken in de werld en platform büdt vöär lokale kommunikatioon un deylen van relevante informationen - wat de sociale, politiske or ökonomiske ståtus van elke språke ouk is.

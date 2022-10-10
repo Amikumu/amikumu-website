@@ -1,0 +1,1 @@
+Kan Amikumu platael vay ‼

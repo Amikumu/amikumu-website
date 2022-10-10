@@ -1,0 +1,1 @@
+Ktoré platformy podporuje Amikumu?

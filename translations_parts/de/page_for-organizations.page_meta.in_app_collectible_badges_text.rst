@@ -1,0 +1,1 @@
+In der App sammelbares Abzeichen, das auf der Profilseite der Nutzer erscheint. Perfekt, um für groß angelegte Treffen, Sprachfestivals oder Seminare zu werben und einen zusätzlichen Anreiz für die Teilnahme zu schaffen.

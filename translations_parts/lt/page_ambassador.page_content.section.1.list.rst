@@ -1,0 +1,5 @@
+#. Jie skelbia blog'ų pranešimus ir YouTube video! Pavyzdžiui, `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) arba `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) tarp visų kitų. Mes turime pilną puslapį, skirtą `spaudos paskelbimams <http://amikumu.com/press/>`_.
+ 	#. Jie dalijasi nuorodomis Facebook grupėse ir savo profiliuose. Netgi paprastas viešo palaikymo parodymas gali labai daug prisidėti!
+ 	#. Jie dalijasi lankstinukais ir kalba apie Amikumu vietiniuose kalbų susitikimuose. Tai taip pat labai geras būdas įkurti ir auginti vietinę bendruomenę.
+ 	#. Jie `verčia programėlę <https://traduk.amikumu.com/engage/amikumu/lt>`_ bei svetainę į savo kalbas. Mūsų tiksls - tapti labiausiai išversta programėle pasaulyje, ir mums reikia pagalbos siekiant šio tikslo.
+ 	#. Jie suteikia gyvybiškai svarbių patarimų. Mes supratame, jog kiekviena kalba ir kultūra yra skirtinga. Mes norime, jog jūs mums patartumėte, kaip geriausiai prisidėti prie jūsų bendruomenės.

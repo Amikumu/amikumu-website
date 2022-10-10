@@ -1,0 +1,1 @@
+Ĉu Amikumu estas malfermitkoda?

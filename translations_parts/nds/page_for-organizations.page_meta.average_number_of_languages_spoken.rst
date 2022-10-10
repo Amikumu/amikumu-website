@@ -1,0 +1,1 @@
+Döärsnidlike antal sproaken språken

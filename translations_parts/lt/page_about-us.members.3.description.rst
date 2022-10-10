@@ -1,0 +1,1 @@
+Judith Meyer yra kompiuterinė lingvistė, praleidžianti daug laiko kurdama programas, susijusias su kalbomis, pvz. jos projektas LearnYu. Ji taip pat yra poliglotė, Poliglotų Susitikimo bendraorganizatorė ir daugelio knygų bei kalbų kursų autorė. Ji išmoko Esperanto būdama 14 metų norint išmokti kitų kalbų lengviau.

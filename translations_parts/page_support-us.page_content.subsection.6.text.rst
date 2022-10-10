@@ -1,0 +1,1 @@
+`We've prepared flyers you can distribute <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ in your school, university and local language club. They have also been translated into many languages for your use. If you need custom flyers made, please contact us at `info@amikumu.com <mailto:info@amikumu.com>`_

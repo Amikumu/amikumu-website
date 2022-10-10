@@ -1,0 +1,1 @@
+An in-app collectible badge that appears on the user's profile page. Perfect for advertising large-scale meetups, language festivals or seminars and for providing an additional award for participation in events.

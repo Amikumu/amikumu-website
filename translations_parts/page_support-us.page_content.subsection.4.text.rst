@@ -1,0 +1,1 @@
+Gold membership provides additional features such as virtual teleportation and additional privacy settings. However, it's also a great way to show your support and provide us with valuable funding! You can purchase Gold Membership from within the app (coming soon!).

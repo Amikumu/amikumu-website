@@ -1,0 +1,1 @@
+Être un membre Or donne accès à de nouvelles fonctions telles que la téléportation virtuelle et des options de confidentialité supplémentaires. Mais c’est aussi un excellent moyen de montrer votre soutien et une contribution précieuse à notre financement ! Vous pouvez acheter un abonnement Or depuis l’application (bientôt disponible !).

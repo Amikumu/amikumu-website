@@ -1,0 +1,1 @@
+Cuantia de linguas parlada

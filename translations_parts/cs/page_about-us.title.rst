@@ -1,0 +1,1 @@
+Vyvinut týmem polyglotů

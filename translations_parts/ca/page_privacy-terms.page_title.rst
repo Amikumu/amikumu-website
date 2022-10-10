@@ -1,0 +1,1 @@
+Termes i privacitat

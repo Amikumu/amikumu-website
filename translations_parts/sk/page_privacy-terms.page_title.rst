@@ -1,0 +1,1 @@
+Súkromie a podmienky

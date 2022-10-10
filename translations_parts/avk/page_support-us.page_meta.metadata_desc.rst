@@ -1,0 +1,1 @@
+Va avalbasik trasil aze pu sin davon golel pokeon vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !

@@ -1,0 +1,1 @@
+Il y a peu que nous puissions faire en échange de votre aide précieuse. Mais il y a quelques avantages quand on est un ambassadeur. Ente autres, nous donnons aux ambassadeurs des insignes uniques à collectionner dans l’application. Si vous voulez en savoir plus, n’hésitez pas à nous contacter à l’adresse `info@amikumu.com <mailto:info@amikumu.com>`_.

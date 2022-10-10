@@ -1,0 +1,1 @@
+We at Amikumu are friendly to open source. Unfortunately, open source does not currently fit our organization. We are, however, looking into opportunities to open source when we feel that it is the right fit for us.

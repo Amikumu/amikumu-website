@@ -1,0 +1,1 @@
+Finde und kontaktiere Sprachpartnern sofort in deiner Umgebung. Wir sind die einzige App, die über 7000 Sprachen unterstützt, darunter Katalanisch, Chinesisch, Niederländisch, Esperanto, Irisch, Japanisch, Plattdeutsch, Polnisch, Portugisisch, Russisch, Toki Pona und Walisisch - alles GRATIS!

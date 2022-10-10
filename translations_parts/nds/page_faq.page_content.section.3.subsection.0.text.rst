@@ -1,0 +1,1 @@
+By Amikumu sint wy opensource-vründlik. Jammer is man, dat opensource upstunds nich vöär uns organisatioon past. Lykerveal söket wy nå möäglikheiden unsen kode opensource to maken, woneyr uns dücht, dat dit vöär uns funktioneert.

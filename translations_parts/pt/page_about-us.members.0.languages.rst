@@ -1,0 +1,1 @@
+Inglês, Esperanto, Mandarim

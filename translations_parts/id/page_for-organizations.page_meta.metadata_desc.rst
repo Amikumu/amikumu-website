@@ -1,0 +1,1 @@
+Cari dan hubungkan secara instan dengan pasangan bahasa lokal di sekitar. Kami adalah satu-satunya aplikasi yang mendukung lebih dari 7.000 bahasa termasuk Katalan, Tionghoa, Belanda, Esperanto, Irlandia, Jepang, Oksitan, Polandia, Portugis, Rusia, Toki Pona dan Wales, semuanya GRATIS!

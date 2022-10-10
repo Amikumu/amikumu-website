@@ -1,0 +1,1 @@
+My, zespół Amikumu, lubimy open source. Niestety open source nie pasuje do naszej organizacji. Jednakże rozpatrujemy możliwość udostępnienia kodu źródłowego, gdy poczujemy, że będzie to dla nas właściwe.

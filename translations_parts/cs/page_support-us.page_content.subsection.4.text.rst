@@ -1,0 +1,1 @@
+Zlaté členství poskytuje další funkce, například virtuální teleport a další nastavení soukromí. Také je to skvělý způsob, jak ukázat svou podporu a poskytnout nám cenné prostředky! Zlaté členství si můžete zakoupit přímo z aplikace (již brzy!).

@@ -1,0 +1,1 @@
+Bagikan aplikasi kami dengan teman Anda di media sosial atau melalui email! Semakin banyak orang mendengar tentang Amikumu, semakin bermanfaatnya bagi kita semua. Bagikan tautan ke situs web resmi kami `www.amikumu.com <https://www.amikumu.com>`_ bersama dengan mengapa Anda menikmatinya begitu banyak.

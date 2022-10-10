@@ -1,0 +1,1 @@
+Elena Cusanova es un desinior de grafica susedosa, con un diploma en la teoria de arciteta. Pos gradua, el ia aprende esperanto e pos acel ia labora per multiple organizas e avenis. Luminas inclui sua servi voleda per E@I en Slovensco e la 101 Congresa Mundial de Esperanto, entre otra projetas. Resente, el ia completa un projeta propre: cartas per la jua "Om-Lupos".

@@ -1,0 +1,1 @@
+Encuentra y conecta instantáneamente con compañeros de idioma de tus alrededores. Somos la única aplicación que soporta más de 7000 idiomas incluyendo catalán, chino, holandés, esperanto, irlandés, japonés, occitano, polaco, portugués, ruso, toki pona y galés, ¡todo gratis!

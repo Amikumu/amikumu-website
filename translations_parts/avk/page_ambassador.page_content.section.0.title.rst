@@ -1,0 +1,1 @@
+Tokcoba permik tir ?

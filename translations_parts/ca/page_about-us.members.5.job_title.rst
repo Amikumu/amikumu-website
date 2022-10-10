@@ -1,0 +1,1 @@
+Dissenyadora gràfica

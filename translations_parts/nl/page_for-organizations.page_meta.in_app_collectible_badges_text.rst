@@ -1,0 +1,1 @@
+Een in-app verzamelbadge die op de gebruiker's profiel verschijnt. Perfect om grootschalige bijeenkomsten, taalfestivallen of -seminars te adverteren en om een extra badge te verschaffen voor het bijwonen van evenementen.

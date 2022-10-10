@@ -1,0 +1,1 @@
+Amikumu es una ret sociala qu'ofrís una plataforma a totes los locutors, praticants de lenga dels signes e mai generalament utilizaires de totas las lengas del monde, una plataforma per comunicar e partejar d'informacions pertinentas al nivèl local. Nòstres utilizaires son principalament poliglòtas, e locutors de lengas minoritàrias.

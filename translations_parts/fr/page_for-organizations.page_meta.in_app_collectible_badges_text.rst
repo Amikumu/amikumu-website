@@ -1,0 +1,1 @@
+Un badge à collectionner dans l'appli, qui apparaît sur la page de profil de l'utilisateur. Parfait pour faire la promotion de rencontres à grande échelle, de festivals de langues ou de séminaires, et pour proposer une récompense supplémentaire aux participants des événements.

@@ -1,0 +1,1 @@
+Büyükelçiler ne alıyor?

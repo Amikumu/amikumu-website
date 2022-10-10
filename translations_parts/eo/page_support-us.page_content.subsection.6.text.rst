@@ -1,0 +1,1 @@
+`Ni preparis flugfoliojn, kiujn vi povas disdoni <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ en via lernejo, universitato kaj loka lingva klubo. Ankaŭ ili estas jam tradukitaj en multajn aliajn lingvojn por via uzado. Se vi bezonas tajloritajn flugfoliojn, bonvolu kontrakti nin ĉe `info@amikumu.com <mailto:info@amikumu.com>`_

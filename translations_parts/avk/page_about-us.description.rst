@@ -1,0 +1,1 @@
+Vuida ke Amikumu tir redura is ristura va eyaf gort dafus va golesiko pu usik va kotinda tamavafa ava ise tir askira da ebokafa giva lizukon zo roseotad nekev eyaf iku gaderopaf iku skapaf sok ke beta ava.

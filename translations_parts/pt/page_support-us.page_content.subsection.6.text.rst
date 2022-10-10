@@ -1,0 +1,1 @@
+`Nós preparamos folhetos que você pode distribuir <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ em sua escola, universidade e clube de idioma local. Eles também foram traduzidos em muitas línguas para seu uso. Se precisar de panfletos personalizados, por favor entre em contato conosco em `info@amikumu.com <mailto:info@amikumu.com>`_

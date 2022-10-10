@@ -1,0 +1,1 @@
+Które systemy wspiera Amikumu?

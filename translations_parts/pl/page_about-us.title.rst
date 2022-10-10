@@ -1,0 +1,1 @@
+Stworzone przez zespół poliglotów

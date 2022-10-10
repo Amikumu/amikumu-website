@@ -1,0 +1,1 @@
+Amikumu ist ein soziales Netzwerk, das Sprechern, Gebärdern und Nutzern aller Sprachen der Welt eine Plattform bietet, um zu kommunizieren und lokal relevante Informationen auszutauschen. Unsere Nutzer sind größtenteils Polyglotte und Sprecher von Minderheitensprachen.

@@ -1,0 +1,1 @@
+Sosyal medyada veya e-postayla uygulamalarımızı arkadaşlarınızla paylaşın! Amikumu hakkında daha fazla insan duyarsa, bizim için hep o kadar yararlı olur. Resmi web sitemize bir bağlantı paylaşın `www.amikumu.com <https://www.amikumu.com>`_ile birlikte neden bu kadar çok zevk alıyorsun.

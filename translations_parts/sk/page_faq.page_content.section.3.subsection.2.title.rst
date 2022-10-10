@@ -1,0 +1,1 @@
+Čo znamená Amikumu?

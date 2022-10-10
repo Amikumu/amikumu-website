@@ -1,0 +1,1 @@
+Elena Khusanova je dokonalá grafička s diplomem v teorii architektury. Po promoci se naučila Esperanto a od té doby pracovala pro několik organizací a akcí. Upozorněme mimo jiné na její dobrovolnické služby pro E@I na Slovensku a 101. Světový esperantský kongres. Nedávno dokončila vlastní projekt: karty do hry "Werevolfs".

@@ -1,0 +1,1 @@
+Sběratelské odznaky v aplikaci

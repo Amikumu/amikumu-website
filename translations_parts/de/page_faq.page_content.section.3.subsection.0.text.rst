@@ -1,0 +1,1 @@
+Wir bei Amikumu sind Open Source-freundlich. Leider passt Open Source derzeit nicht zu unserer Organisation. Allerdings suchen wir nach Möglichkeiten, Kode zu veröffentlichen, wenn wir das Gefühl haben, dass es das richtige für uns ist.

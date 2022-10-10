@@ -1,0 +1,5 @@
+#. Oni publikigas blogafiŝojn kaj Jutubajn filmojn! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. Ni havas tutan paĝon dediĉitan al `gazetaro <http://amikumu.com/press/>`_.
+ 	#. Oni afiŝas ligilojn en Fejsbukaj grupoj kaj en siaj profiloj. Eĉ tia malgranda ago de publika subteno povas multe helpi!
+ 	#. Oni disdonas flugfoliojn kaj parolas pri Amikumu dum lokaj lingvaj kunvenoj. Ankaŭ tio multe helpas establi kaj kreskigi lokajn komunumojn.
+ 	#. Oni `tradukas la apon <https://traduk.amikumu.com/engage/amikumu/eo>`_ kaj retejon en sian lokan lingvon. Ni celas fariĝi unu el la plej multe tradukitaj apoj en la mondo kaj ni bezonas vian helpon por atingi ĉi tion.
+ 	#. Oni provizas nin per esence grava gvido. Ni konscias, ke ĉiu lingvo kaj ĉiu kulturo estas malsamaj. Ni volas kaj bezonas, ke vi konsilu nin pri kiel plej bone konduti en via komunumo.

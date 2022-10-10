@@ -1,0 +1,1 @@
+Мы приветствуем ваши отзывы. Присоединяйтесь `в наш список рассылки <http://eepurl.com/c4qiRD>`_, или следуйте за нами на `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ и `VK <https://vk.com/amikumu>`_ чтобы быть в курсе. Для дополнительных вопросов пишите на`info@amikumu.com <mailto:info@amikumu.com>`_

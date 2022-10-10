@@ -1,0 +1,1 @@
+Ota dem kaatoena patecta

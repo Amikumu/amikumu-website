@@ -1,0 +1,1 @@
+La mission de Amikumu est de créer et maintenir un réseau social qui fournit aux locuteurs de toutes les langues du monde une plateforme pour communiquer et partager localement des informations pertinentes, indépendamment du statut social, politique ou économique de chacune des langues.

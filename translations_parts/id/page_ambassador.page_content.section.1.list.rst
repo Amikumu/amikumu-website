@@ -1,0 +1,5 @@
+#. Mereka memublikasikan posting blog dan video YouTube! Contohnya, lihat ` Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) dan `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_. Kami memiliki keseluruhan halaman yang didedikasikan untuk `siaran pers <http://amikumu.com/press/>`_.
+ 	#. Mereka memasang tautan di grup Facebook dan di profil mereka. Bahkan pertunjukkan sederhana dukungan publik bisa berjalan jauh!
+ 	#. Mereka membagikan selebaran dan berbicara tentang Amikumu dalam pertemuan bahasa lokal. Ini juga cara yang bagus untuk membangun dan menumbuhkan komunitas lokal.
+ 	#. Mereka `menerjemahkan aplikasi <https://traduk.amikumu.com/engage/amikumu/id>`_ dan situs web ke bahasa lokal mereka. Tujuan kami adalah menjadi aplikasi yang paling banyak diterjemahkan di dunia dan kami membutuhkan semua bantuan untuk mencapai hal ini.
+ 	#. Mereka memberikan panduan penting. Kami mengerti bahwa setiap bahasa dan budaya berbeda. Kami ingin dan membutuhkan saran Anda tentang cara terbaik bertindak di komunitas Anda.

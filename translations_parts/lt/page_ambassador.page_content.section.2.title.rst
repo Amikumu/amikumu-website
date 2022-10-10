@@ -1,0 +1,1 @@
+Ką gauna Ambasadoriai?

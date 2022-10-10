@@ -1,0 +1,1 @@
+Prilal ise kevlanil djay ‼

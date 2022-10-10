@@ -1,0 +1,1 @@
+Znajdź i skontaktuj się z potencjalnymi partnerami językowymi w pobliżu. Jesteśmy jedyną aplikacją wspierającą ponad 7000 języków z całego świata, w tym kataloński, chiński, niderlandzki, esperanto, irlandzki, japoński, oksytański, polski, portugalski, rosyjski, toki pona i walijski, to wszystko ZA DARMO!

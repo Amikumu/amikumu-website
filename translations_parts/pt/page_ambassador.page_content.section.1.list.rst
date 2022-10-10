@@ -1,0 +1,5 @@
+#. Eles publicam posts e vídeos no YouTube! Por exemplo, confira `Amikumu: O App que os falantes de ídiche estavam esperando! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) e `Auslan: o que é Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) entre outros. Temos uma página inteira dedicada a `comunicados de imprensa <http://amikumu.com/press/>`_.
+ 	#. Eles publicam links em grupos do Facebook e em seus perfis. Mesmo um pequeno ato de suporte público pode ajudar muito!
+ 	#. Eles distribuem folhetos e falam sobre o Amikumu em encontros de línguas locais. Esta também é uma ótima maneira de estabelecer e uma comunidade local e fazê-la crescer.
+ 	#. Eles estão `traduzindo o app <https://traduk.amikumu.com/engage/amikumu/pt-BR>`_ e site para suas línguas locais. Nosso objetivo é nos tornarmos o aplicativo mais traduzido do mundo e precisamos de toda ajuda para alcançá-lo.
+ 	#. Eles estão fornecendo orientação vitalmente importante. Entendemos que cada língua e a cultura é diferente. Nós queremos e precisamos de seu conselho sobre como agir da melhor forma em sua comunidade.

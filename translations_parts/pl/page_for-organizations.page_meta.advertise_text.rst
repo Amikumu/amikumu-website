@@ -1,0 +1,1 @@
+Amikumu jest portalem społecznościowym, który zapewnia platformę do komunikacji i dzielenia się istotnymi informacjami lokalnie użytkownikom wszystkich języków świata - mówionych i migowych. Nasi użytkownicy to przede wszystkim poligloci i osoby używające języków mniejszości.

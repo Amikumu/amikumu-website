@@ -1,0 +1,1 @@
+Kurumlar için

@@ -1,0 +1,1 @@
+bu dem enkopa ‼

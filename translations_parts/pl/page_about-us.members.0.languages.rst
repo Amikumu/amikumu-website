@@ -1,0 +1,1 @@
+angielski, esperanto, chiński (mandaryński)

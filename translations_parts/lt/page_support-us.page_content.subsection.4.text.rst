@@ -1,0 +1,1 @@
+Auksinė narystė suteikia papildomų privilegijų, pvz. virtuali teleportacija ir papildomi privatumo nustatymai. Bet kuriuo atveju, tai yra geras būdas parodyti jūsų paramą vertingu prisidėjimu! Galite įsigyti auksinę narystę iš programėlės (greitai!).

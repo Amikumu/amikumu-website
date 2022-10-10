@@ -1,0 +1,1 @@
+Um distintivo coletável do aplicativo que aparece na página de perfil do usuário. Perfeito para anunciar encontros de larga escala, festivais de línguas ou seminários e para fornecer uma recompensa adicional por participação em eventos.

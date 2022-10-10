@@ -1,0 +1,1 @@
+Počet hovorených jazykov

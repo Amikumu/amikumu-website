@@ -1,0 +1,1 @@
+Amikumu is en sociaal netwark, wat spreakers, gebäärders un brukers van alle språken in de werld en platform büdt vöär kommunikatioon un dat lokale deylen van relevante informationen. Unse brukers sint höyvdsaaklik meyrspråkige un spreakers van mindertalspråken.

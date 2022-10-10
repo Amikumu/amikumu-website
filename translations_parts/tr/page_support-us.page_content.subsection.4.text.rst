@@ -1,0 +1,1 @@
+Altın üyeliği, sanal teleportasyon ve ek gizlilik ayarları gibi ek özellikler sağlar. Ancak, aynı zamanda desteğini göstermek ve bize değerli fonlar sağlamak için harika bir yoldur! Gold Üyeliğini uygulama içinden satın alabilirsiniz (yakında!).

@@ -1,0 +1,1 @@
+Amikumu ist eine App, die dir hilft, Menschen in der Umgebung zu finden, um mit ihnen eine bestimmte Sprache zu sprechen. Z. B. kannst du Amikumu im Urlaub benutzen um Spanischsprechende, Französischsprechende oder Sprecher irgendeiner anderen Sprache zu treffen.

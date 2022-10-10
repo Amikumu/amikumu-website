@@ -1,0 +1,1 @@
+Amikumu je sociální síť, který poskytuje mluvčím, znakujícím a uživatelům všech světových jazyků platformu pro komunikace a sdílení relevantních místních informací. Naši uživatelé jsou primárně polygloti a mluvčí minoritních jazyků.

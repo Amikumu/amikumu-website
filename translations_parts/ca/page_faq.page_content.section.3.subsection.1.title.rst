@@ -1,0 +1,1 @@
+Puc traduir l'Amikumu?

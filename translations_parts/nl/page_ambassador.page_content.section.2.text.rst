@@ -1,0 +1,1 @@
+Er is weinig wat we kunnen aanbieden voor je onschatbare hulp. Er zijn echter enkele verschillende voordelen om een ambassadeur te zijn. We bieden ambassadeurs onder andere unieke verzamelbare badges in de app aan. Aarzel niet om contact met ons op te nemen voor informatie op `info@amikumu.com <mailto:info@amikumu.com>`_.

@@ -1,0 +1,1 @@
+Com hi puc participar?

@@ -1,0 +1,1 @@
+Ar galiu versti Amikumu?

@@ -1,0 +1,1 @@
+Kas va Amikumu roremsuté ?

@@ -1,0 +1,1 @@
+Una insignia coleccionable dentro de la aplicación que aparece en el perfil del usuario. Perfecto para promocionar reuniones a gran escala, festivales de idiomas o seminarios y para proporcionar una recompensa adicional con la participación en los eventos.

@@ -1,0 +1,1 @@
+Aantal gesproken talen

@@ -1,0 +1,1 @@
+Número total de usuarios

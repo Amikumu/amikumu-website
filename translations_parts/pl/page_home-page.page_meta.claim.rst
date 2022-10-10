@@ -1,0 +1,1 @@
+Misją Amikumu jest stworzenie i podtrzymywanie sieci społecznej łączącej użytkowników wszystkich języków świata oraz platformy umożliwiającej komunikowanie się i przekazywanie informacji w każdym języku - niezależnie od jego popularności i prestiżu.

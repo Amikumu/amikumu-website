@@ -1,0 +1,1 @@
+Elena Khusanova je úspešná grafička s titulom z teórie architektúry. Po promócii sa naučila esperanto a odvtedy pracovala pre viaceré organizácie a udalosti. Za pozornosť medzi inými projektami stojí najmä jej dobrovoľnícka služba pre E@I na Slovensku a 101. Svetový kongres esperanta. Nedávno dokončila svoj vlastný projekt: karty pre hru "Vlkolaci".

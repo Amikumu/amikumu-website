@@ -1,0 +1,1 @@
+Essentiellement, les ambassadeurs sont des gens qui nous aident à faire connaître Amikumu dans leurs communautés locales. Ce sont nos représentants sur le terrain ! Ce nos nos plus grand fans et supporters.

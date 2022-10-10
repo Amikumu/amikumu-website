@@ -1,0 +1,1 @@
+Jeden Monat veröffentlichen wir einen Newsletter mit Insiderinformationen über unsere Pläne und Erfolge. Auch Beiträge von Community-Mitgliedern wie dir nehmen wir an. Dies ist unsere Art, mit euch direkt in Kontakt zu treten. `Melde dich hier an <http://eepurl.com/c4qiRD>`_.

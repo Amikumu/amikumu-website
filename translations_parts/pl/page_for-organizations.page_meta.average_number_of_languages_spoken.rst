@@ -1,0 +1,1 @@
+Średnia liczba używanych języków

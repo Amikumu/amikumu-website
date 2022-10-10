@@ -1,0 +1,5 @@
+#. ¡Están publicando entradas en blogs y vídeos en YouTube! Por ejemplo, echa un vistazo a `Amikumu: La aplicación que los hablantes de Yissish han estado esperando! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) y `Auslan: ¿Qué es Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) entre otros. Tenemos una página entera dedicada a `los comunicados de prensa <http://amikumu.com/press/>`_.
+ 	#. Están publicando enlaces en grupos de Facebook y en sus perfiles. ¡Incluso una simple demostración de apoyo público puede recorrer un largo camino!
+ 	#. Están repartiendo volantes y hablando de Amikumu en encuentros locales de idiomas. También es una gran manera de establecer y hacer crecer una comunidad local.
+ 	#. Están `traduciendo la aplicación <https://traduk.amikumu.com/engage/amikumu/es>`_ y el sitio web a sus idiomas. Nuestro objetivo es llegar a ser la aplicación más traducida en el mundo y necesitamos toda la ayuda para lograrlo.
+ 	#. Están proporcionando orientación vital. Entendemos que cada lengua y cultura son diferentes. Queremos y necesitamos tu asesoría sobre cómo actuar mejor en tu comunidad.

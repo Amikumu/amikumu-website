@@ -1,0 +1,1 @@
+Welche Plattformen unterstützt Amikumu?

@@ -1,0 +1,1 @@
+Kullanıcının profilinde görüntülenen bir In-App (uygulama içi) biriktirilebilir Rozet. Büyük çaplı buluşmalar, dil festivalleri veya seminerleri ve eventleri için ilave bir katılımcı ödülü sağlayan mükemmel bir reklam aracıdırlar.

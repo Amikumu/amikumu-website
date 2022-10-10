@@ -1,0 +1,1 @@
+Trova e comuta direta con asosiores de lingua local ci es prosima. Nos es la sola program cual suporta 7,000+ linguas, incluinte catalan, jonguo, nederlandes, esperanto, eres, nipon, ositan, polsce, portuges, rusce, toki pona e cimrica, tota SIN CUSTA!

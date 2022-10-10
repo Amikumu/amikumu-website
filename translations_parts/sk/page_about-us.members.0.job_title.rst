@@ -1,0 +1,1 @@
+Výkonný riaditeľ

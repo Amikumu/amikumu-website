@@ -1,0 +1,1 @@
+Amikumu je aplikácia, ktorá vám pomôže nájsť ľudí vo vašom okolí hovoriacich ľubovoľným jazykom. Napríklad na dovolenke môžete použiť Amikumu, aby ste sa stretli s ľuďmi hovoriacimi po španielsky, francúzsky alebo iným jazykom vo vašom meste.

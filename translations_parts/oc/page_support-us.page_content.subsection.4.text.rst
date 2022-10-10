@@ -1,0 +1,1 @@
+L'abonament d'Aur balha de foncions suplementàrias coma la teleportacion virtuala e de paramètres suplementaris de confidencialitat. Çaquelà, es tanben un brave biais de montrar vòstre sosten e una contribucion preciosa a nòstre finançament ! Podètz crompar un Abonament d'Aur dins de l'aplicacion (lèu disponible !).

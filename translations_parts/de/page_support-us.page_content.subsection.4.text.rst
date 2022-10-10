@@ -1,0 +1,1 @@
+Eine goldene Mitgliedschaft erschließt zusätzliche Funktionen wie die virtuelle Teleportation und erweiterte Privatsphäreeinstellungen. Zusätzlich ist es ein geeignete Möglichkeit deiner Unterstützung Ausdruck zu verleihen und uns finanziell zu fördern! Du kannst die goldene Mitgliedschaft innerhalb der App erwerben (kommt bald!).

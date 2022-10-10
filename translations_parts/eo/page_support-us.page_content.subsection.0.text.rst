@@ -1,0 +1,1 @@
+Ĉiun monaton ni publikigas novaĵleteron kun enrigardoj de niaj planoj kaj sukcesoj malantaŭ la kulisoj. Ankaŭ ni akceptas kontribuaĵojn de membroj el nia komunumo, ekzemple de vi mem. Jen kiel ni parolas rekte kun vi. `Aniĝu ĉi tie <http://eepurl.com/c4qiRD>`_.

@@ -1,0 +1,1 @@
+`Avèm preparat fulhetons que podètz distribuïr <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ dins vòstra escòla, vòstra universitat o vòstre club de lengas. Tanben son estats traduits dins un fum de lengas per vòstre usatge. Se vos cal fulhetons personalizats, contactatz-nos a `info@amikumu.com <mailto:info@amikumu.com>`_

@@ -1,0 +1,1 @@
+Podmienky a pravidlá Amikumu

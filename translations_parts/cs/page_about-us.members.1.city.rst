@@ -1,0 +1,1 @@
+Berlín, Německo (z USA)

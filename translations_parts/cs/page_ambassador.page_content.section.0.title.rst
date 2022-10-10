@@ -1,0 +1,1 @@
+Kdo je to Ambasador?

@@ -1,0 +1,1 @@
+Kur veikia Amikumu?

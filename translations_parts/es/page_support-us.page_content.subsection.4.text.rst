@@ -1,0 +1,1 @@
+La membresía oro te permite acceder a características adicionales, tales como teletrasporte virtual y más opciones de privacidad. Sin embargo, también es una gran manera de mostrar tu apoyo y ¡proporcionarnos valiosos fondos! Puedes adquirir la membresía oro dentro de la aplicación (pronto disponible).

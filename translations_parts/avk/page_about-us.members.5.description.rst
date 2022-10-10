@@ -1,0 +1,1 @@
+Elena Husanova tir fitckiraf varnokasik dobkiraf gu vegeduropafa rietova. Dobayanon, va Esperanto toz vayayar ise toz kobayar mu jontik viley is mu yona bifa. Inafa kobara moekote ruldar va korluca mu E@I koe Slovenska is mu 101-eafa kotikafa Esperanto avafa aba, vanmiae aryona erava. Noelton, ten geltrayar va intafa erava, i va liweem tori « Ayidatcol » omba.

@@ -1,0 +1,1 @@
+Dår is nich veal, wat wy anbeden köänet vöär dyn wichtige helpe. Lykerveal het dat vorskillen vöärdeylen ambassadör to weasen. Wy bedet ambassadörs mang ander saken unike sammelbåre emblemen in de äpp an. Weas nich skuw un kontakteer uns vöär meyr informationen up `info@amikumu.com <mailto:info@amikumu.com>`_.

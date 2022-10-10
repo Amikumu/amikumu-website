@@ -1,0 +1,1 @@
+Anzahl vertretener Länder

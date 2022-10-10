@@ -1,0 +1,1 @@
+Trouvez et contactez instantanément des partenaires linguistiques près de vous. Nous sommes la seule application qui prenne en charge plus de 7 000 langues, dont le catalan, le chinois, l'espéranto, le gallois, l'irlandais, le japonais, le néerlandais, l'occitan, le polonais, le portugais, le russe et le toki pona, et tout ça GRATUITEMENT !

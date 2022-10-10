@@ -1,0 +1,1 @@
+Niewiele możemy zrobić, by wynagrodzić ci twoją nieocenioną pomoc. Jednakże istnieje kilka zalet bycia ambasadorem. Zapewniamy ambasadorom między innymi wyjątkowe odznaki, które można kolekcjonować w aplikacji. Możesz skontaktować się z nami na `info@amikumu.com <mailto:info@amikumu.com>`_.

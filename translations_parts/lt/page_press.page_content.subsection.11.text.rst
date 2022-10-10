@@ -1,0 +1,1 @@
+2017-08-30: `Modern Technology Could Help Revive Irish For A New Generation <https://whistlinginthewind.org/2017/08/30/modern-technology-could-help-revive-irish-for-a-new-generation/>`_ (Whistling in the Wind)

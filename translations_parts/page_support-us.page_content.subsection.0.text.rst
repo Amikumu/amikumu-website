@@ -1,0 +1,1 @@
+Each month we publish a newsletter with behind-the-scenes insights about our plans and successes. We also accept contributions from our community members such as yourself. This is our way of talking directly with you. `Sign up here <http://eepurl.com/c4qiRD>`_.

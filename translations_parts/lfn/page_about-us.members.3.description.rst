@@ -1,0 +1,1 @@
+Judith Meyer es un linguiste computal ci pasa la plu de sua tempo en developa programes de ueb cual trata con linguas, tal como sua projeta LearnYu. El es ance un multilingual, co-organizor de la Polyglot Gathering e autor de multi libros de lingua e cursos de lingua. El ia aprende esperanto cuando el ia es 14 anios e ia usa lo como trampolin per aprende multi otra linguas.

@@ -1,0 +1,1 @@
+Ortalama konuşulan dil sayısı

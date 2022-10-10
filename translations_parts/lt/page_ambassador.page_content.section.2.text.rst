@@ -1,0 +1,1 @@
+Mes mažai kuo galime padėti už jūsų neįkainojamą pagalbą. Vis dėlto, ambasadoriai turi savų privilegijų. Mes galime suteikti ambasadoriams unikalius programėlėje renkamus ženkliukus tarp įvairių kitų dalykų. Drąsiai mums rašykite norėdami sužinoti daugiau `info@amikumu.com <mailto:info@amikumu.com>`_.

@@ -1,0 +1,1 @@
+Baş yönetici

@@ -1,0 +1,1 @@
+A membresia de ouro fornece recursos adicionais como teletransporte virtual e configurações de privacidade adicionais. No entanto, também é uma ótima maneira de mostrar o seu apoio e nos fornecer financiamento valioso! Você pode comprar membresia de ouro de dentro do aplicativo (em breve!).

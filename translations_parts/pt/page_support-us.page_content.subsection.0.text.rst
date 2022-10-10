@@ -1,0 +1,1 @@
+Todo mês nós publicamos um boletim de notícias com ideias por trás dos bastidores sobre nossos planos e sucessos. Também aceitamos contribuições de nossos membros da comunidade como você. Esta é a nossa maneira de falar diretamente com você. `Cadastre-se aqui <http://eepurl.com/c4qiRD>`_.

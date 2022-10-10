@@ -1,0 +1,1 @@
+Amikumuyu hangi platformlar destekliyor?

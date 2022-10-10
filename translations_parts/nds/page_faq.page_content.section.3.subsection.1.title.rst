@@ -1,0 +1,1 @@
+Kan ik Amikumu öäversetten?

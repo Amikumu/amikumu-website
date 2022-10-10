@@ -1,0 +1,1 @@
+Our Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.

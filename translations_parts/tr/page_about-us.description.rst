@@ -1,0 +1,1 @@
+Amikumu'nun misyonu, uygulamaya giriş yapmış, değişik dünya dillerini kullanan ve konuşan kişiler için bir sosyal ağ platformu sağlamak ve bu sayede bir dilin sosyal politik ve ekonomik statüsüne bağlı kalmaksızın bu insanların aralarında, yerel seviyede, iletişimde bulunmalarını ve bilgi paylaşımı yapmalarını sağlamaktır.

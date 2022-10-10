@@ -1,0 +1,1 @@
+Esdevenir membre d'Or proveeix funcions addicionals tals com la teletransportació virtual o paràmetres de privacitat addicionals. De tota manera, també és una bona manera de mostrar-nos el vostre suport i proveir-nos d'un valuós finançament! Podreu esdevenir membre d'Or properament a través de l'aplicació.

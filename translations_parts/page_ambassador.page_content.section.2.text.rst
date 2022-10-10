@@ -1,0 +1,1 @@
+There's little we can provide for your invaluable help. However, there are a few perks to being an ambassador. We provide ambassadors with unique in-app collectible badges among other things. Feel free to reach out to us for more info at `info@amikumu.com <mailto:info@amikumu.com>`_.

@@ -1,0 +1,1 @@
+Každý mesiac budeme zverejňovať newsletter so zákulisnými postrehmi o našich plánoch a úspechoch. Akceptujeme aj príspevky od členov našej komunity ako ste vy. Toto je náš spôsob, ako hovoriť priamo s vami. `Zaregistrujte sa tu <http://eepurl.com/c4qiRD>`_.

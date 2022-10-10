@@ -1,0 +1,1 @@
+`Wy hebbet flyers tosamensteld, dee du vordeylen kanst <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ eks. in dyn skole, universiteet or lokalen språkklub. Dee sint al in veale språken öäversetted vöär algemeynen bruuk. Vöär individuel anpasde flyers kontakteer uns up `info@amikumu.com <mailto:info@amikumu.com>`_

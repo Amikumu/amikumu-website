@@ -1,0 +1,1 @@
+Bij Amikumu zijn we vriendelijk naar opensource. Helaas past opensource op het moment niet bij onze organisatie. We onderzoeken echter wel mogelijkheden om onze code opensource te maken wanneer we vinden dat dit geschikt is voor ons.

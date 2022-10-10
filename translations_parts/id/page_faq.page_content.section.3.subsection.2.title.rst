@@ -1,0 +1,1 @@
+Apa artinya Amikumu?

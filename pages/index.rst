@@ -9,13 +9,13 @@
 
 .. container:: homepage-title
 
-	.. include:: translations_parts/home_page_title.rst
+	.. include:: translations_parts/page_home-page.page_title.rst
 
 	.. include:: pages_parts/home_page_download_buttons.rst
 
 	.. class:: center-text shadow-text                                                                
 	
-	.. include:: translations_parts/home_page_description.rst
+	.. include:: translations_parts/page_home-page.page_meta.metadata_desc.rst
 
 .. container:: tutorial
 
@@ -34,7 +34,7 @@
 		<div class="smallscreen" style="background-image: url(/images/slides/edit.png);"></div>
 		        <div class="title">
 		        
-	.. include:: translations_parts/home_page_slide1_title.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.0.title.rst
 	
 	
 	.. raw:: html
@@ -42,7 +42,7 @@
 		</div>
 		<div class="text">
 	
-	.. include:: translations_parts/home_page_slide1_description.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.0.text.rst
 	
 	.. raw:: html
 	
@@ -53,7 +53,7 @@
 		<div class="bigscreen" style="background-image: url(/images/slides/nearby.png);"></div>
 		        <div class="title">
 		   
-	.. include:: translations_parts/home_page_slide2_title.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.1.title.rst
 	
 	
 	.. raw:: html
@@ -63,7 +63,7 @@
 				<div class="text">
 
 		
-	.. include:: translations_parts/home_page_slide2_description.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.1.text.rst
 	
 	
 	.. raw:: html  
@@ -74,7 +74,7 @@
 		<div class="bigscreen" style="background-image:url(/images/slides/chat.png);"></div>
 		        <div class="title">
 		
-	.. include:: translations_parts/home_page_slide3_title.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.2.title.rst
 	
 	
 	.. raw:: html
@@ -82,7 +82,7 @@
 		</div>
 				<div class="text">
 		
-	.. include:: translations_parts/home_page_slide3_description.rst
+	.. include:: translations_parts/page_home-page.page_meta.tutorial.2.text.rst
 	
 	
 	.. raw:: html  

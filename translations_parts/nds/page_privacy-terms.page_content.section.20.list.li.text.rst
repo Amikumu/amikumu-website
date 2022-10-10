@@ -1,0 +1,1 @@
+We take the safety of our Users very seriously. When interacting with another User, we recommend that you exercise your discretion and judgment, remain cautious and do not disclose your personal and/or financial information to them. If you are meeting a User in person, we recommend that you do the following, as a minimum:

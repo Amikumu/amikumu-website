@@ -1,0 +1,1 @@
+Ako sa môžem zapojiť?

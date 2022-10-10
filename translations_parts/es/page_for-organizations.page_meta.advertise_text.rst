@@ -1,0 +1,1 @@
+Amikumu es una red social que les proporciona a los hablantes de cualquier idioma del mundo una plataforma para comunicarse y compartir información relevante a nivel local. Nuestros usuarios son principalmente políglotas y hablantes de idiomas minoritarios.

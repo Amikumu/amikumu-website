@@ -1,0 +1,1 @@
+Polityka Prywatności i Regulamin

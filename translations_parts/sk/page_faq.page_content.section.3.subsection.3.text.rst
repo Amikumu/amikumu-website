@@ -1,0 +1,1 @@
+Privítame vaše pripomienkym, tak sa prihláste na `náš mailing list,  <http://eepurl.com/c4qiRD>`_alebo nás sledujte na `Facebooku <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ a `stránke na VK  <https://vk.com/amikumu>`_a zostaňte infromovaní. Ak máte ďalšie otázky, napíšte nám na `info@amikumu.com <mailto:info@amikumu.com>`_

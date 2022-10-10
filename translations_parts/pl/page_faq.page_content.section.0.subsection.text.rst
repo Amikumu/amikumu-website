@@ -1,0 +1,1 @@
+Amikumu to aplikacja, dzięki której znajdziesz w pobliżu osoby, z którymi porozmawiasz w dowolnym języku. Na przykład - na wakacjach, użyj Amikumu, aby spotkać się z pobliskimi osobami znającymi język hiszpański, francuski albo jakikolwiek inny.

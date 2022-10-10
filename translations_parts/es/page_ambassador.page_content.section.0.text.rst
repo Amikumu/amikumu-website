@@ -1,0 +1,1 @@
+Esencialmente, un embajador es alguien que ayuda a promover Amikumu dentro de su comunidad local. ¡Son nuestros representantes en sobre el terreno! Nuestros mayores admiradores y partidarios más grandes.

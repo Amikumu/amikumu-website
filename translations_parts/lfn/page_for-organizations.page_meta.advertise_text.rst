@@ -1,0 +1,1 @@
+Amikumu es un rede sosial cual furna parlores, siniores e usores de tota linguas de la mundo con un plataforma per comunica e comparti local informa pertinente. Nosa usores es, per la plu, multinguales e parlores de linguas de minoria.

@@ -1,0 +1,1 @@
+Nie je toho veľa, čo vám vieme za vašu neoceniteľnú pomoc poskytnúť. K ambasadorstvu sa však viaže niekoľko výhod. Ambasadorom poskytujeme unikátne odznaky v rámci aplikácie a ďalšie veci. Kedykoľvek sa na nás obráťte pre viac informácií na `info@amikumu.com <mailto:info@amikumu.com>`_.

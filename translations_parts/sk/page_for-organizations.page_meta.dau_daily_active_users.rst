@@ -1,0 +1,1 @@
+Počet denných aktívnych užívateľov

@@ -1,0 +1,1 @@
+És poc el que podem proporcionar-vos per la vostra ajuda inestimable. No obstant això, hi ha uns quants avantatges si esdeveniu ambaixador. Entre d'altres, donem emblemes únics als ambaixadors per a col·leccionar a l'aplicació. No dubteu a contactar-nos per a més informació a `info@ammikumu.com <mailto:info@amikumu.com>`_.

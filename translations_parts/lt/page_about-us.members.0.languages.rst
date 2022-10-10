@@ -1,0 +1,1 @@
+Anglų, esperanto, mandarinų kalbos

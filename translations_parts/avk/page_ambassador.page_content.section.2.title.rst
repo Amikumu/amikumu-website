@@ -1,0 +1,1 @@
+Va tokcoba permik seotad ?

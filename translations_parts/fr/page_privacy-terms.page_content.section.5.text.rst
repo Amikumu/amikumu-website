@@ -1,0 +1,5 @@
+We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.
+
+We may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
+
+We may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see `www.google.com <https://www.google.com/policies/privacy/partners/>`_ or any other URL Google may use from time to time.

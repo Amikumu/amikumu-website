@@ -1,0 +1,1 @@
+Bir Büyükelçi ne yapar?

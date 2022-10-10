@@ -1,0 +1,1 @@
+Nasıl satın alınabileceği için

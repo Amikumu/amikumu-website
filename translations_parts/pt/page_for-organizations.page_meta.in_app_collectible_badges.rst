@@ -1,0 +1,1 @@
+Distintivos coletáveis no aplicativo

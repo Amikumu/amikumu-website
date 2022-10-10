@@ -1,0 +1,1 @@
+UAD (Usuaris Actius Diaris)

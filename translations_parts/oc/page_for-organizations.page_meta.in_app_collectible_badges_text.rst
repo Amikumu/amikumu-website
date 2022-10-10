@@ -1,0 +1,1 @@
+Un badge a colleccionar dins l'aplicacion, qu'apareis sus la pagina de perfil de l'utilizaire. Perfièit per far la promocion de rescontres a granda escala, festenals de lenga o seminaris e per prepausar una recompensa suplementària per una participacion als eveniments.

@@ -1,0 +1,1 @@
+Chez Amikumu, nous voyons l’open source de manière positive. Malheureusement, il n’a pas encore de place dans notre organisation. Nous cherchons cependant des possibilités d’ouvrir notre code quand nous sentirons que c’est le bon moment.

@@ -1,0 +1,1 @@
+Vyvinutý tímom polyglotov

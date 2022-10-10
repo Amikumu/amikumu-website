@@ -1,0 +1,1 @@
+La mission d'Amikumu es de crear e manténer una ret sociala que provesís una plataforma per comunicar e partejar d'informacions pertinentas localament, independentament de l'estatut social, politic o economic de cadun, per acampar d'utilizaires del mond entièr.

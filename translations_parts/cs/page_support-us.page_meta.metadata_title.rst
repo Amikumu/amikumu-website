@@ -1,0 +1,1 @@
+Podpoř dnes Amikumu!

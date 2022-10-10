@@ -1,0 +1,1 @@
+Angla, Esperanto kaj mandarena

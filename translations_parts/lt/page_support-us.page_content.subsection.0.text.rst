@@ -1,0 +1,1 @@
+Kiekvieną mėnesį mes skelbiame naujienas apie vykstančius procesus, tai kas „vyksta už užkulisių“ bei apie planus ir sėkmes. Mes taip pat priimame mūsų bendruomenės narių, tokie kaip jūs, pagalbą. Tai yra mūsų būdas tiesiogiai su jumis kalbėtis. `Užsiregistruokite čia <http://eepurl.com/c4qiRD>`_.

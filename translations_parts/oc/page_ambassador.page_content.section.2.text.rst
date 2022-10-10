@@ -1,0 +1,1 @@
+Podèm pas balhar fòrça per vòstra ajuda inestimabla. Çaquelà, i a unis avantatges a èstre un ambassaidor. Demèst autras causas, balham als ambaissadors de badges unics a colleccionar sus l'aplicacion. Esistetz pas a nos contactar per mai d'informacions a `info@amikumu.com <mailto:info@amikumu.com>`_.

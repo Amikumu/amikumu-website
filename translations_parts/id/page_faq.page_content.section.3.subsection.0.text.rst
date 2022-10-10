@@ -1,0 +1,1 @@
+Kami di Amikumu ramah dengan sumber terbuka. Sayangnya, sumber terbuka saat ini tidak sesuai dengan organisasi kami. Namun, kami melihat peluang untuk membuka sumber saat kami merasa bahwa ia cocok dengan kami.

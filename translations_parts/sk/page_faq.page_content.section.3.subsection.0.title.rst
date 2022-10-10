@@ -1,0 +1,1 @@
+Je Amikumu open-source?

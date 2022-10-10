@@ -1,0 +1,1 @@
+Amikumu es un program cual aida tu a trova persones prosima con ci on pote parla cualce lingua. Per esemplo, en vacanse, usa Amikumu per encontra parlores de espaniol, franses o cualce otra lingua en la vila.

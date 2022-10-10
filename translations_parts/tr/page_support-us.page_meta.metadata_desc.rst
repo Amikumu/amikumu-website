@@ -1,0 +1,1 @@
+Civardaki yerel dil ortaklarını anında tespit edip iletişime geçin. Aralarında Katalanca, Çince, Hollandaca, Esperanto, Irlandaca, Japonca, Oksitanca, Lehçe, Portekizce, Rusça, TOki Pona ve Gallce de bulunan 7.000 den fazla dili destekleyen ÜCRETSİZ tek uygulamayız!

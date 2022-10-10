@@ -1,0 +1,1 @@
+Durchschnittliche Anzahl gesprochener Sprachen

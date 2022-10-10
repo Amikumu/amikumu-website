@@ -1,0 +1,1 @@
+Trobatz e contactatz instantanèament de partenaris lingüistics a proximitat. Sèm la sola aplicacion que prenga en carga mai de 7 000 lengas, incluses lo catalan, lo chinés, l'esperanto, lo gallés, l'irlandés, lo japonés, lo neerlandés, l'occitan, lo polonés, lo portugués, lo rus e lo toki pona, e tot aquò A GRATIS!

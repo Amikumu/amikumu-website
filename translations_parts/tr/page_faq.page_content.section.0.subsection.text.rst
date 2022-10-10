@@ -1,0 +1,1 @@
+Amikumu, herhangi bir dili konuşmak için yakınlardaki insanlar bulmanıza yardımcı olan bir uygulamadır. Örneğin, tatil yaparken, Amikumu'yu İspanyol, Fransız veya kasabadaki diğer dil konuşmacılarıyla buluşmak için kullanın.

@@ -1,0 +1,1 @@
+Počet mesačných aktívnych užívateľov

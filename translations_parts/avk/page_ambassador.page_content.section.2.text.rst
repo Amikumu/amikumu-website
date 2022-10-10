@@ -1,0 +1,1 @@
+Va abiccoba pu rin rotiskav grewason icde rinafa zolonapafa pomara. Neken, yon gunt krulded nope tira permik. Pu permik va yon tanaf talpeyoton rodotan prosil tiskav, vanmiae ara coba. Vay va golera pu cin me vurdel ta seotara va loa giva vey `info@amikumu.com <mailto:info@amikumu.com>`_.

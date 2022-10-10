@@ -1,0 +1,1 @@
+Zdieľajte našu aplikáciu s priateľmi na sociálnych médiách alebo emailom! Čím viac ľudí bude o Amikumu počuť, tým užitočnejšie bude pre nás všetkých. Zdieľajte odkaz na našu oficiálnu webstránku `www.amikumu.com <https://www.amikumu.com>`_ spolu s dôvodmi prečo nás máte tak radi.

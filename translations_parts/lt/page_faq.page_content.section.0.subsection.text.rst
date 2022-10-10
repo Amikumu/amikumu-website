@@ -1,0 +1,1 @@
+Amikumu yra programėlė, skirta rasti netoliese esančių žmonių, kalbančių ta pačia kalba. Pavyzdžiui, kol atostogaujate, naudokitės Amikumu ir susiraskite ispanų, prancūzų, ar kitos kalbos vartotojų tame pačiame mieste.

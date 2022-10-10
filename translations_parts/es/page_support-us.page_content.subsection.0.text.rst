@@ -1,0 +1,1 @@
+Cada mes publicamos un boletín con tomas detrás de cámara, acerca de nuestros planes y logros. También aceptamos contribuciones de los miembros de nuestra comunidad, así como tuyas. De esta forma nos comunicamos directamente con usted. `Regístrese aquí <http://eepurl.com/c4qiRD>`_.

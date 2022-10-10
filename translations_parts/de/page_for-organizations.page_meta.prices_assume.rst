@@ -1,0 +1,1 @@
+Bei den oben genannten Preisen wird davon ausgegangen, dass sie in nur einer Sprache werben. Für jede weitere Sprache fällt eine Extragebühr von 4€ pro Monat an. Zusätzliche Einrichtegebühren gibt es nicht.

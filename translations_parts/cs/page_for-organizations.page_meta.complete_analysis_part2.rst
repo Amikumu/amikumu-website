@@ -1,0 +1,1 @@
+statistické stránce

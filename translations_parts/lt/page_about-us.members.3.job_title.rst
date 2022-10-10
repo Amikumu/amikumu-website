@@ -1,0 +1,1 @@
+Vidinės pusės vystytoja

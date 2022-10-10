@@ -1,0 +1,1 @@
+Amikumu est un réseau social offrant une plateforme à tous les orateurs, pratiquants de langue des signes et plus généralement utilisateurs de toutes les langues du monde, une plateforme pour communiquer et partager des informations pertinentes au niveau local. Nos utilisateurs sont principalement polyglottes, et locuteurs de langues minoritaires.

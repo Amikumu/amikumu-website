@@ -1,0 +1,1 @@
+Erbilok rodatan koe talpeyot

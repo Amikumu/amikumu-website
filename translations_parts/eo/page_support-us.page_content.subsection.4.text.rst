@@ -1,0 +1,1 @@
+Ora membreco provizas vin per aldonaj funkcioj, ekzemple per virtuala teleportado kaj kromaj agordoj de privateco. Tamen, ankaŭ ĝi estas bona maniero montri vian subtenon kaj provizi nin per valora financado! Baldaŭ vi povas aĉeti Oran Membrecon de en la apo.

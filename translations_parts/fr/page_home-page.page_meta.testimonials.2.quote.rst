@@ -1,0 +1,1 @@
+L’application a le potentiel d’améliorer la communication parmi les locuteurs de langues en dangers et ceux qui s’emploient à réveiller des beautés endormies telles que le barngarla, une langue aborigène d’Australie.

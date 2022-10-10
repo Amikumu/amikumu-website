@@ -1,0 +1,1 @@
+Ni povas provizi vin per malmulto por via gravega helpo. Tamen, estas kelkaj avantaĝoj por esti ambasadoro. Ni provizas ambasadorojn per unikaj en-ape kolekteblaj ŝildoj inter aliaj aferoj. Ne hezitu kontakti nin por pli da informo ĉe `info@amikumu.com <mailto:info@amikumu.com>`_.

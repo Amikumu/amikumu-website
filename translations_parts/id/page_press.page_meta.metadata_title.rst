@@ -1,0 +1,1 @@
+Amikumu dalam berita!

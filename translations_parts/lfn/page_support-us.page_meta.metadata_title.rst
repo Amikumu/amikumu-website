@@ -1,0 +1,1 @@
+Suporta oji Amikumu!

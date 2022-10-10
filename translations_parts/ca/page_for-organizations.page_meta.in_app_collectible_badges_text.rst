@@ -1,0 +1,1 @@
+Un emblema col·leccionable dins l'aplicació que apareix a la pàgina de perfil de l'usuari. Perfecte per a la publicitat de trobades a gran escala, festivals de llengües o seminaris, i per a proporcionar un premi addicional per participar en esdeveniments.

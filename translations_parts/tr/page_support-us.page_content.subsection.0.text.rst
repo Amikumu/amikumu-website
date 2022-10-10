@@ -1,0 +1,1 @@
+Her ay, planlarımız ve başarılarımız hakkında sahne arkasında olmayan bilgiler içeren bir bülten yayınlıyoruz. Kendiniz gibi topluluk üyelerimizin katkılarını da kabul ediyoruz. Bu bizim sizinle doğrudan konuşmamızın yolu. `Buradan üye ol <http://eepurl.com/c4qiRD>`_.

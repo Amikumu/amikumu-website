@@ -1,0 +1,1 @@
+Vind un kontakteer direktement språkpartners in de ümgeaving. Wy sint de eynige äpp, dee öäver 7000 språken ünderstüt, dårmang katalaansk, sjineesk, hollandsk, esperanto, yrsk, japaansk, oksitaansk, poolsk, portugeesk, russisk, toki pona un kymrisk, altohoup GRATIS!

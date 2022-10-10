@@ -1,0 +1,1 @@
+Keanggotaan emas menyediakan fitur tambahan seperti teleportasi virtual dan pengaturan privasi tambahan. Namun, ini juga cara yang bagus untuk menunjukkan dukungan Anda dan memberi kami dana berharga! Anda dapat membeli Keanggotaan Emas dari dalam aplikasi (segera hadir!).

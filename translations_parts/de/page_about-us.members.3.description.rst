@@ -1,0 +1,1 @@
+Judith Meyer ist eine Computerlinguistin, die ihre meiste Zeit damit verbringt, Webanwendungen wie zu entwickeln, die wie LearnYu etwas mit Sprache zu tun haben. Sie ist eine Polyglottin, Mitorganisatorin des Polyglot Gatherings und Autorin vieler Sprachlehrbücher und Sprachkurse. Im Alter von 14 Jahren lernte sie Esperanto, was für sie Sprungbrett für viele weitere Sprachen war.

@@ -1,0 +1,1 @@
+Kim są ambasadorzy?

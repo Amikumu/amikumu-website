@@ -1,0 +1,1 @@
+Pòdi traduire Amikumu?

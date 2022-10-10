@@ -1,0 +1,1 @@
+`Okul, üniversite ve yerel dil kulübünüzde <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ dağıtabileceğiniz el ilanları hazırladık. Ayrıca kullanımınız için birçok dile tercüme edilmiştir. Yaptığınız özel broşürlere ihtiyacınız varsa, lütfen bizimle iletişim kurun `info@amikumu.com <mailto:info@amikumu.com>`_

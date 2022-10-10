@@ -1,0 +1,1 @@
+Angielski, Esperanto

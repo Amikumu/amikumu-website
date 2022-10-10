@@ -1,0 +1,1 @@
+Paremkite Amikumu šiandien!

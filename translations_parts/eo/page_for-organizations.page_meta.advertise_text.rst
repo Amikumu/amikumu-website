@@ -1,0 +1,1 @@
+Amikumu estas socia retejo, kiu provizas parolantojn kaj uzantojn de ĉiaj mondaj lingvoj per platformo por komuniki kaj havigi trafan informon loke. Niaj uzantoj estas precipe poliglotoj kaj parolantoj de minoritataj lingvoj.

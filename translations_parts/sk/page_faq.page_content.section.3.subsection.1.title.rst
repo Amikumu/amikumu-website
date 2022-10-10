@@ -1,0 +1,1 @@
+Môžem preložiť Amikumu?

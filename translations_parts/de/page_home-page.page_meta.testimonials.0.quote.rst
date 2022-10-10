@@ -1,0 +1,1 @@
+Ich weiß nie, in welcher Stadt ich als nächstes aufwache, und doch möchte ich mich in all meinen Sprachen verbessern. Mit dieser App bin ich in der Lage alle Sprachen zu trainieren, die ich möchte - mit nur einem Knopfdruck!

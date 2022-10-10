@@ -1,0 +1,1 @@
+Ada sedikit yang bisa kami berikan untuk bantuan Anda yang tak ternilai harganya. Namun, ada beberapa fasilitas untuk menjadi duta besar. Kami menyediakan duta besar koleksi unik dalam aplikasi di antara hal-hal lain. Jangan ragu untuk menghubungi kami untuk info lebih lanjut `info@amikumu.com <mailto:info@amikumu.com>`_.

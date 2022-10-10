@@ -1,0 +1,1 @@
+Dukung Amikumu hari ini!

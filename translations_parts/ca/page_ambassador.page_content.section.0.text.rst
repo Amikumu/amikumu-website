@@ -1,0 +1,1 @@
+Fonamentalment, els ambaixadors de l'Amikumu són persones que ajuden a promoure l'aplicació a les seves comunitats locals. Són els nostres representants sobre el terreny. Els nostres majors fans i els millors en donar-nos suport.

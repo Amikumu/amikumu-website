@@ -1,0 +1,1 @@
+Jekaterynburg, Rosja

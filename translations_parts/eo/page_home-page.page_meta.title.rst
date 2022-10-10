@@ -1,0 +1,1 @@
+Lingve konektiĝu apude

@@ -1,0 +1,1 @@
+Amikumu ne demektir?

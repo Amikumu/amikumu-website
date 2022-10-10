@@ -1,0 +1,1 @@
+Je ne sais jamais dans quelle ville je vais me réveiller demain, mais je veux quand même pratiquer toutes mes langues. Avec cette application, je pourrai pratiquer la langue que je veux en appuyant sur un bouton. Je suis déjà impatient !

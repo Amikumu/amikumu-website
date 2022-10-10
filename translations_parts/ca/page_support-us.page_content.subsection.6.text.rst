@@ -1,0 +1,1 @@
+`Hem preparat fulletons que podeu distribuir <https://drive.google.com/drive/folders/1dDB0mvFuLXYycQtA1ZSxgOCJR-2gHAXv?usp=sharing>`_ a la vostra escola, universitat o club local de llengua. També els hem traduït a diverses llengües per al vostre ús. Si necessiteu que fem fulletons personalitzats, contacteu-nos a `info@amikumu.com <mailto:info@amikumu.com>`_

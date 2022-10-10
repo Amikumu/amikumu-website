@@ -1,0 +1,1 @@
+Les prix ci-dessus partent du principe que votre publicité ne cible qu'une seule langue. Pour chaque langue supplémentaire, il y a un supplément de 4€ par mois. Il n'y a pas d'autres frais de logistique.

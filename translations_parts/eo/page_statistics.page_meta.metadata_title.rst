@@ -1,0 +1,1 @@
+Statistikoj de Amikumu

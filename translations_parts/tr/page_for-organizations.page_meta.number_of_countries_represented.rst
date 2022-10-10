@@ -1,0 +1,1 @@
+Temsil edilen ülke sayısı

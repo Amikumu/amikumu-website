@@ -1,0 +1,1 @@
+Els preus anteriors suposen que el vostre anunci estigui orientat només a un idioma. Per a cada llengua addicional, hi ha una tarifa addicional de 4€ al mes. No hi ha tarifes de configuració addicionals.

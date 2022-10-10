@@ -1,0 +1,1 @@
+Trovu kaj kontaktu tuj lingvemulojn apude. Ni estas la sola apo, kiu ebligas trovi parolantojn de 7.000+ lingvoj inkluzive de la ĉina, Esperanto, franca, germana, Ido, Interlingvao, itala, japana, kataluna, kimra, nederlanda, okcitana, pola, portugala, rusa, kaj Tokipono, ĉio estas SENPAGA!

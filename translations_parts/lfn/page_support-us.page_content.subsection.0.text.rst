@@ -1,0 +1,1 @@
+Cada mense nos publici un revisteta de grupo con intuis de pos la sena sur nosa projetas e susedes. Nos aseta ance contribuis de nosa membros de comunia tal como tu mesma. Esta es nosa modo de parla direta con tu. `Suscrive asi <http://eepurl.com/c4qiRD>`_.

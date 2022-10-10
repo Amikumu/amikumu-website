@@ -1,0 +1,1 @@
+Què fa un ambaixador?

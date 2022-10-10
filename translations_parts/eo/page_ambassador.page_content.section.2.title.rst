@@ -1,0 +1,1 @@
+Kion ekhavas Ambasadoroj?

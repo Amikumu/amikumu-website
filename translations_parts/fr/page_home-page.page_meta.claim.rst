@@ -1,0 +1,1 @@
+La mission de Amikumu est de créer et maintenir un réseau social qui fournit une plateforme pour communiquer et partager des informations pertinentes localement, indépendamment du statut social, politique ou économique de chacun, pour rassembler des utilisateurs du monde entier.

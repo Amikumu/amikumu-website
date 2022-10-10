@@ -200,42 +200,42 @@
       "metadata_title": "Amikumu - trova partner linguistici nelle vicinanze",
       "official_sponsor": "Lo sponsor ufficiale",
       "sponsors": "Gli sponsor",
-      "testimonials":[
-{
-"testimonials_block_0_add_name": "Benny Lewis, fondatore di Fluent in 3 Months",
-      "testimonials_block_0_add_sortcontent": "Non so mai in quale città mi sveglierò il giorno dopo, ma voglio comunque continuare a fare pratica in tutte le lingue che conosco. Con questa app posso esercitarmi in qualsiasi lingua desidero premendo un pulsante!"
-      },
-{
-"testimonials_block_1_add_name": "Judith Meyer, fondatrice di Polyglot Gathering",
-      "testimonials_block_1_add_sortcontent": "Penso che Amikumu sia un'app incredibilmente utile per la comunità degli studenti di lingue!"
-      },
-{
-"testimonials_block_2_add_name": "Prof. Ghil'ad Zuckermann, Dottore in Filosofia.",
-      "testimonials_block_2_add_sortcontent": "L'app può migliorare la comunicazione tra chi parla lingue a rischio estinzione e revivalisti di bellezze addormentate come il Barngarla."
-      },
-{
-"testimonials_block_3_add_name": "Premio Langfest Innovation Award 2017 (Montreal)",
-      "testimonials_block_3_add_sortcontent": "Siamo ispirati da Amikumu e dalla loro ambizione di unirci attraverso le lingue che parliamo – o aspiriamo a parlare!"
-      },
-{
-"testimonials_block_4_add_name": "Applicazione della settimana del Governo Gallese",
-      "testimonials_block_4_add_sortcontent": "Amikumu aggiunge una dimensione completamente nuova all'apprendimento delle lingue e sta cambiando il modo in cui le persone si connettono e si esercitano per le lingue."
-      }
-],
-"tutorial": [
-{
-"tutorial_blocks_0_text": "Aggiungi una biografia e un nome per ogni lingua che parli!\n\n Indica quali lingue conosci e quanto bene le parli.>",
-      "tutorial_blocks_0_title": "Esplora i profili ed esprimi te stesso"
-      },
-{
-"tutorial_blocks_1_text": "Scegli una lingua.\n\nTrova persone nelle vicinanze che parlano quella lingua.>",
-      "tutorial_blocks_1_title": "Trova chi sta studiando la lingua nelle vicinanze - sempre, dovunque"
-      },
-{
-"tutorial_blocks_2_text": "Invia messaggi ad altre persone nelle vicinanze che parlano la tua lingua.\n\n Invia immagini, messaggi vocali e coordinate della mappa.\n\n Organizza rapidamente incontri e fai amicizie per la vita.>",
-      "tutorial_blocks_2_title": "Chiacchierate ed incontri!"
-    }
-    ]
+      "testimonials": [
+        {
+          "testimonials_block_0_add_name": "Benny Lewis, fondatore di Fluent in 3 Months",
+          "testimonials_block_0_add_sortcontent": "Non so mai in quale città mi sveglierò il giorno dopo, ma voglio comunque continuare a fare pratica in tutte le lingue che conosco. Con questa app posso esercitarmi in qualsiasi lingua desidero premendo un pulsante!"
+        },
+        {
+          "testimonials_block_1_add_name": "Judith Meyer, fondatrice di Polyglot Gathering",
+          "testimonials_block_1_add_sortcontent": "Penso che Amikumu sia un'app incredibilmente utile per la comunità degli studenti di lingue!"
+        },
+        {
+          "testimonials_block_2_add_name": "Prof. Ghil'ad Zuckermann, Dottore in Filosofia.",
+          "testimonials_block_2_add_sortcontent": "L'app può migliorare la comunicazione tra chi parla lingue a rischio estinzione e revivalisti di bellezze addormentate come il Barngarla."
+        },
+        {
+          "testimonials_block_3_add_name": "Premio Langfest Innovation Award 2017 (Montreal)",
+          "testimonials_block_3_add_sortcontent": "Siamo ispirati da Amikumu e dalla loro ambizione di unirci attraverso le lingue che parliamo – o aspiriamo a parlare!"
+        },
+        {
+          "testimonials_block_4_add_name": "Applicazione della settimana del Governo Gallese",
+          "testimonials_block_4_add_sortcontent": "Amikumu aggiunge una dimensione completamente nuova all'apprendimento delle lingue e sta cambiando il modo in cui le persone si connettono e si esercitano per le lingue."
+        }
+      ],
+      "tutorial": [
+        {
+          "tutorial_blocks_0_text": "Aggiungi una biografia e un nome per ogni lingua che parli!\n\n Indica quali lingue conosci e quanto bene le parli.>",
+          "tutorial_blocks_0_title": "Esplora i profili ed esprimi te stesso"
+        },
+        {
+          "tutorial_blocks_1_text": "Scegli una lingua.\n\nTrova persone nelle vicinanze che parlano quella lingua.>",
+          "tutorial_blocks_1_title": "Trova chi sta studiando la lingua nelle vicinanze - sempre, dovunque"
+        },
+        {
+          "tutorial_blocks_2_text": "Invia messaggi ad altre persone nelle vicinanze che parlano la tua lingua.\n\n Invia immagini, messaggi vocali e coordinate della mappa.\n\n Organizza rapidamente incontri e fai amicizie per la vita.>",
+          "tutorial_blocks_2_title": "Chiacchierate ed incontri!"
+        }
+      ]
     },
     "page_title": "Home"
   },

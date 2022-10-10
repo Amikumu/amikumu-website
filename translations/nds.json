@@ -200,42 +200,42 @@
       "metadata_title": "Amikumu - Vind språkpartners in de ümgeaving",
       "official_sponsor": "De officielle sponsor",
       "sponsors": "Sponsoren",
-      "testimonials":[
-{
-"testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
-      "testimonials_block_0_add_sortcontent": "Ik weyt nimmers in wat vöär en stad ik later waken wardt un lykers wil ik alle myne språken öven. Med disse äpp kan ik dat med eyn knoopdruk doon!"
-      },
-{
-"testimonials_block_1_add_name": "Judith Meyer, gründer van Polyglot Gathering",
-      "testimonials_block_1_add_sortcontent": "Ik löyve, dat Amikumu ekstreem van nüt is vöär de språkleyrgemeynskap!"
-      },
-{
-"testimonials_block_2_add_name": "Perfesser Ghil'ad Zuckermann, Dr.Phil.",
-      "testimonials_block_2_add_sortcontent": "Disse äpp kan de kommunikatioon vorbeateren twüsken spreakers van språken in gevår un dee, dee slåpen sköynheiden so as Barngarla uut Australien wedder upleaven låten wüllet."
-      },
-{
-"testimonials_block_3_add_name": "Langfest innovatioonsprys 2017 (Montreal)",
-      "testimonials_block_3_add_sortcontent": "Wy sint inspireerd van Amikumu un ear ambitioon uns to vorbinden döär de språken, dee wy spreaket - or dee wy gaern spreaken deaden!"
-      },
-{
-"testimonials_block_4_add_name": "Kymriske regering: äpp van de weake",
-      "testimonials_block_4_add_sortcontent": "Amikumu vöögt en heyl nye dimensioon to dat språkenleyren to un vorändert de wyse, woans lüde tosamenkoamet un språken övet."
-      }
-],
-"tutorial": [
-{
-"tutorial_blocks_0_text": "Skryv en biografy un en name vöär elke språke, dee du sprikst! Geav an, wat vöär språken du sprikst un wo good du dee kanst.",
-      "tutorial_blocks_0_title": "Döärsöök profilen un drük dy uut"
-      },
-{
-"tutorial_blocks_1_text": "Söök en språke uut.\n\nVind lüde in de ümgeaving, dee ouk disse språke köänet.>",
-      "tutorial_blocks_1_title": "Vind språkpartners in de ümgeaving - altyds, allerweagens"
-      },
-{
-"tutorial_blocks_2_text": "Stüür ander lüde in dyn ümgeaving, dee dyn språke köänet, en meddeyling to.\n\nVorstüür bilder, språkmeddeylings un kaartenkoordinaten.\n\nOrganiseer gauw tosamenkumsten un vind vründen vöär dat leaven.>",
-      "tutorial_blocks_2_title": "Chättet un koamet tosamen!"
-    }
-    ]
+      "testimonials": [
+        {
+          "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
+          "testimonials_block_0_add_sortcontent": "Ik weyt nimmers in wat vöär en stad ik later waken wardt un lykers wil ik alle myne språken öven. Med disse äpp kan ik dat med eyn knoopdruk doon!"
+        },
+        {
+          "testimonials_block_1_add_name": "Judith Meyer, gründer van Polyglot Gathering",
+          "testimonials_block_1_add_sortcontent": "Ik löyve, dat Amikumu ekstreem van nüt is vöär de språkleyrgemeynskap!"
+        },
+        {
+          "testimonials_block_2_add_name": "Perfesser Ghil'ad Zuckermann, Dr.Phil.",
+          "testimonials_block_2_add_sortcontent": "Disse äpp kan de kommunikatioon vorbeateren twüsken spreakers van språken in gevår un dee, dee slåpen sköynheiden so as Barngarla uut Australien wedder upleaven låten wüllet."
+        },
+        {
+          "testimonials_block_3_add_name": "Langfest innovatioonsprys 2017 (Montreal)",
+          "testimonials_block_3_add_sortcontent": "Wy sint inspireerd van Amikumu un ear ambitioon uns to vorbinden döär de språken, dee wy spreaket - or dee wy gaern spreaken deaden!"
+        },
+        {
+          "testimonials_block_4_add_name": "Kymriske regering: äpp van de weake",
+          "testimonials_block_4_add_sortcontent": "Amikumu vöögt en heyl nye dimensioon to dat språkenleyren to un vorändert de wyse, woans lüde tosamenkoamet un språken övet."
+        }
+      ],
+      "tutorial": [
+        {
+          "tutorial_blocks_0_text": "Skryv en biografy un en name vöär elke språke, dee du sprikst! Geav an, wat vöär språken du sprikst un wo good du dee kanst.",
+          "tutorial_blocks_0_title": "Döärsöök profilen un drük dy uut"
+        },
+        {
+          "tutorial_blocks_1_text": "Söök en språke uut.\n\nVind lüde in de ümgeaving, dee ouk disse språke köänet.>",
+          "tutorial_blocks_1_title": "Vind språkpartners in de ümgeaving - altyds, allerweagens"
+        },
+        {
+          "tutorial_blocks_2_text": "Stüür ander lüde in dyn ümgeaving, dee dyn språke köänet, en meddeyling to.\n\nVorstüür bilder, språkmeddeylings un kaartenkoordinaten.\n\nOrganiseer gauw tosamenkumsten un vind vründen vöär dat leaven.>",
+          "tutorial_blocks_2_title": "Chättet un koamet tosamen!"
+        }
+      ]
     },
     "page_title": "To huus"
   },

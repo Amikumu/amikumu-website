@@ -200,42 +200,42 @@
       "metadata_title": "Amikumu ー 近くの言語パートナーを見つけよう。",
       "official_sponsor": "オフィシャルスポンサー",
       "sponsors": "スポンサー",
-      "testimonials":[
-{
-"testimonials_block_0_add_name": "Benny Lewisは3ヶ月で流暢に話せるようになりました",
-      "testimonials_block_0_add_sortcontent": "どの町で次の朝を迎えるかわかりませんが、どの言語も上達したいと思っています。このアプリを使えば、ボタンひとつでどんな言語のエクササイズも可能となるでしょう。待ちきれませんね！"
-      },
-{
-"testimonials_block_1_add_name": "ジュディス ・ マイヤー、Polyglot Gatheringの創立者",
-      "testimonials_block_1_add_sortcontent": "Amikumuは語学好きのコミュニティにとってもっとも有益なアプリのひとつとなるでしょう。"
-      },
-{
-"testimonials_block_2_add_name": "Ghil'ad Zuckermann教授（オックスフォード大学）",
-      "testimonials_block_2_add_sortcontent": "このアプリは消滅危機言語の話者たちやマガダ語のような眠りについた美しい言語の復活させようとしている人たちのコミュニケーションを円滑にする可能性をもっています。"
-      },
-{
-"testimonials_block_3_add_name": "Langfest イノベーション賞 2017 (モントリオール)",
-      "testimonials_block_3_add_sortcontent": "我々は、Amikumuの「私達が喋れる（もしくは喋りたい）言語によって団結する」という理想で励まされた。"
-      },
-{
-"testimonials_block_4_add_name": "ウェールズ政府 アプリ・オブ・ザ・ウィーク",
-      "testimonials_block_4_add_sortcontent": "Amikumuは言語の学習に新しい次元を作れた。これによって、人々が言語を練習する、繋がる方法が変わっていく。"
-      }
-],
-"tutorial": [
-{
-"tutorial_blocks_0_text": "言語ごとに自己紹介と名前を追加できる！",
-      "tutorial_blocks_0_title": "プロフィールを読んで、自分をアピールしよう"
-      },
-{
-"tutorial_blocks_1_text": "言語を選択する。\n\n近くに同じ言語を喋る人を探す。>",
-      "tutorial_blocks_1_title": "いつでも、どこでも、近くに語学勉強のパートナーを見つける"
-      },
-{
-"tutorial_blocks_2_text": "近くにいる同じ言語を喋る人にメッセージを送る。\n\n画像、音声メッセージ、場所を送信する。\n\n簡単にミートアップを調整して、心の友が作れる。>",
-      "tutorial_blocks_2_title": "チャットして、出会おう！"
-    }
-    ]
+      "testimonials": [
+        {
+          "testimonials_block_0_add_name": "Benny Lewisは3ヶ月で流暢に話せるようになりました",
+          "testimonials_block_0_add_sortcontent": "どの町で次の朝を迎えるかわかりませんが、どの言語も上達したいと思っています。このアプリを使えば、ボタンひとつでどんな言語のエクササイズも可能となるでしょう。待ちきれませんね！"
+        },
+        {
+          "testimonials_block_1_add_name": "ジュディス ・ マイヤー、Polyglot Gatheringの創立者",
+          "testimonials_block_1_add_sortcontent": "Amikumuは語学好きのコミュニティにとってもっとも有益なアプリのひとつとなるでしょう。"
+        },
+        {
+          "testimonials_block_2_add_name": "Ghil'ad Zuckermann教授（オックスフォード大学）",
+          "testimonials_block_2_add_sortcontent": "このアプリは消滅危機言語の話者たちやマガダ語のような眠りについた美しい言語の復活させようとしている人たちのコミュニケーションを円滑にする可能性をもっています。"
+        },
+        {
+          "testimonials_block_3_add_name": "Langfest イノベーション賞 2017 (モントリオール)",
+          "testimonials_block_3_add_sortcontent": "我々は、Amikumuの「私達が喋れる（もしくは喋りたい）言語によって団結する」という理想で励まされた。"
+        },
+        {
+          "testimonials_block_4_add_name": "ウェールズ政府 アプリ・オブ・ザ・ウィーク",
+          "testimonials_block_4_add_sortcontent": "Amikumuは言語の学習に新しい次元を作れた。これによって、人々が言語を練習する、繋がる方法が変わっていく。"
+        }
+      ],
+      "tutorial": [
+        {
+          "tutorial_blocks_0_text": "言語ごとに自己紹介と名前を追加できる！",
+          "tutorial_blocks_0_title": "プロフィールを読んで、自分をアピールしよう"
+        },
+        {
+          "tutorial_blocks_1_text": "言語を選択する。\n\n近くに同じ言語を喋る人を探す。>",
+          "tutorial_blocks_1_title": "いつでも、どこでも、近くに語学勉強のパートナーを見つける"
+        },
+        {
+          "tutorial_blocks_2_text": "近くにいる同じ言語を喋る人にメッセージを送る。\n\n画像、音声メッセージ、場所を送信する。\n\n簡単にミートアップを調整して、心の友が作れる。>",
+          "tutorial_blocks_2_title": "チャットして、出会おう！"
+        }
+      ]
     },
     "page_title": "ホーム"
   },

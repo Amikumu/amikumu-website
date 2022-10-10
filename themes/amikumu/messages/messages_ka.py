@@ -7,7 +7,7 @@ MESSAGES =  {
     "Authors": "Authors",
     "Categories": "Categories",
     "Comments": "Comments",
-    "LANGUAGE": "English",
+    "LANGUAGE": "ქართული",
     "Languages:": "Languages:",
     "More posts about %s": "More posts about %s",
     "Newer posts": "Newer posts",

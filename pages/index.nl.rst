@@ -9,7 +9,7 @@
 
 .. container:: homepage-title
 
-	.. include:: translations_parts/nl/page_home-page.page_title.rst
+	.. include:: translations_parts/nl/page_home-page.page_meta.title.rst
 
 	.. include:: pages_parts/home_page_download_buttons.rst
 

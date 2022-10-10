@@ -7,24 +7,28 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://nova.amikumu.com/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/" />
-  <xhtml:link rel="alternate" hreflang="ca" href="https://nova.amikumu.com/ca/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/" />
-  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/" />
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ja" href="https://nova.amikumu.com/ja/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://nova.amikumu.com/ka/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://nova.amikumu.com/lfn/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/" />
+  <xhtml:link rel="alternate" hreflang="avk" href="https://nova.amikumu.com/avk/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh_cn/" />
   <xhtml:link rel="alternate" hreflang="tr" href="https://nova.amikumu.com/tr/" />
   <xhtml:link rel="alternate" hreflang="lt" href="https://nova.amikumu.com/lt/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://nova.amikumu.com/nds/" />
   <xhtml:link rel="alternate" hreflang="eo" href="https://nova.amikumu.com/eo/" />
-  <xhtml:link rel="alternate" hreflang="fr" href="https://nova.amikumu.com/fr/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh/" />
   <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://nova.amikumu.com/fr/" />
+  <xhtml:link rel="alternate" hreflang="ca" href="https://nova.amikumu.com/ca/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/authors/</loc>
@@ -39,24 +43,78 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/avk/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/avk/authors/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/authors/amikumu/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/authors/roberto-alsina/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/categories/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/categories/blog/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/categories/cat_nikola/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/categories/demo/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/categories/nikola/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/categories/python/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/galleries/</loc>
-  <lastmod>2022-10-10T12:34:00Z</lastmod>
+  <lastmod>2022-10-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/galleries/demo/</loc>
-  <lastmod>2022-10-10T12:34:00Z</lastmod>
+  <lastmod>2022-10-10T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/posts/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/posts/2012/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/posts/2022/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/posts/2022/09/21/test-post/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:36:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/posts/welcome-to-nikola/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/</loc>
@@ -107,14 +165,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/ca/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ca/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/ca/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -133,20 +183,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ca/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ca/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/categories/</loc>
@@ -221,14 +263,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/cs/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/cs/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/cs/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -247,20 +281,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/cs/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/cs/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/</loc>
@@ -311,14 +337,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/de/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/de/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/de/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -337,20 +355,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/de/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/de/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/</loc>
@@ -401,14 +411,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/eo/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/eo/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/eo/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -427,20 +429,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/eo/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/eo/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/</loc>
@@ -491,14 +485,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/es/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/es/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/es/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -517,20 +503,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/es/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/es/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/</loc>
@@ -581,14 +559,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/fr/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/fr/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/fr/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -607,20 +577,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/fr/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/fr/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/galleries/</loc>
@@ -679,14 +641,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/id/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/id/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/id/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -705,28 +659,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/id/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/id/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/id/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/id/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ja/</loc>
@@ -777,14 +715,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/ja/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ja/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/ja/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -803,7 +733,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ja/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ja/posts/welcome-to-nikola/</loc>
@@ -811,120 +741,152 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
-  <loc>https://nova.amikumu.com/ja/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ja/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/ka/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/authors/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/authors/amikumu/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/authors/roberto-alsina/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/blog/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/cat_nikola/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/demo/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/nikola/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/categories/python/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/galleries/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/galleries/demo/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ka/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ka/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/2012/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/2022/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/2022/09/21/test-post/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/posts/welcome-to-nikola/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <lastmod>2022-10-10T12:53:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
-  <loc>https://nova.amikumu.com/ka/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ka/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <loc>https://nova.amikumu.com/lfn/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/authors/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/authors/amikumu/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/authors/roberto-alsina/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/categories/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/categories/blog/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/categories/cat_nikola/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/categories/demo/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/categories/nikola/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/categories/python/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/galleries/</loc>
-  <lastmod>2022-10-10T12:34:00Z</lastmod>
+  <lastmod>2022-10-10T13:18:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/galleries/demo/</loc>
-  <lastmod>2022-10-10T12:34:00Z</lastmod>
+  <lastmod>2022-10-10T13:18:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/posts/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/posts/2012/</loc>
+  <lastmod>2022-10-10T13:21:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/posts/2022/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/posts/2022/09/21/test-post/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:36:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/posts/welcome-to-nikola/</loc>
+  <lastmod>2022-10-10T13:24:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/listings/</loc>
@@ -932,7 +894,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/listings/hello.py.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/</loc>
@@ -983,14 +945,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/lt/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/lt/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/lt/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1009,7 +963,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/posts/welcome-to-nikola/</loc>
@@ -1017,36 +971,78 @@
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
-  <loc>https://nova.amikumu.com/lt/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/lt/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
+  <loc>https://nova.amikumu.com/nds/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/authors/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/authors/amikumu/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/authors/roberto-alsina/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/categories/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/categories/blog/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/categories/cat_nikola/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/categories/demo/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/categories/nikola/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/categories/python/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/galleries/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/galleries/demo/</loc>
-  <lastmod>2022-10-10T12:32:00Z</lastmod>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/posts/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/posts/2012/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/posts/2022/</loc>
-  <lastmod>2022-10-10T12:33:00Z</lastmod>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/posts/2022/09/21/test-post/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:36:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/posts/welcome-to-nikola/</loc>
+  <lastmod>2022-10-10T13:16:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/</loc>
@@ -1083,7 +1079,7 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/berichten/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/berichten/welcome-to-nikola/</loc>
@@ -1121,22 +1117,6 @@
  <url>
   <loc>https://nova.amikumu.com/nl/galleries/demo/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/nl/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/nl/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/nl/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/nl/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/</loc>
@@ -1187,14 +1167,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/oc/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/oc/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/oc/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1213,20 +1185,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/oc/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/oc/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/</loc>
@@ -1277,14 +1241,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/pl/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pl/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/pl/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1303,20 +1259,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pl/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pl/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/posts/</loc>
@@ -1336,15 +1284,11 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/</loc>
@@ -1395,14 +1339,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/pt/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pt/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/pt/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1421,20 +1357,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pt/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/pt/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/</loc>
@@ -1485,14 +1413,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/ru/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ru/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/ru/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1511,20 +1431,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ru/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/ru/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/</loc>
@@ -1575,14 +1487,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/sk/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/sk/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/sk/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1601,24 +1505,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/sk/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/sk/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/</loc>
@@ -1669,14 +1561,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/tr/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/tr/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/tr/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1695,20 +1579,12 @@
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/tr/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/tr/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/</loc>
@@ -1759,14 +1635,6 @@
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
  <url>
-  <loc>https://nova.amikumu.com/zh/indexnl_221008153842/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/indexnl_221008153848/</loc>
-  <lastmod>2022-10-08T13:38:00Z</lastmod>
- </url>
- <url>
   <loc>https://nova.amikumu.com/zh/posts/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
  </url>
@@ -1781,23 +1649,87 @@
  <url>
   <loc>https://nova.amikumu.com/zh/posts/2022/09/21/test-post/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/posts/archive.html</loc>
-  <lastmod>2022-10-10T12:37:00Z</lastmod>
+  <lastmod>2022-10-10T13:33:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh/posts/welcome-to-nikola/</loc>
   <lastmod>2022-10-10T12:16:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/authors/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/authors/amikumu/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/authors/roberto-alsina/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/blog/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/cat_nikola/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/demo/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/nikola/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/categories/python/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/galleries/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/galleries/demo/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/2012/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/2022/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/2022/09/21/test-post/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/2022/09/21/test-post/" />
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/archive.html</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/posts/welcome-to-nikola/</loc>
+  <lastmod>2022-10-10T15:06:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="en" href="https://nova.amikumu.com/posts/welcome-to-nikola/" />
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/press/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
- </url>
- <url>
-  <loc>https://nova.amikumu.com/zh/social_buttons/</loc>
-  <lastmod>2022-10-10T09:19:00Z</lastmod>
  </url>
 </urlset>

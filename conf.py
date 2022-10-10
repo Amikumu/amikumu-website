@@ -108,20 +108,20 @@ TRANSLATIONS = {
      "eo": "./eo",
        "nl": "./nl",
     "fr": "./fr",
-    "zh_cn": "./zh",
+    "zh_cn": "./zh_cn",
    "ru": "./ru",
-     "ja": "./ja",
-  #"ka": "./ka", #georgian
-   "oc": "./oc",
-   "pl": "./pl",
-   "pt": "./pt",
-   "sk": "./sk",
-   "tr": "./tr",
-   "lt": "./lt",
-   "cs": "./cs",
-     #"avk": "./avk", #kotava
-     #"lfn": "./lfn", #lingua franca nova
-     #"nds": "./nds", #nedersassik
+    "ja": "./ja",
+ "ka": "./ka", #georgian
+  "oc": "./oc",
+  "pl": "./pl",
+  "pt": "./pt",
+  "sk": "./sk",
+  "tr": "./tr",
+  "lt": "./lt",
+  "cs": "./cs",
+    "avk": "./avk", #kotava
+    "lfn": "./lfn", #lingua franca nova
+    "nds": "./nds", #nedersassik
      
 }
 
@@ -409,7 +409,7 @@ DATE_FANCINESS = 0
 
 # Customize the locale/region used for a language.
 # For example, to use British instead of US English: LOCALES = {'en': 'en_GB'}
-LOCALES = {'oc': 'en_GB'}
+LOCALES = {'oc': 'en_GB', 'ka': 'en_GB', 'nds': 'en_GB', 'avk': 'en_GB', 'lfn': 'en_GB'}
 
 # One or more folders containing files to be copied as-is into the output.
 # The format is a dictionary of {source: relative destination}.

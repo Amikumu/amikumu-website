@@ -471,6 +471,15 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		width: 50%;
 	}
 	
+	div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
+{
+	clear: both;
+	padding: 2px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+
 	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
 	nav#menu div div.dropdown.show div.dropdown-menu.show {
 		width: 300px;
@@ -818,7 +827,7 @@ margin-left: 0px;
 
 @media only screen and (max-width: 420px) {
     .swiper-slide-3 .title, .swiper-slide-3 .text {
-        left:40px
+        left:20px
     }
 }
 
@@ -889,7 +898,7 @@ margin-left: 0px;
 
 @media only screen and (max-width: 499px) {
     .swiper-slide .title {
-        left: 180px;
+        left: 0px;
         max-width: 192px;
         font-size: 14px;
         line-height:24px
@@ -898,7 +907,25 @@ margin-left: 0px;
 
 @media only screen and (max-width: 420px) {
     .swiper-slide .title {
-        left:40px
+        left:20px
+    }
+}
+
+@media only screen and (max-width: 415px) {
+    .swiper-slide .title {
+        left: 30px;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    .swiper-slide .title {
+        left: -20px;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+    .swiper-slide .title {
+        left: -20px;
     }
 }
 
@@ -924,6 +951,7 @@ max-width: 400px;
 @media only screen and (max-width: 768px) {
     .swiper-slide .text {
         left: 280px;
+				padding-top: 45px;
         top:140px
     }
 }
@@ -935,19 +963,45 @@ max-width: 400px;
     }
 }
 
+
+
 @media only screen and (max-width: 499px) {
     .swiper-slide .text {
-        left: 180px;
+        left: 25px;
         max-width:222px
     }
 }
 
 @media only screen and (max-width: 420px) {
     .swiper-slide .text {
-        left: 40px;
+		padding-top: 25px;
+        left: 20px;
         top:125px
     }
 }
+
+@media only screen and (max-width: 415px) {
+    .swiper-slide .text {
+		padding-top: 45px;
+        left: 30px;
+        top:125px
+    }
+}
+@media only screen and (max-width: 380px) {
+    .swiper-slide .text {
+		padding-top: 25px;
+        left: -20px;
+        top:125px
+    }
+}
+@media only screen and (max-width: 320px) {
+    .swiper-slide .text {
+		padding-top: 25px;
+        left: -20px;
+        top:125px
+    }
+}
+
 
 .swiper-slide .text p {
     margin-bottom:10px;

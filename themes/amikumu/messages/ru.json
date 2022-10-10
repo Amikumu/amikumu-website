@@ -3,7 +3,7 @@
     "(active)": "(активная)",
     "Also available in:": "Также доступно на:",
     "Archive": "Архив",
-    "Atom feed": "",
+    "Atom feed": "Atom feed",
     "Authors": "Разработчики",
     "Categories": "Категории",
     "Comments": "Комментарии",
@@ -42,5 +42,5 @@
     "Write your post here.": "Создайте Вашу запись здесь.",
     "old posts, page %d": "%d страница со старыми записями",
     "page %d": "%d страница",
-    "updated": ""
+    "updated": "updated"
 }

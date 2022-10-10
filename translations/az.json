@@ -3,8 +3,8 @@
         "post_meta": {
             "add_description": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
             "add_title": "Developed by a team of polyglots",
-            "city": "Kaupunki",
-            "languages": "Kielet",
+            "city": "City",
+            "languages": "Languages",
             "members": [
                 {
                     "city": "Sydney, Australia",
@@ -72,7 +72,7 @@
                 {
                     "#text": "It depends on what they can commit. We've listed some of the ways our ambassadors are working with us to promote Amikumu around the world.",
                     "title": "What does an Ambassador do?",
-                    "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/fi>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community."
+                    "ul": "#. They're publishing blog posts and YouTube videos! For example, check out `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) and `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) among others. We have an entire page dedicated to `press releases <http://amikumu.com/press/>`_.\n \t#. They're posting links in Facebook groups and on their profiles. Even a simple show of public support can go a long way!\n \t#. They're handing out flyers and talking about Amikumu in local language meetups. This is also a great way to establish and grow a local community.\n \t#. They're `translating the app <https://traduk.amikumu.com/engage/amikumu/en>`_ and website to their local languages. Our goal is to become the most translated app in the world and we need all the help to achieve this.\n \t#. They're providing vitally important guidance. We understand that every language and culture is different. We want and need your advise on how to best act in your community."
                 },
                 {
                     "#text": "There's little we can provide for your invaluable help. However, there are a few perks to being an ambassador. We provide ambassadors with unique in-app collectible badges among other things. Feel free to reach out to us for more info at `info@amikumu.com <mailto:info@amikumu.com>`_.",
@@ -133,7 +133,7 @@
                             "title": "Is Amikumu open source?"
                         },
                         {
-                            "#text": "Yes, you can help translate Amikumu to `your language here <https://traduk.amikumu.com/engage/amikumu/fi>`_.",
+                            "#text": "Yes, you can help translate Amikumu to `your language here <https://traduk.amikumu.com/engage/amikumu/en>`_.",
                             "title": "Can I translate Amikumu?"
                         },
                         {
@@ -196,12 +196,12 @@
         "post_meta": {
             "add_title": "Practice languages nearby",
             "claim": "The mission of Amikumu is to create and maintain a social network that provides speakers, signers and users of all the world's languages with a platform to communicate and share relevant information locally, regardless of the social, political or economic status of each language.",
-            "language_name_in_own_script": "Suomi",
+            "language_name_in_own_script": "English",
             "massive_thanks": "A massive thanks to all our 429 backers on Kickstarter who smashed our funding goals and made Amikumu a reality",
             "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
-            "metadata_title": "Amikumu - Löydä kielikavereita läheltäsi",
-            "official_sponsor": "Virallinen rahoittaja",
-            "sponsors": "Rahoittajat",
+            "metadata_title": "Amikumu - Find language partners nearby",
+            "official_sponsor": "The Official Sponsor",
+            "sponsors": "Sponsors",
             "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
             "testimonials_block_0_add_sortcontent": "I never know which city I’m going to wake up in next, and yet I want to practice all my languages. With this app, I can practice any language I want at the push of a button!",
             "testimonials_block_1_add_name": "Judith Meyer, Polyglot Gathering Founder",
@@ -219,7 +219,7 @@
             "tutorial_blocks_2_text": "Message others nearby who speak your language.\n\nSend pictures, voice messages and map coordinates.\n\nQuickly organize meetups and make friends for life.>",
             "tutorial_blocks_2_title": "Chat and meetup!"
         },
-        "post_title": "Koti"
+        "post_title": "Home"
     },
     "page_press": {
         "post_content": {
@@ -320,69 +320,6 @@
         "post_content": {
             "#text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.",
             "h1": "Privacy Policy",
-            "main": {
-                "section": [
-                    {},
-                    {},
-                    {
-                        "text": [
-                            null
-                        ]
-                    },
-                    {},
-                    {
-                        "title": "5. Storage and Security"
-                    },
-                    {},
-                    {},
-                    {
-                        "title": "8. Amendments"
-                    },
-                    {},
-                    {},
-                    {
-                        "ol": {
-                            "li": {
-                                "#text": "The App has many features and allows you to:"
-                            }
-                        }
-                    },
-                    {},
-                    {},
-                    {
-                        "title": "6. User Licence"
-                    },
-                    {},
-                    {},
-                    {},
-                    {
-                        "ol": {
-                            "li": {
-                                "#text": "In connection with Status Submissions, you warrant that:"
-                            }
-                        }
-                    },
-                    {
-                        "ol": {
-                            "li": [
-                                {},
-                                {
-                                    "ol": "#. infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;\n \t#. is fraudulent, false, misleading or deceptive;\n \t#. requests money from, or is intended to otherwise defraud other Users;\n \t#. denigrates Amikumu or the App;\n \t#. transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.\n \t#. contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);\n \t#. is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;\n \t#. promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;\n \t#. is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or\n \t#. promotes illegal or harmful activities or substances."
-                                }
-                            ]
-                        }
-                    },
-                    {},
-                    {
-                        "title": "13. Disclaimers"
-                    },
-                    {},
-                    {},
-                    {
-                        "#text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
-                    }
-                ]
-            },
             "section": [
                 {
                     "text": [
@@ -547,9 +484,9 @@
         "post_content": "No translation needed.",
         "post_meta": {
             "metadata_desc": "Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!",
-            "metadata_title": "Amikumu tilastot"
+            "metadata_title": "Amikumu statistics"
         },
-        "post_title": "Tilastot"
+        "post_title": "Statistics"
     },
     "page_support-us": {
         "post_content": {
@@ -569,7 +506,7 @@
                     "title": "3. Share us with your friends"
                 },
                 {
-                    "#text": "Our aim is to become the most translated app in the world! This is not easy, so we need your help!\n\nTo contribute to an existing translation or start a new one, please sign up to `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/fi>`_ (our preferred translation service) and select the language you want to translate. There's no required minimum, you can translate the entire app or just a single word–you decide.",
+                    "#text": "Our aim is to become the most translated app in the world! This is not easy, so we need your help!\n\nTo contribute to an existing translation or start a new one, please sign up to `Amikumu-Weblate <https://traduk.amikumu.com/engage/amikumu/en>`_ (our preferred translation service) and select the language you want to translate. There's no required minimum, you can translate the entire app or just a single word–you decide.",
                     "title": "4. Help translate the app and website!"
                 },
                 {

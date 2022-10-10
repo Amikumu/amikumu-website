@@ -3,7 +3,7 @@
     "(active)": "(啟用)",
     "Also available in:": "其他語言版本：",
     "Archive": "彙整",
-    "Atom feed": "",
+    "Atom feed": "Atom feed",
     "Authors": "作者",
     "Categories": "分類",
     "Comments": "迴響",
@@ -42,5 +42,5 @@
     "Write your post here.": "從這裡開始編輯文章",
     "old posts, page %d": "舊文章，第 %d 頁",
     "page %d": "第 %d 頁",
-    "updated": ""
+    "updated": "updated"
 }

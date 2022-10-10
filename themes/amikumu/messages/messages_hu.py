@@ -34,7 +34,7 @@ MESSAGES =  {
     "Subcategories:": "Alkategóriák:",
     "Tags and Categories": "Címkék és kategóriák",
     "Tags": "Címkék",
-    "Toggle navigation": "",
+    "Toggle navigation": "Toggle navigation",
     "Uncategorized": "Nincs kategorizálva",
     "Up": "Fel",
     "Updates": "Frissítések",
@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "Ide írd a bejegyzésed.",
     "old posts, page %d": "régi bejegyzések, %d. oldal",
     "page %d": "%d. oldal",
-    "updated": ""
+    "updated": "updated"
 }

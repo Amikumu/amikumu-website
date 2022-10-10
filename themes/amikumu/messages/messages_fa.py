@@ -3,7 +3,7 @@ MESSAGES =  {
     "(active)": "(فعال)",
     "Also available in:": "همچنین قابل دسترس از:",
     "Archive": "آرشیو",
-    "Atom feed": "",
+    "Atom feed": "Atom feed",
     "Authors": "نویسنده‌ها",
     "Categories": "دسته‌ها",
     "Comments": "دیدگاه‌‌‌ها",
@@ -34,13 +34,13 @@ MESSAGES =  {
     "Subcategories:": "زیر بخش‌ها:",
     "Tags and Categories": "برچسب‌ها و دسته‌ها",
     "Tags": "برچسب‌ها",
-    "Toggle navigation": "",
+    "Toggle navigation": "Toggle navigation",
     "Uncategorized": "دسته‌بندی نشده",
-    "Up": "",
+    "Up": "Up",
     "Updates": "بروزرسانی‌ها",
     "Write your page here.": "من صفحه را این‌جا بنویسید. ",
     "Write your post here.": "متن پست‌تان را این‌جا بنویسید.",
     "old posts, page %d": "صفحهٔ ارسال‌های قدیمی %d",
     "page %d": "برگه %d",
-    "updated": ""
+    "updated": "updated"
 }

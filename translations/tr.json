@@ -139,7 +139,7 @@
               "title": "Amikumu ne demektir?"
             },
             {
-              "text": "Biz görüşlerinizi hoş karşılarız katılın `bizim mail listemize <http://eepurl.com/c4qiRD>`_ya da bizi takip edin `Facebook <https://www.facebook.com/amikumuapp/>`_,`Twitter <https://twitter.com/Amikumu>`_ve`VK sayfası <https://vk.com/amikumu>`_bilgilendirilmek için.\n\nDaha fazla soru için, info@amikumu.com\nbize tıkla`info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "Biz görüşlerinizi hoş karşılarız katılın `bizim mail listemize <http://eepurl.com/c4qiRD>`_ya da bizi takip edin `Facebook <https://www.facebook.com/amikumuapp/>`_,`Twitter <https://twitter.com/Amikumu>`_ve`VK sayfası <https://vk.com/amikumu>`_bilgilendirilmek için.\n\nDaha fazla soru için, info@amikumu.com\nbize tıkla`info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "Nasıl dahil olabilirim?"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "Sponsorlar",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "Benny Lewis, 3 ay içinde akıcı konuşmaya başladı",
-          "testimonials_block_0_add_sortcontent": "Bir sonra hangi şehirde uyanacağımı hiç bir zaman bilemiyorum, buna rağmen tüm dillerimin pratiğini yapmak istiyorum. Bu uygulama sayesinde bir tuşa basarak herhangi biri dili pratik edebiliyorum!"
+          "name": "Benny Lewis, 3 ay içinde akıcı konuşmaya başladı",
+          "quote": "Bir sonra hangi şehirde uyanacağımı hiç bir zaman bilemiyorum, buna rağmen tüm dillerimin pratiğini yapmak istiyorum. Bu uygulama sayesinde bir tuşa basarak herhangi biri dili pratik edebiliyorum!"
         },
         {
-          "testimonials_block_1_add_name": "Judith Meyer, Çokdilli Toplantı kurucusu",
-          "testimonials_block_1_add_sortcontent": "Amikumu'nun dil öğrenme toplumu için inanılmaz faydalı bir uygulama olduğuna inanıyorum!"
+          "name": "Judith Meyer, Çokdilli Toplantı kurucusu",
+          "quote": "Amikumu'nun dil öğrenme toplumu için inanılmaz faydalı bir uygulama olduğuna inanıyorum!"
         },
         {
-          "testimonials_block_2_add_name": "Profesör Ghil'ad Zuckermann, D.Phil.",
-          "testimonials_block_2_add_sortcontent": "Uyguama yok olma tehlikesi altında olan dilleri pratik etmek ve bunları (mesela uyuyan güzel Barngarla dili gibi) tekrar canlandırmak isteyenlerin iletişimini güçlendirmektedir."
+          "name": "Profesör Ghil'ad Zuckermann, D.Phil.",
+          "quote": "Uyguama yok olma tehlikesi altında olan dilleri pratik etmek ve bunları (mesela uyuyan güzel Barngarla dili gibi) tekrar canlandırmak isteyenlerin iletişimini güçlendirmektedir."
         },
         {
-          "testimonials_block_3_add_name": "Langfest inovasyon ödülü 2017 (Montreal)",
-          "testimonials_block_3_add_sortcontent": "Amikumu ve konuştuğumuz diller üzerinden onun bizi birleştirme isteğinden esinleniyoruz - veya konuşmaya daha fazla istekli oluyoruz!"
+          "name": "Langfest inovasyon ödülü 2017 (Montreal)",
+          "quote": "Amikumu ve konuştuğumuz diller üzerinden onun bizi birleştirme isteğinden esinleniyoruz - veya konuşmaya daha fazla istekli oluyoruz!"
         },
         {
-          "testimonials_block_4_add_name": "Galler hükümeti haftanın Uygulaması",
-          "testimonials_block_4_add_sortcontent": "Amikumu dil öğrenimine yepyeni bir boyut kazandırmakta ve insanların dili pratik etmek için birbirleri ile iletişim şekillerini değiştirmektedir."
+          "name": "Galler hükümeti haftanın Uygulaması",
+          "quote": "Amikumu dil öğrenimine yepyeni bir boyut kazandırmakta ve insanların dili pratik etmek için birbirleri ile iletişim şekillerini değiştirmektedir."
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "Konuştuğunuz her dil için bir bio ekleyin ve isimlendirin! \n\nHangi dilleri bildiğinizi ve ne kadar iyi konuştuğunuzu belirtin.>",
-          "tutorial_blocks_0_title": "Profilleri araştırıp keşfedin ve kendinizi ifade edin"
+          "text": "Konuştuğunuz her dil için bir bio ekleyin ve isimlendirin! \n\nHangi dilleri bildiğinizi ve ne kadar iyi konuştuğunuzu belirtin.",
+          "title": "Profilleri araştırıp keşfedin ve kendinizi ifade edin"
         },
         {
-          "tutorial_blocks_1_text": "Bir dil seçin. Yakınlarda o dili konuşan insanlar bulun.",
-          "tutorial_blocks_1_title": "Yakınlarda dil öğrenen ortakları her zaman, her yerde bulun"
+          "text": "Bir dil seçin. Yakınlarda o dili konuşan insanlar bulun.",
+          "title": "Yakınlarda dil öğrenen ortakları her zaman, her yerde bulun"
         },
         {
-          "tutorial_blocks_2_text": "Yakınınızdaki dilinizi konuşan diğer kişilere mesaj gönderin. Resimler, sesli mesajlar ve harita koordinatlarını gönderin. Buluşmaları hızla organize edin ve hayat boyu arkadaş edinin.",
-          "tutorial_blocks_2_title": "Sohbet edin ve buluşun!"
+          "text": "Yakınınızdaki dilinizi konuşan diğer kişilere mesaj gönderin. Resimler, sesli mesajlar ve harita koordinatlarını gönderin. Buluşmaları hızla organize edin ve hayat boyu arkadaş edinin.",
+          "title": "Sohbet edin ve buluşun!"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -413,7 +413,7 @@
           },
           {},
           {
-            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com"
           }
         ],
         "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
@@ -556,7 +556,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -618,7 +618,7 @@
           "title": "7. Broşürlerinizi yazdırın ve dağıtın"
         },
         {
-          "text": "Son ama en son değil, Amikumu'yla insanlarla tanışın ve hikayelerinizi paylaşın! Başarılı buluşmaların hikayelerini topluluğumuzla paylaşmayı severiz. Hikayelerinizi ve fotoğraflarınızı bize e-posta ile gönderin `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nSon olarak, ilerlememize herhangi bir şekilde yardımcı olabilecek kişilere şimdiden çok teşekkür ederiz. Herhangi bir fikir veya öneriniz varsa, bizimle bizimle iletişime geçmekten çekinmeyin `info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "Son ama en son değil, Amikumu'yla insanlarla tanışın ve hikayelerinizi paylaşın! Başarılı buluşmaların hikayelerini topluluğumuzla paylaşmayı severiz. Hikayelerinizi ve fotoğraflarınızı bize e-posta ile gönderin `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nSon olarak, ilerlememize herhangi bir şekilde yardımcı olabilecek kişilere şimdiden çok teşekkür ederiz. Herhangi bir fikir veya öneriniz varsa, bizimle bizimle iletişime geçmekten çekinmeyin `info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. Buluşmalar düzenleyin!"
         }
       ]

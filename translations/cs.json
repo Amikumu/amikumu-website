@@ -139,7 +139,7 @@
               "title": "Co znamená Amikumu?"
             },
             {
-              "text": "Vítáme vaše názory, nebojte se připojit do `našeho seznamu e-mailů <http://eepurl.com/c4qiRD>`_, nebo nás sledujte na `Facebooku <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ a `stránce na VK <https://vk.com/amikumu>`_ abyste zůstali informováni. Pro další otázky nás kontaktujte na `info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "Vítáme vaše názory, nebojte se připojit do `našeho seznamu e-mailů <http://eepurl.com/c4qiRD>`_, nebo nás sledujte na `Facebooku <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ a `stránce na VK <https://vk.com/amikumu>`_ abyste zůstali informováni. Pro další otázky nás kontaktujte na `info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "Jak se mohu zapojit?"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "Sponzoři",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "Benny Lewis, plynulý mluvčí za 3 měsíce",
-          "testimonials_block_0_add_sortcontent": "Nikdy nevím, v jakém městě se zase probudím, přesto chci procvičovat všechny své jazyky. S touto aplikací můžu procvičovat jaký jazyk jen chci pouhým stisknutím tlačítka!"
+          "name": "Benny Lewis, plynulý mluvčí za 3 měsíce",
+          "quote": "Nikdy nevím, v jakém městě se zase probudím, přesto chci procvičovat všechny své jazyky. S touto aplikací můžu procvičovat jaký jazyk jen chci pouhým stisknutím tlačítka!"
         },
         {
-          "testimonials_block_1_add_name": "Judith Meyer, zakladatelka Polyglot Gathering (setkávání polyglotů)",
-          "testimonials_block_1_add_sortcontent": "Jsem přesvědčen, že Amikumu je pro komunitu studentů cizích jazyků neuvěřitelně užitečnou aplikací!"
+          "name": "Judith Meyer, zakladatelka Polyglot Gathering (setkávání polyglotů)",
+          "quote": "Jsem přesvědčen, že Amikumu je pro komunitu studentů cizích jazyků neuvěřitelně užitečnou aplikací!"
         },
         {
-          "testimonials_block_2_add_name": "Profesor Ghil'ad Zuckermann, D.Phil.",
-          "testimonials_block_2_add_sortcontent": "Aplikace může zlepšit komunikaci mezi mluvčími ohrožených jazyků a probouzeči spících krásek jako je Berngarla."
+          "name": "Profesor Ghil'ad Zuckermann, D.Phil.",
+          "quote": "Aplikace může zlepšit komunikaci mezi mluvčími ohrožených jazyků a probouzeči spících krásek jako je Berngarla."
         },
         {
-          "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
-          "testimonials_block_3_add_sortcontent": "Amikumu a snaha sjednotit nás prostřednictvím jazyků, kterými mluvíme nebo toužíme mluvit nás inspiruje!"
+          "name": "Langfest Innovation Award 2017 (Montreal)",
+          "quote": "Amikumu a snaha sjednotit nás prostřednictvím jazyků, kterými mluvíme nebo toužíme mluvit nás inspiruje!"
         },
         {
-          "testimonials_block_4_add_name": "Welsh Government App of the Week",
-          "testimonials_block_4_add_sortcontent": "Amikumu přidává zcela novou dimenzi výuky jazyků a mění způsob, jakým se lidé kontaktují a procvičují jazyky."
+          "name": "Welsh Government App of the Week",
+          "quote": "Amikumu přidává zcela novou dimenzi výuky jazyků a mění způsob, jakým se lidé kontaktují a procvičují jazyky."
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "Přidejte si popis a jméno pro každý jazyk, kterým mluvíte!\n\nUveďte, jakými jazyky a jak dobře mluvíte.>",
-          "tutorial_blocks_0_title": "Prozkoumejte profily a vyjádřete se"
+          "text": "Přidejte si popis a jméno pro každý jazyk, kterým mluvíte!\n\nUveďte, jakými jazyky a jak dobře mluvíte.",
+          "title": "Prozkoumejte profily a vyjádřete se"
         },
         {
-          "tutorial_blocks_1_text": "Zvolte jazyk.\n\nNajděte v okolí lidi, kteří jím mluví.>",
-          "tutorial_blocks_1_title": "Najděte jazykového partnera v okolí - kdykoli, kdekoli"
+          "text": "Zvolte jazyk.\n\nNajděte v okolí lidi, kteří jím mluví.",
+          "title": "Najděte jazykového partnera v okolí - kdykoli, kdekoli"
         },
         {
-          "tutorial_blocks_2_text": "Dejte vědět ostatním lidem v okolí, kteří mluví vaším jazykem.\n\nPošlete obrázek, hlasovou zprávu a souřadnice na mapě.\n\nRychle zorganizujte setkání a udělejte si přátele na celý život.>",
-          "tutorial_blocks_2_title": "Konverzujte a setkejte se!"
+          "text": "Dejte vědět ostatním lidem v okolí, kteří mluví vaším jazykem.\n\nPošlete obrázek, hlasovou zprávu a souřadnice na mapě.\n\nRychle zorganizujte setkání a udělejte si přátele na celý život.",
+          "title": "Konverzujte a setkejte se!"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -413,7 +413,7 @@
           },
           {},
           {
-            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com"
           }
         ],
         "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
@@ -556,7 +556,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -618,7 +618,7 @@
           "title": "7. Vytiskněte a distribuujte naše letáky"
         },
         {
-          "text": "Nakonec, ale ne poslední. Setkávejte se s lidmi přes Amikumu a sdílejte své příběhy! Máme rádi příběhy úspěšných setkání. Zašlete nám své příběhy a obrázky na `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nNakonec si dovolíme vám velmi poděkovat za jakýkoliv způsob, kterým nám pomáháte.\n\nPokud máte nějaké nápady nebo rady, neváhejte nás kontaktovat na `info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "Nakonec, ale ne poslední. Setkávejte se s lidmi přes Amikumu a sdílejte své příběhy! Máme rádi příběhy úspěšných setkání. Zašlete nám své příběhy a obrázky na `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nNakonec si dovolíme vám velmi poděkovat za jakýkoliv způsob, kterým nám pomáháte.\n\nPokud máte nějaké nápady nebo rady, neváhejte nás kontaktovat na `info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. Organizujte setkání!"
         }
       ]

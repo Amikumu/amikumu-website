@@ -139,7 +139,7 @@
               "title": "“Amikumu”是什么意思？"
             },
             {
-              "text": "我们期待你的反馈，请加入 `我们的邮件组 <http://eepurl.com/c4qiRD>`_，或者关注我们的 `脸书 <https://www.facebook.com/amikumuapp/>`_，`Twitter <https://twitter.com/Amikumu>`_和 `VK主页 <https://vk.com/amikumu>`_获得新消息。\n获取更多信息，请联系`info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "我们期待你的反馈，请加入 `我们的邮件组 <http://eepurl.com/c4qiRD>`_，或者关注我们的 `脸书 <https://www.facebook.com/amikumuapp/>`_，`Twitter <https://twitter.com/Amikumu>`_和 `VK主页 <https://vk.com/amikumu>`_获得新消息。\n获取更多信息，请联系`info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "我如何能参与进去呢？"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "赞助人",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "Benny Lewis，3月内流利说",
-          "testimonials_block_0_add_sortcontent": "我从来都不知道明早将在哪个城市醒来，但我还想练习所有我掌握的语言。通过这个应用，只需轻轻一点，我就能找到跟我练习任何语言的人。"
+          "name": "Benny Lewis，3月内流利说",
+          "quote": "我从来都不知道明早将在哪个城市醒来，但我还想练习所有我掌握的语言。通过这个应用，只需轻轻一点，我就能找到跟我练习任何语言的人。"
         },
         {
-          "testimonials_block_1_add_name": "Judith Meyer，多语者聚会发起人",
-          "testimonials_block_1_add_sortcontent": "我相信 Amikumu 对语言学习社群来说是个非常有用的应用程序！"
+          "name": "Judith Meyer，多语者聚会发起人",
+          "quote": "我相信 Amikumu 对语言学习社群来说是个非常有用的应用程序！"
         },
         {
-          "testimonials_block_2_add_name": "Ghil'ad Zuckermann 教授，哲学博士",
-          "testimonials_block_2_add_sortcontent": "Amikumu能够促进濒危语种人群或者死亡语言学习者之间的交流，比如Barngarla土著语言。"
+          "name": "Ghil'ad Zuckermann 教授，哲学博士",
+          "quote": "Amikumu能够促进濒危语种人群或者死亡语言学习者之间的交流，比如Barngarla土著语言。"
         },
         {
-          "testimonials_block_3_add_name": "2017年 Langfest 创新奖（蒙特利尔）",
-          "testimonials_block_3_add_sortcontent": "我们被Amikumu所鼓舞，他们的雄心壮志是通过我们所说的，或渴望说的语言将人们连结！"
+          "name": "2017年 Langfest 创新奖（蒙特利尔）",
+          "quote": "我们被Amikumu所鼓舞，他们的雄心壮志是通过我们所说的，或渴望说的语言将人们连结！"
         },
         {
-          "testimonials_block_4_add_name": "威尔士政府的本周应用",
-          "testimonials_block_4_add_sortcontent": "Amikumu为语言学习增加了一个全新的维度，正在改变人们连结和练习语言的方式。\n——威尔士政府的本周应用>"
+          "name": "威尔士政府的本周应用",
+          "quote": "Amikumu为语言学习增加了一个全新的维度，正在改变人们连结和练习语言的方式。\n——威尔士政府的本周应用"
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "为你使用的每种语言添加一个简介和名字！\n明确每种你所掌握的语言名称以及掌握程度。>",
-          "tutorial_blocks_0_title": "浏览简介并表达自己"
+          "text": "为你使用的每种语言添加一个简介和名字！\n明确每种你所掌握的语言名称以及掌握程度。",
+          "title": "浏览简介并表达自己"
         },
         {
-          "tutorial_blocks_1_text": "选择一门语言。\n找到附近同样会讲该语言的人。>",
-          "tutorial_blocks_1_title": "随时、随地找到附近的语言学习伙伴"
+          "text": "选择一门语言。\n找到附近同样会讲该语言的人。",
+          "title": "随时、随地找到附近的语言学习伙伴"
         },
         {
-          "tutorial_blocks_2_text": "发信息给附近会讲同样语言的人。\n发送图片、语音和地图坐标。\n快速组织聚会，结交终生朋友。>",
-          "tutorial_blocks_2_title": "去聊一聊，聚一聚吧！"
+          "text": "发信息给附近会讲同样语言的人。\n发送图片、语音和地图坐标。\n快速组织聚会，结交终生朋友。",
+          "title": "去聊一聊，聚一聚吧！"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -413,7 +413,7 @@
           },
           {},
           {
-            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com"
           }
         ],
         "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
@@ -556,7 +556,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -618,7 +618,7 @@
           "title": "7. 打印并分发我们的传单"
         },
         {
-          "text": "最后还有件重要的事儿，通过Amikumu和人聚会并分享你的故事！我们喜欢在我们的社群里分享成功聚会的故事。有故事和照片就发到这里吧 `info@amikumu.com. <mailto:info@amikumu.com>`_\n\n最后，非常感谢您提供的任何帮助。\n如果您有任何想法或建议，请随时与我们联系`info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "最后还有件重要的事儿，通过Amikumu和人聚会并分享你的故事！我们喜欢在我们的社群里分享成功聚会的故事。有故事和照片就发到这里吧 `info@amikumu.com. <mailto:info@amikumu.com>`_\n\n最后，非常感谢您提供的任何帮助。\n如果您有任何想法或建议，请随时与我们联系`info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. 组织聚会！"
         }
       ]

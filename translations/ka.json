@@ -139,7 +139,7 @@
               "title": "რას ნიშნავს Amikumu?"
             },
             {
-              "text": "ჩვენ მივესალმებით თქვენს შეფასებებს, ასე რომ - ჩაეწერეთ `ჩვენს საფოსტო ნუსხაში <http://eepurl.com/c4qiRD>`_, ან გამოგვიწერეთ შემდეგ სოცქსელებში: `Facebook <https://www.facebook.com/amikumuapp/>`_ `Twitter <https://twitter.com/Amikumu>`_ და `VK <https://vk.com/amikumu>`_ რათა იყოთ ინფორმირებული.\n\nდამატებითი შეკითხვების შემთხვევაში დაგვიკავშირდით შემდეგ ელფოსტაზე:`info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "ჩვენ მივესალმებით თქვენს შეფასებებს, ასე რომ - ჩაეწერეთ `ჩვენს საფოსტო ნუსხაში <http://eepurl.com/c4qiRD>`_, ან გამოგვიწერეთ შემდეგ სოცქსელებში: `Facebook <https://www.facebook.com/amikumuapp/>`_ `Twitter <https://twitter.com/Amikumu>`_ და `VK <https://vk.com/amikumu>`_ რათა იყოთ ინფორმირებული.\n\nდამატებითი შეკითხვების შემთხვევაში დაგვიკავშირდით შემდეგ ელფოსტაზე:`info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "როგორ ჩავერთო?"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "სპონსორები",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "ბენი ლიუისი, Fluent in 3 Months",
-          "testimonials_block_0_add_sortcontent": "წინასწარ არასდროს ვიცი ხოლმე ხვალ რომელ ქალაქში შეიძლება გავიღვიძო და მაშინაც კი მჭირდება ჩემი ენების გავარჯიშება. ამ აპლიკაციით ნებისმიერი სასურველი ენის გავარჯიშება შემიძლია ღილაკზე უბრალოდ თითის დაჭერით!"
+          "name": "ბენი ლიუისი, Fluent in 3 Months",
+          "quote": "წინასწარ არასდროს ვიცი ხოლმე ხვალ რომელ ქალაქში შეიძლება გავიღვიძო და მაშინაც კი მჭირდება ჩემი ენების გავარჯიშება. ამ აპლიკაციით ნებისმიერი სასურველი ენის გავარჯიშება შემიძლია ღილაკზე უბრალოდ თითის დაჭერით!"
         },
         {
-          "testimonials_block_1_add_name": "იუდით მაიერი, Polyglot Gathering-ის დამფუძნებელი",
-          "testimonials_block_1_add_sortcontent": "მე მჯერა, რომ Amikumu ენების შემსწავლელი საზოგადოებისათვის წარმოუდგენლად საჭირო აპლიკაციაა!"
+          "name": "იუდით მაიერი, Polyglot Gathering-ის დამფუძნებელი",
+          "quote": "მე მჯერა, რომ Amikumu ენების შემსწავლელი საზოგადოებისათვის წარმოუდგენლად საჭირო აპლიკაციაა!"
         },
         {
-          "testimonials_block_2_add_name": "პროფესორი გილად ცუკერმანი, ფილოსოფიის დოქტ.",
-          "testimonials_block_2_add_sortcontent": "აპლიკაციას მნიშვნელოვანწილად შეუძლია კომუნიკაციის გაუმჯობესება გაქრობის საფრთხის წინაშე მყოფ ამა თუ იმ ენაზე მოსაუბრეთა და ისეთ მეოცნებე მძინარე მზეთუნახავთა რევიტალიზაციით დაკავებულთა შორის, როგორიცაა მაგალითად ბარნგარლა (ავსტრალიის ერთ-ერთი აბორიგენული ენა)."
+          "name": "პროფესორი გილად ცუკერმანი, ფილოსოფიის დოქტ.",
+          "quote": "აპლიკაციას მნიშვნელოვანწილად შეუძლია კომუნიკაციის გაუმჯობესება გაქრობის საფრთხის წინაშე მყოფ ამა თუ იმ ენაზე მოსაუბრეთა და ისეთ მეოცნებე მძინარე მზეთუნახავთა რევიტალიზაციით დაკავებულთა შორის, როგორიცაა მაგალითად ბარნგარლა (ავსტრალიის ერთ-ერთი აბორიგენული ენა)."
         },
         {
-          "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (მონრეალი)",
-          "testimonials_block_3_add_sortcontent": "ჩვენ შთაგონებული ვართ Amikumu-თი და მისი ამბიციით გაგვაერთიანოს იმ ენების მეშვეობით, რომლებზეც ვსაუბრობთ - ან მათ შესასწავლად მივისწრაფით!"
+          "name": "Langfest Innovation Award 2017 (მონრეალი)",
+          "quote": "ჩვენ შთაგონებული ვართ Amikumu-თი და მისი ამბიციით გაგვაერთიანოს იმ ენების მეშვეობით, რომლებზეც ვსაუბრობთ - ან მათ შესასწავლად მივისწრაფით!"
         },
         {
-          "testimonials_block_4_add_name": "უელსის მთავრობის „კვირის აპლიკაცია“",
-          "testimonials_block_4_add_sortcontent": "Amikumu-ს სრულიად ახალი განზომილება შემოაქვს ენების შემსწავლელთა საზოგადოებაში და სავსებით გარდაქმნის ენათა ვარჯიშისა და მათი მეშვეობით ხალხთა ურთიერთკომუნიკაციის ტრადიციულ მეთოდებს."
+          "name": "უელსის მთავრობის „კვირის აპლიკაცია“",
+          "quote": "Amikumu-ს სრულიად ახალი განზომილება შემოაქვს ენების შემსწავლელთა საზოგადოებაში და სავსებით გარდაქმნის ენათა ვარჯიშისა და მათი მეშვეობით ხალხთა ურთიერთკომუნიკაციის ტრადიციულ მეთოდებს."
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "დაამატეთ ბიოგრაფია და სახელი ცალ-ცალკე ყოველი ენისთვის, რომელსაც ფლობთ!\n\nმიუთითეთ რომელი ენები იცით და რამდენად კარგად საუბრობთ მათზე.>",
-          "tutorial_blocks_0_title": "დაათვალიერეთ პროფილები და გამოთქვით თქვენი აზრი"
+          "text": "დაამატეთ ბიოგრაფია და სახელი ცალ-ცალკე ყოველი ენისთვის, რომელსაც ფლობთ!\n\nმიუთითეთ რომელი ენები იცით და რამდენად კარგად საუბრობთ მათზე.",
+          "title": "დაათვალიერეთ პროფილები და გამოთქვით თქვენი აზრი"
         },
         {
-          "tutorial_blocks_1_text": "აირჩიეთ ენა.\n\nმოძებნეთ ახლომახლო ხალხი, ვინც ამ ენაზე საუბრობს.>",
-          "tutorial_blocks_1_title": "მოძებნეთ ენის შემსწავლელი პარტნიორები თქვენს ირგვლივ - ნებისმიერ დროს, ნებისმიერ ადგილას"
+          "text": "აირჩიეთ ენა.\n\nმოძებნეთ ახლომახლო ხალხი, ვინც ამ ენაზე საუბრობს.",
+          "title": "მოძებნეთ ენის შემსწავლელი პარტნიორები თქვენს ირგვლივ - ნებისმიერ დროს, ნებისმიერ ადგილას"
         },
         {
-          "tutorial_blocks_2_text": "მისწერეთ ახლომახლო სხვებს, ვინც თქვენთვის სასურველი ენა იცის.\n\nგაუგზავნეთ სურათები, ხმოვანი შეტყობინებები და რუკის კოორდინატები.\n\nსწრაფად დაგეგმეთ შეხვედრები და დაუმეგობრდით სამუდამოდ.>",
-          "tutorial_blocks_2_title": "ისაუბრეთ და გაიცანით ერთმანეთი!"
+          "text": "მისწერეთ ახლომახლო სხვებს, ვინც თქვენთვის სასურველი ენა იცის.\n\nგაუგზავნეთ სურათები, ხმოვანი შეტყობინებები და რუკის კოორდინატები.\n\nსწრაფად დაგეგმეთ შეხვედრები და დაუმეგობრდით სამუდამოდ.",
+          "title": "ისაუბრეთ და გაიცანით ერთმანეთი!"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -413,7 +413,7 @@
           },
           {},
           {
-            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com"
           }
         ],
         "text": "This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as **we**, **us** and **our**) to protecting the privacy of your personal information that we collect through this website `www.amikumu.com <http://www.amikumu.com/>`_ (**Site**), the Amikumu mobile application (**App**) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as **you** or **your**).\n\nPlease read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.\n\nYou providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.\n\nIf you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it."
@@ -556,7 +556,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -618,7 +618,7 @@
           "title": "7. ამობეჭდეთ და გაავრცელეთ ჩველი ფლაერები"
         },
         {
-          "text": "ბოლო, მაგრამ არა უკანასკნელი: შეხვდით Amikumu-თი გაცნობილ ხალხს და გაუზიარეთ სხვებს თქვენი ისტორიები! ჩვენ მოხარული ვიქნებით წარმატებულ შეხვედრათა ამბების მოსმენით. გაგვიზიარეთ თქვენი თავგადასავლები და სურათები ელფოსტაზე `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nდაბოლოს, წინასწარ უღრმესი მადლობა თქვენი ყოველგვარი დახმარებისთვის!\n\nიდეებისა და შემოთავაზებების შემთხვევაში, გთხოვთ დაგვიკავშირდეთ შემდეგ მისამართზე:`info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "ბოლო, მაგრამ არა უკანასკნელი: შეხვდით Amikumu-თი გაცნობილ ხალხს და გაუზიარეთ სხვებს თქვენი ისტორიები! ჩვენ მოხარული ვიქნებით წარმატებულ შეხვედრათა ამბების მოსმენით. გაგვიზიარეთ თქვენი თავგადასავლები და სურათები ელფოსტაზე `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nდაბოლოს, წინასწარ უღრმესი მადლობა თქვენი ყოველგვარი დახმარებისთვის!\n\nიდეებისა და შემოთავაზებების შემთხვევაში, გთხოვთ დაგვიკავშირდეთ შემდეგ მისამართზე:`info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. მოაწყვეთ შეკრებები!"
         }
       ]

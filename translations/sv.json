@@ -139,7 +139,7 @@
               "title": "Vad betyder Amikumu?"
             },
             {
-              "text": "Vi välkomnar din feedback så gå med `till vår mejllista <http://eepurl.com/c4qiRD>`_, eller följ oss på `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ och `VK <https://vk.com/amikumu>`_ för att förbli informerad.\n\nHar du fler frågor når du oss på `info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "Vi välkomnar din feedback så gå med `till vår mejllista <http://eepurl.com/c4qiRD>`_, eller följ oss på `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ och `VK <https://vk.com/amikumu>`_ för att förbli informerad.\n\nHar du fler frågor når du oss på `info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "Hur kan jag engagera mig?"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "Sponsorer",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
-          "testimonials_block_0_add_sortcontent": "Jag vet sldrig vilken stad jag kommer vakna upp i härnäst, och ändå vill jag träna på alla mina språk. Med den här appen kan jag träna på vilket språk jag vill genom att trycka på en knapp!"
+          "name": "Benny Lewis, Fluent in 3 Months",
+          "quote": "Jag vet sldrig vilken stad jag kommer vakna upp i härnäst, och ändå vill jag träna på alla mina språk. Med den här appen kan jag träna på vilket språk jag vill genom att trycka på en knapp!"
         },
         {
-          "testimonials_block_1_add_name": "Judith Meyer, grundare av Polyglot Gathering",
-          "testimonials_block_1_add_sortcontent": "Jag tror att Amikumu är en otroligt användbar app för språklärnings-communityn!"
+          "name": "Judith Meyer, grundare av Polyglot Gathering",
+          "quote": "Jag tror att Amikumu är en otroligt användbar app för språklärnings-communityn!"
         },
         {
-          "testimonials_block_2_add_name": "Professor Ghil’ad Zuckermann, fil. dr.",
-          "testimonials_block_2_add_sortcontent": "Appen kan förstärka kommunikationen mellan talare av utrotningshotade språk och mellan revivalister av drömmande, sovande skönheter som Barngarla."
+          "name": "Professor Ghil’ad Zuckermann, fil. dr.",
+          "quote": "Appen kan förstärka kommunikationen mellan talare av utrotningshotade språk och mellan revivalister av drömmande, sovande skönheter som Barngarla."
         },
         {
-          "testimonials_block_3_add_name": "Langfest Innovationspris 2017 (Montreal)",
-          "testimonials_block_3_add_sortcontent": "Vi är inspirerade av Amikumu och deras ambition att förena oss genom språken vi talar – och få oss att längta efter att tala!"
+          "name": "Langfest Innovationspris 2017 (Montreal)",
+          "quote": "Vi är inspirerade av Amikumu och deras ambition att förena oss genom språken vi talar – och få oss att längta efter att tala!"
         },
         {
-          "testimonials_block_4_add_name": "Welsiska regeringens Veckans app",
-          "testimonials_block_4_add_sortcontent": "Amikumu tillför en helt ny dimension för språkinlärning och ändrar sättet folk sammankopplas och tränar på språk."
+          "name": "Welsiska regeringens Veckans app",
+          "quote": "Amikumu tillför en helt ny dimension för språkinlärning och ändrar sättet folk sammankopplas och tränar på språk."
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "Lägg till en anpassad beskrivning och namn för varje språk du talar!\n\nBerätta vilka språk du kan och hur bra du talar dem.>",
-          "tutorial_blocks_0_title": "Utforska profiler och uttryck dig"
+          "text": "Lägg till en anpassad beskrivning och namn för varje språk du talar!\n\nBerätta vilka språk du kan och hur bra du talar dem.",
+          "title": "Utforska profiler och uttryck dig"
         },
         {
-          "tutorial_blocks_1_text": "Välj ett språk. \n\nHitta personer i närheten som också talar det språket.>",
-          "tutorial_blocks_1_title": "Hitta partners för språkinlärning i närheten - när som helst, var som helst"
+          "text": "Välj ett språk. \n\nHitta personer i närheten som också talar det språket.",
+          "title": "Hitta partners för språkinlärning i närheten - när som helst, var som helst"
         },
         {
-          "tutorial_blocks_2_text": "Skicka meddelanden andra i närområden som talar språket. Skicka bilder, ljudmeddelanfen och platsdata (koordinater). Ordna på ett snabbt och smidigt sätt träffar och få vänner för livet.",
-          "tutorial_blocks_2_title": "Chatta och träffas!"
+          "text": "Skicka meddelanden andra i närområden som talar språket. Skicka bilder, ljudmeddelanfen och platsdata (koordinater). Ordna på ett snabbt och smidigt sätt träffar och få vänner för livet.",
+          "title": "Chatta och träffas!"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -397,7 +397,7 @@
           {},
           {},
           {
-            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>"
+            "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com"
           }
         ]
       },
@@ -539,7 +539,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -601,7 +601,7 @@
           "title": "7. Skriv ut och dela ut flyers"
         },
         {
-          "text": "Sist men inte minst, träffa folk med Amikumu och dela med dig av dina berättelser! Vi älskar att dela våra berättelser om framgångsrika träffar med vår community. Mejla oss din berättelse och bilder till `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nTillslut, jättetack i förskott för vilken hjälp som helst du kan ge. Om du har några idéer eller förslag, känn dig fri att kontakta oss `info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "Sist men inte minst, träffa folk med Amikumu och dela med dig av dina berättelser! Vi älskar att dela våra berättelser om framgångsrika träffar med vår community. Mejla oss din berättelse och bilder till `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nTillslut, jättetack i förskott för vilken hjälp som helst du kan ge. Om du har några idéer eller förslag, känn dig fri att kontakta oss `info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. Arrangera träffar!"
         }
       ]

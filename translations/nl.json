@@ -139,7 +139,7 @@
               "title": "Wat betekent Amikumu?"
             },
             {
-              "text": "We zijn blij met je feedback, dus meld je aan voor `onze mailinglijst <http://eepurl.com/c4qiRD>`_, of volg ons op `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ en `VK <https://vk.com/amikumu>`_ om geïnformeerd te blijven.\n\nVoor meer vragen, contacteer ons op `info@amikumu.com <mailto:info@amikumu.com>`_>",
+              "text": "We zijn blij met je feedback, dus meld je aan voor `onze mailinglijst <http://eepurl.com/c4qiRD>`_, of volg ons op `Facebook <https://www.facebook.com/amikumuapp/>`_, `Twitter <https://twitter.com/Amikumu>`_ en `VK <https://vk.com/amikumu>`_ om geïnformeerd te blijven.\n\nVoor meer vragen, contacteer ons op `info@amikumu.com <mailto:info@amikumu.com>`_",
               "title": "Hoe kan ik helpen?"
             }
           ],
@@ -202,38 +202,38 @@
       "sponsors": "Sponsors",
       "testimonials": [
         {
-          "testimonials_block_0_add_name": "Benny Lewis, Fluent in 3 Months",
-          "testimonials_block_0_add_sortcontent": "Ik weet nooit in welke stad ik later wakker word, en toch wil ik al mijn talen oefenen. Met deze app kan ik met één druk op de knop elke gewenste taal oefenen!"
+          "name": "Benny Lewis, Fluent in 3 Months",
+          "quote": "Ik weet nooit in welke stad ik later wakker word, en toch wil ik al mijn talen oefenen. Met deze app kan ik met één druk op de knop elke gewenste taal oefenen!"
         },
         {
-          "testimonials_block_1_add_name": "Judith Meyer, oprichter van Polyglot Gathering",
-          "testimonials_block_1_add_sortcontent": "Ik geloof dat Amikumu een ongelooflijk nuttige app is voor de taalleergemeenschap!"
+          "name": "Judith Meyer, oprichter van Polyglot Gathering",
+          "quote": "Ik geloof dat Amikumu een ongelooflijk nuttige app is voor de taalleergemeenschap!"
         },
         {
-          "testimonials_block_2_add_name": "Professor Ghil'ad Zuckermann, D.Phil.",
-          "testimonials_block_2_add_sortcontent": "De app kan de communicatie verbeteren tussen sprekers van bedreigde talen en tussen revivalisten van slapende schoonheden zoals Barngarla."
+          "name": "Professor Ghil'ad Zuckermann, D.Phil.",
+          "quote": "De app kan de communicatie verbeteren tussen sprekers van bedreigde talen en tussen revivalisten van slapende schoonheden zoals Barngarla."
         },
         {
-          "testimonials_block_3_add_name": "Langfest Innovation Award 2017 (Montreal)",
-          "testimonials_block_3_add_sortcontent": "We zijn geïnspireerd door Amikumu en hun ambitie om ons te verenigen door de talen die we spreken – of trachten te spreken!"
+          "name": "Langfest Innovation Award 2017 (Montreal)",
+          "quote": "We zijn geïnspireerd door Amikumu en hun ambitie om ons te verenigen door de talen die we spreken – of trachten te spreken!"
         },
         {
-          "testimonials_block_4_add_name": "Welshe overheid: app van de week",
-          "testimonials_block_4_add_sortcontent": "Amikumu voegt een geheel nieuwe dimensie toe aan het leren van talen en verandert de manier waarop mensen met elkaar verbinden en talen oefenen."
+          "name": "Welshe overheid: app van de week",
+          "quote": "Amikumu voegt een geheel nieuwe dimensie toe aan het leren van talen en verandert de manier waarop mensen met elkaar verbinden en talen oefenen."
         }
       ],
       "tutorial": [
         {
-          "tutorial_blocks_0_text": "Voeg een biografie en naam toe voor elke taal die je spreekt!\n\nGeef aan welke talen je kan en hoe goed je ze spreekt.>",
-          "tutorial_blocks_0_title": "Verken profielen en druk jezelf uit"
+          "text": "Voeg een biografie en naam toe voor elke taal die je spreekt!\n\nGeef aan welke talen je kan en hoe goed je ze spreekt.",
+          "title": "Verken profielen en druk jezelf uit"
         },
         {
-          "tutorial_blocks_1_text": "Kies een taal.\n\nVind mensen in de buurt die ook die taal spreken.>",
-          "tutorial_blocks_1_title": "Vind altijd en overal taalleerpartners in de buurt"
+          "text": "Kies een taal.\n\nVind mensen in de buurt die ook die taal spreken.",
+          "title": "Vind altijd en overal taalleerpartners in de buurt"
         },
         {
-          "tutorial_blocks_2_text": "Stuur een bericht naar anderen in de buurt die je taal spreken.\n\nStuur afbeeldingen, spraakberichten en kaartcoördinaten.\n\nOrganiseer snel ontmoeten en maak vrienden voor het leven.>",
-          "tutorial_blocks_2_title": "Chat en ontmoet!"
+          "text": "Stuur een bericht naar anderen in de buurt die je taal spreken.\n\nStuur afbeeldingen, spraakberichten en kaartcoördinaten.\n\nOrganiseer snel ontmoeten en maak vrienden voor het leven.",
+          "title": "Chat en ontmoet!"
         }
       ]
     },
@@ -323,7 +323,7 @@
           "title": "ייִדיש (Yiddish)"
         },
         {
-          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)>",
+          "text": "2017-01-24: `Amikumu: Hang Out With Friends <http://culturetree.co.uk/amikumu-hang-friends/>`_ (YorubaMums Blog)",
           "title": "èdè Yorùbá (Yoruba)"
         }
       ]
@@ -557,7 +557,7 @@
           "title": "15. Indemnification"
         },
         {
-          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com>",
+          "text": "**For any questions or notice, please contact us at:**\n\nAmikumu Pty Ltd (ABN 90 618 666 916)\nUnit 4, 635 – 637 Princes Highway\nRockdale NSW 2216\nEmail: info@amikumu.com",
           "list": "#. **Amendments:** Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.\n \t#. **Governing Law and Jurisdiction:** This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.\n \t#. **Severability:** If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.\n \t#. **Disputes:** You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.\n \t#. **Entire Agreement and Understanding:** In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.\n \t#. **Termination:** The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.",
           "title": "16. General"
         }
@@ -619,7 +619,7 @@
           "title": "7. Print en deel onze flyers uit"
         },
         {
-          "text": "En ontmoet tot slot mensen met Amikumu en deel je verhalen! We delen graag verhalen van succesvolle bijeenkomsten met onze gemeenschap. Stuur ons je verhalen en foto's via e-mail naar `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nTot slot bij voorbaat dank voor alle manieren waar je helpt.\n\nAls je ideeën of suggesties hebt neem dan gerust contact op met ons via `info@amikumu.com <mailto:info@amikumu.com>`_.>",
+          "text": "En ontmoet tot slot mensen met Amikumu en deel je verhalen! We delen graag verhalen van succesvolle bijeenkomsten met onze gemeenschap. Stuur ons je verhalen en foto's via e-mail naar `info@amikumu.com. <mailto:info@amikumu.com>`_\n\nTot slot bij voorbaat dank voor alle manieren waar je helpt.\n\nAls je ideeën of suggesties hebt neem dan gerust contact op met ons via `info@amikumu.com <mailto:info@amikumu.com>`_.",
           "title": "8. Organiseer ontmoetingen!"
         }
       ]

@@ -1,3 +1,6 @@
+/* @override 
+	http://127.0.0.1:8000/assets/css/theme.css */
+
 git rm --cached
 /* @override 
 	http://127.0.0.1:8000/assets/css/theme.css */
@@ -259,11 +262,7 @@ div#content.container {
 a.nav-link {
 	color: #3294f3 !important;
 }
-div#carouselApp {
-	clear: both;
-	margin-left: 300px;
-	margin-right: 300px;
-}
+
 
 div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
 {
@@ -324,9 +323,10 @@ article.post-homepage.storypage div.homepage-title p:first-of-type,
 article.post-homepage.storypage section h2 {
 	color: #fff;
 	text-align: center;
-	text-shadow: 0 0 10px rgb(0 0 0 / 40%);
+	text-shadow: 0 0 10px rgb(0 0 0 / 50%);
 	line-height: 1.4em;
-	font-weight: 700;
+	font-weight: 500;
+	padding-top: 50px;
 }
 
 article.post-homepage.storypage p.play-store-buttons {
@@ -639,10 +639,7 @@ color: #174580;
 text-align: left;
 margin-left: 0px;
 }
-.swiper-container {
-    height:100%;
-	width: 908px;
-}
+
 
 .swiper-slide {
     text-align: center;
@@ -660,6 +657,12 @@ margin-left: 0px;
     height: 400px;
     width: 208px;
     background-size:100%
+}
+	.swiper-container {
+    height:100%;
+	max-width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 @media only screen and (max-width: 979px) {
@@ -681,6 +684,7 @@ margin-left: 0px;
         height: 232px;
         width:120px
     }
+
 }
 
 .screen .smallscreen {
@@ -946,10 +950,13 @@ max-width: 400px;
 }
 
 .swiper-slide .text p {
-    margin-bottom:10px
+    margin-bottom:10px;
+	margin-right:50px;
 }
 
 .tutorial .blue-bar, .swiper-slide .title {
     width: 100%;
     height:160px
 }
+
+

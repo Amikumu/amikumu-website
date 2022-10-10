@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "Bắt đầu viết bài ở đây.",
     "old posts, page %d": "các bài viết trước đây, trang %d",
     "page %d": "trang %d",
-    "updated": "Đã được cập nhật",
+    "updated": "Đã được cập nhật"
 }

@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "ここに記事を記述してください。",
     "old posts, page %d": "過去の記事 %dページ目",
     "page %d": "ページ%d",
-    "updated": "更新日時",
+    "updated": "更新日時"
 }

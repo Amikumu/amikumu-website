@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "תכתוב את הפוסט שלך פה.",
     "old posts, page %d": "פוסטים קודמים, דף %d",
     "page %d": "עמוד %d",
-    "updated": "",
+    "updated": ""
 }

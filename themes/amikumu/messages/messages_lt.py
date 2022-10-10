@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "Čia rašykite įrašo tekstą.",
     "old posts, page %d": "seni įrašai, %d puslapis",
     "page %d": "%d puslapis",
-    "updated": "",
+    "updated": ""
 }

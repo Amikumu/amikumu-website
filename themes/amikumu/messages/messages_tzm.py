@@ -45,5 +45,5 @@ MESSAGES = {
     "Write your post here.": "",
     "old posts, page %d": "",
     "page %d": "",
-    "updated": "",
+    "updated": ""
 }

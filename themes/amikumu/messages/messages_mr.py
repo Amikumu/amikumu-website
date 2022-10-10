@@ -42,5 +42,5 @@ MESSAGES =  {
     "Write your post here.": "आपले पोस्ट येथे लिहा.",
     "old posts, page %d": "जुने पोस्ट, पृष्ठ %d",
     "page %d": "पृष्ठ %d",
-    "updated": "अद्यतनित",
+    "updated": "अद्यतनित"
 }

@@ -29,7 +29,7 @@ languages.each do |language|
     template.gsub!(/\#{language-file}/, "#{languagefile}")
     template.gsub!(/\#{language-ex}/, "#{languageex}")
     File.open(filename, "w") { |f| f.write "#{template}" }
-    #puts language
+    puts language
   #puts template
  # translationinput = File.read("translations/#{language}.json")
  # # puts translationinput

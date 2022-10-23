@@ -21,6 +21,7 @@
 
 	.. raw:: html
 	
+		<section="tutorial"
 		<div class="blue-bar"></div>
 			<div id="carouselApp" class="carousel carousel-dark slide swiper-container " data-bs-ride="carousel" data-bs-touch="true">
 		  <div class="carousel-indicators">
@@ -100,6 +101,60 @@
 		  <span class="carousel-control-next-icon" aria-hidden="true"></span>
 		</button>
 		</div>
-		
-		
-	
+		</section>
+		<section="quotes">
+            <div class="testimonials">
+                <div class="container">
+                    <div class="testi_slider">
+                        <div class="testi_slide">
+                            <div class="quote_sign quote_start"></div>
+                            <p>
+                                I never know which city I’m going to wake up in next, and yet I want to practice all my languages. With this app, I can practice any language I want at the push of a button!
+                                <br/>
+                                <span>Benny Lewis, Fluent in 3 Months</span>
+                            </p>
+                            <div class="quote_sign quote_end"></div>
+                        </div>
+                        <div class="testi_slide">
+                            <div class="quote_sign quote_start"></div>
+                            <p>
+                                I believe that Amikumu is an incredibly useful app for the language learning community!
+                                <br/>
+                                <span>Judith Meyer, Polyglot Gathering Founder</span>
+                            </p>
+                            <div class="quote_sign quote_end"></div>
+                        </div>
+                        <div class="testi_slide">
+                            <div class="quote_sign quote_start"></div>
+                            <p>
+                                The app can enhance communication among speakers of endangered languages and revivalists of dreaming sleeping beauties such as Barngarla.
+                                <br/>
+                                <span>Professor Ghil'ad Zuckermann, D.Phil.</span>
+                            </p>
+                            <div class="quote_sign quote_end"></div>
+                        </div>
+                        <div class="testi_slide">
+                            <div class="quote_sign quote_start"></div>
+                            <p>
+                                We are inspired by Amikumu and their ambition to unite us through the languages we speak – or aspire to speak!
+                                <br/>
+                                <span>Langfest Innovation Award 2017 (Montreal)</span>
+                            </p>
+                            <div class="quote_sign quote_end"></div>
+                        </div>
+                        <div class="testi_slide">
+                            <div class="quote_sign quote_start"></div>
+                            <p>
+                            Amikumu adds a whole new dimension to language learning and is changing the way people connect and practice languages.
+                                <br/>
+                                <span>Welsh Government App of the Week</span>
+                            </p>
+                            <div class="quote_sign quote_end"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="clear"></div>
+        </section>		
+
+

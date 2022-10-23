@@ -793,7 +793,8 @@ REDIRECTIONS = []
 # in a `nikola deploy` command as you like.
 # DEPLOY_COMMANDS = {
 #     'default': [
-#         "rsync -rav --delete --delete-after output/ joe@my.site:/srv/www/site",
+##         "rsync -rav --delete --delete-after output/ joe@my.site:/srv/www/site",
+#    "./pages.rb",
 #     ]
 # }
 

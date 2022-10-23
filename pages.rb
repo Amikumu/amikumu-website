@@ -1,6 +1,6 @@
 #!/usr/bin/ruby
 
-require "json"
+#require "json"
 timezone="Europe/Amsterdam"
 languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka", "nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs", "avk", "lfn", "nds"]
 #languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka","nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs","nds"]

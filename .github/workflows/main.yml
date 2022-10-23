@@ -7,7 +7,8 @@ jobs:
     steps:
     - name: Check out
       uses: actions/checkout@v2
-    - run: ruby pages.rb
+	- name: Run ruby scripts
+      run: ruby pages.rb
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v4
       with:

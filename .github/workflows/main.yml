@@ -7,6 +7,8 @@ jobs:
     steps:
     - name: Check out
       uses: actions/checkout@v2
+	- run: gem install json
+    - run: ruby split-translations.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v4

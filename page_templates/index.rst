@@ -101,58 +101,97 @@
 		  <span class="carousel-control-next-icon" aria-hidden="true"></span>
 		</button>
 		</div></section>
-		<section>
-			<section="quotes">
-	            <div id="testimonials" class="carousel slide carousel-fade testimonials" data-bs-ride="carousel">
+			<section id="quotes">
+	            <div id="testimonials" class="carousel slide carousel-fade testimonials" data-bs-ride="carousel" data-bs-interval="2000">
 	                <div class="container">
 	                    <div class="carousel-inner">
-	                        <div class="carousel-item active" data-bs-interval="2000">
-	                            <div class="quote_sign quote_start"></div>
-	                            <p>
-	                                I never know which city I’m going to wake up in next, and yet I want to practice all my languages. With this app, I can practice any language I want at the push of a button!
-	                                <br/>
-	                                <span>Benny Lewis, Fluent in 3 Months</span>
-	                            </p>
-	                            <div class="quote_sign quote_end"></div>
+	                        <div class="carousel-item quote_item active">
+                            <div class="quote_text">
+							
+	
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.0.quote.rst
+	
+	.. raw:: html  
+	
+										</div>
+		                                <div class="quote_name">
+									
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.0.name.rst
+	
+	.. raw:: html  
+	
+								</div>
 	                        </div>
-	                        <div class="carousel-item" data-bs-interval="2000">
-	                            <div class="quote_sign quote_start"></div>
-	                            <p>
-	                                I believe that Amikumu is an incredibly useful app for the language learning community!
-	                                <br/>
-	                                <span>Judith Meyer, Polyglot Gathering Founder</span>
-	                            </p>
-	                            <div class="quote_sign quote_end"></div>
+	                        <div class="carousel-item quote_item">
+                            <div class="quote_text">
+							
+	
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.1.quote.rst
+	
+	.. raw:: html  
+	
+										</div>
+		                                <div class="quote_name">
+									
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.1.name.rst
+	
+	.. raw:: html  
+	
+								</div>
 	                        </div>
-	                        <div class="carousel-item" data-bs-interval="2000">
-	                            <div class="quote_sign quote_start"></div>
-	                            <p>
-	                                The app can enhance communication among speakers of endangered languages and revivalists of dreaming sleeping beauties such as Barngarla.
-	                                <br/>
-	                                <span>Professor Ghil'ad Zuckermann, D.Phil.</span>
-	                            </p>
-	                            <div class="quote_sign quote_end"></div>
+	                        <div class="carousel-item quote_item">
+                            <div class="quote_text">
+							
+	
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.2.quote.rst
+	
+	.. raw:: html  
+	
+										</div>
+		                                <div class="quote_name">
+									
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.2.name.rst
+	
+	.. raw:: html  
+	
+								</div>
 	                        </div>
-	                        <div class="carousel-item" data-bs-interval="2000">
-	                            <div class="quote_sign quote_start"></div>
-	                            <p>
-	                                We are inspired by Amikumu and their ambition to unite us through the languages we speak – or aspire to speak!
-	                                <br/>
-	                                <span>Langfest Innovation Award 2017 (Montreal)</span>
-	                            </p>
-	                            <div class="quote_sign quote_end"></div>
+	                        <div class="carousel-item quote_item">
+                            <div class="quote_text">
+							
+	
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.3.quote.rst
+	
+	.. raw:: html  
+	
+										</div>
+		                                <div class="quote_name">
+									
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.3.name.rst
+	
+	.. raw:: html  
+	
+								</div>
 	                        </div>
-	                        <div class="carousel-item" data-bs-interval="2000">
-	                            <div class="quote_sign quote_start"></div>
-	                            <p>
-	                            Amikumu adds a whole new dimension to language learning and is changing the way people connect and practice languages.
-	                                <br/>
-	                                <span>Welsh Government App of the Week</span>
-	                            </p>
-	                            <div class="quote_sign quote_end"></div>
+	                        <div class="carousel-item quote_item">
+                            <div class="quote_text">
+							
+	
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.4.quote.rst
+	
+	.. raw:: html  
+	
+										</div>
+		                                <div class="quote_name">
+									
+	.. include:: translations_parts/#{language-file}page_home-page.page_meta.testimonials.4.name.rst
+	
+	.. raw:: html  
+	
+								</div>
 	                        </div>
-	                    </div>
 	                </div>
 	            </div>
 	            <div class="clear"></div>
 		</section>
+		

@@ -7,6 +7,8 @@ jobs:
     steps:
     - name: Check out
       uses: actions/checkout@v2
+	- run: git config user.name "Amikumu"
+	- run: git config user.email "help@amikumu.com"
     - run: ruby split-translations.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola

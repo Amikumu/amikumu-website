@@ -152,6 +152,8 @@ article.post-micro {
 	color: #777;
 	border-top: 1px solid #e5e5e5;
 	clear: both;
+	align-content: center;
+	text-align: center;
 }
 
 /* hat tip bootstrap/html5 boilerplate */

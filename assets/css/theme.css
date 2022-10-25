@@ -139,12 +139,19 @@ article.post-micro {
 	margin-top: 1em;
 }
 
+#quotes {
+	align-content: center;
+	width: 100%;
+	    background-color: #d6e9fc;
+}
+
 /* Custom page footer */
 
 #footer {
 	padding-top: 19px;
 	color: #777;
 	border-top: 1px solid #e5e5e5;
+	clear: both;
 }
 
 /* hat tip bootstrap/html5 boilerplate */
@@ -954,6 +961,40 @@ text-align: left;
 max-width: 400px;
 }
 
+.quote_item {
+	float: left;
+}
+
+.quote_name p::before {
+	content: " — ";
+}
+
+.quote_name {
+	color: #174580;
+font-weight: 600;
+}
+
+.quote_text::before {
+background: url(/images/quote_left.png) no-repeat;
+content: " ";
+float: left;
+width: 75px;
+height: 150px;
+
+}
+
+.quote_text::after {
+background: url(/images/quote_right.png) no-repeat;
+content: " ";
+float: right;
+align-content: top;
+vertical-align: top;
+width: 75px;
+height: 150px;
+
+}
+
+
 @media only screen and (max-width: 979px) {
     .swiper-slide .text {
         max-width: 320px;
@@ -1051,8 +1092,8 @@ max-width: 400px;
     width: 100%;
     height: auto;
     background-color: #d6e9fc;
-    float: left;
-    padding:20px 0
+    padding: 20px 20px 0;
+	margin-top: 25px;
 }
 
 .testimonials p {
@@ -1120,15 +1161,12 @@ max-width: 400px;
     }
 }
 
-.testi_slider {
+.carousel-inner {
     color: #174580;
     height: 100%;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
     align-items: center;
-    -ms-flex-pack: center;
-    justify-content:center
+    justify-content:center;
+	padding: 20px 20px 0;
 }
 
 

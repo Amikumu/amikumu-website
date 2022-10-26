@@ -199,7 +199,7 @@ lang="${lang}">
                 <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
                 %else:
                 <%
-                newurl = "/"+lang+"/"+url
+                newurl = "/"+lang+url
                 %>
                 <div class="nav-item"><a href="${newurl}" class="nav-link">${messages (text, lang)}</a></div>
                             %endif

@@ -131,6 +131,7 @@ article.post-micro {
 
 .entry-content {
 	margin-top: 1em;
+	padding-bottom: 20px;
 }
 
 /* for alignment with Bootstrap's .entry-content styling */
@@ -139,12 +140,22 @@ article.post-micro {
 	margin-top: 1em;
 }
 
+#quotes {
+	align-content: center;
+	width: 100%;
+	    background-color: #d6e9fc;
+		margin-bottom: 20px;
+}
+
 /* Custom page footer */
 
 #footer {
 	padding-top: 19px;
 	color: #777;
 	border-top: 1px solid #e5e5e5;
+	clear: both;
+	align-content: center;
+	text-align: center;
 }
 
 /* hat tip bootstrap/html5 boilerplate */
@@ -327,6 +338,21 @@ article.post-homepage.storypage section h2 {
 	line-height: 1.4em;
 	font-weight: 500;
 	padding-top: 50px;
+	font-size: 30px;
+	clear: both;
+}
+.header-h2 {
+		color: #3292f1 !important;
+	text-align: center;
+	font-weight: 500;
+	padding-top: 50px;
+	font-size: 30px;
+	clear: both;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+line-height: 1.2em;
+display: block;
 }
 
 article.post-homepage.storypage p.play-store-buttons {
@@ -642,7 +668,7 @@ div#carouselApp.carousel.carousel-dark.slide button.carousel-control-next {
 
 .swiper-slide .text p {
     margin-bottom:10px;
-	margin-right:50px;
+	margin-right:70px;
 }
 
 .swiper-slide {
@@ -951,12 +977,46 @@ font-weight: 700;
 font-size: 16px;
 color: #174580;
 text-align: left;
-max-width: 400px;
+max-width: 95%;
 }
+
+.quote_item {
+	float: left;
+}
+
+.quote_name p::before {
+	content: " — ";
+}
+
+.quote_name {
+	color: #174580;
+font-weight: 600;
+}
+
+.quote_text::before {
+background: url(/images/quote_left.png) no-repeat;
+content: " ";
+float: left;
+width: 75px;
+height: 150px;
+
+}
+
+.quote_text::after {
+background: url(/images/quote_right.png) no-repeat;
+content: " ";
+float: right;
+align-content: top;
+vertical-align: top;
+width: 75px;
+height: 150px;
+
+}
+
 
 @media only screen and (max-width: 979px) {
     .swiper-slide .text {
-        max-width: 320px;
+        max-width: 90%;
         font-size: 14px;
         left:380px
     }
@@ -1041,4 +1101,95 @@ max-width: 400px;
     height:160px
 }
 
+#testimonials {
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+}
 
+.testimonials {
+    width: 100%;
+    height: auto;
+    background-color: #d6e9fc;
+    padding: 20px 20px 0;
+	margin-top: 25px;
+}
+
+.testimonials p {
+    float: left;
+    font-size: 18px;
+    line-height: 24px;
+    padding: 0 25px
+}
+
+@media only screen and (min-width: 767px) {
+    .testimonials p {
+        width:800px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .testimonials p {
+        font-size: 14px;
+        line-height:20px
+    }
+}
+
+.testimonials p span {
+    font-weight: 700;
+    margin-top: 15px;
+    margin-top: 8px;
+    display:inline-block
+}
+
+.testimonials p img {
+    margin:10px
+}
+
+.testi_slide {
+    max-width:980px !important
+}
+
+.quote_sign {
+    width: 75px;
+    height: 50px;
+    background-size:100%
+}
+
+.quote_start {
+    background-image: url(/images/quote_left.png);
+    float:left;
+	padding-right: 25px;
+}
+
+@media only screen and (max-width: 768px) {
+    .quote_start {
+        position:absolute
+    }
+}
+
+.quote_end {
+    background-image: url(/images/quote_right.png);
+    float:right
+}
+
+@media only screen and (max-width: 768px) {
+    .quote_end {
+        position: absolute;
+        right: 0;
+        bottom:0
+    }
+}
+
+.carousel-inner {
+    color: #174580;
+    height: 100%;
+    align-items: center;
+    justify-content:center;
+	padding: 20px 20px 0;
+}
+
+
+_:-ms-fullscreen, :root .testi_slider {
+    display:block
+}

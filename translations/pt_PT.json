@@ -1,0 +1,464 @@
+{
+    "page_about-us": {
+        "city": "",
+        "description": "",
+        "languages": "",
+        "members": [
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            },
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            },
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            },
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            },
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            },
+            {
+                "city": "",
+                "description": "",
+                "job_title": "",
+                "languages": "",
+                "name": "",
+                "quote": ""
+            }
+        ],
+        "metadata_desc": "",
+        "metadata_title": "",
+        "our_team": "",
+        "page_title": "",
+        "title": ""
+    },
+    "page_ambassador": {
+        "page_content": {
+            "section": [
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                }
+            ],
+            "text": ""
+        },
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_faq": {
+        "page_content": {
+            "section": [
+                {
+                    "subsection": {
+                        "text": "",
+                        "title": ""
+                    },
+                    "title": ""
+                },
+                {
+                    "subsection": [
+                        {
+                            "list": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        }
+                    ],
+                    "title": ""
+                },
+                {
+                    "subsection": [
+                        {
+                            "text": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        }
+                    ],
+                    "title": ""
+                },
+                {
+                    "subsection": [
+                        {
+                            "text": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        },
+                        {
+                            "text": "",
+                            "title": ""
+                        }
+                    ],
+                    "title": ""
+                }
+            ]
+        },
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_for-organizations": {
+        "page_content": {
+            "list": ""
+        },
+        "page_meta": {
+            "additional_month": "",
+            "advertise_teaser": "",
+            "advertise_text": "",
+            "advertise_with_us": "",
+            "advertisement": "",
+            "average_number_of_languages_spoken": "",
+            "badge_contact_us_part1": "",
+            "badge_contact_us_part2": "",
+            "commercial": "",
+            "complete_analysis_part1": "",
+            "complete_analysis_part2": "",
+            "cost": "",
+            "dau_daily_active_users": "",
+            "how_to_purchase": "",
+            "in_app_collectible_badges": "",
+            "in_app_collectible_badges_text": "",
+            "mau_montly_active_users": "",
+            "metadata_desc": "",
+            "metadata_title": "",
+            "non_profit": "",
+            "number_of_countries_represented": "",
+            "number_of_languages_spoken": "",
+            "prices_assume": "",
+            "purchase_email_text_part1": "",
+            "purchase_email_text_part2": "",
+            "purchase_info": "",
+            "setup_fee": "",
+            "total_users": "",
+            "your_badge": ""
+        },
+        "page_title": ""
+    },
+    "page_home-page": {
+        "page_meta": {
+            "claim": "",
+            "language_name_in_own_script": "",
+            "massive_thanks": "A massive thanks to all our 429 backers on Kickstarter who smashed our funding goals and made Amikumu a reality",
+            "metadata_desc": "",
+            "metadata_title": "",
+            "official_sponsor": "",
+            "sponsors": "",
+            "testimonials": [
+                {
+                    "name": "",
+                    "quote": ""
+                },
+                {
+                    "name": "",
+                    "quote": ""
+                },
+                {
+                    "name": "",
+                    "quote": ""
+                },
+                {
+                    "name": "",
+                    "quote": ""
+                },
+                {
+                    "name": "",
+                    "quote": ""
+                }
+            ],
+            "title": "",
+            "tutorial": [
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                }
+            ]
+        },
+        "page_title": ""
+    },
+    "page_press": {
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_privacy-terms": {
+        "page_content": {
+            "h1": "",
+            "section": [
+                {
+                    "list": "",
+                    "text": [
+                        "",
+                        ""
+                    ],
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "h1": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": {
+                        "li": {
+                            "list": "",
+                            "text": ""
+                        },
+                        "text": ""
+                    },
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": {
+                        "li": {
+                            "list": "",
+                            "text": ""
+                        },
+                        "text": ""
+                    },
+                    "title": ""
+                },
+                {
+                    "list": {
+                        "li": [
+                            {
+                                "text": ""
+                            },
+                            {
+                                "list": "",
+                                "text": ""
+                            }
+                        ],
+                        "text": ""
+                    },
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": {
+                        "li": {
+                            "list": "",
+                            "text": ""
+                        },
+                        "text": ""
+                    },
+                    "title": ""
+                },
+                {
+                    "list": {
+                        "li": {
+                            "list": "",
+                            "text": ""
+                        },
+                        "text": ""
+                    },
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                }
+            ],
+            "text": ""
+        },
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_shop": {
+        "page_content": "",
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_statistics": {
+        "page_content": "",
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    },
+    "page_support-us": {
+        "page_content": {
+            "subsection": [
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "list": "",
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                },
+                {
+                    "text": "",
+                    "title": ""
+                }
+            ],
+            "text": ""
+        },
+        "page_meta": {
+            "metadata_desc": "",
+            "metadata_title": ""
+        },
+        "page_title": ""
+    }
+}

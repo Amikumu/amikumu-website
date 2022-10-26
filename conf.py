@@ -162,7 +162,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-    ("/download/", "Download"),
+        ("/download/", "Download"),
         ("/for-organizations/", "For Organizations"),
         ("https://amikumu.redbubble.com/", "Shop"),
         ("/posts/", "Blog"),
@@ -207,10 +207,10 @@ NAVIGATION_LINKS = {
         ("/fr/rss.xml", "Flux RSS"),
     ),
 
-    "zh_tw": (
-        ("/zh_tw/archive.html", "彙整"),
-        ("/zh_tw/categories/", "標籤"),
-        ("/zh_tw/rss.xml", "RSS 訂閱"),
+    "zh_cn": (
+        ("/zh_cn/archive.html", "彙整"),
+        ("/zh_cn/categories/", "標籤"),
+        ("/zh_cn/rss.xml", "RSS 訂閱"),
     ),
 
     "ru": (
@@ -262,6 +262,21 @@ NAVIGATION_LINKS = {
     ),
 
     "cs": (
+        ("/cs/archive.html", "Archiv"),
+        ("/cs/categories/", "Štítky"),
+        ("/cs/rss.xml", "RSS zdroj"),
+    ),
+    "avk": (
+        ("/cs/archive.html", "Archiv"),
+        ("/cs/categories/", "Štítky"),
+        ("/cs/rss.xml", "RSS zdroj"),
+    ),
+    "lfn": (
+        ("/cs/archive.html", "Archiv"),
+        ("/cs/categories/", "Štítky"),
+        ("/cs/rss.xml", "RSS zdroj"),
+    ),
+    "nds": (
         ("/cs/archive.html", "Archiv"),
         ("/cs/categories/", "Štítky"),
         ("/cs/rss.xml", "RSS zdroj"),

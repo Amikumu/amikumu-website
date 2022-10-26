@@ -7,4 +7,3 @@ cache
 output
 *.doit.db
 */.doit.db
-pages/*.rst

@@ -8,7 +8,6 @@ jobs:
     - name: Check out
       uses: actions/checkout@v2
     - run: ruby split-translations.rb
-    - run: ruby messages.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
       uses: getnikola/nikola-action@v4

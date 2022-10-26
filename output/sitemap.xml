@@ -6,16 +6,53 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
+  <loc>https://nova.amikumu.com/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="avk" href="https://nova.amikumu.com/avk/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://nova.amikumu.com/ja/" />
+  <xhtml:link rel="alternate" hreflang="ca" href="https://nova.amikumu.com/ca/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://nova.amikumu.com/tr/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://nova.amikumu.com/lt/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://nova.amikumu.com/lfn/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh_cn/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://nova.amikumu.com/nds/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://nova.amikumu.com/ka/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://nova.amikumu.com/fr/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://nova.amikumu.com/eo/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/" />
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/avk/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/avk/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/avk/leaveme/</loc>
@@ -39,12 +76,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/avk/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/avk/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ca/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ca/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ca/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ca/leaveme/</loc>
@@ -68,16 +129,40 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ca/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ca/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/cs/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/cs/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/cs/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/cs/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/cs/leaveme/</loc>
@@ -101,12 +186,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/cs/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/cs/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/cs/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/de/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/de/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/de/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/de/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/de/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/de/leaveme/</loc>
@@ -130,12 +239,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/de/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/de/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/de/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/eo/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/eo/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/eo/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/eo/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/eo/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/eo/leaveme/</loc>
@@ -159,12 +292,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/eo/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/eo/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/eo/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/es/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/es/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/es/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/es/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/es/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/es/leaveme/</loc>
@@ -188,12 +345,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/es/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/es/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/es/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/fr/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/fr/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/fr/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/fr/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/fr/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/fr/leaveme/</loc>
@@ -217,12 +398,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/fr/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/fr/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/fr/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/id/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/id/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/id/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/id/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/id/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/id/leaveme/</loc>
@@ -246,12 +451,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/id/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/id/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/id/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ja/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ja/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ja/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ja/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ja/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ja/leaveme/</loc>
@@ -275,12 +504,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ja/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ja/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ja/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ka/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ka/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ka/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ka/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ka/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ka/leaveme/</loc>
@@ -304,16 +557,40 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ka/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ka/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ka/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/leaveme/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/lfn/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/lfn/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lfn/leaveme/</loc>
@@ -337,12 +614,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/lfn/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lfn/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lt/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/lt/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/lt/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/lt/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lt/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/lt/leaveme/</loc>
@@ -366,12 +667,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/lt/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lt/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/lt/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/nds/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/nds/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/nds/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nds/leaveme/</loc>
@@ -395,12 +720,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/nds/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nds/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nl/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/nl/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/nl/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/nl/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nl/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/nl/leaveme/</loc>
@@ -424,12 +773,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/nl/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nl/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/nl/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/oc/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/oc/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/oc/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/oc/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/oc/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/oc/leaveme/</loc>
@@ -453,12 +826,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/oc/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/oc/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/oc/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/pl/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/pl/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/pl/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pl/leaveme/</loc>
@@ -482,6 +879,18 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/pl/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pl/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/posts/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
@@ -498,12 +907,49 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="avk" href="https://nova.amikumu.com/avk/privacy/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://nova.amikumu.com/de/privacy/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://nova.amikumu.com/sk/privacy/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://nova.amikumu.com/cs/privacy/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://nova.amikumu.com/ru/privacy/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://nova.amikumu.com/ja/privacy/" />
+  <xhtml:link rel="alternate" hreflang="ca" href="https://nova.amikumu.com/ca/privacy/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://nova.amikumu.com/pl/privacy/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://nova.amikumu.com/es/privacy/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://nova.amikumu.com/tr/privacy/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://nova.amikumu.com/lt/privacy/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://nova.amikumu.com/oc/privacy/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://nova.amikumu.com/nl/privacy/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://nova.amikumu.com/lfn/privacy/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://nova.amikumu.com/zh_cn/privacy/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://nova.amikumu.com/nds/privacy/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://nova.amikumu.com/ka/privacy/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://nova.amikumu.com/pt/privacy/" />
+  <xhtml:link rel="alternate" hreflang="fr" href="https://nova.amikumu.com/fr/privacy/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://nova.amikumu.com/eo/privacy/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://nova.amikumu.com/id/privacy/" />
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pt/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/pt/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/pt/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/pt/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pt/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/pt/leaveme/</loc>
@@ -527,12 +973,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/pt/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pt/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/pt/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ru/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ru/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ru/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/ru/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ru/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/ru/leaveme/</loc>
@@ -556,12 +1026,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/ru/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ru/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/ru/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/sk/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/sk/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/sk/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/sk/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/sk/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/sk/leaveme/</loc>
@@ -585,12 +1079,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/sk/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/sk/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/sk/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/tr/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/tr/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/tr/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/tr/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/tr/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/tr/leaveme/</loc>
@@ -614,12 +1132,36 @@
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/tr/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/tr/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/tr/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/zh_cn/404.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
  </url>
  <url>
+  <loc>https://nova.amikumu.com/zh_cn/ambassador/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://nova.amikumu.com/zh_cn/categories/</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/help-faq/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
  <url>
   <loc>https://nova.amikumu.com/zh_cn/leaveme/</loc>
@@ -641,5 +1183,17 @@
  <url>
   <loc>https://nova.amikumu.com/zh_cn/posts/archive.html</loc>
   <lastmod>2022-10-26T20:44:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/press/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/privacy/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://nova.amikumu.com/zh_cn/support-us/</loc>
+  <lastmod>2022-10-26T20:46:00Z</lastmod>
  </url>
 </urlset>

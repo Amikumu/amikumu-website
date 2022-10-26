@@ -1,5 +1,5 @@
 .. title: translations_parts/#{language-file}page_privacy-terms.page_meta.metadata_title.rst
-.. slug: privace
+.. slug: privacy
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com

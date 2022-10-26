@@ -1,1 +1,1 @@
-Ein T-Shirt ist ein einfaches und doch effektives Mittel, Amikumu Bekanntheit zu verschaffen. Durchstöber unseren  `Onlineshop <https://www.amikumu.com/shop/#!/>`_.
+Ein T-Shirt ist ein einfaches und doch effektives Mittel, Amikumu Bekanntheit zu verschaffen. Durchstöber unseren  `Onlineshop <https://amikumu.redbubble.com/>`_.

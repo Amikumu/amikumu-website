@@ -1,6 +1,6 @@
-.. class:: play-store-buttons                                                                
-	
-	|Google-Link|_ |Apple-Link|_
+.. class:: play-store-buttons  
+   	
+		|Google-Link|_ |Apple-Link|_
 	
 	
 .. |Google-Link| image:: /images/badge_web_generic.png

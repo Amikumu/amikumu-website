@@ -1,4 +1,4 @@
 #. credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;
- 	#. courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
- 	#. third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. We also use third party cloud storage service providers to host our data. This may include parties located, or that store data, outside of Australia including in Germany; and
- 	#. third parties to collect and process data including Google Analytics and other similar businesses. This may include parties that store data outside of Australia.
+#. courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;
+#. third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. We also use third party cloud storage service providers to host our data. This may include parties located, or that store data, outside of Australia including in Germany; and
+#. third parties to collect and process data including Google Analytics and other similar businesses. This may include parties that store data outside of Australia.

@@ -4,8 +4,9 @@
 timezone="Europe/Amsterdam"
 languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka", "nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs", "avk", "lfn", "nds"]
 #languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka","nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs","nds"]
-pages = ["index"]
-
+pages = ["index","press","ambassador","faq","support","privacy"]
+query = ".. description: "
+query2 = ".. title: "
 
 languages.each do |language|
   pages.each do |page|
@@ -28,6 +29,28 @@ languages.each do |language|
     end
     template.gsub!(/\#{language-file}/, "#{languagefile}")
     template.gsub!(/\#{language-ex}/, "#{languageex}")
+    template.each_line do |line|
+        if line =~ /#{query}/
+          file = line
+          file.slice!(query)
+          file.slice!("\n")
+          #puts file
+          description = File.read("#{file}").chomp
+          #puts description
+          template.gsub!(/#{query}#{file}/, "#{query}#{description}")
+          #template.gsub!(/^#{file}/, "")
+        end
+        if line =~ /#{query2}/
+          file = line
+          file.slice!(query2)
+          file.chomp!
+          #puts file
+          description = File.read("#{file}").chomp
+          #puts description
+          template.gsub!(/#{query2}#{file}/, "#{query2}#{description}")
+          #template.gsub!(/^#{file}/, "")
+        end
+      end
     File.open(filename, "w") { |f| f.write "#{template}" }
     puts language
   #puts template

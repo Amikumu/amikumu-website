@@ -162,132 +162,32 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/download/", "Download"),
-        ("/for-organizations/", "For Organizations"),
+        ("#download/", "Download"),
+        ("for-organizations/", "For Organizations"),
         ("https://amikumu.redbubble.com/", "Shop"),
-        ("/posts/", "Blog"),
+        ("posts/", "Blog"),
 #        ("/categories/", "Tags"),
 #        ("/rss.xml", "RSS feed"),
         
     ),
-
-    "id": (
-        ("/id/posts/", "Arsip"),
-        ("/id/categories/", "Tag"),
-        ("/id/rss.xml", "Sindikasi RSS"),
-    ),
-
-    "ca": (
-        ("/ca/archive.html", "Arxiu"),
-        ("/ca/categories/", "Etiquetes"),
-        ("/ca/rss.xml", "Canal RSS"),
-    ),
-
-    "de": (
-        ("/de/archive.html", "Archiv"),
-        ("/de/categories/", "Tags"),
-        ("/de/rss.xml", "RSS-Feed"),
-    ),
-
-    "es": (
-        ("/es/archive.html", "Archivo"),
-        ("/es/categories/", "Etiquetas"),
-        ("/es/rss.xml", "Canal RSS"),
-    ),
-
-    "eo": (
-        ("/eo/archive.html", "Arkivo"),
-        ("/eo/categories/", "Etikedoj"),
-        ("/eo/rss.xml", "RSS fluo"),
-    ),
-
-    "fr": (
-        ("/fr/archive.html", "Archives"),
-        ("/fr/categories/", "Étiquettes"),
-        ("/fr/rss.xml", "Flux RSS"),
-    ),
-
-    "zh_cn": (
-        ("/zh_cn/archive.html", "彙整"),
-        ("/zh_cn/categories/", "標籤"),
-        ("/zh_cn/rss.xml", "RSS 訂閱"),
-    ),
-
-    "ru": (
-        ("/ru/archive.html", "Архив"),
-        ("/ru/categories/", "Тэги"),
-        ("/ru/rss.xml", "RSS лента"),
-    ),
-
-    "ja": (
-        ("/ja/archive.html", "過去記事一覧"),
-        ("/ja/categories/", "タグ"),
-        ("/ja/rss.xml", "RSSフィード"),
-    ),
-
-    "nl": (
-        ("/nl/berichten/", "Archief"),
-        ("/nl/categories/", "Tags"),
-        ("/nl/rss.xml", "RSS-feed"),
-    ),
-
-    "oc": (
-        ("/oc/archive.html", "Archius"),
-        ("/oc/categories/", "Etiquetas"),
-        ("/oc/rss.xml", "Flux RSS"),
-    ),
-
-    "pt": (
-        ("/pt/archive.html", "Arquivo"),
-        ("/pt/categories/", "Etiqueta"),
-        ("/pt/rss.xml", "Feed RSS"),
-    ),
-
-    "sk": (
-        ("/sk/archive.html", "Archív"),
-        ("/sk/categories/", "Štítky"),
-        ("/sk/rss.xml", "RSS kanál"),
-    ),
-
-    "tr": (
-        ("/tr/archive.html", "Arşiv"),
-        ("/tr/categories/", "Etiketler"),
-        ("/tr/rss.xml", "RSS kaynağı"),
-    ),
-
-    "lt": (
-        ("/lt/archive.html", "Archyvas"),
-        ("/lt/categories/", "Žymės"),
-        ("/lt/rss.xml", "RSS srautas"),
-    ),
-
-    "cs": (
-        ("/cs/archive.html", "Archiv"),
-        ("/cs/categories/", "Štítky"),
-        ("/cs/rss.xml", "RSS zdroj"),
-    ),
-    "avk": (
-        ("/cs/archive.html", "Archiv"),
-        ("/cs/categories/", "Štítky"),
-        ("/cs/rss.xml", "RSS zdroj"),
-    ),
-    "lfn": (
-        ("/cs/archive.html", "Archiv"),
-        ("/cs/categories/", "Štítky"),
-        ("/cs/rss.xml", "RSS zdroj"),
-    ),
-    "nds": (
-        ("/cs/archive.html", "Archiv"),
-        ("/cs/categories/", "Štítky"),
-        ("/cs/rss.xml", "RSS zdroj"),
-    ),
 }
+
+
+CREATE_HTTP_ERROR_PAGES = [404]
 
 # Alternative navigation links. Works the same way NAVIGATION_LINKS does,
 # although themes may not always support them. (translatable)
 # (Bootstrap 4: right-side of navbar, Bootblog 4: right side of title)
 NAVIGATION_ALT_LINKS = {
-    DEFAULT_LANG: ()
+    DEFAULT_LANG: (
+    ("/about-us/", "About us"),
+    ("/press/", "Press"),
+    ("/support-us/", "Support us"),
+    ("/ambassador/", "Ambassador"),
+    ("/statistics/", "Statistics"),
+    ("https://amikumu.redbubble.com/", "Shop"),
+    ("/help-faq", "Help / FAQ"),
+    )
 }
 
 # Name of the theme to use.
@@ -372,7 +272,8 @@ THEME_CONFIG = {
 #     )
 
 POSTS = (
-    ("posts/*.rst", { DEFAULT_LANG: "posts", "nl": "berichten"}, "post.tmpl"),
+#    ("posts/*.rst", { DEFAULT_LANG: "posts", "nl": "berichten"}, "post.tmpl"),
+    ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
     ("posts/*.html", "posts", "post.tmpl"),
@@ -716,8 +617,8 @@ HIDDEN_AUTHORS = ['Guest']
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # (translatable)
-INDEX_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
-
+#INDEX_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
+INDEX_PATH = "posts"
 # Optional HTML that displayed on “main” blog index.html files.
 # May be used for a greeting. (translatable)
 FRONT_INDEX_HEADER = {
@@ -741,8 +642,9 @@ FRONT_INDEX_HEADER = {
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / index.html
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / MONTH / DAY / index.html
 # (translatable)
-ARCHIVE_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
+#ARCHIVE_PATH = { DEFAULT_LANG: "posts", "nl": "berichten"}
 # ARCHIVE_FILENAME = "archive.html"
+ARCHIVE_PATH = "posts"
 
 # If ARCHIVES_ARE_INDEXES is set to True, each archive page which contains a list
 # of posts will contain the posts themselves. If set to False, it will be just a
@@ -1122,7 +1024,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = '<div class="float-left copyright"> Contents &copy; <span class="bold trademark">{date} {author}</span> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}</div>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

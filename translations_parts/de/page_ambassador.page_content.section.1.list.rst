@@ -1,5 +1,5 @@
 #. Sie veröffentlichen Blog-Artikel und YouTube-Videos! Schaue dir zum Beispiel `Amikumu The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_  (Moshe Sherizen) und `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) unter anderen an. Wir haben eine ganze Seite den `Pressemitteilungen <http://amikumu.com/press/>`_ gewidmet.
- 	#. Sie posten Links in Facebook-Gruppen und auf ihren Profilen. Selbst das kleinste Zeichen der Unterstützung kann einen weiten Weg hinter sich bringen!
- 	#. Sie händigen unsere Flyer aus und bringen Amikumu bei örtlichen Sprachtreffen zur Sprache. Dies ist auch eine gute Möglichkeit, eine lokale Gemeinschaft zu schaffen.
- 	#. Sie `übersetzen die App <https://traduk.amikumu.com/engage/amikumu/de>`_ und Webseite in ihre eigenen Sprachen. Unser Ziel ist es, die meistübersetzte App der Welt zu werden und benötigen alle mögliche Hilfe, um dies zu erreichen.
- 	#. Sie übernehmen Führung in den Sprachgemeinschaften. Wir verstehen, dass jede Sprache und Kultur verschieden ist. Wir wollen und brauchen deinen Rat, wie man am besten in deiner Gemeinschaft aktiv wird.
+#. Sie posten Links in Facebook-Gruppen und auf ihren Profilen. Selbst das kleinste Zeichen der Unterstützung kann einen weiten Weg hinter sich bringen!
+#. Sie händigen unsere Flyer aus und bringen Amikumu bei örtlichen Sprachtreffen zur Sprache. Dies ist auch eine gute Möglichkeit, eine lokale Gemeinschaft zu schaffen.
+#. Sie `übersetzen die App <https://traduk.amikumu.com/engage/amikumu/de>`_ und Webseite in ihre eigenen Sprachen. Unser Ziel ist es, die meistübersetzte App der Welt zu werden und benötigen alle mögliche Hilfe, um dies zu erreichen.
+#. Sie übernehmen Führung in den Sprachgemeinschaften. Wir verstehen, dass jede Sprache und Kultur verschieden ist. Wir wollen und brauchen deinen Rat, wie man am besten in deiner Gemeinschaft aktiv wird.

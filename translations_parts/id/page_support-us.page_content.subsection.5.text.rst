@@ -1,1 +1,1 @@
-T-shirt adalah sarana sederhana namun ampuh untuk meningkatkan kesadaran akan adanya Amikumu. Cek `toko online <https://www.amikumu.com/shop/#!/>`_.
+T-shirt adalah sarana sederhana namun ampuh untuk meningkatkan kesadaran akan adanya Amikumu. Cek `toko online <https://amikumu.redbubble.com/>`_.

@@ -46,11 +46,10 @@ bg-dark
          <div id="bs-navbar">
 
         <nav id="menu">
-            <div >
+            <div>
                 ${base.html_navigation_links_entries(navigation_links)}
+                
                 ${template_hooks['menu']()}
-
-                ${base.html_navigation_links_entries(navigation_alt_links)}
                
                 % if show_sourcelink:
                     <%block name="sourcelink"></%block>
@@ -84,7 +83,32 @@ bg-dark
 	            <div class="clear"></div>
 
         <footer id="footer">
+        <div class="footer-submenu">
+    ${html_navigation_links_footer(navigation_alt_links)}
+
+</div>
+<div class="clear"></div>
+
+<div class="footer-socialmedia">
+<div class="container">
             ${content_footer}
+            
+<div class="float-left"><a class="footer-privacy" href="https://amikumu.com/nl/privacy-terms/">${messages ("Privacy & Terms", lang)}</a></div>
+<div class="socialmedia">
+<ul>
+<li><a target="_blank" href="mailto:help@amikumu.com"><i class="fa-solid fa-envelope"></i></a></li>
+<li><a target="_blank" href="https://www.reddit.com/r/Amikumu/"><i class="fa-brands fa-reddit"></i></a></li>
+<li><a target="_blank" href="https://vk.com/Amikumu"><i class="fa-brands fa-vk"></i></a></li>
+<li><a target="_blank" href="https://www.instagram.com/amikumu/"><i class="fa-brands fa-instagram"></i></a></li>
+<li><a target="_blank" href="https://twitter.com/Amikumu"><i class="fa-brands fa-twitter"></i></a></li>
+<li><a target="_blank" href="https://www.facebook.com/amikumuapp/"><i class="fa-brands fa-facebook"></i></a></li>
+</ul>
+</div>
+</div>
+
+</div>
+<div class="clear"></div>
+
             ${template_hooks['page_footer']()}
             <%block name="extra_footer"></%block>
         </footer>

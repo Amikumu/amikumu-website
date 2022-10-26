@@ -1,19 +1,25 @@
-.. title: Home
+.. title: translations_parts/#{language-file}page_home-page.page_meta.title.rst
 .. slug: index
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
-.. description: Find and connect instantly with local language partners nearby. We are the only app that supports 7,000+ languages including Catalan, Chinese, Dutch, Esperanto, Irish, Japanese, Occitan, Polish, Portuguese, Russian, Toki Pona and Welsh, all for FREE!
 .. hidetitle: true
 .. type: homepage
+.. description: translations_parts/#{language-file}page_home-page.page_meta.metadata_desc.rst
+
 
 .. container:: homepage-title
 
 	.. include:: translations_parts/#{language-file}page_home-page.page_meta.title.rst
 
+
+	.. raw:: html
+	
+		<div id="download"></div>
+
 	.. include:: pages_parts/home_page_download_buttons.rst
 
-	.. class:: center-text shadow-text                                                                
+	.. class:: center-text shadow-text normal                                                               
 	
 	.. include:: translations_parts/#{language-file}page_home-page.page_meta.metadata_desc.rst
 
@@ -21,9 +27,9 @@
 
 	.. raw:: html
 	
-		<section="tutorial"
+		<section id="tutorial">
 		<div class="blue-bar"></div>
-			<div id="carouselApp" class="carousel carousel-dark slide swiper-container " data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="30000">
+			<div id="carouselApp" class="carousel carousel-dark slide swiper-container " data-bs-ride="carousel" data-bs-touch="true" data-bs-interval="3000">
 		  <div class="carousel-indicators">
 		    <button type="button" data-bs-target="#carouselApp" data-bs-slide-to="0" class="active btn btn-light" aria-current="true" aria-label="Slide 1"></button>
 		    <button type="button" class="btn btn-light" data-bs-target="#carouselApp" data-bs-slide-to="1" aria-label="Slide 2"></button>
@@ -102,7 +108,7 @@
 		</button>
 		</div></section>
 			<section id="quotes">
-	            <div id="testimonials" class="carousel slide carousel-fade testimonials" data-bs-ride="carousel" data-bs-interval="20000">
+	            <div id="testimonials" class="carousel slide carousel-fade testimonials swiper-container" data-bs-ride="carousel" data-bs-interval="30000">
 	                <div class="container">
 	                    <div class="carousel-inner">
 	                        <div class="carousel-item quote_item active">

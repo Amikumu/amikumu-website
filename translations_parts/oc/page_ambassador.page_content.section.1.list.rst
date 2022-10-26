@@ -1,5 +1,5 @@
 #. Publican articles de blog e vidèos YouTube! Per exemple, agaitatz `Amikumu: The App Yiddish Speakers have been Waiting for! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) e `Auslan: What is Amikumu? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) entre autres. Avèm una pagina entièra per las `publicacions de premsa <http://amikumu.com/press/>`_.
- 	#. Afichan ligams publics dins gropes Facebook o sus lor perfil. Mostrar un sosten public e mai pichon pòt ajudar fòrça!
- 	#. Distribuïsson fulhetons and parlan d'Amikumu pendent eveniments, fèstas, forums de lengas. Aquò's tanben una bona manièra de metre en plaça e desvolopar una comunautat locala.
- 	#. Son en `tradusissent l'aplicacion <https://traduk.amikumu.com/engage/amikumu/oc>`_ e lo Site Web dins lor lengas localas. Nòstra tòca es venir l'aplicacion mai traduita del mond e avèm besonh d'una brava ajuda per capitar aquò.
- 	#. Nos balhan una ajuda plan importanta. Comprenèm que cada lenga e cultura es diferenta. Avèm besonh de conselhs perque volèm agir pel milhor dins la vòstra comunautat.
+#. Afichan ligams publics dins gropes Facebook o sus lor perfil. Mostrar un sosten public e mai pichon pòt ajudar fòrça!
+#. Distribuïsson fulhetons and parlan d'Amikumu pendent eveniments, fèstas, forums de lengas. Aquò's tanben una bona manièra de metre en plaça e desvolopar una comunautat locala.
+#. Son en `tradusissent l'aplicacion <https://traduk.amikumu.com/engage/amikumu/oc>`_ e lo Site Web dins lor lengas localas. Nòstra tòca es venir l'aplicacion mai traduita del mond e avèm besonh d'una brava ajuda per capitar aquò.
+#. Nos balhan una ajuda plan importanta. Comprenèm que cada lenga e cultura es diferenta. Avèm besonh de conselhs perque volèm agir pel milhor dins la vòstra comunautat.

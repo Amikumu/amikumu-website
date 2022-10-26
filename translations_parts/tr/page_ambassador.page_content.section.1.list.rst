@@ -1,5 +1,5 @@
 #. Blog gönderini ve YouTube videolarını yayınlıyorlar! Örneğin, şuraya bak `Amikumu: The App Yiddish Konuşmacısı Bekliyor! <https://youtu.be/6g3QtBtBB_U>`_ (Moshe Sherizen) ve ` Auslan: Amikumu Nedir? <https://youtu.be/57W73If51NE>`_ (Kiah Morante) diğerleri arasında. `Basın yazılarına <http://amikumu.com/press/>`_. ayrılmış bütün bir sayfamız mevcuttur.
- 	#. Facebook gruplarında ve profillerinde bağlantı yayınlıyorlar. Kamu desteğinin basit bir gösterisi bile uzun bir yol kat edebilir!
- 	#. El kitapları dağıtıyorlar ve yerel dilde görüşmelerde Amikumu'dan bahsediyorlar. Bu, aynı zamanda, bir yerel topluluk oluşturmak ve büyütmek için harika bir yoldur.
- 	#. Onlar uygulamayı ve web sitesini kendi dillerine çeviriyorlar. Amacımız, dünyadaki en çok dile tercüme edilmiş uygulama olmak ve bunu başarmak için tüm yardıma ihtiyacımız var.
- 	#. Gerçekten çok önemli bir rehberlik ediyorlar. Her dilin ve kültürün farklı olduğunu anlıyoruz. Topluluğunuzda en iyi nasıl davranmanız gerektiği konusunda sizden tavsiye istiyoruz ve buna ihtiyacımız var.
+#. Facebook gruplarında ve profillerinde bağlantı yayınlıyorlar. Kamu desteğinin basit bir gösterisi bile uzun bir yol kat edebilir!
+#. El kitapları dağıtıyorlar ve yerel dilde görüşmelerde Amikumu'dan bahsediyorlar. Bu, aynı zamanda, bir yerel topluluk oluşturmak ve büyütmek için harika bir yoldur.
+#. Onlar uygulamayı ve web sitesini kendi dillerine çeviriyorlar. Amacımız, dünyadaki en çok dile tercüme edilmiş uygulama olmak ve bunu başarmak için tüm yardıma ihtiyacımız var.
+#. Gerçekten çok önemli bir rehberlik ediyorlar. Her dilin ve kültürün farklı olduğunu anlıyoruz. Topluluğunuzda en iyi nasıl davranmanız gerektiği konusunda sizden tavsiye istiyoruz ve buna ihtiyacımız var.

@@ -1,6 +1,6 @@
 .. title: Uniu-vos al programa d'ambaixadors de l'Amikumu!
 .. slug: ambassador
-.. date: 2022-10-26 20:53:00 UTC-03:00
+.. date: 2022-10-25 20:53:00 UTC-03:00
 .. tags: 
 .. hidetitle: true
 .. type: ambassador

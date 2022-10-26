@@ -196,12 +196,9 @@ lang="${lang}">
                 <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
                 % else:
             %if lang == "en":
-                <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
+                <div class="nav-item"><a href="/${url}" class="nav-link">${messages (text, lang)}</a></div>
                 %else:
-                <%
-                newurl = "/"+lang+url
-                %>
-                <div class="nav-item"><a href="${newurl}" class="nav-link">${messages (text, lang)}</a></div>
+                <div class="nav-item"><a href="/${lang}${url}" class="nav-link">${messages (text, lang)}</a></div>
                             %endif
 				%endif
             %endif

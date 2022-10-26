@@ -157,12 +157,13 @@ lang="${lang}">
             % if rel_link(permalink, url) == "#":
                 <div class="nav-item active"><a href="${permalink}" class="nav-link">${text} <span class="sr-only">${messages("(active)", lang)}</span></a>
             %else:
+             %if text == "Shop":
+                <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
+                % else:
             %if lang == "en":
                 <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
                 % else:
-                %if text == "Shop":
-                <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
-                % else:
+               
                 <%
                 newurl = "/"+lang+"/"+url
                 %>
@@ -194,10 +195,12 @@ lang="${lang}">
             %if text == "Shop":
                 <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
                 % else:
-            
+            %if lang == "en":
+                <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
+                %else:
                 <div class="nav-item"><a href="/${lang}${url}" class="nav-link">${messages (text, lang)}</a></div>
                             %endif
-
+				%endif
             %endif
         % endif
     %endfor

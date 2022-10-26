@@ -1,6 +1,6 @@
 .. title: translations_parts/#{language-file}page_faq.page_meta.metadata_title.rst
 .. slug: help-faq
-.. date: 2022-10-26 20:53:00 UTC-03:00
+.. date: 2022-10-25 20:53:00 UTC-03:00
 .. tags: 
 .. hidetitle: true
 .. type: faq

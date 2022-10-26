@@ -131,6 +131,7 @@ article.post-micro {
 
 .entry-content {
 	margin-top: 1em;
+	padding-bottom: 20px;
 }
 
 /* for alignment with Bootstrap's .entry-content styling */
@@ -143,6 +144,7 @@ article.post-micro {
 	align-content: center;
 	width: 100%;
 	    background-color: #d6e9fc;
+		margin-bottom: 20px;
 }
 
 /* Custom page footer */
@@ -336,6 +338,21 @@ article.post-homepage.storypage section h2 {
 	line-height: 1.4em;
 	font-weight: 500;
 	padding-top: 50px;
+	font-size: 30px;
+	clear: both;
+}
+.header-h2 {
+		color: #3292f1 !important;
+	text-align: center;
+	font-weight: 500;
+	padding-top: 50px;
+	font-size: 30px;
+	clear: both;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+line-height: 1.2em;
+display: block;
 }
 
 article.post-homepage.storypage p.play-store-buttons {
@@ -651,7 +668,7 @@ div#carouselApp.carousel.carousel-dark.slide button.carousel-control-next {
 
 .swiper-slide .text p {
     margin-bottom:10px;
-	margin-right:50px;
+	margin-right:70px;
 }
 
 .swiper-slide {
@@ -960,7 +977,7 @@ font-weight: 700;
 font-size: 16px;
 color: #174580;
 text-align: left;
-max-width: 400px;
+max-width: 95%;
 }
 
 .quote_item {
@@ -999,7 +1016,7 @@ height: 150px;
 
 @media only screen and (max-width: 979px) {
     .swiper-slide .text {
-        max-width: 320px;
+        max-width: 90%;
         font-size: 14px;
         left:380px
     }
@@ -1102,7 +1119,7 @@ height: 150px;
     float: left;
     font-size: 18px;
     line-height: 24px;
-    padding:0 15px
+    padding: 0 25px
 }
 
 @media only screen and (min-width: 767px) {
@@ -1141,7 +1158,8 @@ height: 150px;
 
 .quote_start {
     background-image: url(/images/quote_left.png);
-    float:left
+    float:left;
+	padding-right: 25px;
 }
 
 @media only screen and (max-width: 768px) {

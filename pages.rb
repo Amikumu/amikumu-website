@@ -4,7 +4,7 @@
 timezone="Europe/Amsterdam"
 languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka", "nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs", "avk", "lfn", "nds"]
 #languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka","nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs","nds"]
-pages = ["index","press","ambassador","faq","support","privacy","about-us"]
+pages = ["index","press","ambassador","faq","support","privacy","about-us","for-organizations"]
 query = ".. description: "
 query2 = ".. title: "
 

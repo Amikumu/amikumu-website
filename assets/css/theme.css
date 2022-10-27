@@ -307,6 +307,22 @@ div.homepage-title.docutils.container {
 	padding-left: 20px;
 }
 
+div.organizations-title.docutils.container {
+	background-image: url(/images/banner_organisations.png);
+	background-size: cover;
+	width: 100%;
+	height: auto;
+	float: left;
+	background-size: cover;
+	padding-top: 150px;
+	background-color: rgba(50,146,241,.6);
+	padding-bottom: 80px;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
 div.banner-blue.docutils.container,
 .banner_blue {
 background-color: #3292f1;
@@ -417,7 +433,7 @@ div.teamo.docutils.container img.teamano.align-left {
 }
 
 
-
+div.organizations-reklamo.docutils.container,
 div.teamo.docutils.container,
 div.inner.inner-aboutus.docutils.container .bluebackground,
 .page-privacy,
@@ -559,8 +575,29 @@ h4 {
     margin-bottom: 6px !important;
     margin-top:20px !important
 }
+div.ad-block1.docutils.container,
+div.ad-block2.docutils.container,
+div.ad-block3.docutils.container {
+	float: left;
+min-width: 300px;
+text-align: center;
+}
 
+div.ad-block1.docutils.container img,
+div.ad-block2.docutils.container img,
+div.ad-block3.docutils.container img {
+max-height: 200px;
+max-width: 200px;
+padding-bottom: 45px;
+}
 
+div.ad-blocks.docutils.container {
+	margin-left: auto;
+	margin-right: auto;
+width: 100%;
+}
+
+div.organizations-title.docutils.container p.header-h1,
 .bluebackground {
 	color: #fff !important;
 	
@@ -593,8 +630,8 @@ img#logo.d-inline-block.align-top {
 .center-text {
 	text-align: center;
 }
-
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+div.organizations-title.docutils.container,
+div.homepage-title.docutils.container {
 	color: #ffffff;
 }
 
@@ -630,6 +667,15 @@ button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
 
 }
 
+.costs {
+    width: 100%;
+    height: auto;
+    background-color: #d6e9fc;
+    float: left;
+    padding: 25px 0;
+    color: #333;
+    font-size: 15px;
+}
 
 .navbar-container {
 	width: 100%;
@@ -690,13 +736,20 @@ nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
 		float: right;
 	}
 	
-div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main-672x372.png);
 		background-size: cover;
 		padding-bottom: 0px;
 		padding-top: 0px;
 	}
 	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations-672x372.png);
+		background-size: cover;
+		padding-bottom: 0px;
+		padding-top: 0px;
+	}
+
 	article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
@@ -726,12 +779,18 @@ div#content.container div.body-content article.post-homepage.storypage div.e-con
 		float: left !important;
 	}
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+	div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
 	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations.png);
+		padding-bottom: 80px;
+		padding-top: 150px;
+	}
+
 article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
@@ -752,12 +811,18 @@ article.post-homepage.storypage div.homepage-title p:first-of-type{
 
 	}
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+	div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
 	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations.png);
+		padding-bottom: 80px;
+		padding-top: 150px;
+	}
+
 article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 40px;
 	}
@@ -776,8 +841,14 @@ float: right !important;
 
 	}
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+	div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
+		padding-bottom: 80px;
+		padding-top: 150px;
+	}
+	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
 	}
@@ -799,7 +870,7 @@ left: -430px;
 float: right !important;
 	}
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+	div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		padding-bottom: 80px;
 		padding-top: 150px;
@@ -808,6 +879,14 @@ float: right !important;
 		font-size: larger;
 	}
 	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations.png);
+		padding-bottom: 80px;
+		padding-top: 150px;
+		padding-right: 100px;
+		padding-left: 100px;
+		font-size: larger;
+	}
 article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 60px;
 	}
@@ -825,7 +904,7 @@ left: -430px;
 float: right !important;
 }
 	
-	div#content.container div.body-content article.post-homepage.storypage div.e-content.entry-content div.homepage-title.docutils.container {
+	div.homepage-title.docutils.container {
 		background-image: url(/images/banner_main.png);
 		background-size: cover;
 		padding-bottom: 80px;
@@ -835,6 +914,15 @@ float: right !important;
 		font-size: larger;
 	}
 	
+div.organizations-title.docutils.container {
+		background-image: url(/images/banner_organisations.png);
+		background-size: cover;
+		padding-bottom: 80px;
+		padding-top: 150px;
+		padding-right: 300px;
+		padding-left: 300px;
+		font-size: larger;
+	}
 article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 70px;
 	}
@@ -853,6 +941,29 @@ border:1px solid #0062cc;
 .visually-hidden {
 	
 color: transparent;
+}
+div.reklamo-text.docutils.container {
+	max-width: 650px;
+	margin-left: 320px;
+}
+.reklamo-wrapper {
+	width: 100%;
+    float: left;
+    min-height: 380px;
+    margin: 20px 0 60px;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+@media only screen and (max-width: 639px) {
+div.reklamo-wrapper.docutils.container div.screen,
+section.organisations .advertisement>.wrapper .screen {
+    display: none;
+}
+div.reklamo-text.docutils.container {
+	max-width: 100%;
+	margin-left: 0px;
+}
 }
 
 div#carouselApp.carousel.carousel-dark.slide div.carousel-indicators button.active {
@@ -908,7 +1019,26 @@ margin-left: 0px;
 .screen .bigscreen {
     height: 400px;
     width: 208px;
-    background-size:100%
+    background-size:100%;
+}
+
+div.organizations-reklamo.docutils.container div.screen div.bigscreen,
+section.organisations .reklamoisement>.wrapper .screen .bigscreen {
+position: absolute;
+left: 205px;
+}
+
+div.organizations-reklamo.docutils.container div.screen div.smallscreen,
+section.organisations .reklamoisement>.wrapper .screen .smallscreen {
+position: absolute;
+left: 120px;
+margin-top: 60px;
+}
+
+.screen .smallscreen {
+height: 340px;
+width: 176px;
+background-size: 100%;
 }
 
 
@@ -934,11 +1064,6 @@ margin-left: 0px;
 
 }
 
-.screen .smallscreen {
-    height: 340px;
-    width: 176px;
-    background-size:100%
-}
 
 @media only screen and (max-width: 979px) {
     .screen .smallscreen {

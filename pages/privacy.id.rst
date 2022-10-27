@@ -1,16 +1,18 @@
 .. title: Privasi & Persyaratan Amikumu
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: Cari dan hubungkan secara instan dengan pasangan bahasa lokal di sekitar. Kami adalah satu-satunya aplikasi yang mendukung lebih dari 7.000 bahasa termasuk Katalan, Tionghoa, Belanda, Esperanto, Irlandia, Jepang, Oksitan, Polandia, Portugis, Rusia, Toki Pona dan Wales, semuanya GRATIS!
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/id/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/id/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

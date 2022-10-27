@@ -1,16 +1,18 @@
 .. title: Amikumuのプライバシー・利用規約
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: 身の近い言語パートナーとすぐ繋がろう。 Amikumuは、唯一のカタロニア語、中国語、オランダ語、エスペラント語、アイルランド語、日本語、オック語、ポーランド語、ポルトガル語、ロシア語、トキポナ語など7000種類以上の言語をサポートしているアプリです。しかも無料！
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/ja/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/ja/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

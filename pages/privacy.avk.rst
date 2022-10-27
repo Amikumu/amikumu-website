@@ -1,16 +1,18 @@
 .. title: Yasegucafa gaderopa is kreda ke favera ke Amikumu
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: Va pokef milavusik davon trasil ise pu sin golel vay ‼ Bat talpeyot tir tel tanaf tukasas va trasira va usik va loa 7000 ava don va Catalunyava is Jongguava is Nederlandava is Esperanto is Eireava is Niponava is Occitanava is Polskava is Portugalava is Rossiava is Toki Pona is Kimruava isen kotcoba tir DODISKAFA !
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/avk/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/avk/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

@@ -1,16 +1,18 @@
 .. title: Amikumu Polityka Prywatności i Regulamin
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: Znajdź i skontaktuj się z potencjalnymi partnerami językowymi w pobliżu. Jesteśmy jedyną aplikacją wspierającą ponad 7000 języków z całego świata, w tym kataloński, chiński, niderlandzki, esperanto, irlandzki, japoński, oksytański, polski, portugalski, rosyjski, toki pona i walijski, to wszystko ZA DARMO!
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/pl/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/pl/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

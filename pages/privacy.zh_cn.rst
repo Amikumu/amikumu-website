@@ -1,16 +1,18 @@
 .. title: Amikumu 隐私和条款
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: 找到并快速联系到附近的语言伙伴。 我们是唯一支持加泰罗尼亚语、汉语、荷兰语、世界语、爱尔兰语、日语、奥克语、波兰语、葡萄牙语、俄语、道本语和威尔士语等7,000多种语言的应用程序，而且全部免费！
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/zh_cn/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/zh_cn/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

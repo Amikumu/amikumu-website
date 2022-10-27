@@ -1,16 +1,18 @@
 .. title: Politica de confidencialitat e condicions d’utilizacion d’Amikumu
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: Trobatz e contactatz instantanèament de partenaris lingüistics a proximitat. Sèm la sola aplicacion que prenga en carga mai de 7 000 lengas, incluses lo catalan, lo chinés, l'esperanto, lo gallés, l'irlandés, lo japonés, lo neerlandés, l'occitan, lo polonés, lo portugués, lo rus e lo toki pona, e tot aquò A GRATIS !
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
-	.. include:: translations_parts/oc/page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/oc/page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

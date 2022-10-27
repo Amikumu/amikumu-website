@@ -271,7 +271,6 @@ button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
 }
 div#content.container {
 	clear: both;
-padding-top: 25px;
 }
 
 a.nav-link {
@@ -306,6 +305,54 @@ div.homepage-title.docutils.container {
 	background-position: center;
 	padding-right: 20px;
 	padding-left: 20px;
+}
+
+div.banner-blue.docutils.container,
+.banner_blue {
+background-color: #3292f1;
+color: #fff;
+width: 100%;
+box-shadow: inset 0 0 20px 8px rgba(0,0,0,.2);
+position: relative;
+float: left;
+padding: 15px;
+
+}
+div#banner-blog.banner-blog.docutils.container,
+.banner_blog {
+background: url(/images/banner_blog.png) no-repeat;
+	background-size: 614px 138px;
+	align-content: right;
+	width: 614px;
+height: 138px;
+bottom: 0;
+right: 0px;
+position: absolute;
+}
+
+
+.inner--aboutus {
+    min-height: 280px;
+    margin: 0 0 60px;
+}
+
+
+.inner--aboutus h1,
+.inner--aboutus .header-h1 {
+	padding-top: 0px;
+}
+
+.inner {
+    width: 90%;
+    float: left;
+    min-height: 250px;
+    margin: 20px 0 60px;
+    font-size: 16px;
+    line-height: 22px;
+}
+
+.inner p:last-of-type {
+    margin-bottom: 100px;
 }
 
 .tutorial .blue-bar {
@@ -345,6 +392,34 @@ article.post-homepage.storypage section h2 {
 	clear: both;
 }
 
+div.aboutus.docutils.container {
+	margin-left: 350px;
+	max-width: 800px;
+}
+
+div.teamo.docutils.container img.teamano.align-left {
+	max-width: 300px;
+	max-height:300px;
+	size: auto;
+}
+
+@media only screen and (max-width: 499px) {
+    div.aboutus.docutils.container {
+	margin-left: 0px;
+	max-width: 300px;
+}
+div.teamo.docutils.container img.teamano.align-left {
+	max-width: 250px;
+	max-height:250px;
+	size: auto;
+}
+
+}
+
+
+
+div.teamo.docutils.container,
+div.inner.inner-aboutus.docutils.container .bluebackground,
 .page-privacy,
 .page-faq,
 .page-ambassador,
@@ -354,7 +429,11 @@ margin-right: auto;
 margin-left: auto;
 }
 
+
+
+
 h1,
+h2,
 .header-h1,
 .header-h2 {
 		color: #3292f1 !important;
@@ -378,7 +457,114 @@ h3,
 	color: #3292f1 !important;
 	font-weight: 500;
 }
+.header-h1,
+h1 {
+    font-size: 40px;
+    line-height:1.6em
+}
 
+p.aboutus-quote:before {
+	content: "\"";
+}
+p.aboutus-quote:after {
+	content: "\"";
+}
+
+p.aboutus-quote {
+	font-style: italic;
+	color: #666;
+}
+
+
+p.aboutus-name {
+	margin-bottom: 0px;
+	clear: none !important;
+}
+p.aboutus-name,
+p.aboutus-title {
+		color: #3292f1 !important;
+}
+p.aboutus-languages-title,
+p.aboutus-languages,
+p.aboutus-city-title,
+p.aboutus-city {
+	float: left;
+	font-weight: bold;
+}
+p.aboutus-languages-title,
+p.aboutus-city-title {
+	clear: left;
+}
+p.aboutus-languages {
+	max-width: 70%;
+}
+p.aboutus-languages-title::after,
+p.aboutus-city-title::after {
+	content: ":";
+	padding-right: 5px;
+}
+p.aboutus-languages,
+p.aboutus-city {
+	clear: right;
+}
+
+.aboutus::after {
+	clear: both;
+}
+div.aboutus.teamano.docutils.container::before,
+div.aboutus.teamano.docutils.container::after,
+.clearer {
+	clear: both;
+}
+@media only screen and (max-width: 767px) {
+	.header-h1,
+    h1 {
+        font-size:34px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+	.header-h1,
+    h1 {
+        font-size:30px
+    }
+}
+.header-h2,
+h2 {
+    font-size: 30px;
+    line-height:1.2em
+}
+
+@media only screen and (max-width: 767px) {
+	.header-h2,
+    h2 {
+        font-size:26px
+    }
+}
+
+@media only screen and (max-width: 480px) {
+	.header-h2,
+    h2 {
+        font-size:20px
+    }
+}
+.header-h3,
+h3 {
+    font-size: 26px;
+    line-height: 1em;
+    color:#3292f1
+}
+.header-h4,
+h4 {
+    margin-bottom: 6px !important;
+    margin-top:20px !important
+}
+
+
+.bluebackground {
+	color: #fff !important;
+	
+}
 .homepage-title {
 	text-align: left !important;
 }
@@ -1569,5 +1755,4 @@ div.footer-socialmedia ul {
 }
 
 }
-
 

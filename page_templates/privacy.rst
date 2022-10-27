@@ -10,7 +10,9 @@
 
 .. container:: privacy-title
 
-	.. include:: translations_parts/#{language-file}page_privacy-terms.page_title.rst
+	.. class:: header-h1
+
+		.. include:: translations_parts/#{language-file}page_privacy-terms.page_title.rst
 
 
 	.. raw:: html
@@ -441,7 +443,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7e171018113e1f1317150b130b501d1113">[email&#160;protected]</a>
+	                          help@amikumu.com
 	                      </p>
 	                  </div>
 	                  <div class="clear"></div>

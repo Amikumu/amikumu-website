@@ -93,7 +93,14 @@ bg-dark
 <div class="container">
             ${content_footer}
             
-<div class="float-left"><a class="footer-privacy" href="https://amikumu.com/nl/privacy-terms/">${messages ("Privacy & Terms", lang)}</a></div>
+<div class="float-left">
+ %if lang == "en":
+                <a class="footer-privacy" href="/privacy-terms/">${messages ("Privacy & Terms", lang)}</a>
+                %else:
+                <a class="footer-privacy" href="/${lang}/privacy-terms/">${messages ("Privacy & Terms", lang)}</a>
+%endif
+
+</div>
 <div class="socialmedia">
 <ul>
 <li><a target="_blank" href="mailto:help@amikumu.com"><i class="fa-solid fa-envelope"></i></a></li>

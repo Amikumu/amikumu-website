@@ -1,14 +1,14 @@
 .. title: translations_parts/#{language-file}page_privacy-terms.page_meta.metadata_title.rst
-.. slug: privacy
+.. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
 .. link: https://amikumu.com
 .. hidetitle: true
-.. type: homepage
+.. type: privacy
 .. description: translations_parts/#{language-file}page_privacy-terms.page_meta.metadata_desc.rst
 
 
-.. container:: homepage-title
+.. container:: privacy-title
 
 	.. include:: translations_parts/#{language-file}page_privacy-terms.page_title.rst
 

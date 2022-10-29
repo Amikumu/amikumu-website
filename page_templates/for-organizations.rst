@@ -76,10 +76,11 @@
 		
 		.. container:: statistics-link shadow-text normal                                                               
 
+			.. class:: float-left margin5
 		
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part1.rst
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part1.rst
 		
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part2.rst
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part2.rst
 		
 		
 
@@ -221,9 +222,11 @@
 		
 					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.how_to_purchase.rst
 			
-				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
+				.. class:: float-left margin5
 				
-				help@amikumu.com
-				
-				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.badge_contact_us_part2.rst
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
+					
+					help@amikumu.com
+					
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.badge_contact_us_part2.rst
 				

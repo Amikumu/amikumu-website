@@ -277,7 +277,8 @@ a.nav-link {
 	color: #3294f3 !important;
 }
 
-.organizations-title .shadow-text {
+div.organizations-title .shadow-text.large,
+.organizations-title .shadow-text .large {
 	font-size: 36px;
 line-height: 1em;
 margin-top: 20px;

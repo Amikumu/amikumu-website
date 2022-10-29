@@ -108,7 +108,7 @@
 		</button>
 		</div></section>
 			<section id="quotes">
-	            <div id="testimonials" class="carousel slide carousel-fade testimonials swiper-container" data-bs-ride="carousel" data-bs-interval="30000">
+	            <div id="testimonials" class="carousel slide carousel-fade testimonials swiper-container" data-bs-ride="carousel" data-bs-interval="5000">
 	                <div class="container">
 	                    <div class="carousel-inner">
 	                        <div class="carousel-item quote_item active">

@@ -277,6 +277,13 @@ a.nav-link {
 	color: #3294f3 !important;
 }
 
+.organizations-title .shadow-text {
+	font-size: 36px;
+line-height: 1em;
+margin-top: 20px;
+margin-bottom: 5px;
+font-weight: 700;
+}
 
 div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
 {
@@ -285,8 +292,10 @@ div#carouselApp.carousel.carousel-dark.slide div.carousel-inner
 	margin-left: 30px;
 	margin-right: 30px;
 }
-
-
+.statistics-link{
+	clear: both;
+	float: right;
+}
 div.tutorial {
 	clear: both;
 }
@@ -575,23 +584,24 @@ h4 {
     margin-bottom: 6px !important;
     margin-top:20px !important
 }
-div.ad-block1.docutils.container,
-div.ad-block2.docutils.container,
-div.ad-block3.docutils.container {
+div.block1.docutils.container,
+div.block2.docutils.container,
+div.block3.docutils.container {
 	float: left;
 min-width: 300px;
+width: 30%;
 text-align: center;
 }
 
-div.ad-block1.docutils.container img,
-div.ad-block2.docutils.container img,
-div.ad-block3.docutils.container img {
+div.block1.docutils.container img,
+div.block2.docutils.container img,
+div.block3.docutils.container img {
 max-height: 200px;
 max-width: 200px;
 padding-bottom: 45px;
 }
 
-div.ad-blocks.docutils.container {
+div.blocks.docutils.container {
 	margin-left: auto;
 	margin-right: auto;
 width: 100%;
@@ -666,17 +676,123 @@ button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
 	margin-right: 50px;
 
 }
-
+.purchase,
 .costs {
+	clear: both;
     width: 100%;
     height: auto;
     background-color: #d6e9fc;
     float: left;
-    padding: 25px 0;
-    color: #333;
+	padding: 25px 100px;
+	color: #333;
     font-size: 15px;
 }
+div.purchase div.lightblue {
+    height: auto;
+    background-color: #d6e9fc;
+    float: left;
+	padding: 25px 100px;
+	color: #333;
+    font-size: 15px;
+	margin-top: 25px;
+}
 
+div.float-left-costs {
+	float: left;
+	width: 50%;
+}
+
+div.costs p.note {
+	font-weight: bold;
+}
+
+div.costs p.note:before {
+	content: "*";
+}
+
+div.purchase div.lightblue,
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
+div.purchase.docutils.container div.wrapper.docutils.container p,
+div.purchase.docutils.container div.wrapper.docutils.container div.screen div.bigscreen,
+div.purchase.docutils.container div.badges div.container div.wrapper div.text, 
+div.badges div.wrapper div.screen div.text,
+div.badges div.wrapper div.screen div.bigscreen {
+float: left;
+}
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container {
+	clear: right;
+	padding-right: 20px;
+}
+div.purchase div.lightblue,
+div.purchase.docutils.container div.wrapper.docutils.container div.badges,
+div.purchase.docutils.container div.wrapper.docutils.container p {
+	max-width: 80%;
+	padding-left: 25px;
+}
+
+div.purchase div.lightblue {
+	padding-top: 25px;
+	max-width: 100%;
+}
+div.purchase.docutils.container div.wrapper.docutils.container div.badges {
+	width: 80%;
+}
+.header-width {
+clear: right;
+min-width: 100%;
+}
+
+.badges.examples.icon,
+.icon {
+width: 80px;
+height: 80px;
+background-size: 100%;
+background-repeat: no-repeat;
+background-position: center;
+margin-right: 15px;
+margin-left: 0px;
+} 
+@media only screen and (max-width: 979px) {
+.badges.examples.icon,
+.icon {
+width: 60px;
+height: 60px;
+margin-right: 5px;
+}
+}
+
+@media only screen and (max-width: 768px) {
+.badges.examples.icon,
+.icon {
+width: 50px;
+height: 50px;
+}
+}
+
+
+
+
+
+div.badges.examples .icon.your-badge,
+.badges.examples.icon.your-badge {
+background-color: #d6e9fc;
+color: #3292f1;
+border: 3px solid #3292f1;
+font-weight: 700;
+border-radius: 50%;
+text-align: center;
+display: table;
+box-sizing: border-box;
+font-size: 16px;
+line-height: 18px;
+overflow: hidden;
+padding: 25px 0px 0px !important;
+margin: 0px;
+}
+ 
+.purchase {
+	background-color: #fff;
+}
 .navbar-container {
 	width: 100%;
 }
@@ -1877,6 +1993,57 @@ div.footer-socialmedia ul {
 	width: 100%;
 	margin: 15px 15px 15px auto;
 	padding: 25px;
+}
+
+}
+
+@media only screen and (max-width: 979px) {
+		div.wrapper.docutils.container div.screen.bigscreen,
+    div.wrapper.docutils.container div.screen div.bigscreen {
+        display:none !important;
+    }
+	
+	div.badges.examples .icon.your-badge,
+.badges.examples.icon.your-badge {
+padding: 8px 0px 0px !important;
+font-size: 12px;
+
+}
+
+div.badges div.wrapper div.screen div.text,
+div.wrapper.docutils.container div.screen.bigscreen,
+div.badges div.wrapper div.screen div.bigscreen {
+float: none;
+}
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
+div.purchase.docutils.container div.wrapper.docutils.container p {
+	max-width: 100%;
+	padding-left: 0px;
+}
+
+}
+
+@media only screen and (max-width: 768px) {
+	div.wrapper.docutils.container div.screen.bigscreen,
+    div.wrapper.docutils.container div.screen div.bigscreen {
+        display:none !important;
+    }
+	
+	div.badges.examples .icon.your-badge,
+.badges.examples.icon.your-badge {
+padding: 5px 0px 0px !important;
+font-size: 12px;
+}
+
+div.badges div.wrapper div.screen div.text,
+	div.wrapper.docutils.container div.screen.bigscreen,
+div.badges div.wrapper div.screen div.bigscreen {
+float: none;
+}
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
+div.purchase.docutils.container div.wrapper.docutils.container p {
+	max-width: 100%;
+	padding-left: 0px;
 }
 
 }

@@ -754,7 +754,7 @@ div.purchase div.lightblue,
 div.purchase.docutils.container div.wrapper.docutils.container div.badges,
 div.purchase.docutils.container div.wrapper.docutils.container p {
 	max-width: 80%;
-	padding-left: 25px;
+	padding-left: 5px;
 }
 
 div.purchase div.lightblue {
@@ -779,22 +779,7 @@ background-position: center;
 margin-right: 15px;
 margin-left: 0px;
 } 
-@media only screen and (max-width: 979px) {
-.badges.examples.icon,
-.icon {
-width: 60px;
-height: 60px;
-margin-right: 5px;
-}
-}
 
-@media only screen and (max-width: 768px) {
-.badges.examples.icon,
-.icon {
-width: 50px;
-height: 50px;
-}
-}
 
 
 
@@ -1735,7 +1720,7 @@ margin-right: 1px;
 		width: 100%;
 min-height: 150px;
 	}
-.float-left,
+
 .copyright {
 	width: 100% !important;
 	margin-left: 0px;
@@ -2064,6 +2049,11 @@ padding: 5px 0px 0px !important;
 font-size: 12px;
 }
 
+div.float-left-costs {
+	float: left;
+	width: 100%;
+}
+
 div.badges div.wrapper div.screen div.text,
 	div.wrapper.docutils.container div.screen.bigscreen,
 div.badges div.wrapper div.screen div.bigscreen {
@@ -2075,5 +2065,95 @@ div.purchase.docutils.container div.wrapper.docutils.container p {
 	padding-left: 0px;
 }
 
+.purchase,
+.costs {
+	padding: 20px 25px;
+	color: #333;
+    font-size: 15px;
+}
+div.purchase div.lightblue {
+    height: auto;
+    background-color: #d6e9fc;
+    float: left;
+	padding: 25px 100px;
+	color: #333;
+    font-size: 15px;
+	margin-top: 25px;
 }
 
+.price,
+.price-text {
+	float: left;
+}
+
+.price {
+	clear: left;
+	font-weight: bold;
+}
+
+.price-text {
+max-width: 90%;
+}
+}
+
+@media only screen and (max-width: 1240px) {
+div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
+div.purchase.docutils.container div.wrapper.docutils.container div.badges {
+width: 70%;
+}
+
+div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
+	width: 80px;
+}
+
+}
+
+@media only screen and (max-width: 979px) {
+.badges.examples.icon,
+.icon {
+width: 60px;
+height: 60px;
+margin-right: 5px;
+}
+}
+
+@media only screen and (max-width: 768px) {
+.badges.examples.icon,
+.icon {
+float: left;
+max-width: 50px;
+width: 50px !important;
+height: 50px;
+}
+
+div.purchase div.lightblue {
+    height: auto;
+    background-color: #d6e9fc;
+    float: left;
+	padding: 25px 100px;
+	color: #333;
+    font-size: 15px;
+	margin-top: 25px;
+}
+}
+
+@media only screen and (max-width: 630px) {
+div.purchase div.lightblue {
+
+	padding: 25px 25px;
+
+}
+}
+
+
+@media only screen and (max-width: 499px) {
+.price-text {
+max-width: 225px;
+}
+
+div.purchase div.lightblue {
+
+	padding: 25px 25px;
+
+}
+}

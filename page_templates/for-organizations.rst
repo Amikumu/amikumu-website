@@ -206,9 +206,9 @@
 					.. image:: /images/badges/jes.png
 				   		:class: float-left
 						
-					.. class:: your-badge
+					.. container:: your-badge
 						
-					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.your_badge.rst
+						.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.your_badge.rst
 					
 			.. container:: lightblue
 		

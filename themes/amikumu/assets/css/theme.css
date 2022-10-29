@@ -753,7 +753,7 @@ div.purchase.docutils.container div.wrapper.docutils.container div.badges.exampl
 div.purchase div.lightblue,
 div.purchase.docutils.container div.wrapper.docutils.container div.badges,
 div.purchase.docutils.container div.wrapper.docutils.container p {
-	max-width: 80%;
+	width: 80%;
 	padding-left: 5px;
 }
 
@@ -768,7 +768,11 @@ div.purchase.docutils.container div.wrapper.docutils.container div.badges {
 clear: right;
 min-width: 100%;
 }
-
+,
+div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
+	
+	width: 80px !important;
+}
 .badges.examples.icon,
 .icon {
 width: 80px;
@@ -2012,10 +2016,6 @@ div.footer-socialmedia ul {
 }
 
 @media only screen and (max-width: 979px) {
-		div.wrapper.docutils.container div.screen.bigscreen,
-    div.wrapper.docutils.container div.screen div.bigscreen {
-        display:none !important;
-    }
 	
 	div.badges.examples .icon.your-badge,
 .badges.examples.icon.your-badge {
@@ -2029,15 +2029,41 @@ div.wrapper.docutils.container div.screen.bigscreen,
 div.badges div.wrapper div.screen div.bigscreen {
 float: none;
 }
-div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
-div.purchase.docutils.container div.wrapper.docutils.container p {
-	max-width: 100%;
-	padding-left: 0px;
+
+
+div.purchase div.lightblue {
+
+	padding: 5px 5px !important;
+
 }
+}
+
+@media only screen and (max-width: 1240px) {
+div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
+div.purchase.docutils.container div.wrapper.docutils.container div.badges {
+width: 70%;
+}
+
+div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
+	width: 80px;
+}
+
+
 
 }
 
 @media only screen and (max-width: 768px) {
+
+	div.badges.examples .icon.your-badge,
+.badges.examples.icon.your-badge {
+padding: 5px 0px 0px !important;
+font-size: 12px;
+}
+
+
+
+}
+@media only screen and (max-width: 668px) {
 	div.wrapper.docutils.container div.screen.bigscreen,
     div.wrapper.docutils.container div.screen div.bigscreen {
         display:none !important;
@@ -2048,6 +2074,7 @@ div.purchase.docutils.container div.wrapper.docutils.container p {
 padding: 5px 0px 0px !important;
 font-size: 12px;
 }
+
 
 div.float-left-costs {
 	float: left;
@@ -2061,7 +2088,7 @@ float: none;
 }
 div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
 div.purchase.docutils.container div.wrapper.docutils.container p {
-	max-width: 100%;
+	width: 100%;
 	padding-left: 0px;
 }
 
@@ -2096,17 +2123,7 @@ max-width: 90%;
 }
 }
 
-@media only screen and (max-width: 1240px) {
-div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
-div.purchase.docutils.container div.wrapper.docutils.container div.badges {
-width: 70%;
-}
 
-div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
-	width: 80px;
-}
-
-}
 
 @media only screen and (max-width: 979px) {
 .badges.examples.icon,
@@ -2130,11 +2147,16 @@ div.purchase div.lightblue {
     height: auto;
     background-color: #d6e9fc;
     float: left;
-	padding: 25px 100px;
+	padding: 25px 10px;
 	color: #333;
     font-size: 15px;
 	margin-top: 25px;
 }
+
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container {
+	padding-left: 0px;
+}
+
 }
 
 @media only screen and (max-width: 630px) {
@@ -2155,5 +2177,10 @@ div.purchase div.lightblue {
 
 	padding: 25px 25px;
 
+}
+
+div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
+div.purchase.docutils.container div.wrapper.docutils.container div.badges {
+width: 100%;
 }
 }

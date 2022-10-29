@@ -9,59 +9,79 @@
 
 .. container:: organizations-title
 
-	.. class:: header-h1
+	.. class:: header-h1 shadow-text
 
 		.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.advertise_with_us.rst
 	
-	.. class:: center-text shadow-text normal                                                               
+	.. class:: shadow-text normal                                                               
 	
 	.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.advertise_text.rst
 	
-	.. container:: ad-blocks
+	.. container:: blocks
 	
-		.. container:: ad-block1
+		.. container:: block1
 		
 			.. image:: /images/orga_graphs/users.png
 			
 			.. container:: DAU
 			
+				.. class:: center-text shadow-text large                                                               
+			
 				2000+
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.dau_daily_active_users.rst
+				
+				.. class:: center-text shadow-text large                                                               
 				
 				4500+
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.mau_montly_active_users.rst
 				
+				.. class:: center-text shadow-text large                                                               
+				
 				11000+
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.total_users.rst
 		
-		.. container:: ad-block2
+		.. container:: block2
 		
 			.. image:: /images/orga_graphs/languages.png
 			
 			.. container:: languages
+			
+				.. class:: center-text shadow-text large                                                               
 				
 				500+
 			
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.number_of_languages_spoken.rst
 				
+				.. class:: center-text shadow-text large                                                               
+				
 				5
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.average_number_of_languages_spoken.rst
 				
-		.. container:: ad-block3
+		.. container:: block3
 		
 			.. image:: /images/orga_graphs/countries.png
 			
 			.. container:: countries
+			
+				.. class:: center-text shadow-text large                                                               
 				
 				136
 			
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.number_of_countries_represented.rst
 				
+		
+		.. container:: statistics-link shadow-text normal                                                               
 
+		
+			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part1.rst
+		
+			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part2.rst
+		
+		
 
 .. container:: organizations-reklamo
 
@@ -78,7 +98,7 @@
 				<div class="bigscreen" style="background-image: url(/images/reklamo.png);"></div>
 				</div>
 	
-		.. container:: reklamo-text
+		.. container:: reklamo-text 
 	
 			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.advertise_teaser.rst
 
@@ -89,30 +109,34 @@
 			.. class:: header-h3
 			
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.cost.rst
+				
+			.. container:: float-left-costs
 			
-			.. class:: header-h4
+				.. class:: header-h4
+				
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.non_profit.rst
+				
+				10€
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
+				
+				4€ 
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
+				
+			.. container:: float-left-costs
 			
-				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.non_profit.rst
-			
-			10€
-			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
-			
-			4€ 
-			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
-			
-			.. class:: header-h4
-			
-				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.commercial.rst
-			
-			20€
-			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
-			
-			10€ 
-			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
+				.. class:: header-h4
+				
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.commercial.rst
+				
+				20€
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
+				
+				10€ 
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
 			
 			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.prices_assume.rst
 			
@@ -127,37 +151,62 @@
 			
 			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part2.rst
 			
+			.. class:: note
+			
+			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_info.rst
+			
+			
 .. container:: purchase
 
 		.. class:: header-h3
 			
 			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.in_app_collectible_badges.rst
 			
-		.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.in_app_collectible_badges_text.rst
-			
-			
-		.. raw:: html
-			
-				<div class="badges">
-				<div class="container">
-				<div class="wrapper">
+		.. container:: wrapper 
+		
+			.. raw:: html
+		
 				<div class="screen">
-				<div class="bigscreen" style="background-image: url(/images/bagde.png);"></div>
+				<div class="bigscreen" style="background-image: url(/images/badge.png);"></div>
 				</div>
-				<div class="text">
-				<div class="examples space--left">
-				<div class="icon ambassador"></div>
-				<div class="icon tradukisto"></div>
-				<div class="icon pg"></div>
-				<div class="icon jes"></div>
-				<div class="icon your_badge"><p>Your Badge!</p></div>
-				</div>
-				<div class="costs space--left">
-				<h3>Cost</h3>
-				<b>200€</b>
-				<h3 class="purchase">How to purchase</h3>
-				Please email us at <a href="mailto:help@amikumu.com">help@amikumu.com</a> for more info. </div>
-				</div>
-				</div>
-				</div>
-				</div>
+			
+			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.in_app_collectible_badges_text.rst
+			
+			.. container:: badges examples
+			
+				.. class:: icon
+				
+					.. image:: /images/badges/ambassador.png
+					   :class: float-left
+					   
+					.. image:: /images/badges/tradukisto.png
+					   :class: float-left
+					   
+					.. image:: /images/badges/pg.png
+					   :class: float-left
+					   
+					.. image:: /images/badges/jes.png
+				   		:class: float-left
+						
+					.. class:: your-badge
+						
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.your_badge.rst
+					
+			.. container:: lightblue
+		
+				.. class:: header-h3 header-width
+		
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.cost.rst
+			
+				200€
+				
+				.. class:: header-h3 header-width
+		
+					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.how_to_purchase.rst
+			
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
+				
+				help@amikumu.com
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.badge_contact_us_part2.rst
+				

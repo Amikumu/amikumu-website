@@ -10,7 +10,9 @@
 
 .. container:: homepage-title
 
-	.. include:: translations_parts/#{language-file}page_home-page.page_meta.title.rst
+	.. class:: center-text shadow-text large                                                               
+	
+		.. include:: translations_parts/#{language-file}page_home-page.page_meta.title.rst
 
 
 	.. raw:: html
@@ -22,6 +24,12 @@
 	.. class:: center-text shadow-text normal                                                               
 	
 	.. include:: translations_parts/#{language-file}page_home-page.page_meta.metadata_desc.rst
+
+	.. comment
+	
+	.. container:: alert alert-warning
+
+			For a limited time only, take advantage of our 10% discount on gold memberships as well as offering lifetime memberships. Check out `our exclusive gold campaign! <https://app.amikumu.com/get_gold>`__
 
 .. container:: tutorial
 

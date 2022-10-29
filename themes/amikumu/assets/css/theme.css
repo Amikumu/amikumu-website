@@ -483,6 +483,13 @@ h3,
 	color: #3292f1 !important;
 	font-weight: 500;
 }
+
+h4,
+.header-h4 {
+font-weight: 700;
+color: #174580;
+}
+
 .header-h1,
 h1 {
     font-size: 40px;
@@ -501,6 +508,20 @@ p.aboutus-quote {
 	color: #666;
 }
 
+
+.price,
+.price-text {
+	float: left;
+}
+
+.price {
+	clear: left;
+	font-weight: bold;
+}
+
+.price-text {
+	padding-left: 3px;
+}
 
 p.aboutus-name {
 	margin-bottom: 0px;
@@ -703,8 +724,13 @@ div.float-left-costs {
 	width: 50%;
 }
 
+.margin5 {
+	margin-right: 3px !important;
+}
+
 div.costs p.note {
 	font-weight: bold;
+	clear: both;
 }
 
 div.costs p.note:before {

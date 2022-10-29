@@ -116,11 +116,19 @@
 				
 					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.non_profit.rst
 				
+				.. class:: price 				
+				
 				10€
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
 				
+				.. class:: price 
+				
 				4€ 
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
 				
@@ -130,11 +138,19 @@
 				
 					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.commercial.rst
 				
+				.. class:: price 
+				
 				20€
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.setup_fee.rst
 				
+				.. class:: price 
+				
 				10€ 
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.additional_month.rst
 			
@@ -144,12 +160,13 @@
 			
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.how_to_purchase.rst
 			
+			.. class:: float-left margin5
 			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
-			
-			help@amikumu.com
-			
-			.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part2.rst
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
+				
+				help@amikumu.com
+				
+				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part2.rst
 			
 			.. class:: note
 			

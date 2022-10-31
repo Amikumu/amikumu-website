@@ -637,7 +637,9 @@ div.block1.docutils.container,
 div.block2.docutils.container,
 div.block3.docutils.container {
 	float: left;
-min-width: 300px;
+	margin-right: auto;
+	margin-left: auto;
+min-width: 200px;
 width: 30%;
 text-align: center;
 }
@@ -2176,6 +2178,59 @@ width: 50px !important;
 height: 50px;
 }
 
+button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
+float: none;
+position: absolute;
+right: -50px;
+top: -20px;
+
+}
+#menu {
+	float: right !important;
+	text-align: right !;
+	align-content: right !important;
+	margin-right: 90px;
+	margin-left: -40px;
+}
+
+.navbar-brand{margin-right:0rem;}
+
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
+nav#menu div div.dropdown.show div.dropdown-menu.show {
+	float: left;
+	margin-right: 100px;
+	position: absolute;
+	top: -60px;
+	left: 0;
+	z-index: 1000;
+	min-width: 10rem;
+	padding: .5rem 0;
+	margin: .125rem 0 0;
+	font-size: 1rem;
+	color: #212529;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid rgba(0,0,0,.15);
+	border-radius: .25rem;
+	width: 400px;
+	left: -420px;
+}
+
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
+	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
+		width: 50%;
+	}
+div.block1.docutils.container img,
+div.block2.docutils.container img,
+div.block3.docutils.container img {
+max-height: 150px;
+max-width: 150px;
+padding-bottom: 45px;
+}
+
 div.purchase div.lightblue {
     height: auto;
     background-color: #d6e9fc;
@@ -2198,6 +2253,11 @@ div.purchase div.lightblue {
 	padding: 25px 25px;
 
 }
+div.block1.docutils.container,
+div.block2.docutils.container,
+div.block3.docutils.container {
+	float: none;
+}
 }
 
 
@@ -2205,6 +2265,52 @@ div.purchase div.lightblue {
 .price-text {
 max-width: 225px;
 }
+
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
+div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
+nav#menu div div.dropdown.show div.dropdown-menu.show {
+	float: left;
+	margin-right: 100px;
+	position: absolute;
+	top: -60px;
+	left: 0;
+	z-index: 1000;
+	min-width: 10rem;
+	padding: .5rem 0;
+	margin: .125rem 0 0;
+	font-size: 1rem;
+	color: #212529;
+	text-align: left;
+	list-style: none;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid rgba(0,0,0,.15);
+	border-radius: .25rem;
+	width: 250px;
+	left: -250px;
+}
+
+button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
+float: none;
+position: absolute;
+right: -50px;
+top: -90px;
+
+}
+
+.nav-item {
+	font-size: small;
+}
+#menu {
+width: 100%;
+	margin-right: 0px;
+	margin-left: 10px;
+}
+
+	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
+	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
+		width: 100%;
+	}
 
 div.purchase div.lightblue {
 

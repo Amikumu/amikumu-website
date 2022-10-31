@@ -448,15 +448,42 @@ div.teamo.docutils.container,
 div.inner.inner-aboutus.docutils.container .bluebackground,
 .page-privacy,
 .page-faq,
+.page-statistics,
 .page-ambassador,
 .page-presspage {
 width: 80%;
 margin-right: auto;
 margin-left: auto;
 }
+th,
+td {
+	padding: 5px;
 
+}
 
+th {
+color: #666;
+font-size: small;
+}
+tr {
+	padding: 5px;
+}
+tr,
+table {
+	border: 1px solid #aaa;
+}
 
+td:first-child {
+	width: 80px;
+}
+
+td:nth-child(3),
+td:nth-child(4),
+td:nth-child(5),
+td:nth-child(6),
+td:nth-child(7) {  
+width: 100px;
+}
 
 h1,
 h2,
@@ -2050,6 +2077,12 @@ div#content.container div.body-content article.post-organizations.page-organizat
 
 
 
+}
+
+@media only screen and (max-width: 968px) {
+	.price-text {
+max-width: 90%;
+}
 }
 
 @media only screen and (max-width: 768px) {

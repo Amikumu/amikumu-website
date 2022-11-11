@@ -35,6 +35,8 @@ td.label {
 	/* Issue 292 */
 	text-align: center;
 	padding-top: 1em;
+	font-size: small;
+	color: #453f3f;
 }
 
 div.figure > img, div.figure > a > img {
@@ -441,8 +443,9 @@ div.teamo.docutils.container img.teamano.align-left {
 }
 
 }
-
-
+.hentry,
+.authorindex,
+.postindex,
 div.organizations-reklamo.docutils.container,
 div.teamo.docutils.container,
 div.inner.inner-aboutus.docutils.container .bluebackground,
@@ -455,10 +458,19 @@ width: 80%;
 margin-right: auto;
 margin-left: auto;
 }
+.postindex,
+.authorindex,
+.hentry {
+	max-width: 800px;
+}
 th,
 td {
 	padding: 5px;
 
+}
+
+.byline {
+	line-height: 2em;
 }
 
 th {
@@ -2338,4 +2350,13 @@ div.statistics-link a {
 footer#footer div.footer-socialmedia i {
 	font-size: 30px;
 	margin-left: 15px;
+}
+div.figure.align-right {
+	float: right;
+	margin-left: 15px;
+}
+
+div.figure img {
+		border: 1px solid #333;
+
 }

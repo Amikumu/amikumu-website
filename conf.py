@@ -300,7 +300,7 @@ TIMEZONE = "Europe/Berlin"
 # If you want to use ISO 8601 (also valid RFC 3339) throughout Nikola
 # (especially in new_post), set this to True.
 # Note that this does not affect DATE_FORMAT.
-FORCE_ISO8601 = False
+FORCE_ISO8601 = True
 
 # Date format used to display post dates. (translatable)
 # Used by babel.dates, CLDR style: http://cldr.unicode.org/translation/date-time-1/date-time
@@ -598,12 +598,13 @@ AUTHOR_PAGES_ARE_INDEXES = True
 # Set descriptions for author pages to make them more interesting. The
 # default is no description. The value is used in the meta description
 # and displayed underneath the author list or index page’s title.
-# AUTHOR_PAGES_DESCRIPTIONS = {
-#    DEFAULT_LANG: {
-#        "Juanjo Conti": "Python coder and writer.",
-#        "Roberto Alsina": "Nikola father."
-#    },
-# }
+AUTHOR_PAGES_DESCRIPTIONS = {
+   DEFAULT_LANG: {
+       "Juanjo Conti": "Python coder and writer.",
+       "Roberto Alsina": "Nikola father.",
+       "Chuck Smith": "Esperanto speaker"
+   },
+}
 
 
 # If you do not want to display an author publicly, you can mark it as hidden.
@@ -696,7 +697,7 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = []
+REDIRECTIONS = [("/get_gold", " https://app.amikumu.com/get_gold"),("/orighu", " https://app.amikumu.com/orighu")]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:

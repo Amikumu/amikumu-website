@@ -223,7 +223,7 @@
 				
 					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.purchase_email_text_part1.rst
 					
-					
+					{{% email %}}
 						
 					.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.badge_contact_us_part2.rst
 				

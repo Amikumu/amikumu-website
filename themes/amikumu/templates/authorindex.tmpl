@@ -3,16 +3,18 @@
 <%namespace name="feeds_translations" file="feeds_translations_helper.tmpl" import="*"/>
 
 <%block name="content_header">
+<section class="authorindex">
     <header>
         <h1>${title|h}</h1>
         %if description:
         <p>${description}</p>
         %endif
-        <div class="metadata">
+        <!-- div class="metadata">
             ${feeds_translations.feed_link(author, kind)}
             ${feeds_translations.translation_link(kind)}
-        </div>
+        </div-->
     </header>
+    </section>
 </%block>
 
 <%block name="extra_head">

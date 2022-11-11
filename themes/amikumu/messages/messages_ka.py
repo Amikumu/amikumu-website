@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Updates",
     "Write your page here.": "Write your page here.",
     "Write your post here.": "Write your post here.",
-    "about_us": "About us",
     "old posts, page %d": "old posts, page %d",
     "page %d": "page %d",
     "updated": "updated"

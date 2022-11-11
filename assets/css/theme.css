@@ -2029,8 +2029,7 @@ footer#footer div.footer-socialmedia a {
 footer#footer div.footer-socialmedia div.container div.float-left a.footer-privacy {
 	
 	float: none;
-	margin-left: auto;
-	margin-right: auto;
+	text-align: center;
 }
 div.footer-socialmedia ul {
 	margin-left: auto;
@@ -2333,6 +2332,8 @@ width: 100%;
 
 div.statistics-link a {
 	color: #f8f7f7 !important;
+	text-decoration: underline;
+	font-weight: 500;
 }
 footer#footer div.footer-socialmedia i {
 	font-size: 30px;

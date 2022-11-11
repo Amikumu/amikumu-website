@@ -1,5 +1,5 @@
 .. title: Bonvenon al la nova Amikumu.com!
-.. slug: bonvenon-al-la-nova-amikumucom
+.. slug: welcome-to-the-new-amikumucom
 .. date: 2022-11-11 16:22:52 UTC+01:00
 .. tags: 
 .. category: 

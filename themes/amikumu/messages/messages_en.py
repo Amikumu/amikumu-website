@@ -24,7 +24,7 @@ MESSAGES =  {
     "Nothing found.": "Nothing found.",
     "Older posts": "Older posts",
     "Original site": "Original site",
-    "Page does not exist": "The page you are trying to access does not exist. Please use your browser\\'s \"back\" button to return to the previous page.",
+    "Page does not exist": "The page you are trying to access does not exist. Please use your browser's \"back\" button to return to the previous page.",
     "Posted:": "Posted:",
     "Posts about %s": "Posts about %s",
     "Posts by %s": "Posts by %s",

@@ -1818,7 +1818,6 @@ div.footer-socialmedia ul li  {
 	float: right;
 	color: #fff;
 	list-style: none;
-	width: 50px;
 }
 
 div.footer-socialmedia ul li a:hover  {
@@ -2020,12 +2019,18 @@ footer#footer div.footer-socialmedia a {
 	float: right;
 	color: #fff;
 	list-style: none;
-	width: 30px;
 	padding-top: 10px;
 }
 #footer float-left,
 .copyright {
 	padding: 10px;
+}
+
+footer#footer div.footer-socialmedia div.container div.float-left a.footer-privacy {
+	
+	float: none;
+	margin-left: auto;
+	margin-right: auto;
 }
 div.footer-socialmedia ul {
 	margin-left: auto;
@@ -2294,9 +2299,11 @@ button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
 float: none;
 position: absolute;
 right: -50px;
-top: -90px;
+top: -80px;
 
 }
+
+
 
 .nav-item {
 	font-size: small;
@@ -2322,4 +2329,12 @@ div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils
 div.purchase.docutils.container div.wrapper.docutils.container div.badges {
 width: 100%;
 }
+}
+
+div.statistics-link a {
+	color: #f8f7f7 !important;
+}
+footer#footer div.footer-socialmedia i {
+	font-size: 30px;
+	margin-left: 15px;
 }

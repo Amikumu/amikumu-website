@@ -80,6 +80,7 @@
 		
 				.. include:: translations_parts/#{language-file}page_for-organizations.page_meta.complete_analysis_part1.rst
 				
+				
 
 .. container:: organizations-reklamo
 

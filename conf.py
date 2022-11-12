@@ -1025,7 +1025,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = '<div class="float-left copyright"> Contents &copy; <span class="bold trademark">{date} {author}</span> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}</div>'
+CONTENT_FOOTER = '<div class="float-left copyright"> Contents &copy; <span class="bold trademark">{date} {author}</span> - Powered by <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}</div>'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will
@@ -1050,6 +1050,10 @@ CONTENT_FOOTER_FORMATS = {
             "license": LICENSE
         }
     )
+}
+
+ADDITIONAL_METADATA = {
+    'author': ''
 }
 
 # A simple copyright tag for inclusion in RSS feeds that works just

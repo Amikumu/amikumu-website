@@ -2367,3 +2367,7 @@ div.figure img {
 	clear: both;
 	margin-bottom: 15px;
 }
+
+div.wrapper.docutils.container div.lightblue.docutils.container p.float-left-costs {
+	width: auto;
+}

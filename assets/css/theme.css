@@ -443,6 +443,8 @@ div.teamo.docutils.container img.teamano.align-left {
 }
 
 }
+
+
 .hentry,
 .authorindex,
 .postindex,
@@ -2359,4 +2361,9 @@ div.figure.align-right {
 div.figure img {
 		border: 1px solid #333;
 
+}
+
+.postpromonav {
+	clear: both;
+	margin-bottom: 15px;
 }

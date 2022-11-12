@@ -63,3 +63,6 @@ languages.each do |language|
  #   end
 end
 end
+
+template = File.read("page_templates/privacy.eo.rst")
+File.open("pages/privacy.eo.rst", "w") { |f| f.write "#{template}" }

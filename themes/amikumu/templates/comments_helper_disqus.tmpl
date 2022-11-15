@@ -32,13 +32,28 @@
 
 <%def name="comment_link(link, identifier)">
     %if comment_system_id:
-    <a href="${link}#disqus_thread" data-disqus-identifier="${identifier}">${messages("Comments")}</a>
+    <a href="${link}#disqus_thread" data-disqus-identifier="${identifier}">${messages("Comments", lang)}</a>
     %endif
 </%def>
 
 
 <%def name="comment_link_script()">
     %if comment_system_id:
-       <script>var disqus_shortname="${comment_system_id}";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script>
+    
+       <script>
+       var disqus_shortname="${comment_system_id}",
+    	disqus_config = function () {
+       %if lang == 'es':
+            this.language = "es_ES";
+        %else:
+            this.language = "${lang}";
+        %endif
+        };
+        (function() {
+            var dsq = document.createElement('script'); dsq.async = true;
+            dsq.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script>
     %endif
 </%def>

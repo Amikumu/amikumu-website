@@ -371,7 +371,18 @@ cs  </button>
 
 
     
-       <script>var disqus_shortname="amikumu";(function(){var a=document.createElement("script");a.async=true;a.src="https://"+disqus_shortname+".disqus.com/count.js";(document.getElementsByTagName("head")[0]||document.getElementsByTagName("body")[0]).appendChild(a)}());</script><!--End of body content--><div class="clear"></div>
+    
+       <script>
+       var disqus_shortname="amikumu",
+    	disqus_config = function () {
+            this.language = "cs";
+        };
+        (function() {
+            var dsq = document.createElement('script'); dsq.async = true;
+            dsq.src = 'https://' + disqus_shortname + '.disqus.com/count.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script><!--End of body content--><div class="clear"></div>
 	</div>
 
         <footer id="footer"><div class="footer-submenu">

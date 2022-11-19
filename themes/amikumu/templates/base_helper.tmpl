@@ -212,8 +212,8 @@ lang="${lang}">
 
 <%def name="html_translations()">
     <div class="dropdown dropdown-nav">
-  <button class="btn btn-primary dropdown-toggle langref" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-${ lang}  </button>
+  <button class="btn btn-primary dropdown-toggle langref" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">${ lang}  </button>
+
   <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
 %for langname in sorted(translations):
             %if lang == "en":
@@ -227,6 +227,7 @@ ${ lang}  </button>
 
         %if langname != lang:
            <a class="dropdown-item" href="/${ langname + permalink.replace(lang+"/","") }" rel="alternate" hreflang="${langname}">${ messages("LANGUAGE", langname) }</a>
+
         %endif
         %endif
         %endif

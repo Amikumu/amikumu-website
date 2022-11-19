@@ -2338,7 +2338,8 @@ div.purchase div.lightblue {
 
 }
 
-div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
+div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, 
+div.purchase.docutils.container div.wrapper.docutils.container p,
 div.purchase.docutils.container div.wrapper.docutils.container div.badges {
 width: 100%;
 }

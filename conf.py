@@ -162,7 +162,7 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("#download/", "Download"),
+        ("#download", "Download"),
         ("for-organizations/", "For Organizations"),
         ("https://amikumu.redbubble.com/", "Shop"),
         ("posts/", "Blog"),

@@ -1,0 +1,1 @@
+$(document).ready(function(){$('.testi_slider').bxSlider({slideWidth:6000,nextText:'next',prevText:'prev',moveSlides:1,pause:9000,speed:1000,mode:'fade'});});

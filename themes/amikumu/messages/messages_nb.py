@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Updates",
     "Write your page here.": "Skriv siden din her.",
     "Write your post here.": "Skriv innlegget din her.",
-    "about_us": "About us",
     "old posts, page %d": "eldre innlegg, side %d",
     "page %d": "side %d",
     "updated": "updated"

@@ -76,12 +76,11 @@
 		
 		.. container:: statistics-link shadow-text normal                                                               
 
+			.. class:: float-left margin5
 		
-			.. include:: translations_parts/pt/page_for-organizations.page_meta.complete_analysis_part1.rst
-		
-			.. include:: translations_parts/pt/page_for-organizations.page_meta.complete_analysis_part2.rst
-		
-		
+				.. include:: translations_parts/pt/page_for-organizations.page_meta.complete_analysis_part1.rst
+				
+				
 
 .. container:: organizations-reklamo
 
@@ -116,11 +115,19 @@
 				
 					.. include:: translations_parts/pt/page_for-organizations.page_meta.non_profit.rst
 				
+				.. class:: price 				
+				
 				10€
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/pt/page_for-organizations.page_meta.setup_fee.rst
 				
+				.. class:: price 
+				
 				4€ 
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/pt/page_for-organizations.page_meta.additional_month.rst
 				
@@ -130,11 +137,19 @@
 				
 					.. include:: translations_parts/pt/page_for-organizations.page_meta.commercial.rst
 				
+				.. class:: price 
+				
 				20€
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/pt/page_for-organizations.page_meta.setup_fee.rst
 				
+				.. class:: price 
+				
 				10€ 
+				
+				.. class:: price-text
 				
 				.. include:: translations_parts/pt/page_for-organizations.page_meta.additional_month.rst
 			
@@ -144,12 +159,13 @@
 			
 				.. include:: translations_parts/pt/page_for-organizations.page_meta.how_to_purchase.rst
 			
+			.. class:: float-left margin5
 			
-			.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part1.rst
-			
-			help@amikumu.com
-			
-			.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part2.rst
+				.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part1.rst
+				
+				{{% email %}}
+				
+				.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part2.rst
 			
 			.. class:: note
 			
@@ -188,9 +204,9 @@
 					.. image:: /images/badges/jes.png
 				   		:class: float-left
 						
-					.. class:: your-badge
+					.. container:: your-badge
 						
-					.. include:: translations_parts/pt/page_for-organizations.page_meta.your_badge.rst
+						.. include:: translations_parts/pt/page_for-organizations.page_meta.your_badge.rst
 					
 			.. container:: lightblue
 		
@@ -204,9 +220,11 @@
 		
 					.. include:: translations_parts/pt/page_for-organizations.page_meta.how_to_purchase.rst
 			
-				.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part1.rst
+				.. class:: float-left-costs margin5
 				
-				help@amikumu.com
-				
-				.. include:: translations_parts/pt/page_for-organizations.page_meta.badge_contact_us_part2.rst
+					.. include:: translations_parts/pt/page_for-organizations.page_meta.purchase_email_text_part1.rst
+					
+					{{% email %}}
+						
+					.. include:: translations_parts/pt/page_for-organizations.page_meta.badge_contact_us_part2.rst
 				

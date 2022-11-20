@@ -1,1 +1,1 @@
-Amsterdam, The Netherlands
+Amsterdamo, Nederlando

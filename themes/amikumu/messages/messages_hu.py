@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Frissítések",
     "Write your page here.": "Ide írd az oldalad.",
     "Write your post here.": "Ide írd a bejegyzésed.",
-    "about_us": "About us",
     "old posts, page %d": "régi bejegyzések, %d. oldal",
     "page %d": "%d. oldal",
     "updated": "updated"

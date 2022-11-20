@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "تازہ ترین",
     "Write your page here.": "اپنے صفحے کا متن یہاں لکھیں۔",
     "Write your post here.": "اپنی تحریر یہاں لکھیں۔",
-    "about_us": "About us",
     "old posts, page %d": "پرانی تحاریر صفحہ %d",
     "page %d": "صفحہ %d",
     "updated": "تازہ کاری"

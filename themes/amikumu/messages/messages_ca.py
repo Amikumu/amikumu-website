@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Actualitzacions",
     "Write your page here.": "Escriviu la vostra pàgina aquí.",
     "Write your post here.": "Escriviu la vostra entrada aquí.",
-    "about_us": "About us",
     "old posts, page %d": "entrades antigues, pàgina %d",
     "page %d": "pàgina %d",
     "updated": "actualitzat"

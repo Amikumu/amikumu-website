@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Whakahou",
     "Write your page here.": "Tuhia taau whārangi ki konei.",
     "Write your post here.": "Tuhia to pou i konei.",
-    "about_us": "About us",
     "old posts, page %d": "nga pou tawhito, whārangi %d",
     "page %d": "whārangi %d",
     "updated": "whakahoutia"

@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Обновления",
     "Write your page here.": "Создайте Вашу страницу здесь.",
     "Write your post here.": "Создайте Вашу запись здесь.",
-    "about_us": "About us",
     "old posts, page %d": "%d страница со старыми записями",
     "page %d": "%d страница",
     "updated": "updated"

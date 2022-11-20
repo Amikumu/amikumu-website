@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "עדכונים",
     "Write your page here.": "תכתוב את העמוד שלך פה.",
     "Write your post here.": "תכתוב את הפוסט שלך פה.",
-    "about_us": "About us",
     "old posts, page %d": "פוסטים קודמים, דף %d",
     "page %d": "עמוד %d",
     "updated": "updated"

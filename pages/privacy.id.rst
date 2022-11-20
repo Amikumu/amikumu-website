@@ -150,7 +150,7 @@
 	                          <br/>
 
 	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="462f28202906272b2f2d332b336825292b">[email&#160;protected]</a>
+	                          <a href="javascript:location='mailto:\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d')</script></a>
 	                      </p>
 	                      <h1>App Terms &amp; Conditions</h1>
 	                      <p>
@@ -442,9 +442,7 @@
 	                          Rockdale NSW 2216
 	                          <br/>
 
-	                          Email: 
-	                          help@amikumu.com
-	                      </p>
+	                          Email:  <a href="javascript:location='mailto:\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d')</script></a>	                      </p>
 	                  </div>
 	                  <div class="clear"></div>
 	              </div>

@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Inzornaments",
     "Write your page here.": "Scrîf ca la tô pagjine.",
     "Write your post here.": "Scrîf ca il to articul.",
-    "about_us": "About us",
     "old posts, page %d": "articui vecjos, pagjine %d",
     "page %d": "pagjine %d",
     "updated": "inzornât"

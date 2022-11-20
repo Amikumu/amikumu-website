@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "업데이트",
     "Write your page here.": "여기에 페이지를 작성하세요.",
     "Write your post here.": "이곳에 글을 작성하세요.",
-    "about_us": "About us",
     "old posts, page %d": "이전 포스트, 페이지 %d",
     "page %d": "페이지 %d",
     "updated": "updated"

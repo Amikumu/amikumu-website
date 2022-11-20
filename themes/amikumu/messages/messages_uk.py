@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Підписки",
     "Write your page here.": "Напишіть Вашу сторінку тут.",
     "Write your post here.": "Напишить Вашу статтю тут.",
-    "about_us": "About us",
     "old posts, page %d": "старі статті, сторінка %d",
     "page %d": "сторінка %d",
     "updated": "оновлено"

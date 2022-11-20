@@ -1,1 +1,1 @@
-Para un análisis completo de nuestras estadísticas lingüísticas, consulta nuestra
+Para un análisis completo de nuestras estadísticas lingüísticas, consulta nuestra `página de estadísticas <../statistics>`_. 

@@ -1,4 +1,4 @@
-.. title: Amikumu Privateca Politiko & Kondiĉoj de Uzado
+.. title: Privateca Politiko kaj Kondiĉoj de Uzado
 .. slug: privacy-terms
 .. date: 2022-09-21 23:00:00 UTC-03:00
 .. tags: 
@@ -12,439 +12,274 @@
 
 	.. class:: header-h1
 
-		.. include:: translations_parts/eo/page_privacy-terms.page_title.rst
-
+		Privateca Politiko kaj Kondiĉoj de Uzado
 
 	.. raw:: html
 	
 	    <section class="main_content main_content_standard main_content_page">
 	              <div class="container">
 	                  <div class="inner">
-	                      <h1>Privacy Policy</h1>
-	                      <p>
-	                          This Privacy Policy sets out the commitment of Amikumu Pty Ltd (ABN 90 618 666 916), its successors and assignees (referred to as 
-	                          <strong>we</strong>
-	                          , 
-	                          <strong>us</strong>
-	                           and 
-	                          <strong>our</strong>
-	                          ) to protecting the privacy of your personal information that we collect through this website 
-	                          <a href="http://www.amikumu.com/">www.amikumu.com</a>
-	                           (
-	                          <strong>Site</strong>
-	                          ), the Amikumu mobile application (
-	                          <strong>App</strong>
-	                          ) or directly from you, being the person, organisation or entity that uses our Site, App or services (referred to as 
-	                          <strong>you</strong>
-	                           or 
-	                          <strong>your</strong>
-	                          ).
-	                      </p>
-	                      <p>Please read this Privacy Policy carefully. Please contact us if you have any questions – our contact details are at the end of this Privacy Policy.</p>
-	                      <p>You providing us with personal information indicates that you have had sufficient opportunity to access this Privacy Policy and that you have read and consented to it.</p>
-	                      <p>If you do not wish to provide personal information to us, then you do not have to do so, however it may affect your use of this Site or any products and services offered on it.</p>
-	                      <h2>1. Collection of personal information</h2>
-	                      <p>
-	                          <strong>Personal information:</strong>
-	                           The type of information we collect may include:
-	                      </p>
-	                      <ul>
-	                          <li>name;</li>
-	                          <li>image;</li>
-	                          <li>email address;</li>
-	                          <li>geolocation;</li>
-	                          <li>gender;</li>
-	                          <li>language(s) spoken;</li>
-	                          <li>employment details;</li>
-	                          <li>demographic information such as postcode;</li>
-	                          <li>preferences and opinions; and</li>
-	                          <li>any other information requested on this Site, App or otherwise requested by us or provided by you.</li>
-	                      </ul>
-	                      <p>
-	                          <strong>Your use of our Site or App:</strong>
-	                           As with most online businesses, we may log information about your access and use of our Site or App, including through the use of Internet cookies, your communications with our Site or App, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
-	                      </p>
-	                      <p>
-	                          <strong>Your opinion and feedback:</strong>
-	                           We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback. Providing this information is optional to you.
-	                      </p>
-	                      <p>If we receive your personal information from third parties, we will protect it as set out in this Privacy Policy.</p>
-	                      <h2>2. Collection and use of personal information</h2>
-	                      <p>We collect and use the information for purposes including:</p>
-	                      <ul>
-	                          <li>to create your account on our Site and App;</li>
-	                          <li>to provide our services;</li>
-	                          <li>to contact and communicate with you;</li>
-	                          <li>for internal record keeping;</li>
-	                          <li>for market research and business development including website development;</li>
-	                          <li>for marketing including direct marketing;</li>
-	                          <li>to run competitions or offer additional benefits to you;</li>
-	                          <li>to send you promotional information about third parties that we think may be of interest to you; and</li>
-	                          <li>for data analytics purposes.</li>
-	                      </ul>
-	                      <h2>3. Disclosure of personal information to third parties</h2>
-	                      <p>We may disclose personal information to:</p>
-	                      <ul>
-	                          <li>credit reporting agencies and courts, tribunals and regulatory authorities where customers fail to pay for goods or services provided by us to them;</li>
-	                          <li>courts, tribunals, regulatory authorities and law enforcement officers as required by law, in connection with any actual or prospective legal proceedings, or in order to establish, exercise or defend our legal rights;</li>
-	                          <li>third parties, including agents or sub-contractors, who assist us in providing information, products, services or direct marketing to you. We also use third party cloud storage service providers to host our data. This may include parties located, or that store data, outside of Australia including in Germany; and</li>
-	                          <li>third parties to collect and process data including Google Analytics and other similar businesses. This may include parties that store data outside of Australia.</li>
-	                      </ul>
-	                      <p>Where we disclose your personal information to third parties for these purposes, we will request that the third party follow this Privacy Policy regarding handling of your personal information.</p>
-	                      <p>If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible by law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith.</p>
-	                      <h2>4. our rights and controlling your personal information</h2>
-	                      <p>
-	                          <strong>Choice and consent:</strong>
-	                           Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes.
-	                      </p>
-	                      <p>
-	                          <strong>Your provision of third party information:</strong>
-	                           If you provide us with third party personal information then you warrant to us that you have the third party’s consent to provide this.
-	                      </p>
-	                      <p>
-	                          <strong>Restrict:</strong>
-	                           You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us at the email address listed in this Privacy Policy.
-	                      </p>
-	                      <p>
-	                          <strong>Access:</strong>
-	                           You may request details of personal information that we hold about you, in certain circumstances set out in the Privacy Act 1988 (Cth). An administrative fee may be payable for the provision of information. We may refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
-	                      </p>
-	                      <p>
-	                          <strong>Correction:</strong>
-	                           If you believe that any information we hold about you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us by email. We rely in part upon customers advising us when their personal information changes. We will respond to any request within a reasonable time. We will endeavour to promptly correct any information found to be inaccurate, incomplete or out of date.
-	                      </p>
-	                      <p>
-	                          <strong>Complaints:</strong>
-	                           If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach, please contact us by email setting out details of the breach. We will promptly investigate your complaint and respond to you in writing setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
-	                      </p>
-	                      <p>
-	                          <strong>Unsubscribe:</strong>
-	                           To unsubscribe from our e-mail database, or opt out of communications, please contact us using the details below.
-	                      </p>
-	                      <h2>5. Storage and Security</h2>
-	                      <p>We are committed to ensuring that the information you provide is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.</p>
-	                      <p>No information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.</p>
-	                      <h2>6. Cookies &amp; Web Beacons</h2>
-	                      <p>We may use cookies on this Site from time to time. Cookies are text files placed in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information. However, once you choose to furnish the Site with personally identifiable information, this information may be linked to the data stored in the cookie.</p>
-	                      <p>We may use web beacons on this Site from time to time. Web beacons or clear.gifs are small pieces of code placed on a web page to monitor the visitors’ behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.</p>
-	                      <p>
-	                          We may use Google Analytics to collect and process data. To find out how Google uses data when you use third party websites or applications, please see 
-	                          <a href="https://www.google.com/policies/privacy/partners/">www.google.com</a>
-	                           or any other URL Google may use from time to time.
-	                      </p>
-	                      <h2>7. Links to other websites</h2>
-	                      <p>Our Site and App may contain links to other websites of interest. We do not have any control over those websites. We are not responsible for or liable for the protection and privacy of any information which you provide whilst visiting such websites, and such websites are not governed by this Privacy Policy.</p>
-	                      <h2>8. Amendments</h2>
-	                      <p>This Privacy Policy may be amended, including with changes, additions and deletions, from time to time in our sole discretion. Your continued use of our Site or App following any amendments indicates that you accept the amendments. You should check this Privacy Policy regularly, prior to providing personal information, to ensure you are aware of any changes, and only proceed to provide personal information if you accept the new Privacy Policy.</p>
-	                      <p>
-	                          <strong>For any questions or notice, please contact our Privacy Officer at:</strong>
-	                      </p>
-	                      <p>
-	                          Amikumu Pty Ltd (ABN 90 618 666 916)
-	                          <br/>
-
-	                          Unit 4, 635 – 637 Princes Highway
-	                          <br/>
-
-	                          Rockdale NSW 2216
-	                          <br/>
-
-	                          Email: 
-	                          <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="462f28202906272b2f2d332b336825292b">[email&#160;protected]</a>
-	                      </p>
-	                      <h1>App Terms &amp; Conditions</h1>
-	                      <p>
-	                          These Terms of use (
-	                          <strong>Terms</strong>
-	                          ) govern your use of Amikumu, the social mobile App (
-	                          <strong>App</strong>
-	                          ). Use of this App constitutes acceptance of these Terms, as may be revised by Amikumu Pty Ltd (ABN 90 618 666 916) (referred to as “
-	                          <strong>Amikumu</strong>
-	                          ”, “
-	                          <strong>we</strong>
-	                          ”, “
-	                          <strong>us</strong>
-	                          ” or “
-	                          <strong>our</strong>
-	                          ”) from time to time, which constitute a binding agreement between you and us governing the use of the App.
-	                      </p>
-	                      <p>By downloading, installing, accessing or using this App, you acknowledge you have read, understand and agree to be bound by these Terms.  If you do not agree to these Terms you should uninstall and/or cease to access and use this App immediately.</p>
-	                      <p>
-	                          The terms you and your refer to users of the App (each a 
-	                          <strong>User</strong>
-	                          ).
-	                      </p>
-	                      <h2>1. Eligibility and Basis of Use</h2>
-	                      <ol>
-	                          <li>The App may only be used by individuals aged eighteen (18) years or older.</li>
-	                          <li>Using the App may be prohibited or restricted in certain countries.  If you use the App outside of Australia, you are responsible for complying with the laws and regulations of the territory from which you access or use the App.</li>
-	                      </ol>
-	                      <h2>2. Additional Terms and Conditions</h2>
-	                      <p>These Terms supplement and incorporate:</p>
-	                      <ol>
-	                          <li>
-	                              The Amikumu policies and terms including the privacy policy posted at 
-	                              <a href="https://www.amikumu.com/">www.amikumu.com</a>
-	                               (
-	                              <strong>Website</strong>
-	                              );
-	                          </li>
-	                          <li>
-	                              the Apple, Inc. Terms and Conditions including, without limitation, the Licensed App End User License Agreement provided therein (
-	                              <strong>Apple Terms</strong>
-	                              );
-	                          </li>
-	                          <li>
-	                              the Facebook Terms and Conditions including, without limitation, the Facebook Terms of Service (
-	                              <strong>Facebook Terms</strong>
-	                              ); and
-	                          </li>
-	                          <li>
-	                              the Google Play Terms of Service (
-	                              <strong>Google Play Terms</strong>
-	                              ).
-	                          </li>
-	                      </ol>
-	                      <p>If any of the provisions of the Apple Terms, Google Play Terms or any applicable Amikumu policies conflict with these Terms, these Terms have priority, solely to the extent such Terms apply to the App.</p>
-	                      <h2>3. How the App Works</h2>
-	                      <ol>
-	                          <li>
-	                              The App provides a directory and map view of people within a geographical radius from you who speak foreign languages (
-	                              <strong>Users</strong>
-	                              ). Users can browse details about other Users including language spoken, level of fluency and location.
-	                          </li>
-	                          <li>
-	                              The App has many features and allows you to:
-	                              <ol>
-	                                  <li>communicate with other Users via the instant messaging service;</li>
-	                                  <li>block Users;</li>
-	                                  <li>indicate your location anywhere in the world and make that location visible to any User;</li>
-	                                  <li>organise events;</li>
-	                                  <li>make in App purchases.</li>
-	                              </ol>
-	                          </li>
-	                          <li>Each User acknowledges and agrees that the App is an online introductory platform only, and that Amikumu’s responsibilities are limited to facilitating the availability of the App.</li>
-	                          <li>Each User acknowledges that by being logged in to the App, Amikumu may use geolocation services to determine your location.</li>
-	                      </ol>
-	                      <h2>4. Registration</h2>
-	                      <ol>
-	                          <li>
-	                              Access to the App will require a User to register for an account (
-	                              <strong>Account</strong>
-	                              ).
-	                          </li>
-	                          <li>Basic information is required when registering for an Account. Each User is required to provide certain information including name, email address and password or sign in using their existing third party social media account as identified on the Site, and select a username and password.</li>
-	                          <li>Each User agrees to provide accurate, current and complete information during the registration process and update such information to keep it accurate, current and complete. Amikumu reserves the right to suspend or terminate any Account and a User’s access to the App if any information provided to Amikumu proves to be inaccurate, not current or incomplete.</li>
-	                          <li>It is the User’s responsibility to keep its Account details and password confidential. The User is liable for all activity on its Account. The User agrees that it will not disclose its password to any third party and that it will take sole responsibility for any activities or actions under its Account, whether or not it has authorised such activities or actions. The User will change its password regularly.</li>
-	                          <li>The User will immediately notify Amikumu of any unauthorised use of its Account.</li>
-	                      </ol>
-	                      <h2>5. Copyright and Intellectual Property</h2>
-	                      <ol>
-	                          <li>
-	                              Our App contains material which is owned by or licensed to us (or our affiliates and/or third party licensors as applicable), and is protected by Australian and international laws, including but not limited to the trademarks, trade names, software, Content, design, images, graphics, layout, appearance and look of the App.  Amikumu, the Amikumu logo, and other Amikumu material used in connection with the App are unregistered or registered trademarks of Amikumu (collectively 
-	                              <strong>Amikumu Marks</strong>
-	                              ).
-	                          </li>
-	                          <li>Intellectual Property includes all code, algorithms, copyright, fees, pricing, registered and unregistered Amikumu Marks, logos, slogans, designs, audio tracks, information, images, photographs, patents, know-how, trade secrets, ideas, methods, diagrams, drawings, databases, notes, documents, confidential information and any other proprietary or industrial rights relating to Amikumu (in each case whether registered or unregistered or whether capable of registration), together with any Apps for registration and any rights to registration or renewal of such rights anywhere in the world and whether created before or after the date of these Terms; goodwill in the business and App; trade, business company or organisation names; internet domain names; and Content, images and layout.</li>
-	                          <li>You agree that, as between you and us, we own all Intellectual Property rights in the App, and that nothing in these Terms constitutes a transfer of any Intellectual Property rights.  We own the Intellectual Property including copyright which subsists in all creative and literary works displayed in the App.  The App is protected by copyright, trademark, patent, trade secret, international treaties, laws and other proprietary rights, and also may have security components that protect digital information only as authorised by Amikumu or the owner of the Content.</li>
-	                          <li>Other trademarks, service marks, graphics and logos used in connection with the App are the trademarks of their respective owners (collectively Third Party Marks).</li>
-	                          <li>The Intellectual Property, Amikumu Marks and Third Party Marks may not be copied, imitated or used, in whole or in part, without the prior written permission of Amikumu or the applicable trademark holder.</li>
-	                          <li>Users do not obtain any interest or licence in the Intellectual Property, Amikumu Marks or Third Party Marks without the prior written permission of Amikumu or the applicable trademark holder. Users may not do anything which interferes with or breaches the Intellectual Property rights.</li>
-	                      </ol>
-	                      <h2>6. User Licence</h2>
-	                      <ol>
-	                          <li>
-	                              Subject to these Terms, Amikumu grants the User a personal, non-exclusive, non-transferable, limited and revocable licence to use the App for your own personal and/or non-commercial use only on a computer or mobile device (each a 
-	                              <strong>Device</strong>
-	                              ) owned or controlled by the User as permitted in accordance with these Terms (
-	                              <strong>User Licence</strong>
-	                              ), and not to use the App in any other way or for any other purpose, apart from local fair dealing legislation.  All other uses are prohibited without our prior written consent.
-	                          </li>
-	                          <li>The right to use the App is licensed to you and is not being sold to you.  You have no rights in the App other than to use it in accordance with these Terms.</li>
-	                          <li>These Terms and User Licence govern any updates to, or supplements or replacements for, this App, unless separate terms accompany such updates, supplements or replacements, in which case the separate terms will apply.</li>
-	                      </ol>
-	                      <h2>7. User Warranties</h2>
-	                      <ol>
-	                          <li>By using our App, you warrant that you possess the legal capability and authority to enter into the Terms and to use the App in accordance with the Terms; you are at least 18 years old; any registration information you submit is truthful and accurate and you will maintain the accuracy of such information; and your use of our App does not violate any applicable law or regulation.</li>
-	                          <li>As a condition of your use of our App, you agree to abide by the Terms; not to provide the App to any third party; that Amikumu has the right to refuse you any and all current or future use of the App and that Amikumu reserves the right to include or exclude entry to, or remove a User from the App.</li>
-	                      </ol>
-	                      <h2>8. Fees and Payment</h2>
-	                      <ol>
-	                          <li>It is free to set up your Account as a User.</li>
-	                          <li>If a User is willing to pay the fees set out on the Website, certain features of the App will be made available to that User. The special features of the App and our pricing structure are set out on the App or Website and may be amended from time to time in our sole discretion.</li>
-	                      </ol>
-	                      <h2>9. User Information and Security</h2>
-	                      <ol>
-	                          <li>
-	                              The App may require the transmission of information provided by the User including User names and passwords, addresses, e-mail addresses and the User’s geographic location (
-	                              <strong>User Information</strong>
-	                              ).
-	                          </li>
-	                          <li>If the User uses such App functionality, the User consents to the transmission of User Information to Amikumu, its agents and/or service providers and authorises Amikumu, its agents and/or service providers to record, process and store such User Information as necessary for the App functionality and for purposes described in our Privacy Policy on our Website.</li>
-	                          <li>User Information is stored securely.  If we are aware of a breach of security, we will notify affected users and we will cooperate with authorities regarding the breach.</li>
-	                          <li>The User is solely responsible for maintenance of the confidentiality and security of any User Information transmitted from or stored on a Device for the purposes of the App, for all transactions and other activities in the User’s name, whether authorised or unauthorised.</li>
-	                          <li>The User agrees to immediately notify us of any unauthorized transactions or breach of security associated with the App. We are not responsible for any losses arising out of the loss or theft of User Information transmitted from or stored on a Device or from unauthorized or fraudulent transactions associated with the App.</li>
-	                      </ol>
-	                      <h2>10. User Intellectual Property</h2>
-	                      <ol>
-	                          <li>
-	                              The App allows Users to submit biographical information, profile photos, location data, and other communications (collectively, the 
-	                              <strong>User Submissions</strong>
-	                              ). The User Submissions may be hosted, shared, and/or published as part of the App, and may be visible to other Users who are within certain radial distance of your geo-location and which you have not expressly blocked. Direct messages, notifications and invitations that you send directly to other Users (collectively 
-	                              <strong>Private Messages</strong>
-	                              ) will only be viewable by those User(s) you directly send such Private Messages; but User Submissions may be globally viewed by other Users within certain distance from your geo-location, unless the User is blocked by you.
-	                          </li>
-	                          <li>
-	                              In connection with Status Submissions, you warrant that:
-	                              <ol>
-	                                  <li>you own or have the necessary licences, rights, consents, and permissions to use, and you authorise Amikumu to use, all copyright, patent, trademark, trade secret, or other proprietary rights in and to any and all User Submissions to enable inclusion and use of the User Submissions in the manner contemplated by the App and these Terms; and</li>
-	                                  <li>you have the written consent, release, and/or permission of each and every identifiable individual person in the User Submission to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of the User Submissions in the manner contemplated by the App and these Terms.</li>
-	                              </ol>
-	                          </li>
-	                          <li>By submitting the User Submissions to the App, you hereby grant Amikumu a worldwide, non-exclusive, royalty-free, sublicenseable and transferable license to use, reproduce, distribute, prepare derivative works of, display, and perform the User Submissions in connection with the App and Amikumu business, including without limitation for promoting and redistributing part or all of the App (and derivative works thereof) in any media formats and through any media channels. You also hereby grant each recipient of your User Submission a non-exclusive licence to access your User Submissions through the App. The foregoing licence granted by you for each User Submission terminates once you remove or delete such User Submission from the App.</li>
-	                      </ol>
-	                      <h2>11. Acceptable Use and Prohibited Use</h2>
-	                      <p>Use by the User of the App and any Content and User Information transmitted in connection with the App is limited to the contemplated functionality. The User agrees that his or her use of the App and any Content, User Submissions and Private Messages must comply with these Terms and the Amikumu Policies.  In no event may the App be used in a manner that:</p>
-	                      <ol>
-	                          <li>harasses, abuses, stalks, threatens, defames or otherwise interfere, infringe or violate the rights of any other party (including but not limited to rights of publicity or other proprietary rights);</li>
-	                          <li>is unlawful, fraudulent or deceptive;</li>
-	                          <li>uses technology or other means to access the App, Website or Content that is not authorized by us;</li>
-	                          <li>uses or launch any automated system, including without limitation, robots, spiders, or offline readers, to access the App, Website or Content;</li>
-	                          <li>attempts to or tampers with, hinder or modify the App, attempts to introduce viruses or any other computer code, files or programs that interrupt, destroy or limit the functionality, knowingly transmit viruses or other disabling features, damages or interfere with the App including but not limited to the use of trojan horses, viruses, or piracy or programming routines that may damage or interfere with the App;</li>
-	                          <li>attempts to gain unauthorised access to our computer network or user accounts;</li>
-	                          <li>encourages conduct that would constitute a criminal offense, or that gives rise to civil liability;</li>
-	                          <li>violates these Terms;</li>
-	                          <li>attempts to damage, disable, overburden, or impair our servers or networks;</li>
-	                          <li>fails to comply with applicable third party Terms; or</li>
-	                          <li>
-	                              facilitates or assists another person to do any of the above acts.
-	                              <br/>
-
-	                              You must not:
-	                          </li>
-	                          <li>
-	                              post, upload, publish, submit or transmit any Content that:
-	                              <ol>
-	                                  <li>infringes, misappropriates or violates a third party’s patent, copyright, trademark, trade secret, moral rights or other intellectual property rights or rights of publicity or privacy;</li>
-	                                  <li>is fraudulent, false, misleading or deceptive;</li>
-	                                  <li>requests money from, or is intended to otherwise defraud other Users;</li>
-	                                  <li>denigrates Amikumu or the App;</li>
-	                                  <li>transmits junk mail, chain letter, spam mail, spamming, phishing, trolling or other unauthorised mass transmission.</li>
-	                                  <li>contains videos, images or media content of another person without his or her permission (or if such person is a minor, without the consent of the minor’s legal guardian);</li>
-	                                  <li>is defamatory, abusive, obscene, pornographic, profane, vulgar, offensive or in any way consists of sexual harassment;</li>
-	                                  <li>promotes discrimination, bigotry, racism, hatred, harassment or harm against any individual or group;</li>
-	                                  <li>is violent or threatening or promotes violence or actions that are threatening or intimidating to any other person; or</li>
-	                                  <li>promotes illegal or harmful activities or substances.</li>
-	                              </ol>
-	                          </li>
-	                          <li>print, publish, modify, link to or distribute any Content from the App or any other documentation that we provide to you, unless we have authorised you in writing;</li>
-	                          <li>breach copyright or Intellectual Property rights, including but not limited to, that you must not republish, copy, distribute, transmit or publicly display material from our App; alter or modify any of the code or the material on the App;</li>
-	                          <li>cause any of the App to be framed or embedded in another website;</li>
-	                          <li>use the App for commercial purposes;</li>
-	                          <li>collect or harvest any personally identifiable information, including phone number, from the App, nor to use the communication systems provided by the App for any commercial solicitation or spam purposes;</li>
-	                          <li>modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell or re-sell any App; or</li>
-	                          <li>facilitate or assist another person to do any of the above acts.</li>
-	                      </ol>
-	                      <p>
-	                          Any use of the App in any other manner, including, without limitation, resale, transfer, modification or distribution of the App or text, pictures, music, barcodes, video, data, hyperlinks, displays and other content associated with the App (
-	                          <strong>Content</strong>
-	                          ) is prohibited.
-	                      </p>
-	                      <p>We reserve the right, in our sole discretion, to terminate any User Licence, remove Content or assert legal action with respect to Content or use of the App that we reasonably believe is or might be in violation of these Terms or Amikumu Policies.  Our failure or delay in taking such actions does not constitute a waiver of our rights to enforce these Terms.</p>
-	                      <p>Upon termination of the Terms, we have no further obligation to you, and may cease to provide the App to you.  The accrued rights, obligations and remedies of the parties are not affected by the termination of the Terms.</p>
-	                      <h2>12. Consumer Guarantee</h2>
-	                      <ol>
-	                          <li>Our App comes with consumer guarantees under applicable local consumer law that cannot be excluded.</li>
-	                          <li>Certain legislation, including Australian Consumer Law, may imply warranties or conditions or impose obligations upon us which cannot be excluded, restricted or modified or cannot be excluded, restricted or modified except to a limited extent. These Terms must be read subject to these statutory provisions. If these statutory provisions apply, to the extent to which Amikumu are able to do so, the liability of Amikumu and its affiliates under those provisions will be limited, at its option to: (1) in the case of goods, the replacement of the goods or the supply of equivalent goods; the repair of the goods; the payment of the cost of replacing the goods or of acquiring equivalent goods; or the payment of the cost of having the goods repaired; and (2) in the case of services, the supplying of the services again; or the payment of the cost of having the services supplied again.</li>
-	                      </ol>
-	                      <h2>13. Disclaimers</h2>
-	                      <ol>
-	                          <li>We provide the App to the User as is, and the User is using the App at his or her own risk.</li>
-	                          <li>To the fullest extent allowable under applicable law, we disclaim all warranties, representations and conditions, whether express or implied, including any warranties, representations and conditions that the App is merchantable, of satisfactory quality, reliable, accurate, complete, suitable or fit for a particular purpose or need, non-infringing or free of defects or errors or able to operate on an uninterrupted basis, or that the use of the App by the User is in compliance with laws applicable to the User or that User Information transmitted in connection with the App (including as part of online payment) will be successfully, accurately or securely transmitted.</li>
-	                          <li>We make no warranties or representations, express or implied, as to the timeliness, accuracy, quality, completeness or existence of the Content and information in the App, technical accessibility, fitness or flawlessness of the App, or that your use of the App will not infringe rights of third parties.</li>
-	                          <li>Amikumu assumes no responsibility for a User’s compliance with any applicable laws, rules and regulations.</li>
-	                          <li>Amikumu cannot and does not control the condition, legality or suitability of any User. Users are responsible for determining the identity and suitability of Users that they contact via the App.</li>
-	                          <li>Amikumu accepts no responsibility for and makes no representations or warranties to you or to any other person as to the reliability, accuracy or completeness of the information contained on the App or provided by the User. Amikumu disclaims any and all liability related to any and all Users, Profiles, User Submissions and Private Messages.</li>
-	                          <li>By using the App, you agree that any legal remedy or liability that you seek to obtain for actions or omissions of other Users or other third parties will be limited to a claim against the User or other third party who caused you harm. We encourage you to communicate directly with the relevant User on the App regarding any communications or arrangements made between you and to resolve any dispute between you.</li>
-	                          <li>The User agrees to take all necessary precautions in any interaction with other Users. Any communication or interaction between you and another User either via or outside of the App (including but not limited to meeting such User in person whether or not at a particular venue, providing money to such User or exchanging personal information with such User) is conducted at your own risk.</li>
-	                          <li>
-	                              We take the safety of our Users very seriously. When interacting with another User, we recommend that you exercise your discretion and judgment, remain cautious and do not disclose your personal and/or financial information to them. If you are meeting a User in person, we recommend that you do the following, as a minimum:
-	                              <ol>
-	                                  <li>conduct your own background research in respect of that User;</li>
-	                                  <li>meet in an open, public place;</li>
-	                                  <li>provide a friend or family member with full details of your meeting arrangements;</li>
-	                                  <li>bring at least one other adult with you to the meeting;</li>
-	                                  <li>do not drink alcohol before or during the meeting;</li>
-	                                  <li>arrange your own transport to and from the meeting and do not accept the other User’s transport arrangements.</li>
-	                              </ol>
-	                          </li>
-	                      </ol>
-	                      <h2>14. Limitation of Liability</h2>
-	                      <ol>
-	                          <li>
-	                              As a condition of using the App, and in consideration of the App provided by us, we exclude and you agree to the fullest extent allowable under applicable law, in no event shall Amikumu and its parent or related bodies corporate (i) be liable to the User or any third party with respect to use of the App, including without limitation participation in online payment; and (ii) be liable to the User or any third party for any direct, indirect, special, incidental, punitive, consequential, or exemplary damages, including, without limitation, damages for loss of goodwill, lost profits, loss of earnings, loss of business opportunities, loss, theft or corruption of User Information, the inability to use the App or device failure or malfunction, however arising (including negligence) or otherwise arising in connection with:
-	                              <ol>
-	                                  <li>the use of the App by you, including but not limited to damages resulting from or arising from your reliance on the App, or the interruptions, errors, defects, delays in operation or other conduct by third parties, or any failure of performance of the App;</li>
-	                                  <li>any unauthorised access to or use of our secure servers and /or any personal information or financial information stored therein;</li>
-	                                  <li>any errors or omissions in any Content posted, emailed, transmitted or otherwise made available or any offensive , defamatory or illegal Content;</li>
-	                                  <li>the disclosure of any of your information;</li>
-	                                  <li>the breach, or alleged breach, of any warranty, express or implied, relating to these Terms or any transaction; or</li>
-	                                  <li>Government restriction, strikes, war, any natural disaster or force majeure, or any other condition beyond our reasonable control.</li>
-	                              </ol>
-	                          </li>
-	                          <li>To the fullest extent allowable under applicable law, the User’s sole remedy is to cease use of the App or to cease participation in online payment.</li>
-	                          <li>To the fullest extent allowable under applicable law, (but subject to the maximum extent permitted by applicable law) the maximum aggregate liability of Amikumu and its parent or other affiliated companies to a User, whether in contract, tort (including negligence), strict liability or other theory, arising out of or relating to the use of or inability to use the App, is the amount that the User pays, if any, to Amikumu for access to or use of the App during the six months period immediately prior to the event giving rise to such liability or one hundred dollars (AUD$100) if no such payments have been made, as applicable.</li>
-	                          <li>The limitation of liability reflects the allocation of risk between the parties. The limitations specified in this section will survive and apply even if any limited remedy specified in these terms is found to have failed of its essential purpose. The limitations of liability provided in these Terms inure to the benefit of Amikumu.</li>
-	                      </ol>
-	                      <h2>15. Indemnification</h2>
-	                      <ol>
-	                          <li>By using the App, you agree to defend and indemnify and hold us (and our parent, related bodies corporate, officers, directors, contractors, employees and agents) harmless from and against any claims, actions, suits, demands, damages, liabilities, costs or expenses (including legal costs and expenses on a full indemnity basis), including in tort, contract or negligence, arising out of or connected to your use of or access to the App; any breach by you of these Terms; any wilful, unlawful or negligent act or omission by you; and any violation by you of any applicable laws or the rights of any third party.</li>
-	                          <li>We reserve the right to assume the exclusive defence and control of any matter otherwise subject to indemnification by the User, in which event the User will cooperate in asserting any available defences.</li>
-	                          <li>This defence and indemnification obligation will survive these Terms and your use of the App. These Terms, and any rights and licences granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction.</li>
-	                      </ol>
-	                      <h2>16. General</h2>
-	                      <ol>
-	                          <li>
-	                              <strong>Amendments:</strong>
-	                               Amikumu reserves the right to amend, change or modify these Terms or any other Amikumu Policies related to use of the App at any time and at its sole discretion by posting revisions on the Website. Continued use of the App following the posting of these changes or modifications will constitute acceptance of such changes or modifications.  If any change or modification is unacceptable to you, you can choose to cease to use our App.
-	                          </li>
-	                          <li>
-	                              <strong>Governing Law and Jurisdiction:</strong>
-	                               This App is governed by the laws of New South Wales and the Commonwealth of Australia. Each party irrevocably and unconditionally submits to the exclusive jurisdiction of the courts operating in New South Wales.
-	                          </li>
-	                          <li>
-	                              <strong>Severability:</strong>
-	                               If any provision of these Terms shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and shall not affect the validity and enforceability of any remaining provisions, which continue in full force and effect.
-	                          </li>
-	                          <li>
-	                              <strong>Disputes:</strong>
-	                               You agree to use your best endeavours to resolve any dispute arising out of or relating to these Terms, with us, prior to resorting to any external dispute resolution process.  Please notify us in writing of any dispute you may have.
-	                          </li>
-	                          <li>
-	                              <strong>Entire Agreement and Understanding:</strong>
-	                               In respect of the subject matter of the Terms, the Terms contain the entire understanding between the Parties. Any previous oral and written communications, representations, warranties or commitments are superseded by the Terms and do not affect the interpretation or meaning of the Terms and each of the Parties has relied entirely on its own enquiries before entering into the Terms.
-	                          </li>
-	                          <li>
-	                              <strong>Termination:</strong>
-	                               The Terms are effective until terminated by us, which we may do at any time and without notice to you. In the event of termination, all restrictions imposed on you by the Terms and limitations of liability set out in the Terms will survive.
-	                          </li>
-	                      </ol>
-	                      <p>
-	                          <strong>For any questions or notice, please contact us at:</strong>
-	                      </p>
-	                      <p>
-	                          Amikumu Pty Ltd (ABN 90 618 666 916)
-	                          <br/>
-
-	                          Unit 4, 635 – 637 Princes Highway
-	                          <br/>
-
-	                          Rockdale NSW 2216
-	                          <br/>
-
-	                          Email: 
-	                          help@amikumu.com
-	                      </p>
+						  <div class="inner esperanto">
+						  <b>En la okazoj, kiam la esperantaj kaj anglaj tekstoj de la Privateca Politiko (angle: <a href="/privacy-terms/" target="_blank">Privacy Policy</a>) aŭ Kondiĉoj de Uzado (angle: <a href="/privacy-terms/" target="_blank">App Terms &amp; Conditions</a>) ebligus malsamajn interpretojn, validus nur la angla originalo.</b>
+						  <h1>Privateca Politiko</h1>
+						  <p>En ĉi tiu Privateca politiko estas priskribita la devontigo de Amikumu Pty Ltd ABN 90 618 666 916 (aŭstralia entreprennumero), komercantaj kiel Amikumu, ĝiaj sekvantaj kaj rajtigitaj organizoj (indikitaj kiel <strong>ni</strong> aŭ <strong>nia</strong>) al la protektado de la privateco de viaj personaj informoj, kiujn ni kolektas per la retejo www.amikumu.com (<strong>Retejo</strong>), la poŝkomputila apo Amikumu (<strong>Apo</strong>) aŭ akiras rekte de vi, t.e. la organizo aŭ la natura aŭ jura persono uzanta niajn Retejon, Apon aŭ servojn (indikita kiel <strong>vi</strong> aŭ <strong>via</strong>).</p>
+						  <p>Atente legu ĉi tiun Privatecan politikon. Kontaktu nin se vi havas demandojn pri ĝi. Niaj kontaktinformoj troviĝas en la fino de ĉi tiu Privateca politiko.</p>
+						  <p>Transdonante al ni viajn personajn informojn, vi montras, ke vi havis sufiĉajn eblojn aliri ĉi tiun Privatecan politikon, kaj ke vi legis kaj akceptis ĝin.</p>
+						  <p>La transdonado de personaj informoj al ni ne estas deviga, sed ne farante tion, vi povas negative influi vian uzadon de ĉi tiu Retejo aŭ de produktoj kaj servoj ofertitaj en ĝi.</p>
+						  <h2>1. Kolektado de personaj informoj</h2>
+						  <p><strong>Personaj informoj</strong>: La speco de informoj kiujn ni kolektas, povas esti:</p>
+						  <ul>
+						  <li>nomo;</li>
+						  <li>bildo;</li>
+						  <li>retadreso;</li>
+						  <li>geoloko;</li>
+						  <li>sekso;</li>
+						  <li>parolata(j) lingvo(j);</li>
+						  <li>profesio;</li>
+						  <li>demografiaj informoj kiel poŝtkodo;</li>
+						  <li>preferoj kaj opinioj; kaj</li>
+						  <li>ĉiaj aliaj informoj petitaj de ni en ĉi tiu Retejo, en la Apo aŭ alimaniere, aŭ transdonitaj de vi.</li>
+						  </ul>
+						  <p><strong>Via uzado de nia Retejo aŭ Apo</strong>: Kiel plej multaj aliaj retaj entreprenoj ni povas registri informojn pri viaj vizitado kaj uzado de ĉi tiu Retejo aŭ Apo, interalie uzante kuketojn, pri via komunikado kun nia Retejo aŭ Apo, pri la speco de foliumilo kiun vi uzas, pri la speco de operaciumo kiun vi uzas, kaj pri la domajna nomo de via provizanto de retservoj.</p>
+						  <p><strong>Viaj opinioj kaj reagoj</strong>: Ni povas kontakti vin por volontule respondi al demandaroj, enketoj aŭ merkataj esploroj por ekscii viajn opiniojn kaj reagojn. La transdonado de ĉi tiuj informoj ne estas deviga por vi.</p>
+						  <p>Kiam ni ricevas viajn personajn informojn de triaj partioj, ni protektas ilin kiel priskribite en ĉi tiu Privateca politiko.</p>
+						  <h2>2. Kolektado kaj uzado de personaj informoj</h2>
+						  Ni kolektas kaj uzas la informojn interalie por:
+						  <ul>
+						  <li>krei vian konton en niaj Retejo kaj Apo;</li>
+						  <li>provizi niajn servojn;</li>
+						  <li>kontakti vin kaj komuniki kun vi;</li>
+						  <li>interna administrado;</li>
+						  <li>merkataj esploroj kaj evoluigado de nia entrepreno kaj ĝiaj retejoj;</li>
+						  <li>merkatado, inkluzive de rekta merkatado;</li>
+						  <li>organizi konkursojn aŭ oferti al vi aldonajn avantaĝojn;</li>
+						  <li>sendi al vi reklamajn informojn pri triaj partioj kiuj laŭ ni povus interesi vin; kaj</li>
+						  <li>analizi datumojn.</li>
+						  </ul>
+						  <h2>3. Rivelado de personaj informoj al triaj partioj</h2>
+						  <p>Ni povas riveli personajn informojn al:</p>
+						  <ul>
+						  <li>kreditinformaj agentejoj kaj kortumoj, tribunaloj kaj reguligaj instancoj, kiam klientoj ne pagas por produktoj aŭ servoj al ili liveritaj de ni;</li>
+						  <li>kortumoj, tribunaloj, reguligaj instancoj kaj leĝogardaj funkciuloj, por kontentigi leĝajn postulojn ligitajn al aktuala aŭ estonteca proceso, aŭ por establi, uzi aŭ defendi niajn jurajn rajtojn;</li>
+						  <li>triaj partioj, inkluzive de agentoj aŭ subentreprenistoj, kiuj nin helpas ĉe la provizado de informoj, produktoj, servoj aŭ rekta merkatado al vi. Ni uzas eksteran servoprovizanton ankaŭ por gastigi niajn datumojn en la nubo. Ili povas esti partioj troviĝantaj, aŭ konservantaj datumojn, ekster Aŭstralio, interalie en Germanio; kaj</li>
+						  <li>triaj partioj por kolekti kaj trakti datumojn, inkluzive de Google Analytics kaj aliaj, similaj entreprenoj. Ili povas esti partioj konservantaj datumojn ekster Aŭstralio.</li>
+						  </ul>
+						  <p>Kiam ni ĉi-cele rivelas viajn personajn informojn al triaj partioj, ni postulas, ke ili sekvu ĉi tiun Privatecan politikon rilate al traktado de viaj personaj informoj.</p>
+						  <p>Kiam ŝanĝiĝas la estraro de nia entrepreno, aŭ se vendiĝas aŭ transdoniĝas entreprenaj havaĵoj, ni rezervas al ni la rajton transdoni niajn uzantodatumbazojn tiom kiom leĝe permesate, kune kun ĉiuj personaj kaj nepersonaj informoj en tiuj datumbazoj. Ĉi tiuj informoj povas esti rivelitaj al eventuala aĉetonto. Ni rivelos informojn nur kun bonaj intencoj.</p>
+						  <h2>4. Niaj rajtoj kaj la kontrolado de viaj personaj informoj</h2>
+						  <p><strong>Elekto kaj konsento</strong>: La transdonado de personaj informoj al ni ne estas deviga por vi. Vi povas elekti ne doni personajn informojn. Kiam vi transdonas al ni viajn personajn informojn, vi konsentas kun la kondiĉoj en ĉi tiu Privateca politiko, kaj vi permesas al ni ĉi-cele riveli aŭ ricevi viajn personajn informojn.</p>
+						  <p><strong>Transdono fare de vi de triapartiaj informoj</strong>: Se vi transdonas al ni personajn informojn de tria partio, vi garantias al ni, ke tiu tria partio permesis al vi tion fari.</p>
+						  <p><strong>Limigado</strong>: Vi povas limigi la kolektadon kaj uzadon de viaj personaj informoj. Se vi antaŭe konsentis, ke ni povas uzi viajn personajn informojn por rekta merkatado, vi ĉiam povas nuligi tiun konsenton kontaktante nin per nia retadreso menciita en ĉi tiu Privateco politiko.</p>
+						  <p><strong>Alireblo</strong>: En certaj cirkonstancoj menciitaj en la aŭstralia privateco-leĝo Privacy Act 1988 (Cth) vi povas peti detalojn pri la personaj informoj kiujn ni konservas pri vi. Povas esti, ke vi pagu administraciajn kostojn por la transdonado de la informoj. En certaj cirkonstancoj menciitaj en Privacy Act 1988 (Cth) ni povas rifuzi transdoni al vi la informojn kiujn ni konservas pri vi.</p>
+						  <p><strong>Korektado</strong>: Se vi opinias, ke iuj informoj kiujn ni konservas pri vi, estas eraraj, malaktualaj, nekompletaj, nenecesaj aŭ misgvidaj, bonvolu retmesaĝi al ni. Ni parte dependas de klientoj informantaj nin pri ŝanĝiĝoj en siaj personaj informoj. Ni reagas al ĉiu peto ene de akceptebla tempo. Ni provas senprokraste korekti ĉiujn informojn erarajn, nekompletajn aŭ malaktualajn.</p>
+						  <p><strong>Plendoj</strong>: Se vi kredas, ke ni rompis la Aŭstraliajn principojn pri privateco (‘Australian Privacy Principles’) kaj vi volas plendi pri tio, bonvolu retpoŝte kontakti nin kaj doni en via mesaĝo la detalojn pri la rompo. Ni senprokraste esploros vian plendon kaj skribe respondos al vi. En nia respondo ni priskribos la rezultojn de nia esploro, la paŝojn kiujn ni proponas por ripari la rompon, kaj ĉiujn aliajn agojn farotajn por trakti vian plendon.</p>
+						  <p><strong>Malabonado</strong>: Se vi volas esti forigita el nia datumbazo de retadresoj aŭ ne plu volas ricevi niajn mesaĝojn, bonvolu kontakti nin, uzante la kontaktinformojn je la fino de ĉi tiu dokumento.</p>
+						  <h2>5. Konservado kaj sekureco</h2>
+						  <p>Ni zorge atentas pri la sekura konservado de la informoj kiujn vi transdonas. Por preventi nerajtigitan aliradon aŭ riveladon, ni starigis taŭgajn fizikajn, elektronikajn kaj mastrumajn procedurojn por protekti kaj sekurigi la informojn, por preventi misuzadon, malordigadon, perdon, kaj nerajtigitan aliradon, adaptadon kaj riveladon.</p>
+						  <p>Ne eblas garantii la sekurecon de interrete transsenditaj informoj. Ni ne povas garantii la sekurecon de ajnaj informoj kiujn vi sendas al ni aŭ kiujn vi ricevas de ni. La transsendado kaj interŝanĝado de informoj okazas je via propra risko. Kvankam ni faris aranĝojn por preventi nerajtigitan riveladon de informoj, ni ne povas garantii, ke personaj informoj kiujn ni kolektis, ne riveliĝos en maniero kontraŭa al ĉi tiu Privateca politiko.</p>
+						  <h2>6. Kuketoj kaj spur-bilderoj</h2>
+						  <p>De tempo al tempo ni povas uzi kuketojn en ĉi tiu Retejo. Kuketoj estas tekstdosieroj metitaj en la foliumilon de via komputilo por konservi viajn preferojn. Kuketoj per si mem ne transdonas al ni vian retadreson aŭ aliajn personidentigajn informojn. Tamen, kiam vi elektas enigi en la Retejon personidentigajn informojn, tiuj informoj povas esti ligitaj kun la enkuketaj datumoj.</p>
+						  <p>De tempo al tempo ni povas uzi spur-bilderojn en ĉi tiu Retejo. Spur-bilderoj aŭ clear.gif-dosieroj estas etaj koderoj metitaj en retejon por sekvi la konduton de la vizitantoj kaj por kolekti datumojn pri la vizitantoj de retpaĝo. Spur-bilderoj povas ekzemple esti uzataj por nombri la vizitantojn de retpaĝo aŭ por transdoni kuketon al la foliumilo de vizitanto de tiu paĝo.</p>
+						  <p>Ni povas uzi Google Analytics por kolekti kaj trakti datumojn. Iru al <a href="https://www.google.com/policies/privacy/partners/">www.google.com</a>, aŭ al alia URL kiun Guglo tiucele uzas, por ekscii kiel Guglo uzas datumojn kiam vi uzas triapartiajn retejojn aŭ aplikaĵojn.</p>
+						  <h2>7. Ligiloj al aliaj retejoj</h2>
+						  <p>Niaj Retejo kaj Apo povas enhavi ligilojn al aliaj interesaj retejoj. Ni neniel povas influi la funkciadon de tiuj retejoj. Ni ne okupiĝas aŭ jure respondecas pri la protektado kaj privateco de informoj kiujn vi transdonas vizitante tiujn retejojn, kaj ĉi tiu Privateca politiko ne aplikiĝas al tiuj retejoj.</p>
+						  <h2>8. Amendoj</h2>
+						  <p>Ĉi tiu Privateca politiko estas amendebla: de tempo al tempo ni povas laŭ bontrovo decidi pri ŝanĝoj, aldonoj kaj forigoj. Se post amendoj vi daŭrigas la uzadon de niaj Retejo aŭ Apo, vi per tio montras, ke vi akceptas la amendojn. Vi regule kontrolu ĉi tiun Privatecan politikon antaŭ ol transdoni personajn informojn por vidi ĉu estas ŝanĝoj. Transdonu personajn informojn nur se vi akceptas la novan Privatecan politikon.</p>
+						  <p><strong>Se vi havas demandojn aŭ rimarkojn, bonvolu kontakti nian funkciulon pri Privateco ĉe:</strong></p>
+						  <p>R. Delamore &amp; C. Smith (ABN 82 502 109 138) t/a Amikumu<br>
+						  Unit 4, 635 – 637 Princes Highway<br>
+						  Rockdale NSW 2216<br>
+						  Australia<br>
+						  Retpoŝto: <a href="javascript:location='mailto:\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d')</script></a>
+						  </p><h1>Kondiĉoj de uzado de la apo</h1>
+						  <p>Ĉi tiuj Kondiĉoj de uzado (<strong>Kondiĉoj</strong>) regas vian uzadon de Amikumu, la poŝkomputila socireta apo (<strong>Apo</strong>). Uzante ĉi tiun Apon, vi akceptas ĉi tiujn Kondiĉojn, kiujn R. Delamore kaj C. Smith, ABN 82 502 109 138 (aŭstralia entreprennumero), komercantaj kiel Amikumu (indikitaj kiel <strong>Amikumu</strong>, <strong>ni</strong> aŭ <strong>nia</strong>), de tempo al tempo povas revizii. Ĉi tiuj Kondiĉoj konsistigas jure devigan kontrakton inter vi kaj ni pri la uzado de la Apo.</p>
+						  <p>Elŝutante, instalante, alirante aŭ uzante ĉi tiun Apon, vi agnoskas, ke vi legis kaj komprenas ĉi tiujn Kondiĉojn kaj ke vi estas submetita al ili. Se vi ne akceptas ĉi tiujn Kondiĉojn, vi tuj malinstalu ĉi tiun Apon kaj/aŭ ĉesu aliri kaj uzi ĝin.</p>
+						  <p>La vortoj <strong>vi</strong>, <strong>via</strong> kaj <strong>Uzanto</strong> rilatas al la uzantoj de la Apo.</p>
+						  <h2>1. Allaseblo kaj bazo por uzado</h2>
+						  <ol>
+						  <li>La Apon rajtas uzi nur individuoj havantaj minimume dek ok (18) jarojn.</li>
+						  <li>En iuj landoj la uzado de la Apo povas esti malpermesita aŭ limigita. Se vi uzas la Apon ekster Aŭstralio, vi respondecas pri tio, ke vi obeu la leĝojn kaj regulojn de la regiono kie vi aliras aŭ uzas la Apon.</li>
+						  </ol>
+						  <h2>2. Aldonaj kondiĉoj de uzado</h2>
+						  <p>Ĉi tiuj Kondiĉoj suplementas kaj inkluzivas:</p>
+						  <ol>
+						  <li>la politikojn kaj kondiĉojn de Amikumu, inkluzive de la privateca politiko, konsulteblajn en <a href="https://www.amikumu.com">www.amikumu.com</a> (<strong>Retejo</strong>);</li>
+						  <li>la Kondiĉojn de uzado de Apple Inc., inkluzive de, sen ajna limigo, la Permesilo por uzantoj de licencitaj apoj, kiu estas parto de la Apple-kondiĉoj (<strong>Apple-kondiĉoj</strong>);</li>
+						  <li>la Kondiĉojn de uzado de Facebook, inkluzive de, sen ajna limigo, la Ĝeneralaj kondiĉoj de Facebook (<strong>Facebook-kondiĉoj</strong>); kaj</li>
+						  <li>la Ĝeneralajn kondiĉojn de Google Play (<strong>Google Play-kondiĉoj</strong>).</li>
+						  </ol>
+						  <p>Se iu Apple-kondiĉo, Google Play-kondiĉo aŭ aplikebla Amikumu-politiko konfliktas kun ĉi tiuj Kondiĉoj de uzado, prioritatas ĉi tiuj Kondiĉoj de uzado, sed nur tiom, kiom ĝi koncernas la Apon.</p>
+						  <h2>3. Funkciado de la Apo</h2>
+						  <ol>
+						  <li>La Apo prezentas liston kaj mapon kun homoj ene de geografia radiuso ĉirkaŭ vi, parolantaj fremdajn lingvojn (<strong>Uzantoj</strong>). Uzantoj povas esplori detalojn pri aliaj Uzantoj, kiel parolata lingvo, nivelo de lingvoflueco kaj loko.</li>
+						  <li>La Apo havas multajn funkciojn kaj ebligas al vi:
+						  <ol>
+						  <li>komuniki kun aliaj Uzantoj per la tujmesaĝilo;</li>
+						  <li>bloki Uzantojn;</li>
+						  <li>indiki vian lokon kie ajn en la mondo kaj videbligi ĝin por ĉiu Uzanto;</li>
+						  <li>organizi eventojn;</li>
+						  <li>fari en-apajn aĉetojn.</li>
+						  </ol>
+						  </li>
+						  <li>Ĉiu Uzanto agnoskas kaj konsentas, ke la Apo estas nur enkonduka retplatformo, kaj ke la respondecoj de Amikumu limiĝas al la provizado de la Apo.</li>
+						  <li>Ĉiu Uzanto agnoskas, ke dum li estas ensalutita en la Apo, Amikumu povas uzi geolokajn servojn por determini la lokon de la Uzanto.</li>
+						  </ol>
+						  <h2>4. Registriĝo</h2>
+						  <ol>
+						  <li>Antaŭ ol ekuzi la Apon, la Uzanto registriĝu por akiri konton (<strong>Konto</strong>).</li>
+						  <li>Ĉiu Uzanto registriĝanta por akiri konton, donu kelkajn bazajn informojn, kiel nomo, retadreso kaj pasvorto, aŭ li ensalutu per sia ekzistanta triapartia socireta konto kiel indikita en la Retejo, kaj elektu salutnomon kaj pasvorton.</li>
+						  <li>Ĉiu Uzanto konsentas doni ĝustajn, aktualajn kaj kompletajn informojn dum la registriĝo, kaj ĝisdatigi tiujn informojn, por ke ili restu ĝustaj, aktualaj kaj kompletaj. Amikumu rezervas al si la rajton suspendi aŭ fini ies Konton aŭ uzon de la Apo, se montriĝas, ke la koncerna Uzanto donis informojn neĝustajn, malaktualajn aŭ nekompletajn.</li>
+						  <li>La Uzanto respondecas pri la konfidenceco de la informoj kaj pasvorto de sia Konto. La Uzanto respondecas pri ĉiuj aktivaĵoj en sia Konto. La Uzanto konsentas ne riveli sian pasvorton al ajna eksterulo, kaj porti la solan respondecon pri ĉiuj aktivaĵoj aŭ agoj sub sia Konto, senkonsidere ĉu li permesis tiujn aktivaĵojn kaj agojn aŭ ne. La Uzanto regule ŝanĝos sian pasvorton.</li>
+						  <li>La Uzanto tuj informos Amikumu pri ĉia nepermesita uzado de sia Konto.</li>
+						  </ol>
+						  <h2>5. Kopirajto kaj intelektaj propraĵoj</h2>
+						  <ol>
+						  <li>Nia Apo enhavas materialojn posedatajn de, aŭ licencitajn al, ni (aŭ, depende de la situacio, niaj filioj kaj/aŭ eksteraj licencantoj). Tiuj materialoj, inkluzive de, sed ne limigite al, varmarkoj, komercaj nomoj, programoj, Enhavoj, fasonado, bildoj, grafikaĵoj, aranĝado kaj aspekto de la Apo, estas protektitaj de aŭstraliaj kaj internaciaj leĝoj. Amikumu, la Amikumu-logotipo kaj aliaj Amikumu-materialoj uzataj en rilato al la Apo, estas registritaj aŭ neregistritaj varmarkoj de Amikumu (kune nomataj <strong>Amikumu-markoj</strong>).</li>
+						  <li>Intelektaj propraĵoj inkluzivas ĉiujn kodojn, algoritmojn, kopirajtojn, tarifojn, prezojn, registritajn kaj neregistritajn Amikumu-markojn, logotipojn, sloganojn, fasonojn, sonregistraĵojn, informojn, bildojn, fotojn, patentojn, teknikojn, komercajn sekretojn, ideojn, metodojn, diagramojn, desegnojn, datumbazojn, notojn, dokumentojn, konfidencajn informojn kaj ĉiujn aliajn proprietojn aŭ koncesiojn rilatantajn al Amikumu (en ĉiu kazo senkonsidere ĉu ili estas registritaj, neregistritaj aŭ registreblaj), kune kun Apoj por registrado kaj ĉiuj rajtoj je registrado aŭ reregistrado de tiuj rajtoj kie ajn en la mondo, ĉu kreitaj antaŭ, ĉu kreitaj post la dato de ĉi tiuj Kondiĉoj; kromvaloron de la entrepreno kaj la Apo; komercajn nomojn kaj nomojn de kompanioj aŭ organizoj; domajnajn nomojn; kaj Enhavojn, bildojn kaj aspektojn.</li>
+						  <li>Inter vi kaj ni, vi konsentas, ke ni posedas ĉiujn Rajtojn pri intelektaj propraĵoj rilate al la Apo, kaj ke nenio en ĉi tiuj kondiĉoj kaŭzas transdonon de Rajtoj pri intelektaj propraĵoj. Ni posedas la Rajtojn pri intelektaj propraĵoj, inkluzive de kopirajtoj, rilate al ĉiuj kreaĵoj kaj literaturaj verkoj prezentitaj en la Apo. La Apon protektas internaciaj traktatoj, leĝoj kaj aliaj proprietoj pri kopirajto, varmarkoj kaj komercaj sekretoj. Ĝi ankaŭ povas enhavi sekurigilojn kiuj protektas ciferecajn informojn nur laŭ permesoj de Amikumu aŭ la posedantoj de la Enhavoj.</li>
+						  <li>Aliaj varmarkoj, servomarkoj, grafikaĵoj kaj logotipoj en rilato al la Apo, estas la varmarkoj de la respektivaj posedantoj (kune nomataj Triapartiaj markoj).</li>
+						  <li>Oni ne rajtas tute aŭ parte kopii, imiti aŭ uzi la Intelektajn propraĵojn, Amikumu-markojn kaj Triapartiajn markojn sen antaŭa skriba permeso de Amikumu aŭ la posedanto de la koncerna varmarko.</li>
+						  <li>Uzantoj ne akiras kvoton en aŭ licencon pri la Intelektaj propraĵoj, Amikumu-markoj aŭ Triapartiaj markoj sen antaŭa skriba permeso de Amikumu aŭ la posedanto de la koncerna varmarko. Uzantoj ne rajtas fari ion ajn kio malhelpas aŭ rompas Rajtojn pri intelektaj propraĵoj.</li>
+						  </ol>
+						  <h2>6. Permesiloj por uzantoj</h2>
+						  <ol>
+						  <li>Sub ĉi tiuj Kondiĉoj Amikumu donas al la Uzanto personan, neekskluzivan, netransdoneblan, limigitan kaj revokeblan licencon uzi la Apon nur por propraj personaj kaj/aŭ nekomercaj celoj per komputilo aŭ portebla aparato (ĉiu nomata <strong>Aparato</strong>) posedata aŭ regata de la Uzanto kiel permesite laŭ ĉi tiuj Kondiĉoj (<strong>Permesiloj por uzantoj</strong>), kaj ne uzi la Apon alimaniere aŭ alicele, escepte de uzoj permesitaj laŭ lokaj leĝoj pri honesta komercado. Ĉiuj aliaj uzoj estas malpermesitaj sen nia antaŭa skriba permeso.</li>
+						  <li>La rajto uzi la Apon estas al vi licencita, sed ne vendita. Vi ne havas rajtojn je la Apo aliajn ol uzi ĝin sub ĉi tiuj Kondiĉoj.</li>
+						  <li>Ĉi tiuj Kondiĉoj kaj Permesilo por uzantoj kovras ĉiujn ĝisdatigojn, aldonojn aŭ anstataŭojn por ĉi tiu Apo, escepte se tiujn ĝisdatigojn, aldonojn aŭ anstataŭojn akompanas apartaj kondiĉoj. Tiukaze validos tiuj apartaj kondiĉoj.</li>
+						  </ol>
+						  <h2>7. Garantioj de la Uzanto</h2>
+						  <ol>
+						  <li>Uzante nian Apon, vi garantias, ke vi havas la jurajn kapablon kaj permeson akcepti la Kondiĉojn kaj uzi la Apon sub ĉi tiuj Kondiĉoj, ke vi havas almenaŭ 18 jarojn, ke ĉiuj informoj kiujn vi sendas por registriĝi estas fidindaj kaj ĝustaj kaj ke vi ĝisdatigos ilin por ke ili restu ĝustaj, kaj ke uzante la Apon vi ne malobservas aplikeblan leĝon aŭ regularon.</li>
+						  <li>Vi rajtas uzi nian Apon se vi akceptas la Kondiĉojn kaj donos la Apon al nenia tria partio. Vi akceptas, ke Amikumu havas la rajton rifuzi al vi ĉian nunan aŭ estontan uzon de la Apo, kaj ke Amikumu rezervas al si la rajton permesi aŭ malpermesi aliron al la Apo kaj la rajton elapigi Uzanton.</li>
+						  </ol>
+						  <h2>8. Tarifoj kaj pagoj</h2>
+						  <ol>
+						  <li>Oni povas agordi sian Konton kiel Uzanto senpage.</li>
+						  <li>Se Uzanto pretas pagi la tarifojn menciitajn en la Retejo, li povas ekuzi certajn aldonajn funkciojn de la Apo. La specialaj funkcioj de la Apo kaj nia tarifaro estas klarigitaj en la Apo aŭ la Retejo kaj ni povas laŭ nia bontrovo ŝanĝi ilin de tempo al tempo.</li>
+						  </ol>
+						  <h2>9. Uzantinformoj kaj sekureco</h2>
+						  <ol>
+						  <li>Por la funkciado de la Apo povas esti necese transsendi informojn donitajn de la Uzanto, kiel uzantonomoj, pasvortoj, adresoj, retadresoj kaj geografiaj lokoj de la Uzanto (<strong>Uzantinformoj</strong>).</li>
+						  <li>Se la Uzanto uzas tiajn Apo-funkciojn, li konsentas pri la transsendado de Uzantinformoj al Amikumu, al ĝiaj agentoj kaj/aŭ al ĝiaj servoprovizantoj por registri, prilabori kaj konservi tiujn Uzantinformojn tiom kiom necesas por la funkciado de la Apo kaj por la celoj priskribitaj en nia Privateca politiko en nia Retejo.</li>
+						  <li>Uzantinformoj estas sekure konservataj. Kiam ni ekscias pri sekureca rompo, ni informos la koncernajn uzantojn kaj ni kunlaboros kun aŭtoritatoj por trakti la rompon.</li>
+						  <li>Nur la Uzanto mem respondecas pri la konfidenceco kaj sekureco de ĉiuj Uzantinformoj transsenditaj de aŭ konservitaj en Aparato por la celoj de la Apo, kaj pri ĉiuj negocoj kaj aliaj aktivaĵoj en la nomo de la Uzanto, faritaj ĉu kunpermese, ĉu senpermese.</li>
+						  <li>La Uzanto konsentas senprokraste informi nin pri ĉiuj senpermese faritaj negocoj aŭ sekurecorompoj rilatantaj al la Apo. Ni ne respondecas pri perdoj pro perdiĝo aŭ ŝteliĝo de Uzantinformoj transsenditaj de aŭ konservitaj en Aparato, aŭ pro senpermesaj aŭ fraŭdaj negocoj rilatantaj al la Apo.</li>
+						  </ol>
+						  <h2>10. Intelektaj propraĵoj de Uzantoj</h2>
+						  <ol>
+						  <li>En la Apo la Uzanto povas ensendi biografiajn informojn, profilbildojn, geografiajn informojn kaj aliajn komunikojn (kune nomatajn <strong>Uzantosendaĵoj</strong>). La Uzantosendaĵoj povas esti gastigitaj, konigitaj kaj/aŭ publikigitaj kiel parto de la Apo, kaj povas esti videblaj por aliaj Uzantoj ene de difinita radiuso de via geoloko ne eksplicite blokitaj de vi. Mesaĝoj, sciigoj kaj invitoj kiujn vi rekte sendas al aliaj Uzantoj (kune nomataj <strong>Privataj mesaĝoj</strong>) videblas nur por tiu(j) al kiu(j) vi rekte sendis ilin. Alifklanke, Uzantosendaĵoj videblas ĝenerale por ĉiuj Uzantoj ene de difinita distanco de via geoloko, sed ne por Uzantoj blokitaj de vi.</li>
+						  <li>Rilate al viaj Uzantosendaĵoj vi garantias, ke:
+						  <ol>
+						  <li>vi posedas aŭ havas ĉiujn necesajn licencojn, rajtojn, konsentojn, uzpermesojn, kopirajtojn, patentojn, varmarkojn, komercajn sekretojn kaj aliajn proprietojn rilate al ĉiuj Uzantosendaĵoj, kaj vi permesas al Amikumu ebligi inkluzivigon kaj uzadon de la koncernaj Uzantosendaĵoj laŭ la celoj de la Apo kaj ĉi tiuj Kondiĉoj; kaj</li>
+						  <li>vi havas la skriban konsenton, liberigon kaj/aŭ permeson de ĉiu individue identigebla persono en la Uzantosendaĵoj uzi ties nomon aŭ similaĵon por ebligi inkluzivigon kaj uzadon de la koncernaj Uzantosendaĵoj laŭ la celoj de la Apo kaj ĉi tiuj Kondiĉoj.</li>
+						  </ol>
+						  </li>
+						  <li>Ensendante Uzantosendaĵojn al la Apo, vi donas al Amikumu tutmondan, neekskluzivan, senpagan, sublicenceblan kaj transdoneblan permeson uzi, reprodukti, distribui, montri kaj prezenti la Uzantosendaĵojn, kaj fari verkojn surbaze de ili, en rilato al la Apo kaj al la entrepreno Amikumu, inkluzive, sen ajna limigo, por reklami kaj distribui la Apon parte aŭ tute (kaj verkojn bazitajn sur ĝi) per ajnaj informiloj kaj informkanaloj. Ĉi tiel vi ankaŭ donas al ĉiu ricevanto de via Uzantosendaĵo neekskluzivan permeson aliri viajn Uzantosendaĵojn per la Apo. La ĉi-antaŭe menciita permeso kiun vi donis pri Uzantosendaĵo tuj finiĝas kiam vi forigas la koncernan Uzantosendaĵon el la Apo.</li>
+						  </ol>
+						  <h2>11. Akcepteblaj kaj malpermesitaj uzoj</h2>
+						  <p>Uzo de la Apo kaj de ajnaj Enhavoj kaj Uzantinformoj transsenditaj en rilato al la Apo, estas limigita al la celitaj funkcioj. La Uzanto konsentas, ke lia aŭ ŝia uzo de la Apo kaj de ajnaj Enhavoj, Uzantosendaĵoj kaj Privataj mesaĝoj konformu al ĉi tiuj Kondiĉoj kaj al la Amikumu-politikoj. Neniukaze oni rajtas uzi la Apon en maniero, kiu:</p>
+						  <ol>
+						  <li>tordas, misuzas, ĝenas, minacas, misfamigas aŭ alie malhelpas, rompas aŭ malobservas la rajtojn de aliaj (inkluzive de, sed ne limigite al, publikigaj rajtoj aŭ aliaj proprietoj);</li>
+						  <li>estas kontraŭleĝa, fraŭda aŭ trompa;</li>
+						  <li>aplikas teknologiojn aŭ aliajn rimedojn nepermesitajn de ni por aliri la Apon, Retejon aŭ Enhavojn;</li>
+						  <li>uzas aŭ lanĉas ian aŭtomaton, inkluzive de, sen ajna limigo, robotoj, retaraneoj aŭ eksterretaj legiloj, por aliri la Apon, Retejon aŭ Enhavojn;</li>
+						  <li>provas saboti, malhelpi aŭ modifi la Apon, provas enigi virusojn aŭ aliajn kodojn, dosierojn aŭ programojn kiuj interrompas, detruas aŭ limigas la funkciojn, intence transsendas virusojn aŭ aliajn malfunkciigilojn, difektas aŭ malhelpas la Apon inkluzive de, sed ne limigite al, la uzo de trojaj ĉevaloj, virusoj aŭ pirateco, aŭ programoj povantaj difekti aŭ malhelpi la Apon;</li>
+						  <li>provas senpermese aliri nian komputilan reton aŭ la kontojn de Uzantoj;</li>
+						  <li>instigas konduton kiu kaŭzus kriman aŭ civilan respondecon;</li>
+						  <li>malobeas ĉi tiujn Kondiĉojn;</li>
+						  <li>provas difekti, malŝalti, troŝarĝi aŭ malhelpi niajn servilojn aŭ retojn;</li>
+						  <li>ne konformiĝas al aplikeblaj triapartiaj kondiĉoj de uzado; aŭ</li>
+						  <li>ebligas aŭ helpas al aliulo fari agojn kiel la ĉi-supre menciitajn.<br>
+						  Vi ne:</li>
+						  <li>afiŝu, alŝutu, publikigu, alsendu aŭ transsendu Enhavojn kiuj:
+						  <ol>
+						  <li>rompas, misuzas aŭ malobservas triapartiajn patenton, kopirajton, varmarkon, komercan sekreton, moralajn rajtojn aŭ aliajn rajtojn pri intelektaj propraĵoj, publikigajn rajtojn aŭ privatecajn rajtojn;</li>
+						  <li>estas fraŭdaj, kontraŭleĝaj, misgvidaj aŭ trompaj;</li>
+						  <li>petas monon de aliaj Uzantoj, aŭ celas alimaniere trompi ilin;</li>
+						  <li>misfamigas Amikumu aŭ la Apon;</li>
+						  <li>transsendas trudmesaĝojn, ĉenleterojn, spammesaĝojn, trompmesaĝojn, trolaĵojn aŭ aliajn malpermesitajn amassendaĵojn;</li>
+						  <li>enhavas filmojn, bildojn aŭ aliajn registraĵojn de aliulo sen ties permeso (aŭ, se temas pri neplenaĝulo, sen gepatra aŭ kuratora permeso);</li>
+						  <li>estas misfamigaj, malrespektaj, obscenaj, pornografiaj, blasfemaj, vulgaraj, ofendaj aŭ iel enhavas seksan ĉikanadon;</li>
+						  <li>favoras diskriminacion, maltoleremon, rasismon, malamon, ĉikanadon aŭ ofendadon kontraŭ individuo aŭ grupo;</li>
+						  <li>estas perforteca aŭ minaca, aŭ favoras perfortadon aŭ agojn kiuj minacas aŭ ĉikanas iun alian; aŭ</li>
+						  <li>favoras damaĝajn agojn aŭ substancojn;</li>
+						  </ol>
+						  </li>
+						  <li>printu, publikigu, modifu, konigu per ligilo aŭ distribuu Enhavojn de la Apo aŭ aliajn dokumentojn kiujn ni havigis al vi, escepte se ni skribe tion permesis al vi;</li>
+						  <li>rompu kopirajton aŭ Rajtojn pri intelektaj propraĵoj, inkluzive de, sed ne limigite al, tio ke vi ne republikigu, kopiu, distribuu, transsendu aŭ publike prezentu materialojn de nia Apo, kaj ke vi ne ŝanĝu aŭ modifu ajnajn kodojn aŭ materialojn de la Apo;</li>
+						  <li>enkadrigu aŭ enkorpigu la Apon en alian retejon;</li>
+						  <li>uzu la Apon por komercaj celoj;</li>
+						  <li>kolektu aŭ rikoltu el la Apo ajnajn personidentigajn informojn, inkluzive de telefonnumeroj, nek uzu Apajn komunikilojn por ajnaj komercaj ofertoj aŭ spamado;</li>
+						  <li>modifu, kopiu, distribuu, transsendu, montru, prezentu, reproduktu, publikigu, licencu, uzu kiel bazon por aliaj verkoj, transdonu, vendu aŭ pluvendu ajnan Apon; aŭ</li>
+						  <li>ebligu aŭ helpu al aliulo fari agojn kiel la ĉi-supre menciitajn.</li>
+						  </ol>
+						  <p>Ĉiaj alimanieraj uzoj de la Apo, inkluzive de, sen ajna limigo, la pluvendado, transdonado, modifado aŭ distribuado de la Apo aŭ de la tekstoj, bildoj, muzikaĵoj, strikodoj, filmoj, datumoj, ligiloj, prezentoj kaj aliaj enhavoj rilatantaj al la Apo (<strong>Enhavoj</strong>) estas malpermesataj.</p>
+						  <p>Ni rezervas al ni la rajton laŭ nia bontrovo fini ajnan Permesilon por uzantoj, forpreni Enhavojn aŭ fari jurajn paŝojn, se ni opinias verŝajne, ke la Enhavoj aŭ la uzo de la Apo malobservas aŭ povas malobservi ĉi tiujn Kondiĉojn aŭ la Amikumu-politikojn. Preterlasi aŭ prokrasti tiajn rimedojn ne signifas, ke ni rezignas pri niaj rajtoj eldevigi obeadon al ĉi tiuj Kondiĉoj.</p>
+						  <p>Kiam finiĝas la Kondiĉoj, ni ne plu havas devojn al vi, kaj rajtas ĉesigi provizadon de la Apo al vi. La finiĝo de la Kondiĉoj ne malpliigas la akiritajn rajtojn, devojn kaj leĝajn rimedojn de la partioj.</p>
+						  <h2>12. Garantio por konsumantoj</h2>
+						  <ol>
+						  <li>Ni liveras nian Apon kun garantioj por konsumantoj sub aplikeblaj neekskluzivigeblaj lokaj konsumantprotektaj leĝoj.</li>
+						  <li>Certaj leĝoj, inter kiuj la aŭstralia konsumantprotekta leĝo (Australian Consumer Law), povas implici garantiojn aŭ kondiĉojn aŭ povas dikti al ni devojn kiuj ne aŭ nur parte estas ekskluzivigeblaj, limigeblaj aŭ modifeblaj. Ĉi tiuj Kondiĉoj estas submetitaj al tiuj leĝaj kondiĉoj. Se tiuj leĝaj kondiĉoj aplikiĝas, la respondeco de Amikumu kaj ĝiaj filioj sub tiuj kondiĉoj estos laŭeble limigita, laŭ bontrovo de Amikumu, al: (1) se temas pri varoj, la anstataŭigo de la varoj aŭ la liverado de egalvaloraj varoj; la riparado de la varoj; la pago de la kostoj por anstataŭigi la varojn aŭ por akiri egalvalorajn varojn; aŭ la pago de la kostoj por riparigi la varojn; kaj (2) se temas pri servoj, la reliverado de la servoj; aŭ la pago de la kostoj por reliverigi la servojn.</li>
+						  </ol>
+						  <h2>13. Malgarantioj</h2>
+						  <ol>
+						  <li>Ni liveras la Apon sengarantie al la Uzanto en ĝia nuna stato, kaj la Uzanto uzas la Apon proprariske.</li>
+						  <li>En maksimume permesebla grado sub la aplikeblaj leĝoj, ni forrifuzas ĉiujn garantiojn, deklarojn kaj kondiĉojn, ĉu eksplicitajn, ĉu implicitajn, inkluzive de ajnaj garantioj, deklaroj kaj kondiĉoj ke la Apo estas disvendebla, de kontentiga kvalito, fidinda, preciza, kompleta, taŭga por specifa celo aŭ bezono, leĝkonforma, sendifekta aŭ senerara, aŭ seninterrompe uzebla, aŭ ke la uzo de la Apo fare de la Uzanto estas konforma al leĝoj aplikeblaj por la Uzanto, aŭ ke Uzantinformoj transsenditaj en rilato al la Apo (ankaŭ kadre de reta pagado) transsendiĝos sukcese, senerare aŭ sekure.</li>
+						  <li>Ni ne garantias aŭ deklaras, nek eksplicite nek implicite, ke Enhavoj kaj informoj en la Apo estas ĝustatempaj, seneraraj, bonkvalitaj, kompletaj aŭ ekzistantaj, ke la Apo estas teknike alirebla, taŭga kaj senerara, aŭ ke via uzo de la Apo ne rompas triapartiajn rajtojn.</li>
+						  <li>Amikumu akceptas nenian respondecon pri tio ĉu la Uzanto observas aplikeblajn leĝojn kaj regulojn.</li>
+						  <li>Amikumu ne kontrolas, nek povas kontroli la situacion, laŭleĝecon aŭ taŭgecon de Uzantoj. Uzantoj mem respondecas pri la kontrolado de la identeco kaj taŭgeco de Uzantoj kiujn ili kontaktas per la Apo.</li>
+						  <li>Amikumu akceptas nenian respondecon pri la fidindeco, senerareco aŭ kompleteco de la informoj en la Apo aŭ donitaj de la Uzanto, kaj prie ne donas deklarojn aŭ garantiojn al vi aŭ al ajna alia persono. Amikumu forrifuzas ĉian kaj ĉiun respondecon rilate al ĉiaj kaj ĉiuj Uzantoj, Profiloj, Uzantosendaĵoj kaj Privataj mesaĝoj.</li>
+						  <li>Uzante la Apon, vi akceptas ke ĉia jura rimedo kiun vi volas apliki aŭ respondeco kiun vi volas eldevigi pro agoj aŭ preterlasoj de aliaj Uzantoj aŭ aliaj triaj partioj, estos limigita al postulo kontraŭ la Uzanto aŭ alia tria partio kiu damaĝis vin. Ni instigas vin komuniki rekte kun la koncerna Uzanto de la Apo se temas pri komunikoj aŭ aranĝoj inter vi kaj solvi iajn disputojn inter vi.</li>
+						  <li>La Uzanto konsentas apliki ĉiujn necesajn antaŭrimedojn dum siaj interagoj kun aliaj Uzantoj. Vi proprariske entreprenas komunikojn aŭ interagojn kun aliaj Uzantoj, ĉu en, ĉu ekster la Apo (inkluzive de, sed ne limigite al, personaj renkontiĝoj kun tiaj Uzantoj, ĉu aŭ ĉu ne en specifaj renkontiĝejoj, donado de mono al tiaj Uzantoj, aŭ interŝanĝado de personaj informoj kun ili).</li>
+						  <li>La sekureco de niaj Uzantoj estas por ni gravega temo. Ni rekomendas al vi, ke, interagante kun alia Uzanto, vi uzu vian juĝkapablon, restu singarda, kaj ne rivelu personajn kaj/aŭ financajn informojn al tiu Uzanto. Kiam vi persone renkontiĝas kun Uzanto, ni rekomendas, ke vi almenaŭ:
+						  <ol>
+						  <li>esploru antaŭaĵojn pri tiu Uzanto;</li>
+						  <li>renkontiĝu en malferma, publika loko;</li>
+						  <li>donu al amiko aŭ familiano ĉiujn detalojn pri la renkontiĝoplano;</li>
+						  <li>kunportu minimume unu alian plenkreskulon al la renkontiĝo;</li>
+						  <li>ne trinku alkoholaĵojn antaŭ aŭ dum la renkontiĝo;</li>
+						  <li>aranĝu mem vian vojaĝon al kaj for de la renkontiĝejo kaj ne akceptu la vojaĝaranĝojn de la alia Uzanto.</li>
+						  </ol>
+						  </li>
+						  </ol>
+						  <h2>14. Limigado de respondeco</h2>
+						  <ol>
+						  <li>Kiel kondiĉo de uzado de ĉi tiu Apo, kaj konsiderante la Apon kiun ni liveras, ni ekskluzivigas kun via plena konsento en maksimume permesebla grado sub la aplikeblaj leĝoj, ke Amikumu kaj ĝia gepatra kompanio aŭ ligitaj juraj personoj iam ajn (i) respondecos al la Uzanto aŭ al tria partio pri la uzo de la Apo, inkluzive de, sen ajna limigo, retaj pagoj; kaj (ii) respondecos al la Uzanto aŭ al tria partio pri ajnaj rektaj, nerektaj, specialaj, hazardaj, punaj aŭ konsekvencaj damaĝoj, inkluzive de, sen ajna limigo, damaĝoj pro perdo de entreprena kromvaloro, maltrafitaj kaj perditaj profitoj, enspezoj kaj komercaj ŝancoj, perdiĝo, ŝteliĝo aŭ difektiĝo de Uzantinformoj, la maleblo uzi la Apon aŭ misfunkciado de la aparato, kio ajn estas la kaŭzo (inkluzive de neglektado) aŭ damaĝoj alie leviĝantaj pro:
+						  <ol>
+						  <li>via uzo de la Apo, inkluzive de, sed ne limigite al, damaĝoj kaŭzitaj de, aŭ leviĝantaj pro, via fido al la Apo, interrompoj, eraroj, difektoj, prokrastita funkciado, kondutoj de triaj partioj, aŭ ajna misfunkciado de la Apo;</li>
+						  <li>ĉia senpermesa aliro al aŭ uzo de niaj sekuraj serviloj kaj/aŭ ajnaj personaj aŭ financaj informoj konservitaj en ili;</li>
+						  <li>ĉiaj eraroj aŭ preterlasoj en ajnaj Enhavoj afiŝitaj, retmesaĝitaj, transsenditaj aŭ alie disponigitaj, aŭ ajnaj ofendaj, misfamigaj aŭ kontraŭleĝaj Enhavoj;</li>
+						  <li>la riveliĝo de ajnaj informoj de vi;</li>
+						  <li>la rompo aŭ supozita rompo de, aŭ ajna eksplicita aŭ implicita garantio rilate al, ĉi tiuj Kondiĉoj aŭ ajna negoco; aŭ</li>
+						  <li>limigoj fare de registaroj, strikoj, militoj, ajnaj naturaj katastrofoj aŭ superfortoj, aŭ ĉiaj aliaj kondiĉoj kiujn ni normale ne povas influi.</li>
+						  </ol>
+						  </li>
+						  <li>En maksimume permesebla grado sub la aplikeblaj leĝoj, la sola rimedo kiun Uzanto havas je sia dispono estas ĉesigi la uzadon de la Apo aŭ ĉesigi retan pagadon.</li>
+						  <li>En maksimume permesebla grado sub la aplikeblaj leĝoj, la maksimuma suma respondeco de Amikumu kaj ĝia gepatra kompanio aŭ aliaj ligitaj kompanioj al la Uzanto, ĉu laŭ kontraktoj, ĉu pro deliktoj (inkluzive de neglektado), strikta respondeco aŭ alia teorio pri respondeco, leviĝanta pro aŭ rilatanta al la uzo aŭ neuzeblo de la Apo, estas la sumo kiun pagis la Uzanto, se tion li faris, al Amikumu por aliro al aŭ uzo de la Apo dum sesmonata periodo tuj antaŭ la evento kiu kaŭzis tian respondecon, aŭ cent aŭstraliaj dolaroj (AUD 100) se tiaj pagoj ne okazis.</li>
+						  <li>La limigado de respondeco reflektas la atribuadon de risko al la diversaj partioj. La limigoj specifitaj en ĉi tiu sekcio pluekzistos kaj pluaplikeblos eĉ se montriĝos, ke iu limigita rimedo en ĉi tiuj Kondiĉoj maltrafas sian ĉefan celon. La limigoj de respondecoj prezentitaj en ĉi tiuj Kondiĉoj celas utili al Amikumu.</li>
+						  </ol>
+						  <h2>15. Kompensado</h2>
+						  <ol>
+						  <li>Uzante la Apon, vi konsentas defendi, kompensi kaj protekti nin (kaj niajn gepatran kompanion, ligitajn jurajn personojn, funkciulojn, direktorojn, provizistojn, dungitojn kaj agentojn) ĉe ĉiaj pretendoj, rimedoj, procesoj, postuloj, damaĝoj, respondecoj, kostoj aŭ elspezoj (inkluzive de juraj kostoj kaj elspezoj surbaze de plena kompensado), ankaŭ se temas pri deliktoj, kontraktoj aŭ neglektoj, kaŭze de aŭ rilate al via uzo de aŭ aliro al la Apo; ĉia rompo de ĉi tiuj Kondiĉoj fare de vi; ajna intenca, kontraŭleĝa aŭ neglekta ago aŭ preterlaso de vi; kaj ĉia viaflanka rompo de aplikeblaj leĝoj aŭ triapartiaj rajtoj.</li>
+						  <li>Ni rezervas al ni la rajton ekskluzive defendi kaj direkti ĉiajn aferojn alie kompensendajn fare de la Uzanto, ĉe kio la Uzanto kunlaboru ĉe la pruvado de ĉiuj disponeblaj defendoj.</li>
+						  <li>Ĉi tiu devo pri defendado kaj kompensado pluekzistos, eĉ se ne plu validas ĉi tiuj Kondiĉoj kaj vi ne plu uzas la Apon. Vi ne rajtas transdoni aŭ asigni ĉi tiujn Kondiĉojn kaj la rajtojn kaj licencojn sub tiuj Kondiĉoj, sed ni rajtas senlime transdoni ilin.</li>
+						  </ol>
+						  <h2>16. Ĝeneralaĵoj</h2>
+						  <ol>
+						  <li><strong>Amendoj:</strong> Amikumu rezervas al si la rajton en ajna momento laŭ sia bontrovo amendi, ŝanĝi aŭ modifi ĉi tiujn Kondiĉojn aŭ aliajn Amikumu-politikojn rilatantajn al la uzo de la Apo, publikigante reviziojn en la Retejo. Pluuzante la Apon post la publikigo de ĉi tiuj ŝanĝoj aŭ modifoj, vi akceptas tiujn ŝanĝojn aŭ modifojn. Se ŝanĝo aŭ modifo estas neakceptebla por vi, vi povas ĉesigi la uzadon de nia Apo.</li>
+						  <li><strong>Aplikeblaj leĝoj kaj jurisdikcio:</strong> Ĉi tiun Apon regas la leĝoj de Novsudkimrio kaj la Komunejo de Aŭstralio. Ĉiu partio nerevokeble kaj senkondiĉe submetas sin al la ekskluziva jurisdikcio de la Novsudkimriaj kortumoj.</li>
+						  <li><strong>Apartigeblo:</strong> Se unu el ĉi tiuj Kondiĉoj montriĝas kontraŭleĝa, nevalida aŭ ial neeldevigebla, tiam ĝi estas konsiderata apartigita de ĉi tiuj Kondiĉoj kaj ĝi neniel malpliigas la validecon kaj eldevigeblon de la restantaj kondiĉoj.</li>
+						  <li><strong>Disputoj:</strong> Vi konsentas, ke vi laŭ via maksimuma eblo provu solvi kun ni ĉian disputon leviĝantan el aŭ rilatantan al ĉi tiuj Kondiĉoj, antaŭ ol turni vin al ia ekstera proceduro por solvi la disputon. Skribe informu nin se vi havas disputon.</li>
+						  <li><strong>Tuta kontrakto:</strong> Ĉi tiuj Kondiĉoj formas la tutan kontrakton inter la Partioj pri la temo de la Kondiĉoj. Ĉiuj antaŭaj parolaj kaj skribaj komunikoj, deklaroj, garantioj aŭ promesoj estas anstataŭitaj de la Kondiĉoj kaj ne influas la interpretadon aŭ signifon de la Kondiĉoj. Ĉiu Partio plene fidis al propraj esploroj antaŭ ol akcepti la Kondiĉojn.</li>
+						  <li><strong>Finado:</strong> La Kondiĉoj validas ĝis ni finas ilin. Tion ni povas fari ĉiumomente sen antaŭa sciigo al vi. En kazo de finado de la Kondiĉoj, pluvalidos ĉiuj limigoj kiujn ili diktas al vi, kaj ĉiuj limigoj de respondeco kiujn ili mencias.</li>
+						  </ol>
+						  <strong>Se vi havas demandojn aŭ rimarkojn, bonvolu kontakti nin:</strong>
+						  <p>R. Delamore &amp; C. Smith (ABN 82 502 109 138) t/a Amikumu<br>
+						  Unit 4, 635 – 637 Princes Highway<br>
+						  Rockdale NSW 2216<br>
+						  Australia<br>
+						  Retpoŝto: <a href="javascript:location='mailto:\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d';void 0"><script type="text/javascript">document.write('\u0068\u0065\u006c\u0070\u0040\u0061\u006d\u0069\u006b\u0075\u006d\u0075\u002e\u0063\u006f\u006d')</script></a>
+						  </p></div>
 	                  </div>
 	                  <div class="clear"></div>
 	              </div>

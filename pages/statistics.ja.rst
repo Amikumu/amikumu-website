@@ -11,7 +11,7 @@
 
 	.. include:: translations_parts/ja/page_statistics.page_meta.metadata_title.rst
 
-	.. raw:: html
+.. raw:: html
 	
 		<table>
 		<tbody><tr>

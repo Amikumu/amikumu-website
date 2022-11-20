@@ -7,82 +7,85 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://amikumu.com/</loc>
-  <lastmod>2022-11-20T17:27:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/" />
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/" />
  </url>
  <url>
   <loc>https://amikumu.com/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/about-us/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/about-us/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/about-us/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/about-us/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/about-us/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/about-us/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/about-us/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/about-us/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/about-us/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/about-us/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/about-us/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/about-us/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/about-us/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/about-us/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/about-us/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/about-us/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/about-us/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/about-us/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/about-us/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/about-us/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/about-us/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/about-us/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/about-us/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/about-us/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/about-us/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/about-us/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/about-us/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/about-us/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/about-us/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/about-us/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/about-us/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/about-us/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/about-us/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/about-us/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/about-us/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/about-us/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/about-us/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/about-us/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/about-us/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/about-us/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/about-us/" />
  </url>
  <url>
   <loc>https://amikumu.com/ambassador/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/ambassador/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/ambassador/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/ambassador/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/ambassador/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/ambassador/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/ambassador/" />
  </url>
  <url>
   <loc>https://amikumu.com/authors/</loc>
@@ -102,7 +105,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/avk/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/avk/about-us/</loc>
@@ -179,7 +182,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/avk/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/avk/press/</loc>
@@ -198,12 +201,113 @@
   <lastmod>2022-11-19T14:51:00Z</lastmod>
  </url>
  <url>
+  <loc>https://amikumu.com/be/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/404.html</loc>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/about-us/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/ambassador/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/authors/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/authors/chuck-smith/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/authors/tanja/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/languages/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/team/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/translating/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/translations/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/categories/weblate/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/for-organizations/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/help-faq/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/posts/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/posts/2022/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/posts/2022/11/11/busy-bees-of-amikumu/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/posts/2022/11/11/busy-bees-of-amikumu/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/11/11/busy-bees-of-amikumu/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/posts/2022/11/11/welcome-to-the-new-amikumucom/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/posts/2022/11/11/welcome-to-the-new-amikumucom/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/posts/2022/11/11/welcome-to-the-new-amikumucom/" />
+  <xhtml:link rel="alternate" hreflang="en" href="https://amikumu.com/posts/2022/11/11/welcome-to-the-new-amikumucom/" />
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/posts/archive.html</loc>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/press/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/privacy-terms/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/statistics/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://amikumu.com/be/support-us/</loc>
+  <lastmod>2022-11-20T21:32:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://amikumu.com/ca/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/about-us/</loc>
@@ -227,7 +331,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/categories/languages/</loc>
@@ -259,11 +363,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -280,7 +384,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ca/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ca/press/</loc>
@@ -300,7 +404,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/categories/languages/</loc>
@@ -324,11 +428,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/about-us/</loc>
@@ -352,7 +456,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/categories/languages/</loc>
@@ -384,11 +488,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -405,7 +509,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/cs/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/cs/press/</loc>
@@ -425,11 +529,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/about-us/</loc>
@@ -453,7 +557,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/categories/languages/</loc>
@@ -485,11 +589,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -506,7 +610,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/de/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/de/press/</loc>
@@ -526,11 +630,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/about-us/</loc>
@@ -554,7 +658,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/categories/lingvoj/</loc>
@@ -586,11 +690,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -605,7 +709,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/eo/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/eo/press/</loc>
@@ -625,11 +729,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/about-us/</loc>
@@ -653,7 +757,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/categories/languages/</loc>
@@ -685,11 +789,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -706,7 +810,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/es/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/es/press/</loc>
@@ -727,35 +831,36 @@
  <url>
   <loc>https://amikumu.com/for-organizations/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/for-organizations/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/for-organizations/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/for-organizations/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/for-organizations/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/for-organizations/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/for-organizations/" />
  </url>
  <url>
   <loc>https://amikumu.com/fr/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/about-us/</loc>
@@ -779,7 +884,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/categories/languages/</loc>
@@ -811,11 +916,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -832,7 +937,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/fr/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/fr/press/</loc>
@@ -853,35 +958,36 @@
  <url>
   <loc>https://amikumu.com/help-faq/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/help-faq/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/help-faq/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/help-faq/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/help-faq/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/help-faq/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/help-faq/" />
  </url>
  <url>
   <loc>https://amikumu.com/id/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/about-us/</loc>
@@ -905,7 +1011,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/categories/languages/</loc>
@@ -937,11 +1043,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -958,7 +1064,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/id/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/id/press/</loc>
@@ -978,11 +1084,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/about-us/</loc>
@@ -1006,7 +1112,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/categories/languages/</loc>
@@ -1038,11 +1144,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1059,7 +1165,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ja/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ja/press/</loc>
@@ -1083,7 +1189,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ka/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/about-us/</loc>
@@ -1160,7 +1266,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ka/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ka/press/</loc>
@@ -1184,7 +1290,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lfn/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lfn/about-us/</loc>
@@ -1261,7 +1367,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lfn/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lfn/press/</loc>
@@ -1281,11 +1387,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/about-us/</loc>
@@ -1309,7 +1415,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/categories/languages/</loc>
@@ -1341,11 +1447,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1362,7 +1468,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/lt/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/lt/press/</loc>
@@ -1386,7 +1492,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nds/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nds/about-us/</loc>
@@ -1463,7 +1569,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nds/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nds/press/</loc>
@@ -1483,11 +1589,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/about-us/</loc>
@@ -1511,7 +1617,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/categories/languages/</loc>
@@ -1563,7 +1669,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/nl/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/nl/press/</loc>
@@ -1583,11 +1689,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/oc/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/about-us/</loc>
@@ -1611,7 +1717,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/categories/languages/</loc>
@@ -1643,11 +1749,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1664,7 +1770,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/oc/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/oc/press/</loc>
@@ -1684,11 +1790,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/about-us/</loc>
@@ -1712,7 +1818,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/categories/languages/</loc>
@@ -1744,11 +1850,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1765,7 +1871,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pl/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pl/press/</loc>
@@ -1785,11 +1891,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1804,65 +1910,67 @@
  </url>
  <url>
   <loc>https://amikumu.com/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/press/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/press/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/press/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/press/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/press/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/press/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/press/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/press/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/press/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/press/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/press/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/press/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/press/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/press/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/press/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/press/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/press/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/press/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/press/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/press/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/press/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/press/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/press/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/press/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/press/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/press/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/press/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/press/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/press/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/press/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/press/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/press/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/press/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/press/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/press/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/press/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/press/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/press/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/press/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/press/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/press/" />
  </url>
  <url>
   <loc>https://amikumu.com/privacy-terms/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/privacy-terms/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/privacy-terms/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/privacy-terms/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/privacy-terms/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/privacy-terms/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/privacy-terms/" />
  </url>
  <url>
   <loc>https://amikumu.com/pt/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/about-us/</loc>
@@ -1886,7 +1994,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/categories/languages/</loc>
@@ -1918,11 +2026,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -1939,7 +2047,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/pt/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/pt/press/</loc>
@@ -1959,11 +2067,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/about-us/</loc>
@@ -1987,7 +2095,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/categories/languages/</loc>
@@ -2019,11 +2127,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -2040,7 +2148,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/ru/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/ru/press/</loc>
@@ -2060,11 +2168,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/about-us/</loc>
@@ -2088,7 +2196,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/categories/languages/</loc>
@@ -2120,11 +2228,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -2141,7 +2249,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/sk/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/sk/press/</loc>
@@ -2162,60 +2270,62 @@
  <url>
   <loc>https://amikumu.com/statistics/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/statistics/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/statistics/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/statistics/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/statistics/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/statistics/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/statistics/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/statistics/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/statistics/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/statistics/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/statistics/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/statistics/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/statistics/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/statistics/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/statistics/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/statistics/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/statistics/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/statistics/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/statistics/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/statistics/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/statistics/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/statistics/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/statistics/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/statistics/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/statistics/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/statistics/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/statistics/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/statistics/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/statistics/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/statistics/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/statistics/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/statistics/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/statistics/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/statistics/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/statistics/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/statistics/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/statistics/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/statistics/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/statistics/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/statistics/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/statistics/" />
  </url>
  <url>
   <loc>https://amikumu.com/support-us/</loc>
   <lastmod>2022-11-19T14:51:00Z</lastmod>
-  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/support-us/" />
-  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/support-us/" />
-  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/support-us/" />
-  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/support-us/" />
-  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/support-us/" />
-  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/support-us/" />
-  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/support-us/" />
-  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/support-us/" />
-  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/support-us/" />
-  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/support-us/" />
-  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/support-us/" />
-  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/support-us/" />
-  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/support-us/" />
-  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/support-us/" />
   <xhtml:link rel="alternate" hreflang="ca" href="https://amikumu.com/ca/support-us/" />
+  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/support-us/" />
+  <xhtml:link rel="alternate" hreflang="oc" href="https://amikumu.com/oc/support-us/" />
+  <xhtml:link rel="alternate" hreflang="de" href="https://amikumu.com/de/support-us/" />
+  <xhtml:link rel="alternate" hreflang="ka" href="https://amikumu.com/ka/support-us/" />
+  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/support-us/" />
+  <xhtml:link rel="alternate" hreflang="pl" href="https://amikumu.com/pl/support-us/" />
+  <xhtml:link rel="alternate" hreflang="tr" href="https://amikumu.com/tr/support-us/" />
+  <xhtml:link rel="alternate" hreflang="nds" href="https://amikumu.com/nds/support-us/" />
+  <xhtml:link rel="alternate" hreflang="cs" href="https://amikumu.com/cs/support-us/" />
+  <xhtml:link rel="alternate" hreflang="id" href="https://amikumu.com/id/support-us/" />
+  <xhtml:link rel="alternate" hreflang="sk" href="https://amikumu.com/sk/support-us/" />
+  <xhtml:link rel="alternate" hreflang="ja" href="https://amikumu.com/ja/support-us/" />
+  <xhtml:link rel="alternate" hreflang="nl" href="https://amikumu.com/nl/support-us/" />
+  <xhtml:link rel="alternate" hreflang="es" href="https://amikumu.com/es/support-us/" />
+  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/support-us/" />
+  <xhtml:link rel="alternate" hreflang="lfn" href="https://amikumu.com/lfn/support-us/" />
+  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/support-us/" />
+  <xhtml:link rel="alternate" hreflang="ru" href="https://amikumu.com/ru/support-us/" />
   <xhtml:link rel="alternate" hreflang="avk" href="https://amikumu.com/avk/support-us/" />
   <xhtml:link rel="alternate" hreflang="fr" href="https://amikumu.com/fr/support-us/" />
-  <xhtml:link rel="alternate" hreflang="eo" href="https://amikumu.com/eo/support-us/" />
-  <xhtml:link rel="alternate" hreflang="pt" href="https://amikumu.com/pt/support-us/" />
-  <xhtml:link rel="alternate" hreflang="lt" href="https://amikumu.com/lt/support-us/" />
-  <xhtml:link rel="alternate" hreflang="zh_cn" href="https://amikumu.com/zh_cn/support-us/" />
+  <xhtml:link rel="alternate" hreflang="be" href="https://amikumu.com/be/support-us/" />
  </url>
  <url>
   <loc>https://amikumu.com/tr/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/about-us/</loc>
@@ -2239,7 +2349,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/categories/languages/</loc>
@@ -2271,11 +2381,11 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/2022/</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T17:34:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/2022/11/11/busy-bees-of-amikumu/</loc>
@@ -2292,7 +2402,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/tr/posts/archive.html</loc>
-  <lastmod>2022-11-20T14:00:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/tr/press/</loc>
@@ -2316,7 +2426,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh_cn/404.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh_cn/about-us/</loc>
@@ -2393,7 +2503,7 @@
  </url>
  <url>
   <loc>https://amikumu.com/zh_cn/posts/archive.html</loc>
-  <lastmod>2022-11-20T13:20:00Z</lastmod>
+  <lastmod>2022-11-20T21:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://amikumu.com/zh_cn/press/</loc>

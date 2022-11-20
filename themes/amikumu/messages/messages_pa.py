@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "ਅੱਪਡੇਟਸ",
     "Write your page here.": "ਆਪਣਾ ਸਫ਼ਾ ਏਥੇ ਲਿਖੋ |",
     "Write your post here.": "ਆਪਣੀ ਲਿਖਤ ਏਥੇ ਲਿਖੋ |",
-    "about_us": "About us",
     "old posts, page %d": "ਪੁਰਾਣੀਆਂ ਲਿਖਤਾਂ , ਸਫ਼ਾ %d",
     "page %d": "ਸਫ਼ਾ %d",
     "updated": "ਅੱਪਡੇਟ ਕੀਤਾ"

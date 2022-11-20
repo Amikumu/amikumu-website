@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "अपडेट्स",
     "Write your page here.": "अपना पेज यहाँ लिखें",
     "Write your post here.": "अपनी पोस्ट यहाँ लिखें",
-    "about_us": "About us",
     "old posts, page %d": "पुराने पोस्ट, पृष्‍ठ %d",
     "page %d": "पृष्‍ठ %d",
     "updated": "संशोधित"

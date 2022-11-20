@@ -23,6 +23,9 @@
 
 .. include:: translations_parts/ca/page_ambassador.page_content.section.1.text.rst
 
+.. include:: translations_parts/ca/page_ambassador.page_content.section.1.list.rst
+
+
 .. class:: header-h2 
 
 .. include:: translations_parts/ca/page_ambassador.page_content.section.2.title.rst

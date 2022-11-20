@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Yenilənmələr",
     "Write your page here.": "Öz səhifəni bura yaz",
     "Write your post here.": "Öz məqaləni bura yaz",
-    "about_us": "About us",
     "old posts, page %d": "köhnə yazılar, səhifə %s",
     "page %d": "səhifə %d",
     "updated": "updated"

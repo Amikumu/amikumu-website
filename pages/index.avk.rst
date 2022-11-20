@@ -10,7 +10,9 @@
 
 .. container:: homepage-title
 
-	.. include:: translations_parts/avk/page_home-page.page_meta.title.rst
+	.. class:: center-text shadow-text large                                                               
+	
+		.. include:: translations_parts/avk/page_home-page.page_meta.title.rst
 
 
 	.. raw:: html
@@ -22,6 +24,8 @@
 	.. class:: center-text shadow-text normal                                                               
 	
 	.. include:: translations_parts/avk/page_home-page.page_meta.metadata_desc.rst
+
+	.. include:: pages_parts/campaign.rst
 
 .. container:: tutorial
 

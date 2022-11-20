@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Përditësime",
     "Write your page here.": "Shkruaj faqen tënde këtu.",
     "Write your post here.": "Shkruaj postin tënd këtu.",
-    "about_us": "About us",
     "old posts, page %d": "Postime të kaluara, faqe %d",
     "page %d": "faqe %d",
     "updated": "updated"

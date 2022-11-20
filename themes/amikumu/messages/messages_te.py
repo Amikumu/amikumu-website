@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "నవీకరణలు",
     "Write your page here.": "మీ పేజీ ఇక్కడ రాయండి.",
     "Write your post here.": "ఇక్కడ మీ టపా ను వ్రాయండి.",
-    "about_us": "About us",
     "old posts, page %d": "పాత టపాలు, పేజీ %d",
     "page %d": "పేజీ %d",
     "updated": "నవీకరించబడింది"

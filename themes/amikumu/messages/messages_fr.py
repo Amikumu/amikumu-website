@@ -20,7 +20,7 @@ MESSAGES =  {
     "Next": "Article suivant",
     "Next post": "Article suivant",
     "No posts found.": "Pas d'articles.",
-    "Not Found": "Not Found",
+    "Not Found": "introuvable",
     "Nothing found.": "Pas de résultats.",
     "Older posts": "Anciens articles",
     "Original site": "Site d'origine",
@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Mises à jour",
     "Write your page here.": "Écrivez votre page ici.",
     "Write your post here.": "Écrivez votre billet ici.",
-    "about_us": "About us",
     "old posts, page %d": "anciens articles, page %d",
     "page %d": "page %d",
     "updated": "mis à jour"

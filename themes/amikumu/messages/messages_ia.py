@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Actualisationes",
     "Write your page here.": "Scribe tu pagina hic.",
     "Write your post here.": "Scribe tu entrata hic.",
-    "about_us": "About us",
     "old posts, page %d": "Vetule entratas, pagina %d",
     "page %d": "pagina %d",
     "updated": "actualisate"

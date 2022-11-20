@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Aktualizácie",
     "Write your page here.": "Tu napíšte svoju stránku.",
     "Write your post here.": "Tu napíšte svoj príspevok.",
-    "about_us": "About us",
     "old posts, page %d": "staré príspevky, strana %d",
     "page %d": "stránka %d",
     "updated": "updated"

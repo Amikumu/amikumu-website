@@ -53,7 +53,6 @@ MESSAGES =  {
     "Updates": "Updates",
     "Write your page here.": "Vašu stranicu napišite ovdje.",
     "Write your post here.": "Vašu objavu napišite ovdje.",
-    "about_us": "About us",
     "old posts, page %d": "stare objave, strana %d",
     "page %d": "strana %d",
     "updated": "updated"

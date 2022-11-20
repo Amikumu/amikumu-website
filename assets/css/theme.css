@@ -35,8 +35,6 @@ td.label {
 	/* Issue 292 */
 	text-align: center;
 	padding-top: 1em;
-	font-size: small;
-	color: #453f3f;
 }
 
 div.figure > img, div.figure > a > img {
@@ -279,8 +277,7 @@ a.nav-link {
 	color: #3294f3 !important;
 }
 
-div.organizations-title .shadow-text.large,
-.organizations-title .shadow-text .large {
+.organizations-title .shadow-text {
 	font-size: 36px;
 line-height: 1em;
 margin-top: 20px;
@@ -409,7 +406,7 @@ div.tutorial.container {
     position:relative
 }
 
-
+article.post-homepage.storypage div.homepage-title p:first-of-type,
 article.post-homepage.storypage section h2 {
 	color: #fff;
 	text-align: center;
@@ -445,59 +442,20 @@ div.teamo.docutils.container img.teamano.align-left {
 }
 
 
-.hentry,
-.authorindex,
-.postindex,
 div.organizations-reklamo.docutils.container,
 div.teamo.docutils.container,
 div.inner.inner-aboutus.docutils.container .bluebackground,
 .page-privacy,
 .page-faq,
-.page-statistics,
 .page-ambassador,
 .page-presspage {
 width: 80%;
 margin-right: auto;
 margin-left: auto;
 }
-.postindex,
-.authorindex,
-.hentry {
-	max-width: 800px;
-}
-th,
-td {
-	padding: 5px;
 
-}
 
-.byline {
-	line-height: 2em;
-}
 
-th {
-color: #666;
-font-size: small;
-}
-tr {
-	padding: 5px;
-}
-tr,
-table {
-	border: 1px solid #aaa;
-}
-
-td:first-child {
-	width: 80px;
-}
-
-td:nth-child(3),
-td:nth-child(4),
-td:nth-child(5),
-td:nth-child(6),
-td:nth-child(7) {  
-width: 100px;
-}
 
 h1,
 h2,
@@ -524,13 +482,6 @@ h3,
 	color: #3292f1 !important;
 	font-weight: 500;
 }
-
-h4,
-.header-h4 {
-font-weight: 700;
-color: #174580;
-}
-
 .header-h1,
 h1 {
     font-size: 40px;
@@ -549,20 +500,6 @@ p.aboutus-quote {
 	color: #666;
 }
 
-
-.price,
-.price-text {
-	float: left;
-}
-
-.price {
-	clear: left;
-	font-weight: bold;
-}
-
-.price-text {
-	padding-left: 3px;
-}
 
 p.aboutus-name {
 	margin-bottom: 0px;
@@ -651,9 +588,7 @@ div.block1.docutils.container,
 div.block2.docutils.container,
 div.block3.docutils.container {
 	float: left;
-	margin-right: auto;
-	margin-left: auto;
-min-width: 200px;
+min-width: 300px;
 width: 30%;
 text-align: center;
 }
@@ -767,13 +702,8 @@ div.float-left-costs {
 	width: 50%;
 }
 
-.margin5 {
-	margin-right: 3px !important;
-}
-
 div.costs p.note {
 	font-weight: bold;
-	clear: both;
 }
 
 div.costs p.note:before {
@@ -796,8 +726,8 @@ div.purchase.docutils.container div.wrapper.docutils.container div.badges.exampl
 div.purchase div.lightblue,
 div.purchase.docutils.container div.wrapper.docutils.container div.badges,
 div.purchase.docutils.container div.wrapper.docutils.container p {
-	width: 80%;
-	padding-left: 5px;
+	max-width: 80%;
+	padding-left: 25px;
 }
 
 div.purchase div.lightblue {
@@ -811,11 +741,7 @@ div.purchase.docutils.container div.wrapper.docutils.container div.badges {
 clear: right;
 min-width: 100%;
 }
-,
-div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
-	
-	width: 80px !important;
-}
+
 .badges.examples.icon,
 .icon {
 width: 80px;
@@ -826,7 +752,22 @@ background-position: center;
 margin-right: 15px;
 margin-left: 0px;
 } 
+@media only screen and (max-width: 979px) {
+.badges.examples.icon,
+.icon {
+width: 60px;
+height: 60px;
+margin-right: 5px;
+}
+}
 
+@media only screen and (max-width: 768px) {
+.badges.examples.icon,
+.icon {
+width: 50px;
+height: 50px;
+}
+}
 
 
 
@@ -925,14 +866,12 @@ div.organizations-title.docutils.container {
 		padding-top: 0px;
 	}
 
-	.shadow-text.large{
+	article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
 }
 
-div.alert.alert-warning{
-	padding: 25px;
-}
+
 
 @media (min-width:376px) {
 	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
@@ -968,7 +907,7 @@ div.organizations-title.docutils.container {
 		padding-top: 150px;
 	}
 
-.shadow-text.large{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 32px;
 	}
 }
@@ -1000,7 +939,7 @@ div.organizations-title.docutils.container {
 		padding-top: 150px;
 	}
 
-.shadow-text.large{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -1030,7 +969,7 @@ div.organizations-title.docutils.container {
 		padding-top: 150px;
 	}
 	
-.shadow-text.large{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 40px;
 	}
 }
@@ -1064,7 +1003,7 @@ div.organizations-title.docutils.container {
 		padding-left: 100px;
 		font-size: larger;
 	}
-.shadow-text.large{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 60px;
 	}
 }
@@ -1100,7 +1039,7 @@ div.organizations-title.docutils.container {
 		padding-left: 300px;
 		font-size: larger;
 	}
-.shadow-text.large{
+article.post-homepage.storypage div.homepage-title p:first-of-type{
 		font-size: 70px;
 	}
 }
@@ -1767,7 +1706,7 @@ margin-right: 1px;
 		width: 100%;
 min-height: 150px;
 	}
-
+.float-left,
 .copyright {
 	width: 100% !important;
 	margin-left: 0px;
@@ -1832,6 +1771,7 @@ div.footer-socialmedia ul li  {
 	float: right;
 	color: #fff;
 	list-style: none;
+	width: 50px;
 }
 
 div.footer-socialmedia ul li a:hover  {
@@ -2033,17 +1973,12 @@ footer#footer div.footer-socialmedia a {
 	float: right;
 	color: #fff;
 	list-style: none;
+	width: 30px;
 	padding-top: 10px;
 }
 #footer float-left,
 .copyright {
 	padding: 10px;
-}
-
-footer#footer div.footer-socialmedia div.container div.float-left a.footer-privacy {
-	
-	float: none;
-	text-align: center;
 }
 div.footer-socialmedia ul {
 	margin-left: auto;
@@ -2063,6 +1998,10 @@ div.footer-socialmedia ul {
 }
 
 @media only screen and (max-width: 979px) {
+		div.wrapper.docutils.container div.screen.bigscreen,
+    div.wrapper.docutils.container div.screen div.bigscreen {
+        display:none !important;
+    }
 	
 	div.badges.examples .icon.your-badge,
 .badges.examples.icon.your-badge {
@@ -2076,47 +2015,15 @@ div.wrapper.docutils.container div.screen.bigscreen,
 div.badges div.wrapper div.screen div.bigscreen {
 float: none;
 }
-
-
-div.purchase div.lightblue {
-
-	padding: 5px 5px !important;
-
-}
+div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
+div.purchase.docutils.container div.wrapper.docutils.container p {
+	max-width: 100%;
+	padding-left: 0px;
 }
 
-@media only screen and (max-width: 1240px) {
-div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, div.purchase.docutils.container div.wrapper.docutils.container p,
-div.purchase.docutils.container div.wrapper.docutils.container div.badges {
-width: 70%;
-}
-
-div#content.container div.body-content article.post-organizations.page-organizations.storypage div.e-content.entry-content div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container p.icon.your-badge {
-	width: 80px;
-}
-
-
-
-}
-
-@media only screen and (max-width: 968px) {
-	.price-text {
-max-width: 90%;
-}
 }
 
 @media only screen and (max-width: 768px) {
-
-	div.badges.examples .icon.your-badge,
-.badges.examples.icon.your-badge {
-padding: 5px 0px 0px !important;
-font-size: 12px;
-}
-
-
-
-}
-@media only screen and (max-width: 668px) {
 	div.wrapper.docutils.container div.screen.bigscreen,
     div.wrapper.docutils.container div.screen div.bigscreen {
         display:none !important;
@@ -2128,12 +2035,6 @@ padding: 5px 0px 0px !important;
 font-size: 12px;
 }
 
-
-div.float-left-costs {
-	float: left;
-	width: 100%;
-}
-
 div.badges div.wrapper div.screen div.text,
 	div.wrapper.docutils.container div.screen.bigscreen,
 div.badges div.wrapper div.screen div.bigscreen {
@@ -2141,234 +2042,9 @@ float: none;
 }
 div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container,
 div.purchase.docutils.container div.wrapper.docutils.container p {
-	width: 100%;
-	padding-left: 0px;
-}
-
-.purchase,
-.costs {
-	padding: 20px 25px;
-	color: #333;
-    font-size: 15px;
-}
-div.purchase div.lightblue {
-    height: auto;
-    background-color: #d6e9fc;
-    float: left;
-	padding: 25px 100px;
-	color: #333;
-    font-size: 15px;
-	margin-top: 25px;
-}
-
-.price,
-.price-text {
-	float: left;
-}
-
-.price {
-	clear: left;
-	font-weight: bold;
-}
-
-.price-text {
-max-width: 90%;
-}
-}
-
-
-
-@media only screen and (max-width: 979px) {
-.badges.examples.icon,
-.icon {
-width: 60px;
-height: 60px;
-margin-right: 5px;
-}
-}
-
-@media only screen and (max-width: 768px) {
-.badges.examples.icon,
-.icon {
-float: left;
-max-width: 50px;
-width: 50px !important;
-height: 50px;
-}
-
-button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
-float: none;
-position: absolute;
-right: -50px;
-top: -20px;
-
-}
-#menu {
-	float: right !important;
-	text-align: right !;
-	align-content: right !important;
-	margin-right: 90px;
-	margin-left: -40px;
-}
-
-.navbar-brand{margin-right:0rem;}
-
-div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
-div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
-nav#menu div div.dropdown.show div.dropdown-menu.show {
-	float: left;
-	margin-right: 100px;
-	position: absolute;
-	top: -60px;
-	left: 0;
-	z-index: 1000;
-	min-width: 10rem;
-	padding: .5rem 0;
-	margin: .125rem 0 0;
-	font-size: 1rem;
-	color: #212529;
-	text-align: left;
-	list-style: none;
-	background-color: #fff;
-	background-clip: padding-box;
-	border: 1px solid rgba(0,0,0,.15);
-	border-radius: .25rem;
-	width: 400px;
-	left: -420px;
-}
-
-	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
-	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
-		width: 50%;
-	}
-div.block1.docutils.container img,
-div.block2.docutils.container img,
-div.block3.docutils.container img {
-max-height: 150px;
-max-width: 150px;
-padding-bottom: 45px;
-}
-
-div.purchase div.lightblue {
-    height: auto;
-    background-color: #d6e9fc;
-    float: left;
-	padding: 25px 10px;
-	color: #333;
-    font-size: 15px;
-	margin-top: 25px;
-}
-
-div.purchase.docutils.container div.wrapper.docutils.container div.badges.examples.docutils.container {
+	max-width: 100%;
 	padding-left: 0px;
 }
 
 }
 
-@media only screen and (max-width: 630px) {
-div.purchase div.lightblue {
-
-	padding: 25px 25px;
-
-}
-div.block1.docutils.container,
-div.block2.docutils.container,
-div.block3.docutils.container {
-	float: none;
-}
-}
-
-
-@media only screen and (max-width: 499px) {
-.price-text {
-max-width: 225px;
-}
-
-div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
-div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show,
-nav#menu div div.dropdown.show div.dropdown-menu.show {
-	float: left;
-	margin-right: 100px;
-	position: absolute;
-	top: -60px;
-	left: 0;
-	z-index: 1000;
-	min-width: 10rem;
-	padding: .5rem 0;
-	margin: .125rem 0 0;
-	font-size: 1rem;
-	color: #212529;
-	text-align: left;
-	list-style: none;
-	background-color: #fff;
-	background-clip: padding-box;
-	border: 1px solid rgba(0,0,0,.15);
-	border-radius: .25rem;
-	width: 250px;
-	left: -250px;
-}
-
-button#dropdownMenuButton.btn.btn-primary.dropdown-toggle.langref {
-float: none;
-position: absolute;
-right: -50px;
-top: -80px;
-
-}
-
-
-
-.nav-item {
-	font-size: small;
-}
-#menu {
-width: 100%;
-	margin-right: 0px;
-	margin-left: 10px;
-}
-
-	div.container.navbar-container div.dropdown.dropdown-nav div.dropdown-menu.show a.dropdown-item,
-	nav#menu div div.dropdown.show div.dropdown-menu.show .dropdown-item {
-		width: 100%;
-	}
-
-div.purchase div.lightblue {
-
-	padding: 25px 25px;
-
-}
-
-div.purchase div.lightblue, div.purchase.docutils.container div.wrapper.docutils.container div.badges, 
-div.purchase.docutils.container div.wrapper.docutils.container p,
-div.purchase.docutils.container div.wrapper.docutils.container div.badges {
-width: 100%;
-}
-}
-
-div.statistics-link a {
-	color: #f8f7f7 !important;
-	text-decoration: underline;
-	font-weight: 500;
-}
-footer#footer div.footer-socialmedia i {
-	font-size: 30px;
-	margin-left: 15px;
-}
-div.figure.align-right {
-	float: right;
-	margin-left: 15px;
-}
-
-div.figure img {
-		border: 1px solid #333;
-
-}
-
-.postpromonav {
-	clear: both;
-	margin-bottom: 15px;
-}
-
-div.wrapper.docutils.container div.lightblue.docutils.container p.float-left-costs {
-	width: auto;
-}

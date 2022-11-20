@@ -1,4 +1,3 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://amikumu.com/sitemapindex.xml
+Disallow: /

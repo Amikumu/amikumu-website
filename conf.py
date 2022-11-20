@@ -102,6 +102,7 @@ DEFAULT_LANG = "en"
 TRANSLATIONS = {
     DEFAULT_LANG: "",
     "id": "./id",
+         "be": "./be",
      "ca": "./ca",
      "de": "./de",
      "es": "./es",

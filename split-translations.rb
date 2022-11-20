@@ -2,7 +2,7 @@
 
 require "json"
 timezone="Europe/Amsterdam"
-languages = ["en","id", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka", "nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs", "avk", "lfn", "nds"]
+languages = ["en","id", "be", "ca", "de", "es", "eo", "fr", "zh-CN", "ru", "ja", "ka", "nl", "oc", "pl", "pt", "sk", "tr", "lt", "cs", "avk", "lfn", "nds"]
 
 module Enumerable
   def flatten_with_path(parent_prefix = nil)

@@ -6,20 +6,12 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://amikumu.com/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/authors/tanja.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/avk/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/avk/authors/chuck-smith.xml</loc>
@@ -52,10 +44,6 @@
  <sitemap>
   <loc>https://amikumu.com/avk/rss.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/ca/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/ca/authors/chuck-smith.xml</loc>
@@ -110,10 +98,6 @@
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/cs/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/cs/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -144,10 +128,6 @@
  <sitemap>
   <loc>https://amikumu.com/cs/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/de/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/de/authors/chuck-smith.xml</loc>
@@ -182,10 +162,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/eo/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/eo/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -216,10 +192,6 @@
  <sitemap>
   <loc>https://amikumu.com/eo/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/es/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/es/authors/chuck-smith.xml</loc>
@@ -254,10 +226,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/fr/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/fr/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -288,10 +256,6 @@
  <sitemap>
   <loc>https://amikumu.com/fr/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/id/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/id/authors/chuck-smith.xml</loc>
@@ -326,10 +290,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/ja/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/ja/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -360,10 +320,6 @@
  <sitemap>
   <loc>https://amikumu.com/ja/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/ka/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/ka/authors/chuck-smith.xml</loc>
@@ -398,10 +354,6 @@
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/lfn/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/lfn/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -432,10 +384,6 @@
  <sitemap>
   <loc>https://amikumu.com/lfn/rss.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/lt/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/lt/authors/chuck-smith.xml</loc>
@@ -470,10 +418,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/nds/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/nds/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -504,10 +448,6 @@
  <sitemap>
   <loc>https://amikumu.com/nds/rss.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/nl/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/nl/authors/chuck-smith.xml</loc>
@@ -542,10 +482,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/oc/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/oc/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -578,10 +514,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/pl/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/pl/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -612,10 +544,6 @@
  <sitemap>
   <loc>https://amikumu.com/pl/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/pt/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/pt/authors/chuck-smith.xml</loc>
@@ -654,10 +582,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/ru/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/ru/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -691,11 +615,7 @@
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/sitemap.xml</loc>
-  <lastmod>2022-11-20T14:02:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/sk/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
+  <lastmod>2022-11-20T17:31:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/sk/authors/chuck-smith.xml</loc>
@@ -730,10 +650,6 @@
   <lastmod>2022-11-20T14:00:00Z</lastmod>
  </sitemap>
  <sitemap>
-  <loc>https://amikumu.com/tr/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://amikumu.com/tr/authors/chuck-smith.xml</loc>
   <lastmod>2022-11-20T13:20:00Z</lastmod>
  </sitemap>
@@ -764,10 +680,6 @@
  <sitemap>
   <loc>https://amikumu.com/tr/rss.xml</loc>
   <lastmod>2022-11-20T14:00:00Z</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://amikumu.com/zh_cn/authors/amikumu.xml</loc>
-  <lastmod>2022-11-19T21:47:00Z</lastmod>
  </sitemap>
  <sitemap>
   <loc>https://amikumu.com/zh_cn/authors/chuck-smith.xml</loc>

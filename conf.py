@@ -698,7 +698,7 @@ ATOM_FILENAME_BASE = "feed"
 # relative URL.
 #
 # If you don't need any of these, just set to []
-REDIRECTIONS = [("/get_gold", " https://app.amikumu.com/get_gold"),("/orighu", " https://app.amikumu.com/orighu"),("/blackfriday", " https://app.amikumu.com/pages/blackfriday"),("/nigravendredo", " https://app.amikumu.com/pages/nigravendredo")]
+REDIRECTIONS = [("/en/privacy-policy/", "https://amikumu.com/privacy-policy/"),("/get_gold", "https://app.amikumu.com/get_gold"),("/orighu", "https://app.amikumu.com/orighu"),("/blackfriday", "https://app.amikumu.com/pages/blackfriday"),("/nigravendredo", "https://app.amikumu.com/pages/nigravendredo")]
 
 # Presets of commands to execute to deploy. Can be anything, for
 # example, you may use rsync:

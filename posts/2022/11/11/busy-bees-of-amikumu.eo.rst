@@ -1,6 +1,6 @@
 .. title: La zumado de la Amikumu-teamo
 .. slug: busy-bees-of-amikumu
-.. date: 2022-11-11 17:50:24+01:00
+.. date: 2022-11-24 17:50:24+01:00
 .. tags: weblate, traduki, tradukaĵoj, lingvoj, teamo
 .. category: 
 .. link: 

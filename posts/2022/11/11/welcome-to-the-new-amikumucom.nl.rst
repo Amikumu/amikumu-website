@@ -1,6 +1,6 @@
 .. title: Welkom op de nieuwe Amikumu.com!
 .. slug: welcome-to-the-new-amikumucom
-.. date: 2022-11-11 16:22:52 UTC+01:00
+.. date: 2022-11-23 16:22:52 UTC+01:00
 .. tags: 
 .. category: 
 .. link: 

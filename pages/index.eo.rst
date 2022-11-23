@@ -25,7 +25,7 @@
 	
 	.. include:: translations_parts/eo/page_home-page.page_meta.metadata_desc.rst
 
-	.. include:: pages_parts/campaign.rst
+	.. include:: pages_parts/campaign.eo.rst
 
 .. container:: tutorial
 

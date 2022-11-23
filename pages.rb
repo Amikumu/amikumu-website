@@ -51,6 +51,9 @@ languages.each do |language|
           #template.gsub!(/^#{file}/, "")
         end
       end
+      if (language == "eo" && page == "index")
+        template.gsub!(/pages_parts\/campaign.rst/,"pages_parts/campaign.eo.rst")
+      end
     File.open(filename, "w") { |f| f.write "#{template}" }
     puts language
   #puts template

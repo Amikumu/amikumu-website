@@ -7,6 +7,8 @@
 .. description: As we embark on another year, it's a great time to set new goals and resolutions for ourselves. If one of your goals for this year is to improve your language skills, we have a suggestion for you: make a resolution to spend more time practicing with language partners.
 .. type: text
 .. author: Amikumu Team
+.. previewimage: /images/bonveniga.png
+
 
 |header|
 

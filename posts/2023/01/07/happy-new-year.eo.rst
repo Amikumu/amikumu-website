@@ -7,6 +7,9 @@
 .. description: Kiel vi eble scias, Amikumu estas senpaga aplikaĵo por trovi Esperantistojn kiuj vojaĝas tra via urbo aŭ por konekti kun Esperantistoj dum vi mem vojaĝas. Amikumu ankaŭ estas utila por trovi lingvopartnerojn por aliaj lingvoj.
 .. type: text
 .. author: Amikumu Teamo
+.. previewimage: /images/bonveniga.png
+
+
 
 |header|
 

@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Hizkuntzak:",
     "More posts about %s": "%s-ri buruzko argitalpen gehiago",
     "Newer posts": "Argitalpen berriagoak",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Hurrengo argitalpena",
     "No posts found.": "Ez da argitalpenik aurkitu",

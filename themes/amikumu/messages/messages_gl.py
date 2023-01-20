@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Linguas:",
     "More posts about %s": "Máis artigos sobre %s",
     "Newer posts": "Últimos artigos",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Seguinte artigo",
     "No posts found.": "Non se atoparon artigos.",

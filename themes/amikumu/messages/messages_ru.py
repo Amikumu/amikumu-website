@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Языки:",
     "More posts about %s": "Больше записей о %s",
     "Newer posts": "Новые записи",
+    "Newsletter": "Newsletter",
     "Next": "Следующая",
     "Next post": "Следующая запись",
     "No posts found.": "Записей не найдено.",

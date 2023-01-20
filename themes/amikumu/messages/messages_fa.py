@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "زبان‌‌ها:",
     "More posts about %s": "ارسال‌های بیشتر دربارهٔ%s",
     "Newer posts": "ارسال‌های جدید‌تر",
+    "Newsletter": "Newsletter",
     "Next": "بعدی",
     "Next post": "ارسال بعدی",
     "No posts found.": "هیچ پستی پیدا نشد.",

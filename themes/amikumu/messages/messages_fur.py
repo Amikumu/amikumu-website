@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Lenghis:",
     "More posts about %s": "Altris articui su %s",
     "Newer posts": "Articui plui resints",
+    "Newsletter": "Newsletter",
     "Next": "Prossim",
     "Next post": "Prossim articul",
     "No posts found.": "Nissun articul cjatât.",

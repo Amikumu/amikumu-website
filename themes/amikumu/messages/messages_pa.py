@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "ਬੋਲੀਆਂ:",
     "More posts about %s": "%s ਬਾਰੇ ਹੋਰ ਲਿਖਤਾਂ",
     "Newer posts": "ਨਵੀਆਂ ਲਿਖਤਾਂ",
+    "Newsletter": "Newsletter",
     "Next": "ਅੱਗੇ ",
     "Next post": "ਅਗਲੀ ਲਿਖਤ",
     "No posts found.": "ਕੋਈ ਲਿਖਤ ਨਹੀਂ ਲੱਭੀ |",

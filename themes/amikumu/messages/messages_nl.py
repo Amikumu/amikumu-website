@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Talen:",
     "More posts about %s": "Meer berichten over %s",
     "Newer posts": "Nieuwere berichten",
+    "Newsletter": "Newsletter",
     "Next": "Volgende",
     "Next post": "Volgend bericht",
     "No posts found.": "Geen berichten gevonden.",

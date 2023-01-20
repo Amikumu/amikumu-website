@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "語言：",
     "More posts about %s": "更多 %s 的文章",
     "Newer posts": "較新的文章",
+    "Newsletter": "Newsletter",
     "Next": "下一篇",
     "Next post": "下一篇",
     "No posts found.": "沒有找到文章。",

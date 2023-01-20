@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Ngôn ngữ:",
     "More posts about %s": "Các bài đăng khác về %s",
     "Newer posts": "Bài viết gần đây",
+    "Newsletter": "Newsletter",
     "Next": "Kế tiếp",
     "Next post": "Bài viết tiếp theo",
     "No posts found.": "Không tìm thấy bài viết.",

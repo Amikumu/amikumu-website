@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "भाषाएँ:",
     "More posts about %s": "%s के बारे में और पोस्ट",
     "Newer posts": "नई पोस्ट",
+    "Newsletter": "Newsletter",
     "Next": "अगला",
     "Next post": "अगला पोस्ट",
     "No posts found.": "कोई पोस्ट नहीं मिला",

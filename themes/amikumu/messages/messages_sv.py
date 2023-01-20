@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Språk:",
     "More posts about %s": "Fler inlägg om %s",
     "Newer posts": "Nya inlägg",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Nästa inlägg",
     "No posts found.": "Inga inlägg hittade.",

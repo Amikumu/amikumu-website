@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Jezici:",
     "More posts about %s": "Više članaka o %s",
     "Newer posts": "Novije objave",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Naredni članak",
     "No posts found.": "Nema članaka.",

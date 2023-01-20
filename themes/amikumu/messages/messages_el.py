@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Γλώσσες",
     "More posts about %s": "Περισσότερες αναρτήσεις για %s",
     "Newer posts": "Νεότερες αναρτήσεις",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Επόμενη ανάρτηση",
     "No posts found.": "Δε βρέθηκαν αναρτήσεις",

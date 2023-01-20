@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Kalbos:",
     "More posts about %s": "Daugiau įrašų apie %s",
     "Newer posts": "Naujesni įrašai",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Sekantis įrašas",
     "No posts found.": "Įrašų nerasta.",

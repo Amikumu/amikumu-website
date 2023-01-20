@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Lingvoj:",
     "More posts about %s": "Pli da artikoloj pri %s",
     "Newer posts": "Pli novaj artikoloj",
+    "Newsletter": "Novaĵxletero",
     "Next": "Venonta",
     "Next post": "Venonta artikolo",
     "No posts found.": "Neniu artikoloj trovitaj.",

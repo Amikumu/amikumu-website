@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "言語:",
     "More posts about %s": "%sに関する記事一覧",
     "Newer posts": "新しい記事",
+    "Newsletter": "Newsletter",
     "Next": "次",
     "Next post": "次の記事",
     "No posts found.": "記事はありません。",

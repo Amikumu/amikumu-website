@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Diller:",
     "More posts about %s": "%s hakkında diğer yazılar",
     "Newer posts": "Daha yeni yazılar",
+    "Newsletter": "Newsletter",
     "Next": "Next",
     "Next post": "Sonraki yazı",
     "No posts found.": "Yazı bulunamadı.",

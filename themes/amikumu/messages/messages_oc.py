@@ -17,6 +17,7 @@ MESSAGES =  {
     "Languages:": "Lengas :",
     "More posts about %s": "Mai de publicacion sus %s",
     "Newer posts": "Publicacions mai recentas",
+    "Newsletter": "Newsletter",
     "Next": "Seguent",
     "Next post": "Publicacion seguenta",
     "No posts found.": "Cap de publicacion pas trobada.",

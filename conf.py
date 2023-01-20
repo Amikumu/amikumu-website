@@ -188,6 +188,7 @@ NAVIGATION_ALT_LINKS = {
     ("/statistics/", "Statistics"),
     ("https://amikumu.redbubble.com/", "Shop"),
     ("/help-faq", "Help / FAQ"),
+    ("https://listmonk.amikumu.com/subscription/form", "Newsletter"),
     )
 }
 

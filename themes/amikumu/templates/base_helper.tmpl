@@ -158,7 +158,7 @@ lang="${lang}">
                 <div class="nav-item active"><a href="${permalink}" class="nav-link">${text} <span class="sr-only">${messages("(active)", lang)}</span></a>
             %else:
              %if text == "Shop":
-                <div class="nav-item"><a href="${url}" class="nav-link">${messages (text, lang)}</a></div>
+                <div class="nav-item"><a href="${url}" class="nav-link" target="_new">${messages (text, lang)}</a></div>
                 % else:
             %if lang == "en":
                 <div class="nav-item"><a href="/${url}" class="nav-link">${messages (text, lang)}</a></div>

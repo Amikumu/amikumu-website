@@ -1,13 +1,13 @@
 .. title: Our new newsletter
 .. slug: our-new-newsletter
-.. date: 2023-01-20 14:16:16+01:00
+.. date: 2023-01-25 14:16:16+01:00
 .. tags: newsletter
 .. category: 
 .. link: https://listmonk.amikumu.com/subscription/form
 .. description: We are excited to announce the launch of our new newsletter for Amikumu. Our newsletter will keep you updated on the latest features, events, and promotions happening on our platform.
 .. type: text
 .. previewimage: 
-.. status: draft
+.. status: published
 
 We are excited to announce the launch of our new newsletter for Amikumu. Our newsletter will keep you updated on the latest features, events, and promotions happening on our platform.
 
@@ -19,7 +19,7 @@ You can `subscribe to the newsletter through this link`_
 
 We value your privacy and will never share your information with any third party.
 
-We look forward to keeping you informed and connected.
+We look forward to keeping you informed and connected!
 
 
 .. _subscribe to the newsletter through this link: https://listmonk.amikumu.com/subscription/form

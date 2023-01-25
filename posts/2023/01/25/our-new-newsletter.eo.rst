@@ -1,13 +1,13 @@
 .. title: Nia nova novaĵletero
 .. slug: our-new-newsletter
-.. date: 2023-01-20 14:16:16+01:00
+.. date: 2023-01-25 14:16:16+01:00
 .. tags: novaĵletero
 .. category: 
 .. link: https://listmonk.amikumu.com/subscription/form
 .. description: Ni ĝojas pro la lanĉo de nia nova novaĵletero por Amikumu, al vi, nia valora uzanto de Amikumu. Nia novaĵletero informos vin pri la plej lastaj aferoj, eventoj kaj promocioj okazantaj en nia platformo.
 .. type: text
 .. previewimage: 
-.. status: draft
+.. status: published
 
 Ni ĝojas pro la lanĉo de nia nova novaĵletero por Amikumu, al vi, nia valora uzanto de Amikumu. Nia novaĵletero informos vin pri la plej lastaj aferoj, eventoj kaj promocioj okazantaj en nia platformo.
 
@@ -19,6 +19,6 @@ Vi povas `alboni al la novaĵletero per ĉi tiu ligilo`_
 
 Ni zorgas pri via privateco kaj neniam kunhavigos viajn informojn kun triaj partioj. Se vi ne konfirmas vian abonon, vi ne plu ricevos ĉi tiajn mesaĝojn.
 
-Ni antaŭĝojas informi kaj konektiĝi kun vi.
+Ni antaŭĝojas informi kaj konektiĝi kun vi!
 
 .. _alboni al la novaĵletero per ĉi tiu ligilo: https://listmonk.amikumu.com/subscription/form

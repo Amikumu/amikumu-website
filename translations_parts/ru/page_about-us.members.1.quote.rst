@@ -1,1 +1,1 @@
-I love seeing all the great ways people are meeting up to speak different languages with Amikumu all over the world!
+Меня очень радует, когда я вижу, как люди со всех уголков Земли при помощи Amikumu встречаются, чтобы поговорить на разных языках!

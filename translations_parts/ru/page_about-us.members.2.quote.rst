@@ -1,1 +1,1 @@
-Amikumu makes it so easy to meet new people who share my interests, no matter where I am. I love working on an app that I use myself and help users get the best experience out of it!
+Amikumu позволяет мне легко заводить новые знакомства по интересам вне зависимости от моего места жительства. Мне доставляет удовольствие работать над приложением, которое я использую, и делать так, чтобы оно так же радовало и других пользователей.

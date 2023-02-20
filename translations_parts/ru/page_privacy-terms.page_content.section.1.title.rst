@@ -1,1 +1,1 @@
-2. Collection and use of personal information
+2. Сбор и использование персональных данных

@@ -1,1 +1,1 @@
-We collect and use the information for purposes including:
+Цель сбора и использования данных:

@@ -1,1 +1,1 @@
-Elken månd publiceret wy en nysbreev med insichten achter de kulissen un wat wy berekked hebbet. Wy aksepteret ouk bydräge van lidmåten van uns gemeynskap so as dy. Dit is unse wyse direktement med dy to spreaken. `Meld dy hyr an <http://eepurl.com/c4qiRD>`_.
+Elken månd publiceret wy en nysbreev med insichten achter de kulissen un wat wy berekked hebbet. Wy aksepteret ouk bydräge van lidmåten van uns gemeynskap so as dy. Dit is unse wyse direktement med dy to spreaken. `Meld dy hyr an <https://listmonk.amikumu.com/subscription/form>`_.

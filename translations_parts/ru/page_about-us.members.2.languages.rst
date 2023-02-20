@@ -1,1 +1,1 @@
-Dutch, English, Esperanto, baby-German
+нидерландский, английский, эсперанто, бэби-немецкий

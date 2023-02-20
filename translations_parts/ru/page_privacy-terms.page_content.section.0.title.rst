@@ -1,1 +1,1 @@
-1. Collection of personal information
+1. Сбор персональных данных

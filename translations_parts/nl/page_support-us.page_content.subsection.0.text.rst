@@ -1,1 +1,1 @@
-Elke maand publiceren we een nieuwsbrief met inzichten achter de schermen over onze plannen en successen. We accepteren ook bijdragen van onze gemeenschapsleden zoals jezelf. Dit is onze manier om rechtstreeks met je te praten. `Meld je hier aan <http://eepurl.com/c4qiRD>`_.
+Elke maand publiceren we een nieuwsbrief met inzichten achter de schermen over onze plannen en successen. We accepteren ook bijdragen van onze gemeenschapsleden zoals jezelf. Dit is onze manier om rechtstreeks met je te praten. `Meld je hier aan <https://listmonk.amikumu.com/subscription/form>`_.

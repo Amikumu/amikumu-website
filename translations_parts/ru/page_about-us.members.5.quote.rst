@@ -1,1 +1,1 @@
-The beauty of Amikumu is that it doesn’t only help me find new language partners, but also make new friends offline.
+Прелесть Amikumu в том, что с его помощью можно не только найти собеседников для языковой практики, но и друзей для живого общения.

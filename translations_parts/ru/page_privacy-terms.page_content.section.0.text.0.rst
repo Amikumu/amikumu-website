@@ -1,1 +1,1 @@
-**Personal information:** The type of information we collect may include:
+**Персональные данные:** Сведения, которые мы собираем, могут содержать:

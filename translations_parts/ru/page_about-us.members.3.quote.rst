@@ -1,1 +1,1 @@
-Amikumu is a boon for polyglots like me – I'm always surprised by who speaks Greek, Hebrew or Indonesian around me.
+Amikumu — находка для полиглотов, как я: всегда испытываю удивление, когда слышу рядом речь на греческом, иврите или индонезийском.

@@ -1,1 +1,1 @@
-Każdego miesiąca publikujemy newsletter z informacjami o naszych planach i sukcesach. Akceptujemy również wsparcie od członków naszej społeczności, takich jak Ty. W ten sposób zwracamy się bezpośrednio do Ciebie. `Zapisz się tutaj <http://eepurl.com/c4qiRD>`_.
+Każdego miesiąca publikujemy newsletter z informacjami o naszych planach i sukcesach. Akceptujemy również wsparcie od członków naszej społeczności, takich jak Ty. W ten sposób zwracamy się bezpośrednio do Ciebie. `Zapisz się tutaj <https://listmonk.amikumu.com/subscription/form>`_.

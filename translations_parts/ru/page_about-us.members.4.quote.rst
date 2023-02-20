@@ -1,1 +1,1 @@
-Amikumu gives me the ability to instantly find language partners for any language I know or am interested in, wherever I am. Для меня это - суперсила.»
+Где бы я ни находился, Amikumu мне позволяет моментально найти собеседника на любом из языков, которым я владею или просто интересуюсь. Считаю это колоссальным преимуществом.

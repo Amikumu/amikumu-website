@@ -1,1 +1,1 @@
-Chief Technical Officer and Mobile Developer
+Технический директор и мобильный разработчик

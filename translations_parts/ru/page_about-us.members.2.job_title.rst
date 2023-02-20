@@ -1,1 +1,1 @@
-Volunteer: Mobile Developer / Customer Support
+Волонтер: Мобильный разработчик / Служба поддержки клиентов

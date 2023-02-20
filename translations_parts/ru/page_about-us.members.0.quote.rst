@@ -1,1 +1,1 @@
-Amikumu is an essential part of every language learner’s toolkit.
+Amikumu является неотъемлемым средством при изучении любого языка.

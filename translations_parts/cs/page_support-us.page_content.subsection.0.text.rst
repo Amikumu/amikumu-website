@@ -1,1 +1,1 @@
-Každý měsíc zveřejňujeme novinky se zákulisními informacemi o našich plánech a úspěších. Také přijímáme příspěvky od lidí, jako jste vy - členů naší komunity. Toto je náš způsob, jak mluvit přímo s vámi. `Přihlásit se zde <http://eepurl.com/c4qiRD>`_.
+Každý měsíc zveřejňujeme novinky se zákulisními informacemi o našich plánech a úspěších. Také přijímáme příspěvky od lidí, jako jste vy - členů naší komunity. Toto je náš způsob, jak mluvit přímo s vámi. `Přihlásit se zde <https://listmonk.amikumu.com/subscription/form>`_.

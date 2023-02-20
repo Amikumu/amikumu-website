@@ -1,1 +1,1 @@
-Setiap bulan kami menerbitkan buletin dengan wawasan di balik layar tentang rencana dan kesuksesan kami. Kami juga menerima kontribusi dari anggota komunitas kami seperti Anda. Inilah cara kami berbicara langsung dengan Anda. `Daftar disini <http://eepurl.com/c4qiRD>`_.
+Setiap bulan kami menerbitkan buletin dengan wawasan di balik layar tentang rencana dan kesuksesan kami. Kami juga menerima kontribusi dari anggota komunitas kami seperti Anda. Inilah cara kami berbicara langsung dengan Anda. `Daftar disini <https://listmonk.amikumu.com/subscription/form>`_.

@@ -4,7 +4,6 @@ jobs:
   nikola_build:
     env:
       commitmsg: ${{ github.event.head_commit.message }}
-      github.actor: amikumu
     runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
@@ -17,6 +16,6 @@ jobs:
     - run: ruby split-translations.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
-      uses: amikumu/nikola-action@main
+      uses: amikumu/nikola-build-action@main
       with:
         dry_run: false

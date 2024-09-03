@@ -5,7 +5,7 @@ jobs:
     env:
       commitmsg: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
-    name: 'Deploy Nikola to GitHub Pages'
+    name: 'Deploy Nikola Website to GitHub Pages'
     steps:
     - name: Check out
       uses: actions/checkout@v3

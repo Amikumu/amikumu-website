@@ -17,6 +17,6 @@ jobs:
     - run: ruby split-translations.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
-      uses: amikumu/nikola-build@main
+      uses: amikumu/nikola-action@main
       with:
         dry_run: false

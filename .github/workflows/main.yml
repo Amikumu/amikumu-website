@@ -4,6 +4,9 @@ jobs:
   nikola_build:
     env:
       commitmsg: ${{ github.event.head_commit.message }}
+      git config --global user.email 105642861+Amikumu@users.noreply.github.com
+      git config --global user.name Amikumu
+      git config -l
     runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
@@ -17,9 +20,5 @@ jobs:
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
       uses: amikumu/nikola-action@main
-      run: |
-        git config --global user.email 105642861+Amikumu@users.noreply.github.com
-        git config --global user.name Amikumu
-        git config -l
       with:
         dry_run: false

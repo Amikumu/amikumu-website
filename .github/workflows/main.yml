@@ -1,16 +1,22 @@
 on: [push]
 
 jobs:
+  jobs:
   nikola_build:
+     env:
+      commitmsg: ${{ github.event.head_commit.message }}
     runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
     - name: Check out
       uses: actions/checkout@v3
+    - name: get commit message
+      run: |
+        echo Commit MSG = $commitmsg
     - run: ruby messages.rb
     - run: ruby split-translations.rb
     - run: ruby pages.rb
     - name: Build and Deploy Nikola
-      uses: getnikola/nikola-action@v8
+      uses: amikumu/nikola-action@main
       with:
         dry_run: false

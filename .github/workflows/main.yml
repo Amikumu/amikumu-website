@@ -7,6 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     name: 'Deploy Nikola to GitHub Pages'
     steps:
+    - name: set git config
+      run: |
+        git config --global user.email 105642861+Amikumu@users.noreply.github.com
+        git config --global user.name Amikumu
+        git config -l
     - name: Check out
       uses: actions/checkout@v3
     - name: get commit message
